@@ -1,0 +1,59 @@
+{
+  "questions": [
+    {
+      "question": "In the typical digital IC design flow, what is the primary role of a 'synthesizer' tool?",
+      "options": [
+        "Translating RTL code into a gate-level netlist.",
+        "Verifying the functionality of the circuit using test vectors.",
+        "Placing and routing physical cells on the silicon.",
+        "Generating the final GDSII file for fabrication.",
+        "Simulating the analog characteristics of the transistors."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What is the primary purpose of a cache memory in a computer system?",
+      "options": [
+        "To provide non-volatile storage for permanent data.",
+        "To increase the total storage capacity of the system.",
+        "To reduce the average memory access time by storing frequently used data closer to the CPU.",
+        "To manage virtual memory translations and page tables.",
+        "To execute arithmetic and logical operations quickly."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "What is the main advantage of using a formal verification approach over extensive simulation for digital circuit validation?",
+      "options": [
+        "Formal verification is significantly faster to set up and run for large designs.",
+        "It can prove the absence of design errors for all possible inputs and states, rather than just observed ones.",
+        "It provides more accurate timing analysis than static timing analysis (STA).",
+        "It is primarily used for validating analog and mixed-signal components.",
+        "Formal verification tools automatically generate optimal testbenches."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following techniques primarily leverages the principle of *temporal locality* and *spatial locality* to improve memory system performance?",
+      "options": [
+        "Register Renaming in out-of-order execution.",
+        "Branch Prediction using a Branch Target Buffer (BTB).",
+        "Data Caching between the CPU and main memory.",
+        "Virtual Memory using a Translation Lookaside Buffer (TLB).",
+        "Multithreading for parallel execution."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "In the context of chip layout and fabrication, what is the primary purpose of 'design rules' (e.g., minimum width, minimum spacing)?",
+      "options": [
+        "To ensure the chip operates at the desired clock frequency.",
+        "To define the logical behavior of the digital gates.",
+        "To ensure the manufacturability and electrical reliability of the integrated circuit.",
+        "To optimize the power consumption of the design.",
+        "To specify the programming language for hardware description."
+      ],
+      "correct": 2
+    }
+  ]
+}
