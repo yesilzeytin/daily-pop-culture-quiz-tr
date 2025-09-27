@@ -48,8 +48,8 @@ function nextQuestion() {
     showQuestion();
   } else {
     document.getElementById("quiz").innerHTML = `
-      <h2>Your Score: ${score} / ${questions.length}</h2>
-      <p>Come back tomorrow for new questions!</p>
+      <h2>Skorunuz: ${score} / ${questions.length}</h2>
+      <p>Yeni sorular için yarın yeniden uğra!</p>
     `;
   }
 }
