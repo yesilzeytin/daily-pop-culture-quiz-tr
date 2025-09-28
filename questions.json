@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Kayıp Balık Nemo animasyon filmindeki ana karakter Nemo'nun babasının adı nedir?",
+      "question": "FIFA Dünya Kupası'nı tarihinde en çok kazanan ülke hangisidir?",
       "options": [
-        "Marlin",
-        "Dory",
-        "Bruce",
-        "Gill",
-        "Crush"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Fox Kids'te yayınlanan Digimon Adventure çizgi filminde, Tai Kamiya'nın Digimon ortağı kimdir?",
-      "options": [
-        "Agumon",
-        "Gabumon",
-        "Patamon",
-        "Tentomon",
-        "Palmon"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Türkiye'nin UEFA Kupası'nı kazanan tek futbol kulübü hangisidir?",
-      "options": [
-        "Fenerbahçe",
-        "Beşiktaş",
-        "Galatasaray",
-        "Trabzonspor",
-        "Başakşehir"
+        "Almanya",
+        "İtalya",
+        "Brezilya",
+        "Arjantin",
+        "Fransa"
       ],
       "correct": 2
     },
     {
-      "question": "Ruhların Kaçışı (Spirited Away) ve Komşum Totoro (My Neighbor Totoro) gibi animasyon filmlerinin yönetmeni kimdir?",
+      "question": "Hangi Türk YouTuber, genellikle bilim, teknoloji, felsefe ve sanat gibi konularda bilgilendirici ve düşündürücü içerikler üretmektedir?",
       "options": [
-        "Hayao Miyazaki",
-        "Makoto Shinkai",
-        "Mamoru Hosoda",
-        "Satoshi Kon",
-        "Isao Takahata"
+        "Enes Batur",
+        "Orkun Işıtmak",
+        "Barış Özcan",
+        "Merve Özkaynak",
+        "Reynmen"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "question": "Süper Lig tarihinde en çok gol atan oyuncu unvanına sahip futbolcu kimdir?",
+      "question": "Yumurcak TV'de yayınlanan ve ana karakterinin Japonya'dan İsviçre'ye gönderilen bir kız çocuğu olduğu, Alp Dağları'ndaki yaşamını konu alan popüler çizgi filmin adı nedir?",
       "options": [
-        "Hakan Şükür",
-        "Metin Oktay",
-        "Tanju Çolak",
-        "Fevzi Zemzem",
-        "Alex de Souza"
+        "Candy Candy",
+        "Heidi",
+        "Cedric",
+        "Pollyanna",
+        "Ayı Yogi"
       ],
-      "correct": 0
+      "correct": 1
+    },
+    {
+      "question": "Olimpiyat Oyunları tarihinde en çok madalya kazanan sporcu kimdir?",
+      "options": [
+        "Carl Lewis",
+        "Usain Bolt",
+        "Michael Phelps",
+        "Larisa Latynina",
+        "Paavo Nurmi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türkiye'de ilk 10 milyon aboneye ulaşan ve özellikle eğlence, oyun ve vlog içerikleriyle tanınan YouTuber kimdir?",
+      "options": [
+        "Orkun Işıtmak",
+        "Reynmen",
+        "Enes Batur",
+        "Danla Bilic",
+        "Kafalar"
+      ],
+      "correct": 2
     }
   ]
 }
