@@ -70,7 +70,7 @@ function showResult() {
   window.finalShareText = shareText;
 
   document.getElementById("quiz").innerHTML = `
-    <h2>Your Score: ${score} / ${questions.length}</h2>
+    <h2>Skorunuz: ${score} / ${questions.length}</h2>
     <p>Yeni sorular için yarın yine gel!</p>
     <button onclick="shareResult()">📋 Share</button>
   `;
