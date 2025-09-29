@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "FIFA Dünya Kupası'nı tarihinde en çok kazanan ülke hangisidir?",
+      "question": "2020 Survivor Ünlüler-Gönüllüler sezonunda 'Barış Murat Yağcı' ile finalde yarışan ve şampiyon olan isim kimdir?",
       "options": [
-        "Almanya",
-        "İtalya",
-        "Brezilya",
-        "Arjantin",
-        "Fransa"
+        "Cemal Can Canseven",
+        "Nisa Bölükbaşı",
+        "Mert Öcal",
+        "Aycan Yanaç",
+        "Sercan Yıldırım"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Üzerinde çizgi film karakterlerinin karikatürlerinin yer aldığı, çoğunlukla meyve aromalı sakızlarıyla bilinen ve koleksiyonluk kapaklarıyla popüler olan atıştırmalık hangisidir?",
+      "options": [
+        "Cino",
+        "Patos",
+        "Jelibon",
+        "Tipitip",
+        "Leblebi Tozu"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "II. Dünya Savaşı sırasında İngiltere Başbakanı olarak görev yapan ve savaşın sembol isimlerinden biri haline gelen lider kimdir?",
+      "options": [
+        "Franklin D. Roosevelt",
+        "Joseph Stalin",
+        "Winston Churchill",
+        "Charles de Gaulle",
+        "Adolf Hitler"
       ],
       "correct": 2
     },
     {
-      "question": "Hangi Türk YouTuber, genellikle bilim, teknoloji, felsefe ve sanat gibi konularda bilgilendirici ve düşündürücü içerikler üretmektedir?",
+      "question": "Acun Ilıcalı'nın sunuculuğunu yaptığı Survivor Türkiye'nin ilk şampiyonu kimdir?",
       "options": [
-        "Enes Batur",
-        "Orkun Işıtmak",
-        "Barış Özcan",
-        "Merve Özkaynak",
-        "Reynmen"
+        "Uğur Pektaş",
+        "Hakan Hatipoğlu",
+        "Taner Özdeş",
+        "Duygu Çetinkaya",
+        "Merve Oflaz"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "Yumurcak TV'de yayınlanan ve ana karakterinin Japonya'dan İsviçre'ye gönderilen bir kız çocuğu olduğu, Alp Dağları'ndaki yaşamını konu alan popüler çizgi filmin adı nedir?",
+      "question": "Çocukluğumuzda severek tükettiğimiz, minik kare şeklinde, genellikle kakao kaplı ve içinden çıkan sürpriz oyuncaklarla bilinen atıştırmalığın adı nedir?",
       "options": [
-        "Candy Candy",
-        "Heidi",
-        "Cedric",
-        "Pollyanna",
-        "Ayı Yogi"
+        "Jelibon",
+        "Tadelle",
+        "Metro",
+        "Cino",
+        "Ülker Çikolatalı Gofret"
       ],
-      "correct": 1
-    },
-    {
-      "question": "Olimpiyat Oyunları tarihinde en çok madalya kazanan sporcu kimdir?",
-      "options": [
-        "Carl Lewis",
-        "Usain Bolt",
-        "Michael Phelps",
-        "Larisa Latynina",
-        "Paavo Nurmi"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türkiye'de ilk 10 milyon aboneye ulaşan ve özellikle eğlence, oyun ve vlog içerikleriyle tanınan YouTuber kimdir?",
-      "options": [
-        "Orkun Işıtmak",
-        "Reynmen",
-        "Enes Batur",
-        "Danla Bilic",
-        "Kafalar"
-      ],
-      "correct": 2
+      "correct": 3
     }
   ]
 }
