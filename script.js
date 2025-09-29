@@ -63,14 +63,16 @@ function showResult() {
   answers.forEach(correct => {
     shareText += correct ? "🟩" : "⬛";
   });
-  shareText += "\n";
-  shareText += "Buradan oyna: https://yesilzeytin.github.io/daily-pop-culture-quiz-tr/";
-  shareText += "\n";
+  shareText += "\n\n";
+  shareText += "https://yesilzeytin.github.io/daily-pop-culture-quiz-tr/\n";
+
+  // store globally so the button can use it
+  window.finalShareText = shareText;
 
   document.getElementById("quiz").innerHTML = `
     <h2>Your Score: ${score} / ${questions.length}</h2>
     <p>Yeni sorular için yarın yine gel!</p>
-    <button onclick="shareResult(\`${shareText}\`)">📋 Share</button>
+    <button onclick="shareResult()">📋 Share</button>
   `;
 }
 
