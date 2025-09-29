@@ -1,6 +1,7 @@
 let questions = [];
 let current = 0;
 let score = 0;
+let answers = []; // store per-question results (true/false)
 
 async function loadQuestions() {
   const res = await fetch("questions.json");
@@ -16,7 +17,7 @@ function showQuestion() {
   optionsDiv.innerHTML = "";
 
   q.options.forEach((opt, idx) => {
-    // 7% chance to append " Belediyesİ"
+    // 7% chance to append "Belediyesi"
     if (Math.random() < 0.07) {
       opt += " Belediyesi";
     }
@@ -38,7 +39,10 @@ function checkAnswer(selectedBtn, selectedIdx, correctIdx) {
     if (idx === selectedIdx && idx !== correctIdx) btn.classList.add("incorrect");
   });
 
-  if (selectedIdx === correctIdx) score++;
+  const result = (selectedIdx === correctIdx);
+  answers.push(result);
+
+  if (result) score++;
   document.getElementById("next").style.display = "block";
 }
 
@@ -47,11 +51,33 @@ function nextQuestion() {
   if (current < questions.length) {
     showQuestion();
   } else {
-    document.getElementById("quiz").innerHTML = `
-      <h2>Skorunuz: ${score} / ${questions.length}</h2>
-      <p>Yeni sorular için yarın yeniden uğra!</p>
-    `;
+    showResult();
   }
+}
+
+function showResult() {
+  const today = new Date().toISOString().split("T")[0];
+  let shareText = `Daily Chip Quiz ${today} ${score}/${questions.length}\n\n`;
+
+  // build emoji line
+  answers.forEach(correct => {
+    shareText += correct ? "🟩" : "⬛";
+  });
+  shareText += "\n";
+
+  document.getElementById("quiz").innerHTML = `
+    <h2>Your Score: ${score} / ${questions.length}</h2>
+    <p>Come back tomorrow for new questions!</p>
+    <button onclick="shareResult(\`${shareText}\`)">📋 Share</button>
+  `;
+}
+
+function shareResult(text) {
+  navigator.clipboard.writeText(text).then(() => {
+    alert("✅ Result copied to clipboard! Paste it anywhere to share.");
+  }).catch(err => {
+    alert("❌ Failed to copy result: " + err);
+  });
 }
 
 window.onload = loadQuestions;
