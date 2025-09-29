@@ -64,6 +64,8 @@ function showResult() {
     shareText += correct ? "🟩" : "⬛";
   });
   shareText += "\n";
+  shareText += "Buradan oyna: https://yesilzeytin.github.io/daily-pop-culture-quiz-tr/";
+  shareText += "\n";
 
   document.getElementById("quiz").innerHTML = `
     <h2>Your Score: ${score} / ${questions.length}</h2>
