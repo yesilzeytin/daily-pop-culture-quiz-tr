@@ -76,12 +76,13 @@ function showResult() {
   `;
 }
 
-function shareResult(text) {
-  navigator.clipboard.writeText(text).then(() => {
+function shareResult() {
+  navigator.clipboard.writeText(window.finalShareText).then(() => {
     alert("✅ Sonuç kopyalandı! Paylaşmak için yapıştır geç.");
   }).catch(err => {
     alert("❌ Sonuçlar kopyalanamadı: " + err);
   });
 }
+
 
 window.onload = loadQuestions;
