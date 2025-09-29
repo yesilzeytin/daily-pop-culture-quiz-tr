@@ -57,7 +57,7 @@ function nextQuestion() {
 
 function showResult() {
   const today = new Date().toISOString().split("T")[0];
-  let shareText = `Daily Chip Quiz ${today} ${score}/${questions.length}\n\n`;
+  let shareText = `Günlük Popüler Kültür Quiz'i ${today} ${score}/${questions.length}\n\n`;
 
   // build emoji line
   answers.forEach(correct => {
@@ -67,16 +67,16 @@ function showResult() {
 
   document.getElementById("quiz").innerHTML = `
     <h2>Your Score: ${score} / ${questions.length}</h2>
-    <p>Come back tomorrow for new questions!</p>
+    <p>Yeni sorular için yarın yine gel!</p>
     <button onclick="shareResult(\`${shareText}\`)">📋 Share</button>
   `;
 }
 
 function shareResult(text) {
   navigator.clipboard.writeText(text).then(() => {
-    alert("✅ Result copied to clipboard! Paste it anywhere to share.");
+    alert("✅ Sonuç kopyalandı! Paylaşmak için yapıştır geç.");
   }).catch(err => {
-    alert("❌ Failed to copy result: " + err);
+    alert("❌ Sonuçlar kopyalanamadı: " + err);
   });
 }
 
