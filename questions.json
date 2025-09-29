@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "2020 Survivor Ünlüler-Gönüllüler sezonunda 'Barış Murat Yağcı' ile finalde yarışan ve şampiyon olan isim kimdir?",
+      "question": "\"Catch Me If You Can\" filmine ilham veren, 16 yaşından itibaren pilot, doktor ve avukat kılığına girerek milyonlarca dolar dolandırıcılık yapan ünlü isim kimdir?",
       "options": [
-        "Cemal Can Canseven",
-        "Nisa Bölükbaşı",
-        "Mert Öcal",
-        "Aycan Yanaç",
-        "Sercan Yıldırım"
+        "Frank Abagnale Jr.",
+        "Bernie Madoff",
+        "Charles Ponzi",
+        "Anna Sorokin",
+        "Victor Lustig"
       ],
       "correct": 0
     },
     {
-      "question": "Üzerinde çizgi film karakterlerinin karikatürlerinin yer aldığı, çoğunlukla meyve aromalı sakızlarıyla bilinen ve koleksiyonluk kapaklarıyla popüler olan atıştırmalık hangisidir?",
+      "question": "Türkiye'nin en popüler Twitch yayıncılarından biri olan, genellikle sohbet, oyun ve yayıncı arkadaşlarıyla yaptığı eğlenceli etkileşimlerle tanınan 'Elraenn' lakaplı yayıncının gerçek adı nedir?",
       "options": [
-        "Cino",
-        "Patos",
-        "Jelibon",
-        "Tipitip",
-        "Leblebi Tozu"
+        "Tuğkan Gönültaş",
+        "Ahmet Sonuç",
+        "Ferit Karakaya",
+        "Pelin Baynazoğlu",
+        "Can Sungur"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
-      "question": "II. Dünya Savaşı sırasında İngiltere Başbakanı olarak görev yapan ve savaşın sembol isimlerinden biri haline gelen lider kimdir?",
+      "question": "Tenis tarihinde 24 Grand Slam tekler şampiyonluğu ile \"en çok Grand Slam kazanan erkek tenisçi\" rekorunu elinde bulunduran isim kimdir?",
       "options": [
-        "Franklin D. Roosevelt",
-        "Joseph Stalin",
-        "Winston Churchill",
-        "Charles de Gaulle",
-        "Adolf Hitler"
+        "Roger Federer",
+        "Rafael Nadal",
+        "Novak Djokovic",
+        "Pete Sampras",
+        "Andy Murray"
       ],
       "correct": 2
     },
     {
-      "question": "Acun Ilıcalı'nın sunuculuğunu yaptığı Survivor Türkiye'nin ilk şampiyonu kimdir?",
+      "question": "Nintendo'nun ikonik video oyunu serilerinden \"The Legend of Zelda\"da, prensesi kurtarmak ve Hyrule'ı kötü güçlerden korumak için maceraya atılan kahraman karakterin adı nedir?",
       "options": [
-        "Uğur Pektaş",
-        "Hakan Hatipoğlu",
-        "Taner Özdeş",
-        "Duygu Çetinkaya",
-        "Merve Oflaz"
+        "Mario",
+        "Link",
+        "Pikachu",
+        "Samus",
+        "Kirby"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
-      "question": "Çocukluğumuzda severek tükettiğimiz, minik kare şeklinde, genellikle kakao kaplı ve içinden çıkan sürpriz oyuncaklarla bilinen atıştırmalığın adı nedir?",
+      "question": "DC Genişletilmiş Evreni (DCEU) filmlerinde Batman karakterini canlandıran ve aynı zamanda \"Batman v Superman: Adaletin Şafağı\" ve \"Justice League\" filmlerinde rol alan aktör kimdir?",
       "options": [
-        "Jelibon",
-        "Tadelle",
-        "Metro",
-        "Cino",
-        "Ülker Çikolatalı Gofret"
+        "Christian Bale",
+        "Robert Pattinson",
+        "Ben Affleck",
+        "Michael Keaton",
+        "George Clooney"
       ],
-      "correct": 3
+      "correct": 2
     }
   ]
 }
