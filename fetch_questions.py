@@ -93,7 +93,7 @@ themes = [
     "Met Gala & Oscar kırmızı halısı",
     "Influencer’lar (Türkiye + global)",
     "Nobel edebiyat ödülleri (Orhan Pamuk vb.)",
-    "Harry Potter dünyası",
+    "Harry Potter evreni",
     "Yüzüklerin Efendisi evreni",
     "Star Wars evreni",
     "Marvel Sinematik Evreni",
@@ -127,7 +127,7 @@ themes = [
     "Twitter Türkiye akımları"
 ]
 
-chosen_themes = random.sample(themes, 3)
+chosen_themes = random.sample(themes, 5)
 print(chosen_themes)
 
 # --- Build prompt ---
