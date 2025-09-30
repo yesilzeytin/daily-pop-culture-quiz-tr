@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "\"Catch Me If You Can\" filmine ilham veren, 16 yaşından itibaren pilot, doktor ve avukat kılığına girerek milyonlarca dolar dolandırıcılık yapan ünlü isim kimdir?",
+      "question": "PewDiePie'ın YouTube'daki abone sayısıyla uzun süre rekabet eden ve onu bireysel YouTuber'lar arasında en çok aboneye sahip olma tahtından kısa süreliğine indiren Hint müzik kanalı hangisidir?",
       "options": [
-        "Frank Abagnale Jr.",
-        "Bernie Madoff",
-        "Charles Ponzi",
-        "Anna Sorokin",
-        "Victor Lustig"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Türkiye'nin en popüler Twitch yayıncılarından biri olan, genellikle sohbet, oyun ve yayıncı arkadaşlarıyla yaptığı eğlenceli etkileşimlerle tanınan 'Elraenn' lakaplı yayıncının gerçek adı nedir?",
-      "options": [
-        "Tuğkan Gönültaş",
-        "Ahmet Sonuç",
-        "Ferit Karakaya",
-        "Pelin Baynazoğlu",
-        "Can Sungur"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Tenis tarihinde 24 Grand Slam tekler şampiyonluğu ile \"en çok Grand Slam kazanan erkek tenisçi\" rekorunu elinde bulunduran isim kimdir?",
-      "options": [
-        "Roger Federer",
-        "Rafael Nadal",
-        "Novak Djokovic",
-        "Pete Sampras",
-        "Andy Murray"
+        "Zee Music Company",
+        "Sony Music India",
+        "T-Series",
+        "Eros Now Music",
+        "YRF Music"
       ],
       "correct": 2
     },
     {
-      "question": "Nintendo'nun ikonik video oyunu serilerinden \"The Legend of Zelda\"da, prensesi kurtarmak ve Hyrule'ı kötü güçlerden korumak için maceraya atılan kahraman karakterin adı nedir?",
+      "question": "\"Salt Bae\" lakabıyla dünya çapında tanınan şef Nusret Gökçe, etleri tuzlama şekliyle viral olmuştur. Bu ikonik hareketin adı genellikle ne olarak anılır?",
       "options": [
-        "Mario",
-        "Link",
-        "Pikachu",
-        "Samus",
-        "Kirby"
+        "Nusret Stili",
+        "Tuz Seremonisi",
+        "Salt Bae Hareketi",
+        "Tuz Fısıltısı",
+        "Et Tuzlama Dansı"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "İnternet'te yayılan ve bir kişiyi beklenmedik bir şekilde, genellikle komik veya saçma bir içerikle şaşırtmayı amaçlayan 'Rickroll' şakasının temelini oluşturan şarkı kimin eseridir?",
+      "options": [
+        "Michael Jackson",
+        "Rick Astley",
+        "Prince",
+        "George Michael",
+        "Duran Duran"
       ],
       "correct": 1
     },
     {
-      "question": "DC Genişletilmiş Evreni (DCEU) filmlerinde Batman karakterini canlandıran ve aynı zamanda \"Batman v Superman: Adaletin Şafağı\" ve \"Justice League\" filmlerinde rol alan aktör kimdir?",
+      "question": "Birçok Twitch yayıncısının kullandığı, abonelerin özel animasyonlu ifadeler (emotes) göndermesine olanak tanıyan ve genellikle popüler internet memelerini içeren üçüncü taraf eklentinin adı nedir?",
       "options": [
-        "Christian Bale",
-        "Robert Pattinson",
-        "Ben Affleck",
-        "Michael Keaton",
-        "George Clooney"
+        "Twitch Emotes Plus",
+        "BetterTTV (BTTV)",
+        "StreamElements",
+        "Nightbot",
+        "Streamlabs"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Soğuk Savaş döneminin nükleer savaş korkusunu hicveden ve kara mizah türünün kült filmlerinden biri olan 1964 yapımı \"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb\" filminin yönetmeni kimdir?",
+      "options": [
+        "Alfred Hitchcock",
+        "Orson Welles",
+        "Stanley Kubrick",
+        "Francis Ford Coppola",
+        "Martin Scorsese"
       ],
       "correct": 2
     }
