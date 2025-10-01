@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "PewDiePie'ın YouTube'daki abone sayısıyla uzun süre rekabet eden ve onu bireysel YouTuber'lar arasında en çok aboneye sahip olma tahtından kısa süreliğine indiren Hint müzik kanalı hangisidir?",
+      "question": "Türk basketbol tarihinde önemli bir başarıya imza atarak 2020-2021 ve 2021-2022 sezonlarında EuroLeague şampiyonluğunu üst üste kazanan kulüp hangisidir?",
       "options": [
-        "Zee Music Company",
-        "Sony Music India",
-        "T-Series",
-        "Eros Now Music",
-        "YRF Music"
+        "Fenerbahçe Beko",
+        "Pınar Karşıyaka",
+        "Beşiktaş Emlakjet",
+        "Anadolu Efes",
+        "Darüşşafaka Lassa"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "\"Avatar\" lakabıyla geniş kitlelerce tanınan ve 2016 yılında düzenlenen Survivor Ünlüler-Gönüllüler sezonunun şampiyonu olan yarışmacı kimdir?",
+      "options": [
+        "Cemal Can Canseven",
+        "Ogeday Girişken",
+        "Çağan Atakan Arslan",
+        "Nihat Altınkaya",
+        "Adem Kılıççı"
       ],
       "correct": 2
     },
     {
-      "question": "\"Salt Bae\" lakabıyla dünya çapında tanınan şef Nusret Gökçe, etleri tuzlama şekliyle viral olmuştur. Bu ikonik hareketin adı genellikle ne olarak anılır?",
+      "question": "\"Titanic\", \"Inception\" ve \"The Revenant\" gibi gişe rekortmeni filmlerdeki performanslarıyla tanınan ve \"The Revenant\" filmiyle En İyi Erkek Oyuncu Oscar'ını kazanan dünyaca ünlü aktör kimdir?",
       "options": [
-        "Nusret Stili",
-        "Tuz Seremonisi",
-        "Salt Bae Hareketi",
-        "Tuz Fısıltısı",
-        "Et Tuzlama Dansı"
+        "Brad Pitt",
+        "Johnny Depp",
+        "Tom Hanks",
+        "Leonardo DiCaprio",
+        "Christian Bale"
       ],
-      "correct": 2
+      "correct": 3
     },
     {
-      "question": "İnternet'te yayılan ve bir kişiyi beklenmedik bir şekilde, genellikle komik veya saçma bir içerikle şaşırtmayı amaçlayan 'Rickroll' şakasının temelini oluşturan şarkı kimin eseridir?",
+      "question": "Türk sinema tarihinin en çok izlenen komedi filmi serilerinden biri olan \"Recep İvedik\" serisinin yönetmeni kimdir?",
       "options": [
-        "Michael Jackson",
-        "Rick Astley",
-        "Prince",
-        "George Michael",
-        "Duran Duran"
+        "Yılmaz Erdoğan",
+        "Cem Yılmaz",
+        "Şahan Gökbakar",
+        "Togan Gökbakar",
+        "Ata Demirer"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
-      "question": "Birçok Twitch yayıncısının kullandığı, abonelerin özel animasyonlu ifadeler (emotes) göndermesine olanak tanıyan ve genellikle popüler internet memelerini içeren üçüncü taraf eklentinin adı nedir?",
+      "question": "\"Minik Serçe\" lakabıyla tanınan, Türk pop müziğine sayısız hit şarkı kazandırmış ve besteleriyle Türk magazin tarihinde ikonik bir figür haline gelmiş sanatçı kimdir?",
       "options": [
-        "Twitch Emotes Plus",
-        "BetterTTV (BTTV)",
-        "StreamElements",
-        "Nightbot",
-        "Streamlabs"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Soğuk Savaş döneminin nükleer savaş korkusunu hicveden ve kara mizah türünün kült filmlerinden biri olan 1964 yapımı \"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb\" filminin yönetmeni kimdir?",
-      "options": [
-        "Alfred Hitchcock",
-        "Orson Welles",
-        "Stanley Kubrick",
-        "Francis Ford Coppola",
-        "Martin Scorsese"
+        "Ajda Pekkan",
+        "Nükhet Duru",
+        "Sezen Aksu",
+        "Nilüfer",
+        "Sertab Erener"
       ],
       "correct": 2
     }
