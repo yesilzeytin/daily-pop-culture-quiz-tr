@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Türk basketbol tarihinde önemli bir başarıya imza atarak 2020-2021 ve 2021-2022 sezonlarında EuroLeague şampiyonluğunu üst üste kazanan kulüp hangisidir?",
+      "question": "Blackpink'in popüler üyelerinden biri olan, \"Lalisa\" ve \"Money\" gibi solo hitleriyle de tanınan şarkıcı kimdir?",
       "options": [
-        "Fenerbahçe Beko",
-        "Pınar Karşıyaka",
-        "Beşiktaş Emlakjet",
-        "Anadolu Efes",
-        "Darüşşafaka Lassa"
+        "Jisoo",
+        "Jennie",
+        "Rosé",
+        "Lisa",
+        "Somi"
       ],
       "correct": 3
     },
     {
-      "question": "\"Avatar\" lakabıyla geniş kitlelerce tanınan ve 2016 yılında düzenlenen Survivor Ünlüler-Gönüllüler sezonunun şampiyonu olan yarışmacı kimdir?",
+      "question": "Soğuk Savaş döneminin sembollerinden biri olan ve 1989 yılında yıkılmasıyla tarihe geçen yapı hangisidir?",
       "options": [
-        "Cemal Can Canseven",
-        "Ogeday Girişken",
-        "Çağan Atakan Arslan",
-        "Nihat Altınkaya",
-        "Adem Kılıççı"
+        "Atomium",
+        "Eyfel Kulesi",
+        "Berlin Duvarı",
+        "Kızıl Meydan",
+        "Brandenburg Kapısı"
       ],
       "correct": 2
     },
     {
-      "question": "\"Titanic\", \"Inception\" ve \"The Revenant\" gibi gişe rekortmeni filmlerdeki performanslarıyla tanınan ve \"The Revenant\" filmiyle En İyi Erkek Oyuncu Oscar'ını kazanan dünyaca ünlü aktör kimdir?",
+      "question": "Türk basketbol tarihinin önemli isimlerinden biri olan ve NBA'de forma giyen ilk Türk oyuncu unvanını taşıyan basketbolcu kimdir?",
       "options": [
-        "Brad Pitt",
-        "Johnny Depp",
-        "Tom Hanks",
-        "Leonardo DiCaprio",
-        "Christian Bale"
+        "Hidayet Türkoğlu",
+        "Mehmet Okur",
+        "Mirsad Türkcan",
+        "Ömer Aşık",
+        "Ersan İlyasova"
       ],
-      "correct": 3
+      "correct": 2
     },
     {
-      "question": "Türk sinema tarihinin en çok izlenen komedi filmi serilerinden biri olan \"Recep İvedik\" serisinin yönetmeni kimdir?",
+      "question": "Türkiye'nin uzun yıllardır popülerliğini koruyan ve genellikle vlog, meydan okuma (challenge) ve farklı yaşam tarzlarını deneyimlediği videolarla tanınan YouTuber kimdir?",
       "options": [
-        "Yılmaz Erdoğan",
-        "Cem Yılmaz",
-        "Şahan Gökbakar",
-        "Togan Gökbakar",
-        "Ata Demirer"
+        "Barış Özcan",
+        "Orkun Işıtmak",
+        "Enes Batur",
+        "Reynmen",
+        "Ruhi Çenet"
       ],
-      "correct": 3
+      "correct": 1
     },
     {
-      "question": "\"Minik Serçe\" lakabıyla tanınan, Türk pop müziğine sayısız hit şarkı kazandırmış ve besteleriyle Türk magazin tarihinde ikonik bir figür haline gelmiş sanatçı kimdir?",
+      "question": "Twitter Türkiye'de sıkça karşılaşılan, bir tweet'in altına birden fazla cevap yazarak anlatılmak istenen konuyu parça parça aktarma biçimine ne ad verilir?",
       "options": [
-        "Ajda Pekkan",
-        "Nükhet Duru",
-        "Sezen Aksu",
-        "Nilüfer",
-        "Sertab Erener"
+        "Retweet zinciri",
+        "Mention fırtınası",
+        "Tweet dizisi",
+        "Hashtag saldırısı",
+        "DM (Direct Mesaj) patlaması"
       ],
       "correct": 2
     }
