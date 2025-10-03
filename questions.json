@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Blackpink'in popüler üyelerinden biri olan, \"Lalisa\" ve \"Money\" gibi solo hitleriyle de tanınan şarkıcı kimdir?",
+      "question": "Disney Channel'ın popüler çizgi filmlerinden biri olan 'Phineas ve Ferb'de, başkarakterlerin evcil hayvanı olan ve gizlice ajanlık yapan ornitorenkin adı nedir?",
       "options": [
-        "Jisoo",
-        "Jennie",
-        "Rosé",
-        "Lisa",
-        "Somi"
+        "Perry",
+        "Dr. Doofenshmirtz",
+        "Candace",
+        "Baljeet",
+        "Isabella"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
-      "question": "Soğuk Savaş döneminin sembollerinden biri olan ve 1989 yılında yıkılmasıyla tarihe geçen yapı hangisidir?",
+      "question": "Türkiye Millî Futbol Takımı, 2002 FIFA Dünya Kupası'nda gösterdiği başarılı performansla hangi dereceyi elde etmiştir?",
       "options": [
-        "Atomium",
-        "Eyfel Kulesi",
-        "Berlin Duvarı",
-        "Kızıl Meydan",
-        "Brandenburg Kapısı"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türk basketbol tarihinin önemli isimlerinden biri olan ve NBA'de forma giyen ilk Türk oyuncu unvanını taşıyan basketbolcu kimdir?",
-      "options": [
-        "Hidayet Türkoğlu",
-        "Mehmet Okur",
-        "Mirsad Türkcan",
-        "Ömer Aşık",
-        "Ersan İlyasova"
+        "Şampiyon",
+        "İkinci",
+        "Üçüncü",
+        "Dördüncü",
+        "Çeyrek Final"
       ],
       "correct": 2
     },
     {
-      "question": "Türkiye'nin uzun yıllardır popülerliğini koruyan ve genellikle vlog, meydan okuma (challenge) ve farklı yaşam tarzlarını deneyimlediği videolarla tanınan YouTuber kimdir?",
+      "question": "Yeşilçam klasikleri arasında yer alan 'Hababam Sınıfı' serisinin unutulmaz karakteri 'Kel Mahmut'u canlandıran efsanevi oyuncu kimdir?",
       "options": [
-        "Barış Özcan",
-        "Orkun Işıtmak",
-        "Enes Batur",
-        "Reynmen",
-        "Ruhi Çenet"
+        "Kemal Sunal",
+        "Münir Özkul",
+        "Halit Akçatepe",
+        "Tarık Akan",
+        "Şener Şen"
       ],
       "correct": 1
     },
     {
-      "question": "Twitter Türkiye'de sıkça karşılaşılan, bir tweet'in altına birden fazla cevap yazarak anlatılmak istenen konuyu parça parça aktarma biçimine ne ad verilir?",
+      "question": "Türkiye Cumhuriyeti'nin ilan edilmesinin ardından, yeni devletin ilk başkenti olarak hangi şehir belirlenmiştir?",
       "options": [
-        "Retweet zinciri",
-        "Mention fırtınası",
-        "Tweet dizisi",
-        "Hashtag saldırısı",
-        "DM (Direct Mesaj) patlaması"
+        "Ankara",
+        "İstanbul",
+        "Bursa",
+        "İzmir",
+        "Edirne"
       ],
-      "correct": 2
+      "correct": 0
+    },
+    {
+      "question": "Yaz Olimpiyat Oyunları'nda güreş dalında birden fazla altın madalya kazanarak Türk spor tarihine adını yazdıran efsanevi sporcu kimdir?",
+      "options": [
+        "Hamza Yerlikaya",
+        "Naim Süleymanoğlu",
+        "Halil Mutlu",
+        "Şeref Eroğlu",
+        "Yaşar Doğu"
+      ],
+      "correct": 0
     }
   ]
 }
