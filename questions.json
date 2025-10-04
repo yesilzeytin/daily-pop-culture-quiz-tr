@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Disney Channel'ın popüler çizgi filmlerinden biri olan 'Phineas ve Ferb'de, başkarakterlerin evcil hayvanı olan ve gizlice ajanlık yapan ornitorenkin adı nedir?",
+      "question": "Finans tarihinin en büyük Ponzi şemalarından birini kurarak binlerce yatırımcıyı dolandıran, 2009 yılında tutuklanan ve 2021 yılında vefat eden ünlü dolandırıcı kimdir?",
       "options": [
-        "Perry",
-        "Dr. Doofenshmirtz",
-        "Candace",
-        "Baljeet",
-        "Isabella"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Türkiye Millî Futbol Takımı, 2002 FIFA Dünya Kupası'nda gösterdiği başarılı performansla hangi dereceyi elde etmiştir?",
-      "options": [
-        "Şampiyon",
-        "İkinci",
-        "Üçüncü",
-        "Dördüncü",
-        "Çeyrek Final"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Yeşilçam klasikleri arasında yer alan 'Hababam Sınıfı' serisinin unutulmaz karakteri 'Kel Mahmut'u canlandıran efsanevi oyuncu kimdir?",
-      "options": [
-        "Kemal Sunal",
-        "Münir Özkul",
-        "Halit Akçatepe",
-        "Tarık Akan",
-        "Şener Şen"
+        "Charles Ponzi",
+        "Bernie Madoff",
+        "Frank Abagnale Jr.",
+        "Anna Sorokin",
+        "Jordan Belfort"
       ],
       "correct": 1
     },
     {
-      "question": "Türkiye Cumhuriyeti'nin ilan edilmesinin ardından, yeni devletin ilk başkenti olarak hangi şehir belirlenmiştir?",
+      "question": "Blizzard Entertainment tarafından geliştirilen ve destansı fantezi evreninde geçen, milyonlarca oyuncusu olan popüler çok oyunculu çevrimiçi rol yapma oyunu (MMORPG) hangisidir?",
       "options": [
-        "Ankara",
-        "İstanbul",
-        "Bursa",
-        "İzmir",
-        "Edirne"
+        "Final Fantasy XIV",
+        "Guild Wars 2",
+        "The Elder Scrolls Online",
+        "World of Warcraft",
+        "EVE Online"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
-      "question": "Yaz Olimpiyat Oyunları'nda güreş dalında birden fazla altın madalya kazanarak Türk spor tarihine adını yazdıran efsanevi sporcu kimdir?",
+      "question": "1986 FIFA Dünya Kupası çeyrek finalinde Arjantin'in İngiltere'yi 2-1 yendiği ve Maradona'nın eliyle attığı golle tarihe geçen maçta, bu tartışmalı gol hangi lakapla anılmaktadır?",
       "options": [
-        "Hamza Yerlikaya",
-        "Naim Süleymanoğlu",
-        "Halil Mutlu",
-        "Şeref Eroğlu",
-        "Yaşar Doğu"
+        "Sihirbazın Eli",
+        "Tanrı'nın Eli",
+        "Kaderin Vuruşu",
+        "Altın Ayak",
+        "Şeytanın Parmağı"
       ],
-      "correct": 0
+      "correct": 1
+    },
+    {
+      "question": "NBA tarihinde, kariyerinde toplamda 4 kez MVP (En Değerli Oyuncu) ödülü kazanan ve \"King James\" lakabıyla bilinen efsanevi basketbolcu kimdir?",
+      "options": [
+        "Michael Jordan",
+        "Kareem Abdul-Jabbar",
+        "Magic Johnson",
+        "LeBron James",
+        "Stephen Curry"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Survivor Türkiye tarihinde iki kez şampiyonluk yaşayarak bu başarıyı tekrarlayan ilk ve tek yarışmacı kimdir?",
+      "options": [
+        "Adem Kılıççı",
+        "Hilmicem İntepe",
+        "Nagihan Karadere",
+        "Turabi Çamkıran",
+        "Merve Oflaz"
+      ],
+      "correct": 3
     }
   ]
 }
