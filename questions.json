@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Finans tarihinin en büyük Ponzi şemalarından birini kurarak binlerce yatırımcıyı dolandıran, 2009 yılında tutuklanan ve 2021 yılında vefat eden ünlü dolandırıcı kimdir?",
+      "question": "Sertab Erener, \"Everyway That I Can\" adlı şarkısıyla Türkiye'ye Eurovision Şarkı Yarışması'ndaki ilk ve tek birinciliğini hangi yıl getirmiştir?",
       "options": [
-        "Charles Ponzi",
-        "Bernie Madoff",
-        "Frank Abagnale Jr.",
-        "Anna Sorokin",
-        "Jordan Belfort"
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
-      "question": "Blizzard Entertainment tarafından geliştirilen ve destansı fantezi evreninde geçen, milyonlarca oyuncusu olan popüler çok oyunculu çevrimiçi rol yapma oyunu (MMORPG) hangisidir?",
+      "question": "Popüler anime serisi Naruto'da, ana karakter Naruto Uzumaki'nin hayalini kurduğu ve sonunda ulaştığı, köyün en saygın lideri unvanı nedir?",
       "options": [
-        "Final Fantasy XIV",
-        "Guild Wars 2",
-        "The Elder Scrolls Online",
-        "World of Warcraft",
-        "EVE Online"
+        "Şogun",
+        "Mizukage",
+        "Hokage",
+        "Raikage",
+        "Kageyama"
       ],
-      "correct": 3
+      "correct": 2
     },
     {
-      "question": "1986 FIFA Dünya Kupası çeyrek finalinde Arjantin'in İngiltere'yi 2-1 yendiği ve Maradona'nın eliyle attığı golle tarihe geçen maçta, bu tartışmalı gol hangi lakapla anılmaktadır?",
+      "question": "Halterde üç kez Olimpiyat altın madalyası kazanan ve \"Cep Herkülü\" lakabıyla dünya çapında tanınan efsanevi Türk sporcu kimdir?",
       "options": [
-        "Sihirbazın Eli",
-        "Tanrı'nın Eli",
-        "Kaderin Vuruşu",
-        "Altın Ayak",
-        "Şeytanın Parmağı"
+        "Halil Mutlu",
+        "Hamza Yerlikaya",
+        "Naim Süleymanoğlu",
+        "Yaşar Doğu",
+        "Şeref Eroğlu"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
-      "question": "NBA tarihinde, kariyerinde toplamda 4 kez MVP (En Değerli Oyuncu) ödülü kazanan ve \"King James\" lakabıyla bilinen efsanevi basketbolcu kimdir?",
+      "question": "Türkiye'de ilk internet bağlantısı hangi yıl ve hangi üniversite aracılığıyla gerçekleştirilmiştir?",
       "options": [
-        "Michael Jordan",
-        "Kareem Abdul-Jabbar",
-        "Magic Johnson",
-        "LeBron James",
-        "Stephen Curry"
+        "1990 - Boğaziçi Üniversitesi",
+        "1991 - İstanbul Teknik Üniversitesi",
+        "1993 - ODTÜ",
+        "1994 - Bilkent Üniversitesi",
+        "1995 - Ankara Üniversitesi"
       ],
-      "correct": 3
+      "correct": 2
     },
     {
-      "question": "Survivor Türkiye tarihinde iki kez şampiyonluk yaşayarak bu başarıyı tekrarlayan ilk ve tek yarışmacı kimdir?",
+      "question": "Türkiye Millî Futbol Takımı'nın 2002 FIFA Dünya Kupası'nda üçüncü olarak tarih yazdığı kadronun başında hangi teknik direktör bulunuyordu?",
       "options": [
-        "Adem Kılıççı",
-        "Hilmicem İntepe",
-        "Nagihan Karadere",
-        "Turabi Çamkıran",
-        "Merve Oflaz"
+        "Fatih Terim",
+        "Mustafa Denizli",
+        "Şenol Güneş",
+        "Mircea Lucescu",
+        "Abdullah Avcı"
       ],
-      "correct": 3
+      "correct": 2
     }
   ]
 }
