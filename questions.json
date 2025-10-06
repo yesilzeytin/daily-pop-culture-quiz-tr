@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Sertab Erener, \"Everyway That I Can\" adlı şarkısıyla Türkiye'ye Eurovision Şarkı Yarışması'ndaki ilk ve tek birinciliğini hangi yıl getirmiştir?",
+      "question": "Moda dünyasının efsanevi isimlerinden Audrey Hepburn, özellikle hangi filmdeki performansıyla ve giyim tarzıyla bir moda ikonu haline gelmiştir?",
       "options": [
-        "2001",
-        "2002",
-        "2003",
-        "2004",
-        "2005"
+        "Roman Holiday",
+        "Breakfast at Tiffany's",
+        "My Fair Lady",
+        "Charade",
+        "Sabrina"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
-      "question": "Popüler anime serisi Naruto'da, ana karakter Naruto Uzumaki'nin hayalini kurduğu ve sonunda ulaştığı, köyün en saygın lideri unvanı nedir?",
+      "question": "Fenerbahçe Beko Erkek Basketbol Takımı, tarihinde ilk ve tek EuroLeague şampiyonluğunu hangi başantrenör yönetiminde kazanmıştır?",
       "options": [
-        "Şogun",
-        "Mizukage",
-        "Hokage",
-        "Raikage",
-        "Kageyama"
+        "Ergin Ataman",
+        "Zeljko Obradovic",
+        "Sarunas Jasikevicius",
+        "Igor Kokoskov",
+        "Neven Spahija"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
-      "question": "Halterde üç kez Olimpiyat altın madalyası kazanan ve \"Cep Herkülü\" lakabıyla dünya çapında tanınan efsanevi Türk sporcu kimdir?",
+      "question": "One Piece animesinde, Monkey D. Luffy'nin liderliğini yaptığı korsan tayfasının adı nedir?",
       "options": [
-        "Halil Mutlu",
-        "Hamza Yerlikaya",
-        "Naim Süleymanoğlu",
-        "Yaşar Doğu",
-        "Şeref Eroğlu"
+        "Kara Sakal Korsanları",
+        "Hasır Şapka Korsanları",
+        "Kalp Korsanları",
+        "Kızıl Saç Korsanları",
+        "Kid Korsanları"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
-      "question": "Türkiye'de ilk internet bağlantısı hangi yıl ve hangi üniversite aracılığıyla gerçekleştirilmiştir?",
+      "question": "İkinci Dünya Savaşı sırasında Müttefik Devletlerin D-Day olarak bilinen Normandiya Çıkarması hangi ülkenin kıyılarına yapılmıştır?",
       "options": [
-        "1990 - Boğaziçi Üniversitesi",
-        "1991 - İstanbul Teknik Üniversitesi",
-        "1993 - ODTÜ",
-        "1994 - Bilkent Üniversitesi",
-        "1995 - Ankara Üniversitesi"
+        "Almanya",
+        "İtalya",
+        "Japonya",
+        "Fransa",
+        "İngiltere"
       ],
-      "correct": 2
+      "correct": 3
     },
     {
-      "question": "Türkiye Millî Futbol Takımı'nın 2002 FIFA Dünya Kupası'nda üçüncü olarak tarih yazdığı kadronun başında hangi teknik direktör bulunuyordu?",
+      "question": "Sosyal medyada 'CZN Burak' olarak tanınan ve videolarında abartılı yemek sunumlarıyla dikkat çeken Türk şef ve fenomenin asıl adı nedir?",
       "options": [
-        "Fatih Terim",
-        "Mustafa Denizli",
-        "Şenol Güneş",
-        "Mircea Lucescu",
-        "Abdullah Avcı"
+        "Can Yaman",
+        "Burak Özdemir",
+        "Nusret Gökçe",
+        "Arda Türkmen",
+        "Somer Sivrioğlu"
       ],
-      "correct": 2
+      "correct": 1
     }
   ]
 }
