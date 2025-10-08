@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Attack on Titan (Shingeki no Kyojin) animesinde, insanlığın duvarların arkasında yaşadığı şehirleri koruyan, devlerle savaşan askerî birliğin adı nedir?",
+      "question": "Dünya çapında 'MrBeast' olarak tanınan YouTuber, genellikle hangi tür videolarıyla bilinir?",
       "options": [
-        "Keşif Birliği",
-        "Garnizon Birliği",
-        "Askerî Polis Teşkilatı",
-        "Hava Kuvvetleri",
-        "Donanma"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Met Gala'nın her yıl düzenlendiği, New York'ta bulunan dünyaca ünlü sanat müzesinin adı nedir?",
-      "options": [
-        "Modern Sanat Müzesi (MoMA)",
-        "Guggenheim Müzesi",
-        "Metropolitan Sanat Müzesi",
-        "Amerikan Doğa Tarihi Müzesi",
-        "Whitney Amerikan Sanatı Müzesi"
+        "Makyaj eğitimleri",
+        "Komik kedi videoları",
+        "Büyük para ödüllü meydan okumalar ve hayır işleri",
+        "Yemek tarifleri",
+        "Siyaset yorumları"
       ],
       "correct": 2
     },
     {
-      "question": "Cartoon Network'ün popüler çizgi filmlerinden 'Dexter'ın Laboratuvarı'nda, ana karakter Dexter'ın genellikle çalışmalarını sabotaj eden ablasının adı nedir?",
+      "question": "90'lı yılların başlarında 'Araba' ve 'Suç Bende' gibi hit şarkılarıyla popülerlik kazanan Türk pop müziği sanatçısı kimdir?",
       "options": [
-        "Dee Dee",
-        "Mandy",
-        "Bubbles",
-        "Frankie",
-        "Lola"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "İkinci Dünya Savaşı sırasında, Yahudi soykırımı olarak bilinen Holokost'un sembolü haline gelen en büyük toplama kampı neresidir?",
-      "options": [
-        "Dachau",
-        "Bergen-Belsen",
-        "Auschwitz-Birkenau",
-        "Treblinka",
-        "Buchenwald"
+        "Tarkan",
+        "Kenan Doğulu",
+        "Mustafa Sandal",
+        "Serdar Ortaç",
+        "Burak Kut"
       ],
       "correct": 2
     },
     {
-      "question": "Gelmiş geçmiş en ünlü moda ikonlarından biri olarak kabul edilen, 'küçük siyah elbise'yi popülerleştiren ve kendi adını taşıyan markasıyla tanınan Fransız tasarımcı kimdir?",
+      "question": "Türk edebiyatının önemli isimlerinden Orhan Pamuk, 2006 yılında hangi alanda Nobel Ödülü'ne layık görülmüştür?",
       "options": [
-        "Christian Dior",
-        "Coco Chanel",
-        "Yves Saint Laurent",
-        "Hubert de Givenchy",
-        "Jean Paul Gaultier"
+        "Fizik",
+        "Kimya",
+        "Barış",
+        "Edebiyat",
+        "Ekonomi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "'Doge' meme'i, hangi köpek cinsini konu alan ve genellikle 'such wow', 'very X' gibi yanlış yazılmış İngilizce ifadelerle süslenen popüler bir internet mizahıdır?",
+      "options": [
+        "Golden Retriever",
+        "Shiba Inu",
+        "Beagle",
+        "Labrador",
+        "Bulldog"
       ],
       "correct": 1
+    },
+    {
+      "question": "Netflix Türkiye'nin ilk orijinal yerli yapımı olan ve başrolünde Çağatay Ulusoy'un yer aldığı fantastik dizinin adı nedir?",
+      "options": [
+        "Aşk 101",
+        "Atiye",
+        "Hakan: Muhafız",
+        "Kulüp",
+        "Zeytin Ağacı"
+      ],
+      "correct": 2
     }
   ]
 }
