@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Dünya çapında 'MrBeast' olarak tanınan YouTuber, genellikle hangi tür videolarıyla bilinir?",
+      "question": "Türk Kadın Voleybol Milli Takımı, \"Filenin Sultanları\", tarihinde ilk kez Avrupa Şampiyonluğunu hangi yıl kazanmıştır?",
       "options": [
-        "Makyaj eğitimleri",
-        "Komik kedi videoları",
-        "Büyük para ödüllü meydan okumalar ve hayır işleri",
-        "Yemek tarifleri",
-        "Siyaset yorumları"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "90'lı yılların başlarında 'Araba' ve 'Suç Bende' gibi hit şarkılarıyla popülerlik kazanan Türk pop müziği sanatçısı kimdir?",
-      "options": [
-        "Tarkan",
-        "Kenan Doğulu",
-        "Mustafa Sandal",
-        "Serdar Ortaç",
-        "Burak Kut"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türk edebiyatının önemli isimlerinden Orhan Pamuk, 2006 yılında hangi alanda Nobel Ödülü'ne layık görülmüştür?",
-      "options": [
-        "Fizik",
-        "Kimya",
-        "Barış",
-        "Edebiyat",
-        "Ekonomi"
+        "2019",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
       ],
       "correct": 3
     },
     {
-      "question": "'Doge' meme'i, hangi köpek cinsini konu alan ve genellikle 'such wow', 'very X' gibi yanlış yazılmış İngilizce ifadelerle süslenen popüler bir internet mizahıdır?",
+      "question": "Yazar Orhan Pamuk, \"Kar\", \"Benim Adım Kırmızı\" ve \"Masumiyet Müzesi\" gibi eserleriyle tanınmaktadır. Pamuk, Nobel Edebiyat Ödülü'nü hangi yıl kazanmıştır?",
       "options": [
-        "Golden Retriever",
-        "Shiba Inu",
-        "Beagle",
-        "Labrador",
-        "Bulldog"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Netflix Türkiye'nin ilk orijinal yerli yapımı olan ve başrolünde Çağatay Ulusoy'un yer aldığı fantastik dizinin adı nedir?",
-      "options": [
-        "Aşk 101",
-        "Atiye",
-        "Hakan: Muhafız",
-        "Kulüp",
-        "Zeytin Ağacı"
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
       ],
       "correct": 2
+    },
+    {
+      "question": "Ünlü pop yıldızı Taylor Swift, albümlerinin haklarını geri almak amacıyla eski albümlerini \"Taylor's Version\" adıyla yeniden kaydedip yayınlamaktadır. Bu proje kapsamında yeniden kaydedilen ilk albümü hangisidir?",
+      "options": [
+        "1989 (Taylor's Version)",
+        "Red (Taylor's Version)",
+        "Fearless (Taylor's Version)",
+        "Speak Now (Taylor's Version)",
+        "Reputation (Taylor's Version)"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "1980'li yılların en ikonik gruplarından biri olan, \"Bohemian Rhapsody\", \"We Will Rock You\" ve \"Don't Stop Me Now\" gibi hit şarkılara imza atan efsanevi İngiliz rock grubu hangisidir?",
+      "options": [
+        "Led Zeppelin",
+        "The Beatles",
+        "Queen",
+        "The Rolling Stones",
+        "Pink Floyd"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Olimpik tarihin en başarılı sporcularından biri olan, yüzme dalında kazandığı toplam 28 madalya ve 23 altın madalya ile rekor kıran Amerikalı efsanevi yüzücü kimdir?",
+      "options": [
+        "Usain Bolt",
+        "Carl Lewis",
+        "Michael Jordan",
+        "Michael Phelps",
+        "Larisa Latynina"
+      ],
+      "correct": 3
     }
   ]
 }
