@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Türk Kadın Voleybol Milli Takımı, \"Filenin Sultanları\", tarihinde ilk kez Avrupa Şampiyonluğunu hangi yıl kazanmıştır?",
+      "question": "Harry Potter evreninde, Hogwarts Cadılık ve Büyücülük Okulu'nda cesareti, centilmenliği ve kararlılığı ile bilinen bina hangisidir?",
       "options": [
-        "2019",
-        "2021",
-        "2022",
-        "2023",
-        "2024"
+        "Gryffindor",
+        "Slytherin",
+        "Hufflepuff",
+        "Ravenclaw",
+        "Beauxbatons"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Tarkan'ın 1997 yılında piyasaya sürdüğü, \"Şıkıdım\" ve \"Şımarık\" gibi uluslararası çapta büyük hitlere sahip olan ve sanatçının dünya genelinde tanınmasını sağlayan albümünün adı nedir?",
+      "options": [
+        "Karma",
+        "Ölürüm Sana",
+        "Aacayipsin",
+        "Metamorfoz",
+        "Adımı Kalbine Yaz"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Disney Channel'ın sevilen çizgi filmlerinden \"Esrarengiz Kasaba\" (Gravity Falls) dizisinde, Dipper ve Mabel Pines kardeşlerin yaz tatillerini geçirdiği ve gizemli olaylarla dolu kasabanın adı nedir?",
+      "options": [
+        "Crystal Cove",
+        "Danville",
+        "Bikini Bottom",
+        "Gravity Falls",
+        "Townsville"
       ],
       "correct": 3
     },
     {
-      "question": "Yazar Orhan Pamuk, \"Kar\", \"Benim Adım Kırmızı\" ve \"Masumiyet Müzesi\" gibi eserleriyle tanınmaktadır. Pamuk, Nobel Edebiyat Ödülü'nü hangi yıl kazanmıştır?",
+      "question": "Nintendo'nun ikonik video oyunu serisi Super Mario'da, ana karakter Mario'nun genellikle Bowser tarafından kaçırılan ve kurtarmaya çalıştığı prensesin adı nedir?",
       "options": [
-        "2004",
-        "2005",
-        "2006",
-        "2007",
-        "2008"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Ünlü pop yıldızı Taylor Swift, albümlerinin haklarını geri almak amacıyla eski albümlerini \"Taylor's Version\" adıyla yeniden kaydedip yayınlamaktadır. Bu proje kapsamında yeniden kaydedilen ilk albümü hangisidir?",
-      "options": [
-        "1989 (Taylor's Version)",
-        "Red (Taylor's Version)",
-        "Fearless (Taylor's Version)",
-        "Speak Now (Taylor's Version)",
-        "Reputation (Taylor's Version)"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "1980'li yılların en ikonik gruplarından biri olan, \"Bohemian Rhapsody\", \"We Will Rock You\" ve \"Don't Stop Me Now\" gibi hit şarkılara imza atan efsanevi İngiliz rock grubu hangisidir?",
-      "options": [
-        "Led Zeppelin",
-        "The Beatles",
-        "Queen",
-        "The Rolling Stones",
-        "Pink Floyd"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Olimpik tarihin en başarılı sporcularından biri olan, yüzme dalında kazandığı toplam 28 madalya ve 23 altın madalya ile rekor kıran Amerikalı efsanevi yüzücü kimdir?",
-      "options": [
-        "Usain Bolt",
-        "Carl Lewis",
-        "Michael Jordan",
-        "Michael Phelps",
-        "Larisa Latynina"
+        "Prenses Daisy",
+        "Prenses Rosalina",
+        "Prenses Zelda",
+        "Prenses Peach",
+        "Prenses Pauline"
       ],
       "correct": 3
+    },
+    {
+      "question": "90'lı yılların en popüler erkek gruplarından biri olan ve \"I Want It That Way\", \"Everybody (Backstreet's Back)\" gibi hit şarkılarıyla bilinen grup hangisidir?",
+      "options": [
+        "NSYNC",
+        "Boyz II Men",
+        "Backstreet Boys",
+        "New Kids on the Block",
+        "Take That"
+      ],
+      "correct": 2
     }
   ]
 }
