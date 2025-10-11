@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Harry Potter evreninde, Hogwarts Cadılık ve Büyücülük Okulu'nda cesareti, centilmenliği ve kararlılığı ile bilinen bina hangisidir?",
+      "question": "Cartoon Network'ün popüler çizgi filmlerinden \"Adventure Time\"da, sihirli köpek Jake'in en yakın arkadaşı ve başkahramanı kimdir?",
       "options": [
-        "Gryffindor",
-        "Slytherin",
-        "Hufflepuff",
-        "Ravenclaw",
-        "Beauxbatons"
+        "Finn",
+        "Gumball",
+        "Mordecai",
+        "Rigby",
+        "Dexter"
       ],
       "correct": 0
     },
     {
-      "question": "Tarkan'ın 1997 yılında piyasaya sürdüğü, \"Şıkıdım\" ve \"Şımarık\" gibi uluslararası çapta büyük hitlere sahip olan ve sanatçının dünya genelinde tanınmasını sağlayan albümünün adı nedir?",
+      "question": "Yüzüklerin Efendisi evreninde, Tek Yüzük'ün gücünü ele geçirmeye çalışan, başlangıçta bir Hobbit olan ve yüzüğün etkisiyle grotesk bir yaratığa dönüşen karakterin adı nedir?",
       "options": [
-        "Karma",
-        "Ölürüm Sana",
-        "Aacayipsin",
-        "Metamorfoz",
-        "Adımı Kalbine Yaz"
+        "Saruman",
+        "Nazgûl",
+        "Gollum",
+        "Gríma Solucandil",
+        "Smaug"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
-      "question": "Disney Channel'ın sevilen çizgi filmlerinden \"Esrarengiz Kasaba\" (Gravity Falls) dizisinde, Dipper ve Mabel Pines kardeşlerin yaz tatillerini geçirdiği ve gizemli olaylarla dolu kasabanın adı nedir?",
+      "question": "Nintendo'nun dünyaca ünlü Pokémon serisinde, Electric türündeki ana Pokémon'lardan biri olan ve \"Pika Pika!\" sesiyle tanınan sevimli yaratığın adı nedir?",
       "options": [
-        "Crystal Cove",
-        "Danville",
-        "Bikini Bottom",
-        "Gravity Falls",
-        "Townsville"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Nintendo'nun ikonik video oyunu serisi Super Mario'da, ana karakter Mario'nun genellikle Bowser tarafından kaçırılan ve kurtarmaya çalıştığı prensesin adı nedir?",
-      "options": [
-        "Prenses Daisy",
-        "Prenses Rosalina",
-        "Prenses Zelda",
-        "Prenses Peach",
-        "Prenses Pauline"
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pikachu",
+        "Jigglypuff"
       ],
       "correct": 3
     },
     {
-      "question": "90'lı yılların en popüler erkek gruplarından biri olan ve \"I Want It That Way\", \"Everybody (Backstreet's Back)\" gibi hit şarkılarıyla bilinen grup hangisidir?",
+      "question": "Türkiye'de 90'lı ve 2000'li yılların çocukluk atıştırmalıklarından biri olan, küçük, dikdörtgen şeklinde, jelibonumsu yapıda ve farklı meyve aromalarına sahip olan çiğnenebilir şekerlemenin adı nedir?",
       "options": [
-        "NSYNC",
-        "Boyz II Men",
-        "Backstreet Boys",
-        "New Kids on the Block",
-        "Take That"
+        "Patlayan Şeker",
+        "Cino",
+        "Tipitip",
+        "Bonibon",
+        "Leblebi Tozu"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Twitter'da bir kullanıcının dikkatini çekmek veya bir tweet'te ona doğrudan atıfta bulunmak için adının önüne \"@\" işareti konularak yapılan eyleme ne ad verilir?",
+      "options": [
+        "Retweet",
+        "Hashtag",
+        "Bahsetme (Mention)",
+        "DM (Direkt Mesaj)",
+        "Gündem (Trend Topic)"
       ],
       "correct": 2
     }
