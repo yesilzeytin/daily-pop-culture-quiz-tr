@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Cartoon Network'ün popüler çizgi filmlerinden \"Adventure Time\"da, sihirli köpek Jake'in en yakın arkadaşı ve başkahramanı kimdir?",
+      "question": "Ünlü \"Dayı\" caps'lerinde, bir duruma şaşıran veya tepki veren karakterin ağzından dökülen ve bir dönem çok popüler olan söz aşağıdakilerden hangisidir?",
       "options": [
-        "Finn",
-        "Gumball",
-        "Mordecai",
-        "Rigby",
-        "Dexter"
+        "Yengen mi la bu?",
+        "Hayırdır inşallah?",
+        "İşte o an...",
+        "Bu ne şimdi?",
+        "Bana mı dedin?"
       ],
       "correct": 0
     },
     {
-      "question": "Yüzüklerin Efendisi evreninde, Tek Yüzük'ün gücünü ele geçirmeye çalışan, başlangıçta bir Hobbit olan ve yüzüğün etkisiyle grotesk bir yaratığa dönüşen karakterin adı nedir?",
+      "question": "90'lı ve 2000'li yılların popüler çocukluk atıştırmalıklarından Tipitip sakızlarının en bilinen özelliği neydi?",
       "options": [
-        "Saruman",
-        "Nazgûl",
-        "Gollum",
-        "Gríma Solucandil",
-        "Smaug"
+        "İçinden oyuncak araba çıkması",
+        "Her paketten bir karikatür/çizgi roman çıkması",
+        "Şeker yerine tuzlu olması",
+        "Sadece belirli renklerde üretilmesi",
+        "Çok hızlı erimesi"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
-      "question": "Nintendo'nun dünyaca ünlü Pokémon serisinde, Electric türündeki ana Pokémon'lardan biri olan ve \"Pika Pika!\" sesiyle tanınan sevimli yaratığın adı nedir?",
+      "question": "Hücrelerin hasar gören DNA'yı onarma mekanizmalarını haritalandırmasındaki bilimsel çalışmaları sayesinde 2015 Nobel Kimya Ödülü'nü kazanan Türk bilim insanı kimdir?",
       "options": [
-        "Charmander",
-        "Bulbasaur",
-        "Squirtle",
-        "Pikachu",
-        "Jigglypuff"
+        "Aziz Sancar",
+        "Orhan Pamuk",
+        "Canan Dağdeviren",
+        "Oktay Sinanoğlu",
+        "Celal Şengör"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Pixar animasyon stüdyosunun sevilen filmlerinden biridir. Dünya'daki kirlilik nedeniyle terk edilmiş bir gezegende tek başına kalan ve bir gün insanoğlunu kurtaracak bir uzay gemisiyle karşılaşan küçük robotun adı nedir?",
+      "options": [
+        "WALL-E",
+        "R2-D2",
+        "Astro Boy",
+        "Robot Adam",
+        "Bender"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "17 Ağustos 1999 tarihinde Türkiye'yi derinden sarsan ve büyük yıkımlara yol açan depremin merkez üssü hangi şehir yakınlarındaydı?",
+      "options": [
+        "İzmir",
+        "Ankara",
+        "Van",
+        "Gölcük (Kocaeli)",
+        "Erzincan"
       ],
       "correct": 3
-    },
-    {
-      "question": "Türkiye'de 90'lı ve 2000'li yılların çocukluk atıştırmalıklarından biri olan, küçük, dikdörtgen şeklinde, jelibonumsu yapıda ve farklı meyve aromalarına sahip olan çiğnenebilir şekerlemenin adı nedir?",
-      "options": [
-        "Patlayan Şeker",
-        "Cino",
-        "Tipitip",
-        "Bonibon",
-        "Leblebi Tozu"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Twitter'da bir kullanıcının dikkatini çekmek veya bir tweet'te ona doğrudan atıfta bulunmak için adının önüne \"@\" işareti konularak yapılan eyleme ne ad verilir?",
-      "options": [
-        "Retweet",
-        "Hashtag",
-        "Bahsetme (Mention)",
-        "DM (Direkt Mesaj)",
-        "Gündem (Trend Topic)"
-      ],
-      "correct": 2
     }
   ]
 }
