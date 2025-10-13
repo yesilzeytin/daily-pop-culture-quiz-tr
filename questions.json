@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Ünlü \"Dayı\" caps'lerinde, bir duruma şaşıran veya tepki veren karakterin ağzından dökülen ve bir dönem çok popüler olan söz aşağıdakilerden hangisidir?",
+      "question": "Latin müziğin dünyaca ünlü isimlerinden Shakira'nın, 2010 FIFA Dünya Kupası'nın resmi şarkısı olan ve büyük ses getiren hit şarkısının adı nedir?",
       "options": [
-        "Yengen mi la bu?",
-        "Hayırdır inşallah?",
-        "İşte o an...",
-        "Bu ne şimdi?",
-        "Bana mı dedin?"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "90'lı ve 2000'li yılların popüler çocukluk atıştırmalıklarından Tipitip sakızlarının en bilinen özelliği neydi?",
-      "options": [
-        "İçinden oyuncak araba çıkması",
-        "Her paketten bir karikatür/çizgi roman çıkması",
-        "Şeker yerine tuzlu olması",
-        "Sadece belirli renklerde üretilmesi",
-        "Çok hızlı erimesi"
+        "Hips Don't Lie",
+        "Waka Waka (This Time for Africa)",
+        "Whenever, Wherever",
+        "Chantaje",
+        "La Bicicleta"
       ],
       "correct": 1
     },
     {
-      "question": "Hücrelerin hasar gören DNA'yı onarma mekanizmalarını haritalandırmasındaki bilimsel çalışmaları sayesinde 2015 Nobel Kimya Ödülü'nü kazanan Türk bilim insanı kimdir?",
+      "question": "Netflix'in popüler bilim kurgu dizisi Stranger Things'te, kahramanların genellikle karşılaştığı ve Eleven'ın güçlerini kullanarak ulaştığı korkunç paralel evrenin adı nedir?",
       "options": [
-        "Aziz Sancar",
-        "Orhan Pamuk",
-        "Canan Dağdeviren",
-        "Oktay Sinanoğlu",
-        "Celal Şengör"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Pixar animasyon stüdyosunun sevilen filmlerinden biridir. Dünya'daki kirlilik nedeniyle terk edilmiş bir gezegende tek başına kalan ve bir gün insanoğlunu kurtaracak bir uzay gemisiyle karşılaşan küçük robotun adı nedir?",
-      "options": [
-        "WALL-E",
-        "R2-D2",
-        "Astro Boy",
-        "Robot Adam",
-        "Bender"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "17 Ağustos 1999 tarihinde Türkiye'yi derinden sarsan ve büyük yıkımlara yol açan depremin merkez üssü hangi şehir yakınlarındaydı?",
-      "options": [
-        "İzmir",
-        "Ankara",
-        "Van",
-        "Gölcük (Kocaeli)",
-        "Erzincan"
+        "The Dark Dimension",
+        "The Void",
+        "The Netherworld",
+        "The Upside Down",
+        "The Shadow Realm"
       ],
       "correct": 3
+    },
+    {
+      "question": "Popüler anime serisi Attack on Titan (Shingeki no Kyojin)'da, ana karakter Eren Yeager'ın Titan'a dönüşebilme yeteneğine sahip olduğu ilk Titan türünün adı nedir?",
+      "options": [
+        "Zırhlı Titan (Armored Titan)",
+        "Saldırı Titanı (Attack Titan)",
+        "Canavar Titan (Beast Titan)",
+        "Dişi Titan (Female Titan)",
+        "Kurucu Titan (Founding Titan)"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "J.R.R. Tolkien'in efsanevi eseri Yüzüklerin Efendisi'nde, Tek Yüzük'ün Sauron tarafından dövüldüğü ve sadece orada yok edilebileceği tek yer olan volkanik dağın adı nedir?",
+      "options": [
+        "Yalnız Dağ (Lonely Mountain)",
+        "Sisli Dağlar (Misty Mountains)",
+        "Hüküm Dağı (Mount Doom)",
+        "Gri Dağlar (Grey Mountains)",
+        "Gundabad Dağı (Mount Gundabad)"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "MasterChef Türkiye'nin 2021 sezonunda büyük finalde Tahsin Küçük'ü mağlup ederek şampiyonluğa ulaşan yarışmacı kimdir?",
+      "options": [
+        "Hasan Biltekin",
+        "Uğur Kardaş",
+        "Eren Kaşıkçı",
+        "Serhat Doğramacı",
+        "Cemre Uyanık"
+      ],
+      "correct": 2
     }
   ]
 }
