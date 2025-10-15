@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Türk pop müziğinin efsanevi isimlerinden Sezen Aksu'nun, içinde 'Gülümse', 'Hadi Bakalım' gibi klasikleşmiş eserleri barındıran ve 1991 yılında piyasaya sürülen stüdyo albümünün adı nedir?",
+      "question": "EuroLeague tarihinde birden fazla şampiyonluk kazanan tek Türk basketbol takımı hangisidir?",
       "options": [
-        "Deli Kızın Türküsü",
-        "Gölge Etme",
-        "Gülümse",
-        "Şarkı Söylemek Lazım",
-        "Düş Bahçeleri"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "HBO'nun rekor kıran fantastik dizisi Game of Thrones'ta, Westeros kıtasının en kuzey sınırını korumak ve yabanıllar ile Ak Gezenler'i durdurmak amacıyla inşa edilmiş, devasa buzdan yapılmış savunma yapısının adı nedir?",
-      "options": [
-        "Demirden Taht",
-        "Kara Kale",
-        "Sur",
-        "Kışyarı",
-        "Kral Toprakları"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "League of Legends'ın en prestijli küresel turnuvası olan Worlds Şampiyonası tarihinde, toplam dört kez kupayı kaldırarak bu alanda en başarılı takım unvanına sahip olan e-spor organizasyonu aşağıdakilerden hangisidir?",
-      "options": [
-        "Fnatic",
-        "G2 Esports",
-        "T1 (eski adıyla SK Telecom T1)",
-        "Royal Never Give Up",
-        "Damwon Gaming"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Fox Kids kanalında yayınlanan popüler çizgi film Digimon Adventure'da, serinin ana karakteri Taichi 'Tai' Kamiya'nın sadık ve cesur partneri olan, ateş elementine sahip dinozor benzeri Digimon'un adı nedir?",
-      "options": [
-        "Gabumon",
-        "Patamon",
-        "Tentomon",
-        "Agumon",
-        "Gomamon"
+        "Fenerbahçe Beko",
+        "Beşiktaş Emlakjet",
+        "Galatasaray Nef",
+        "Anadolu Efes",
+        "Türk Telekom"
       ],
       "correct": 3
     },
     {
-      "question": "CD Projekt Red tarafından geliştirilen ve büyük beğeni toplayan The Witcher 3: Wild Hunt adlı PC oyununda, başkarakter Geralt of Rivia'nın evlatlık kızı olan ve Elder Blood gücüne sahip genç kadın karakterin adı nedir?",
+      "question": "\"Vay Be\", \"Aşkım Aşkım\" ve \"Baş Harfi Ben\" gibi popüler şarkılarla tanınan Türk pop müziği sanatçısı kimdir?",
       "options": [
-        "Yennefer",
-        "Triss",
-        "Ciri",
-        "Keira",
-        "Shani"
+        "Mustafa Sandal",
+        "Serdar Ortaç",
+        "Kenan Doğulu",
+        "Murat Boz",
+        "Edis"
       ],
       "correct": 2
+    },
+    {
+      "question": "Marvel Sinematik Evreni'nde (MCU) Thanos'un evrenin yarısını yok etmek için bir araya getirmeye çalıştığı, altı güçlü taştan oluşan koleksiyonun adı nedir?",
+      "options": [
+        "Sonsuzluk Mücevherleri",
+        "Kaos Yüzükleri",
+        "Kozmik Küpler",
+        "Yıldız Cevherleri",
+        "Güç Kristalleri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "\"Yüzyıllık Yalnızlık\" ve \"Kolera Günlerinde Aşk\" gibi eserleriyle tanınan ve 1982 yılında Nobel Edebiyat Ödülü'nü kazanan Kolombiyalı yazar kimdir?",
+      "options": [
+        "Gabriel García Márquez",
+        "Mario Vargas Llosa",
+        "Julio Cortázar",
+        "Jorge Luis Borges",
+        "Isabel Allende"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Netflix'in dünya çapında popüler dizisi \"Squid Game\"de, ana karakter Seong Gi-hun'un oyunlarda giydiği yeşil eşofmanının üzerindeki oyuncu numarası kaçtır?",
+      "options": [
+        "218",
+        "456",
+        "001",
+        "067",
+        "101"
+      ],
+      "correct": 1
     }
   ]
 }
