@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "EuroLeague tarihinde birden fazla şampiyonluk kazanan tek Türk basketbol takımı hangisidir?",
+      "question": "Netflix'in dünya çapında popüler dizisi La Casa de Papel'de, zeka ve planlama dehası 'Profesör' karakterinin gerçek adı nedir?",
       "options": [
-        "Fenerbahçe Beko",
-        "Beşiktaş Emlakjet",
-        "Galatasaray Nef",
-        "Anadolu Efes",
-        "Türk Telekom"
+        "Sergio Marquina",
+        "Andrés de Fonollosa",
+        "Aníbal Cortés",
+        "Ricardo de la Serna",
+        "Martín Berrote"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "1980'li ve 90'lı yılların en büyük pop ikonlarından biri olan, 'Like a Prayer', 'Vogue' ve 'Material Girl' gibi sayısız hit şarkıya imza atmış Amerikalı kadın sanatçı kimdir?",
+      "options": [
+        "Whitney Houston",
+        "Janet Jackson",
+        "Mariah Carey",
+        "Madonna",
+        "Celine Dion"
       ],
       "correct": 3
     },
     {
-      "question": "\"Vay Be\", \"Aşkım Aşkım\" ve \"Baş Harfi Ben\" gibi popüler şarkılarla tanınan Türk pop müziği sanatçısı kimdir?",
+      "question": "Dünya çapında en yaygın kullanılan internet tarayıcılarından biri olan Google Chrome, ilk olarak hangi yıl piyasaya sürülmüştür?",
       "options": [
-        "Mustafa Sandal",
-        "Serdar Ortaç",
-        "Kenan Doğulu",
+        "1998",
+        "2001",
+        "2004",
+        "2008",
+        "2012"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "\"O Ses Türkiye\" yarışmasının sunuculuğunu yapan, \"Survivor\" gibi birçok popüler televizyon formatının yapımcısı ve sahibi olan ünlü televizyoncu kimdir?",
+      "options": [
         "Murat Boz",
-        "Edis"
+        "Hadise",
+        "Beyazıt Öztürk",
+        "Acun Ilıcalı",
+        "Eser Yenenler"
       ],
-      "correct": 2
+      "correct": 3
     },
     {
-      "question": "Marvel Sinematik Evreni'nde (MCU) Thanos'un evrenin yarısını yok etmek için bir araya getirmeye çalıştığı, altı güçlü taştan oluşan koleksiyonun adı nedir?",
+      "question": "Sony tarafından 1979 yılında piyasaya sürülen, taşınabilir kaset çalar özelliğiyle müzik dinleme alışkanlıklarını kökten değiştiren efsanevi ürünün adı nedir?",
       "options": [
-        "Sonsuzluk Mücevherleri",
-        "Kaos Yüzükleri",
-        "Kozmik Küpler",
-        "Yıldız Cevherleri",
-        "Güç Kristalleri"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "\"Yüzyıllık Yalnızlık\" ve \"Kolera Günlerinde Aşk\" gibi eserleriyle tanınan ve 1982 yılında Nobel Edebiyat Ödülü'nü kazanan Kolombiyalı yazar kimdir?",
-      "options": [
-        "Gabriel García Márquez",
-        "Mario Vargas Llosa",
-        "Julio Cortázar",
-        "Jorge Luis Borges",
-        "Isabel Allende"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Netflix'in dünya çapında popüler dizisi \"Squid Game\"de, ana karakter Seong Gi-hun'un oyunlarda giydiği yeşil eşofmanının üzerindeki oyuncu numarası kaçtır?",
-      "options": [
-        "218",
-        "456",
-        "001",
-        "067",
-        "101"
+        "Discman",
+        "Walkman",
+        "MiniDisc",
+        "Boombox",
+        "Game Boy"
       ],
       "correct": 1
     }
