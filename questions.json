@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Müslüm Gürses'in hayranları tarafından verilen ve onun müziğinin derinliğini, acıyı yansıtan görüşünü temsil eden lakabı nedir?",
+      "question": "Disney'in klasik animasyon filmi 'Aslan Kral'da (The Lion King), ana karakter Simba'nın kötü kalpli amcasının adı nedir?",
       "options": [
-        "İmparator",
-        "Baba",
-        "Kral",
-        "Arabeskin Prensi",
-        "Usta"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "UEFA Kupası'nı kazanan tek Türk futbol takımı olan Galatasaray, bu tarihi başarıyı hangi yıl elde etmiştir?",
-      "options": [
-        "1998",
-        "1999",
-        "2000",
-        "2001",
-        "2002"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Marvel Sinematik Evreni'nin (MCU) ilk filmi olan ve Iron Man karakterini tanıtan yapım hangisidir?",
-      "options": [
-        "Kaptan Amerika: İlk Yenilmez",
-        "Yenilmezler",
-        "Thor",
-        "Demir Adam",
-        "İnanılmaz Hulk"
+        "Timon",
+        "Pumbaa",
+        "Zazu",
+        "Scar",
+        "Mufasa"
       ],
       "correct": 3
     },
     {
-      "question": "Kısa videolarla ünlenen ve \"Örümcek Adam\" karakterini taklit ederek fenomen olan, ardından oyunculuk kariyerine de adım atan Türk Vine fenomeni kimdir?",
+      "question": "MasterChef Türkiye'nin 2020 sezonunda, büyük finalde Barbaros Yoloğlu'nu geride bırakarak şampiyonluğa ulaşan yarışmacı kimdir?",
       "options": [
-        "Cem Gelinoğlu",
-        "Aykut Elmas",
-        "Halil İbrahim Göker",
-        "Cihan Talu",
-        "Hakan Hepcan"
+        "Serhat Doğramacı",
+        "Eren Kaşıkçı",
+        "Metin Yavuz",
+        "Hasan Biltekin",
+        "Cemre Uyanık"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
-      "question": "20. yüzyılın en önemli teknolojik başarılarından biri olan Ay'a ilk insanlı iniş, NASA'nın Apollo 11 göreviyle hangi yıl gerçekleşmiştir?",
+      "question": "İkinci Dünya Savaşı'nın son dönemlerinde, Amerika Birleşik Devletleri tarafından atom bombası atılan Japon şehirlerinden biri aşağıdakilerden hangisidir?",
       "options": [
-        "1965",
-        "1967",
-        "1969",
-        "1971",
-        "1973"
+        "Tokyo",
+        "Kyoto",
+        "Hiroşima",
+        "Osaka",
+        "Sapporo"
       ],
       "correct": 2
+    },
+    {
+      "question": "Soğuk Savaş döneminin en belirgin sembollerinden biri olan ve 1989 yılında yıkılan Berlin Duvarı, hangi iki tarafı birbirinden ayırmaktaydı?",
+      "options": [
+        "Doğu ve Batı Almanya",
+        "Kuzey ve Güney Kore",
+        "Amerika Birleşik Devletleri ve Sovyetler Birliği",
+        "Doğu ve Batı Berlin",
+        "Kuzey ve Güney Vietnam"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "2020 yılında En İyi Film Oscar'ını kazanarak tarihinde bu ödülü alan ilk İngilizce olmayan film olan 'Parazit' (Parasite) filminin Güney Koreli yönetmeni kimdir?",
+      "options": [
+        "Bong Joon-ho",
+        "Hirokazu Kore-eda",
+        "Lee Chang-dong",
+        "Park Chan-wook",
+        "Kim Ki-duk"
+      ],
+      "correct": 0
     }
   ]
 }
