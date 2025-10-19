@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Disney'in klasik animasyon filmi 'Aslan Kral'da (The Lion King), ana karakter Simba'nın kötü kalpli amcasının adı nedir?",
+      "question": "Recep İvedik filmler serisinde Recep'in en yakın arkadaşı ve sürekli olarak onunla maceralara atılan karakterin adı nedir?",
       "options": [
-        "Timon",
-        "Pumbaa",
-        "Zazu",
-        "Scar",
-        "Mufasa"
+        "Salih",
+        "Nurullah",
+        "Şener",
+        "Cengiz",
+        "İbo"
       ],
-      "correct": 3
+      "correct": 1
     },
     {
-      "question": "MasterChef Türkiye'nin 2020 sezonunda, büyük finalde Barbaros Yoloğlu'nu geride bırakarak şampiyonluğa ulaşan yarışmacı kimdir?",
+      "question": "HBO'nun dünya çapında ses getiren kıyamet sonrası dizisi \"The Last of Us\"ta, mantar enfeksiyonu nedeniyle insanları zombiye dönüştüren hastalığın kaynağı olan mantar türü nedir?",
       "options": [
-        "Serhat Doğramacı",
-        "Eren Kaşıkçı",
-        "Metin Yavuz",
-        "Hasan Biltekin",
-        "Cemre Uyanık"
+        "Ganoderma",
+        "Cordyceps",
+        "Agaricus",
+        "Amanita",
+        "Pleurotus"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "İki farklı bilim dalında Nobel Ödülü kazanan tek kadın bilim insanı olan Marie Curie, bu ödülleri hangi alanlarda kazanmıştır?",
+      "options": [
+        "Fizik ve Kimya",
+        "Kimya ve Tıp",
+        "Fizik ve Edebiyat",
+        "Tıp ve Barış",
+        "Kimya ve Ekonomi"
       ],
       "correct": 0
     },
     {
-      "question": "İkinci Dünya Savaşı'nın son dönemlerinde, Amerika Birleşik Devletleri tarafından atom bombası atılan Japon şehirlerinden biri aşağıdakilerden hangisidir?",
+      "question": "Fox Kids'in popüler çizgi filmlerinden \"Spider-Man: The Animated Series\"de, Peter Parker'ın sıklıkla karşılaştığı ve onun en büyük düşmanlarından biri olan yeşil zırhlı ve el bombası atan kötü adamın adı nedir?",
       "options": [
-        "Tokyo",
-        "Kyoto",
-        "Hiroşima",
-        "Osaka",
-        "Sapporo"
+        "Doctor Octopus",
+        "Venom",
+        "Green Goblin",
+        "Sandman",
+        "Mysterio"
       ],
       "correct": 2
     },
     {
-      "question": "Soğuk Savaş döneminin en belirgin sembollerinden biri olan ve 1989 yılında yıkılan Berlin Duvarı, hangi iki tarafı birbirinden ayırmaktaydı?",
+      "question": "\"Kuzu Kuzu\", \"Dudu\" gibi hit şarkılarıyla bilinen ve 'Megastar' lakabıyla anılan Türk pop müziği sanatçısı kimdir?",
       "options": [
-        "Doğu ve Batı Almanya",
-        "Kuzey ve Güney Kore",
-        "Amerika Birleşik Devletleri ve Sovyetler Birliği",
-        "Doğu ve Batı Berlin",
-        "Kuzey ve Güney Vietnam"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "2020 yılında En İyi Film Oscar'ını kazanarak tarihinde bu ödülü alan ilk İngilizce olmayan film olan 'Parazit' (Parasite) filminin Güney Koreli yönetmeni kimdir?",
-      "options": [
-        "Bong Joon-ho",
-        "Hirokazu Kore-eda",
-        "Lee Chang-dong",
-        "Park Chan-wook",
-        "Kim Ki-duk"
+        "Tarkan",
+        "Mustafa Sandal",
+        "Kenan Doğulu",
+        "Serdar Ortaç",
+        "Murat Boz"
       ],
       "correct": 0
     }
