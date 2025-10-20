@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Recep İvedik filmler serisinde Recep'in en yakın arkadaşı ve sürekli olarak onunla maceralara atılan karakterin adı nedir?",
+      "question": "\"Majesteleri\" lakabıyla anılan efsanevi basketbolcu Michael Jordan, NBA kariyerinin büyük bir bölümünü hangi takımda geçirerek altı şampiyonluk kazanmıştır?",
       "options": [
-        "Salih",
-        "Nurullah",
-        "Şener",
-        "Cengiz",
-        "İbo"
+        "Los Angeles Lakers",
+        "Chicago Bulls",
+        "Boston Celtics",
+        "Miami Heat",
+        "San Antonio Spurs"
       ],
       "correct": 1
     },
     {
-      "question": "HBO'nun dünya çapında ses getiren kıyamet sonrası dizisi \"The Last of Us\"ta, mantar enfeksiyonu nedeniyle insanları zombiye dönüştüren hastalığın kaynağı olan mantar türü nedir?",
+      "question": "Türk Kadın Voleybol Milli Takımı'nın \"Filenin Sultanları\" olarak bilinen kadrosunun 2023 CEV Avrupa Şampiyonası'nda altın madalya kazanmasında büyük pay sahibi olan, takıma kaptanlık yapan ve orta oyuncu pozisyonunda görev alan efsanevi oyuncusu kimdir?",
       "options": [
-        "Ganoderma",
-        "Cordyceps",
-        "Agaricus",
-        "Amanita",
-        "Pleurotus"
+        "Melissa Vargas",
+        "Ebrar Karakurt",
+        "Hande Baladın",
+        "Eda Erdem Dündar",
+        "Zehra Güneş"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
-      "question": "İki farklı bilim dalında Nobel Ödülü kazanan tek kadın bilim insanı olan Marie Curie, bu ödülleri hangi alanlarda kazanmıştır?",
+      "question": "80'ler ve 90'lar boyunca Türk pop müziğine damga vuran, \"Gülpembe\", \"Dağlar Dağlar\" gibi unutulmaz şarkılara imza atan ve aynı zamanda \"7'den 77'ye\" adlı çocuk programıyla da bilinen sanatçı kimdir?",
       "options": [
-        "Fizik ve Kimya",
-        "Kimya ve Tıp",
-        "Fizik ve Edebiyat",
-        "Tıp ve Barış",
-        "Kimya ve Ekonomi"
+        "Sezen Aksu",
+        "Cem Karaca",
+        "Ajda Pekkan",
+        "Barış Manço",
+        "Fatih Erkoç"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
-      "question": "Fox Kids'in popüler çizgi filmlerinden \"Spider-Man: The Animated Series\"de, Peter Parker'ın sıklıkla karşılaştığı ve onun en büyük düşmanlarından biri olan yeşil zırhlı ve el bombası atan kötü adamın adı nedir?",
+      "question": "1980'lerin sonu ve 1990'lar boyunca, elde taşınabilir oyun deneyimini devrim niteliğinde değiştiren ve Tetris gibi oyunlarla dünya çapında popülerlik kazanan Nintendo'nun ikonik el konsolu hangisidir?",
       "options": [
-        "Doctor Octopus",
-        "Venom",
-        "Green Goblin",
-        "Sandman",
-        "Mysterio"
+        "Sega Game Gear",
+        "Atari Lynx",
+        "Sony PlayStation Portable",
+        "Nintendo Game Boy",
+        "Neo Geo Pocket"
       ],
-      "correct": 2
+      "correct": 3
     },
     {
-      "question": "\"Kuzu Kuzu\", \"Dudu\" gibi hit şarkılarıyla bilinen ve 'Megastar' lakabıyla anılan Türk pop müziği sanatçısı kimdir?",
+      "question": "Her yıl moda ve sanat dünyasının en prestijli etkinliklerinden biri olan Met Gala, ABD'nin New York şehrinde bulunan hangi ünlü sanat müzesinde düzenlenmektedir?",
       "options": [
-        "Tarkan",
-        "Mustafa Sandal",
-        "Kenan Doğulu",
-        "Serdar Ortaç",
-        "Murat Boz"
+        "Museum of Modern Art (MoMA)",
+        "Solomon R. Guggenheim Museum",
+        "American Museum of Natural History",
+        "The Metropolitan Museum of Art",
+        "Whitney Museum of American Art"
       ],
-      "correct": 0
+      "correct": 3
     }
   ]
 }
