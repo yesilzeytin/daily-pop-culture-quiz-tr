@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "HBO'nun sevilen fantastik dizisi \"House of the Dragon\"da, Targaryen Hanesi'nin simgesi olan efsanevi yaratık nedir?",
+      "question": "Yumurcak TV'nin en sevilen çizgi filmlerinden biri olan, genç Cedric'in okul hayatını, arkadaşlıklarını ve kız arkadaşı Chen'e olan platonik aşkını konu alan çizgi filmin adı nedir?",
       "options": [
-        "Kurt",
-        "Aslan",
-        "Ejderha",
-        "Geyik",
-        "Kraken"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Marvel Sinematik Evreni'nde (MCU) süper asker programının ilk ve en bilinen ürünü olan Kaptan Amerika'nın gerçek adı nedir?",
-      "options": [
-        "Bucky Barnes",
-        "Steve Rogers",
-        "Tony Stark",
-        "Bruce Banner",
-        "Clint Barton"
+        "Afacan Dennis",
+        "Cedric",
+        "Marsupilami",
+        "Hızlı Hızlı Arayan",
+        "Şeker Kız Candy"
       ],
       "correct": 1
     },
     {
-      "question": "Cartoon Network'ün popüler çizgi filmlerinden \"Powerpuff Girls\"deki Blossom, Bubbles ve Buttercup adlı süper kahraman kızlar, hangi şehirde suçla mücadele etmektedirler?",
+      "question": "90'lı yıllarda özellikle Hürriyet Gazetesi'nin Kelebek ekinde sıkça kendine yer bulan, ünlülerin sosyal hayatlarını, aşklarını ve kavgalarını konu alan köşe genellikle hangi isimle anılırdı?",
       "options": [
-        "Gotham Şehri",
-        "Metropolis",
-        "Townsville",
-        "New York Şehri",
-        "Central City"
+        "Magazin Hattı",
+        "Sosyete Günlüğü",
+        "Sanat Çemberi",
+        "Kelebek Dünyası",
+        "Yıldız Dedikoduları"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "Instagram'da popülerlik kazanmış, genellikle ürün tanıtımı yapan veya belirli bir niş konuda içerik üreten kişilere ne ad verilir?",
+      "question": "Türk Kadın Voleybol Milli Takımı, \"Filenin Sultanları\" lakabını almadan önce, özellikle 2003 Avrupa Şampiyonası'nda gümüş madalya kazanarak dikkatleri çektiği dönemde takıma halk arasında verilen popüler isim neydi?",
       "options": [
-        "Yorumcu",
-        "Takipçi",
-        "Editör",
-        "Fenomen",
-        "Geliştirici"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Netflix'in dünya çapında izlenme rekorları kıran Kore dizisi \"Squid Game\"de, yarışmacıların ölümcül oyunlara katıldıkları ve elendiklerinde öldürüldükleri gizemli tesis nerede konumlanmaktadır?",
-      "options": [
-        "Güney Kore'nin başkenti Seul'de gizli bir yer altı sığınağı",
-        "Bilinmeyen, denizde bir ada",
-        "Japonya'da terk edilmiş bir fabrika",
-        "Birleşik Devletler'de eski bir askeri üs",
-        "Çin'de bir dağ kasabası"
+        "Anadolu'nun Kaplanları",
+        "Boğazın Perileri",
+        "Akdeniz'in İncileri",
+        "12 Dev Adam",
+        "Deniz Kızları"
       ],
       "correct": 1
+    },
+    {
+      "question": "Tarkan'ın 1997 yılında piyasaya sürdüğü, \"Şıkıdım\" ve \"Şımarık\" gibi dünya çapında hit olmuş şarkıları içeren ve popülerliğini zirveye taşıdığı stüdyo albümünün adı nedir?",
+      "options": [
+        "Ölürüm Sana",
+        "Karma",
+        "Kuzu Kuzu",
+        "Metamorfoz",
+        "Aacayipsin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "HBO'nun beğenilen post-apokaliptik dizisi \"The Last of Us\"ta, eski bir duvar ustası ve sağ kalanlardan Joel Miller karakterini canlandıran Emmy adayı oyuncu kimdir?",
+      "options": [
+        "Pedro Pascal",
+        "Oscar Isaac",
+        "Mahershala Ali",
+        "Barry Keoghan",
+        "Jeremy Strong"
+      ],
+      "correct": 0
     }
   ]
 }
