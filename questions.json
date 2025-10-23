@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Yumurcak TV'nin en sevilen çizgi filmlerinden biri olan, genç Cedric'in okul hayatını, arkadaşlıklarını ve kız arkadaşı Chen'e olan platonik aşkını konu alan çizgi filmin adı nedir?",
+      "question": "J.R.R. Tolkien'in \"Yüzüklerin Efendisi\" serisinde, Tek Yüzük'ü yok etme görevinde Frodo Baggins'e en sadık şekilde eşlik eden ve Mordor'a kadar onunla birlikte giden Hobbit'in adı nedir?",
       "options": [
-        "Afacan Dennis",
-        "Cedric",
-        "Marsupilami",
-        "Hızlı Hızlı Arayan",
-        "Şeker Kız Candy"
+        "Peregrin Took (Pippin)",
+        "Meriadoc Brandybuck (Merry)",
+        "Samwise Gamgee",
+        "Bilbo Baggins",
+        "Gollum"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
-      "question": "90'lı yıllarda özellikle Hürriyet Gazetesi'nin Kelebek ekinde sıkça kendine yer bulan, ünlülerin sosyal hayatlarını, aşklarını ve kavgalarını konu alan köşe genellikle hangi isimle anılırdı?",
+      "question": "Kendi adını taşıyan YouTube kanalında oyun videoları, yorumlar ve vlog'lar yayınlayarak dünya çapında milyonlarca aboneye ulaşan ve uzun süre \"YouTube'un Kralı\" olarak bilinen İsveçli YouTuber kimdir?",
       "options": [
-        "Magazin Hattı",
-        "Sosyete Günlüğü",
-        "Sanat Çemberi",
-        "Kelebek Dünyası",
-        "Yıldız Dedikoduları"
+        "MrBeast",
+        "Markiplier",
+        "PewDiePie",
+        "Ninja",
+        "Logan Paul"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "question": "Türk Kadın Voleybol Milli Takımı, \"Filenin Sultanları\" lakabını almadan önce, özellikle 2003 Avrupa Şampiyonası'nda gümüş madalya kazanarak dikkatleri çektiği dönemde takıma halk arasında verilen popüler isim neydi?",
+      "question": "1912 yılında ilk seferine çıkarken batmaz denilen, ancak Kuzey Atlantik'te bir buzdağına çarparak batan ve tarihin en büyük deniz felaketlerinden birine neden olan lüks yolcu gemisinin adı nedir?",
       "options": [
-        "Anadolu'nun Kaplanları",
-        "Boğazın Perileri",
-        "Akdeniz'in İncileri",
-        "12 Dev Adam",
-        "Deniz Kızları"
+        "Queen Mary 2",
+        "Lusitania",
+        "Britannic",
+        "Titanic",
+        "Concordia"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
-      "question": "Tarkan'ın 1997 yılında piyasaya sürdüğü, \"Şıkıdım\" ve \"Şımarık\" gibi dünya çapında hit olmuş şarkıları içeren ve popülerliğini zirveye taşıdığı stüdyo albümünün adı nedir?",
+      "question": "Türk sinemasının dört yapraklı yoncasından biri olan ve Türk filmlerinde genellikle \"Sultan\" lakabıyla anılan efsanevi aktris kimdir?",
       "options": [
-        "Ölürüm Sana",
-        "Karma",
-        "Kuzu Kuzu",
-        "Metamorfoz",
-        "Aacayipsin"
+        "Fatma Girik",
+        "Hülya Koçyiğit",
+        "Filiz Akın",
+        "Emel Sayın",
+        "Türkan Şoray"
       ],
-      "correct": 0
+      "correct": 4
     },
     {
-      "question": "HBO'nun beğenilen post-apokaliptik dizisi \"The Last of Us\"ta, eski bir duvar ustası ve sağ kalanlardan Joel Miller karakterini canlandıran Emmy adayı oyuncu kimdir?",
+      "question": "İkinci Dünya Savaşı sırasında Müttefik Kuvvetler'in, Almanya'ya karşı Batı Cephesi'ni açmak amacıyla 6 Haziran 1944'te gerçekleştirdiği ve tarihin en büyük amfibi çıkarma operasyonu olarak bilinen harekâtın adı nedir?",
       "options": [
-        "Pedro Pascal",
-        "Oscar Isaac",
-        "Mahershala Ali",
-        "Barry Keoghan",
-        "Jeremy Strong"
+        "Barbarossa Harekâtı",
+        "Market Garden Operasyonu",
+        "Overlord Operasyonu (D-Day)",
+        "Fırtına Operasyonu",
+        "Çöl Tilkisi Operasyonu"
       ],
-      "correct": 0
+      "correct": 2
     }
   ]
 }
