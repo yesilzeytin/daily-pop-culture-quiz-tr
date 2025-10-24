@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "J.R.R. Tolkien'in \"Yüzüklerin Efendisi\" serisinde, Tek Yüzük'ü yok etme görevinde Frodo Baggins'e en sadık şekilde eşlik eden ve Mordor'a kadar onunla birlikte giden Hobbit'in adı nedir?",
+      "question": "Eyfel Kulesi'ni iki kez satma girişimiyle ünlenen, tarihin en cüretkar dolandırıcılarından biri olarak kabul edilen kişi kimdir?",
       "options": [
-        "Peregrin Took (Pippin)",
-        "Meriadoc Brandybuck (Merry)",
-        "Samwise Gamgee",
-        "Bilbo Baggins",
-        "Gollum"
+        "Charles Ponzi",
+        "Frank Abagnale Jr.",
+        "Victor Lustig",
+        "Bernie Madoff",
+        "George C. Parker"
       ],
       "correct": 2
     },
     {
-      "question": "Kendi adını taşıyan YouTube kanalında oyun videoları, yorumlar ve vlog'lar yayınlayarak dünya çapında milyonlarca aboneye ulaşan ve uzun süre \"YouTube'un Kralı\" olarak bilinen İsveçli YouTuber kimdir?",
+      "question": "Recep İvedik film serilerinin yönetmenliğini üstlenen ve aynı zamanda filmlerin senaryosunu da yazan isim kimdir?",
       "options": [
-        "MrBeast",
-        "Markiplier",
-        "PewDiePie",
-        "Ninja",
-        "Logan Paul"
+        "Şahan Gökbakar",
+        "Ata Demirer",
+        "Togan Gökbakar",
+        "Cem Yılmaz",
+        "Gani Müjde"
       ],
       "correct": 2
     },
     {
-      "question": "1912 yılında ilk seferine çıkarken batmaz denilen, ancak Kuzey Atlantik'te bir buzdağına çarparak batan ve tarihin en büyük deniz felaketlerinden birine neden olan lüks yolcu gemisinin adı nedir?",
+      "question": "Türkiye Süper Lig tarihinde en fazla şampiyonluk kazanan futbol takımı aşağıdakilerden hangisidir?",
       "options": [
-        "Queen Mary 2",
-        "Lusitania",
-        "Britannic",
-        "Titanic",
-        "Concordia"
+        "Beşiktaş",
+        "Fenerbahçe",
+        "Trabzonspor",
+        "Galatasaray",
+        "Bursaspor"
       ],
       "correct": 3
     },
     {
-      "question": "Türk sinemasının dört yapraklı yoncasından biri olan ve Türk filmlerinde genellikle \"Sultan\" lakabıyla anılan efsanevi aktris kimdir?",
+      "question": "İkinci Dünya Savaşı'nın genel olarak başlangıcı kabul edilen, Almanya'nın hangi ülkeyi işgal etmesiyle başlayan olaydır?",
       "options": [
-        "Fatma Girik",
-        "Hülya Koçyiğit",
-        "Filiz Akın",
-        "Emel Sayın",
-        "Türkan Şoray"
+        "Fransa",
+        "Avusturya",
+        "Polonya",
+        "Çekoslovakya",
+        "Belçika"
       ],
-      "correct": 4
+      "correct": 2
     },
     {
-      "question": "İkinci Dünya Savaşı sırasında Müttefik Kuvvetler'in, Almanya'ya karşı Batı Cephesi'ni açmak amacıyla 6 Haziran 1944'te gerçekleştirdiği ve tarihin en büyük amfibi çıkarma operasyonu olarak bilinen harekâtın adı nedir?",
+      "question": "J.R.R. Tolkien'in \"Yüzüklerin Efendisi\" evreninde, tüm diğer güç yüzüklerini kontrol etmek ve Orta Dünya'ya hükmetmek amacıyla Tek Yüzük'ü döven karanlık lord kimdir?",
       "options": [
-        "Barbarossa Harekâtı",
-        "Market Garden Operasyonu",
-        "Overlord Operasyonu (D-Day)",
-        "Fırtına Operasyonu",
-        "Çöl Tilkisi Operasyonu"
+        "Morgoth",
+        "Saruman",
+        "Sauron",
+        "Balrog",
+        "Witch-king of Angmar"
       ],
       "correct": 2
     }
