@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Eyfel Kulesi'ni iki kez satma girişimiyle ünlenen, tarihin en cüretkar dolandırıcılarından biri olarak kabul edilen kişi kimdir?",
+      "question": "Tenis tarihinde, özellikle toprak korttaki inanılmaz başarısıyla 'Toprak Kortların Kralı' olarak anılan ve Roland Garros (Fransa Açık) turnuvasını rekor 14 kez kazanan sporcu kimdir?",
       "options": [
-        "Charles Ponzi",
-        "Frank Abagnale Jr.",
-        "Victor Lustig",
-        "Bernie Madoff",
-        "George C. Parker"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Recep İvedik film serilerinin yönetmenliğini üstlenen ve aynı zamanda filmlerin senaryosunu da yazan isim kimdir?",
-      "options": [
-        "Şahan Gökbakar",
-        "Ata Demirer",
-        "Togan Gökbakar",
-        "Cem Yılmaz",
-        "Gani Müjde"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türkiye Süper Lig tarihinde en fazla şampiyonluk kazanan futbol takımı aşağıdakilerden hangisidir?",
-      "options": [
-        "Beşiktaş",
-        "Fenerbahçe",
-        "Trabzonspor",
-        "Galatasaray",
-        "Bursaspor"
+        "Roger Federer",
+        "Novak Djokovic",
+        "Andy Murray",
+        "Rafael Nadal",
+        "Pete Sampras"
       ],
       "correct": 3
     },
     {
-      "question": "İkinci Dünya Savaşı'nın genel olarak başlangıcı kabul edilen, Almanya'nın hangi ülkeyi işgal etmesiyle başlayan olaydır?",
+      "question": "Rıfat Ilgaz'ın ölümsüz eseri \"Hababam Sınıfı\" film serisinde, öğrencilerin yaramazlıklarına rağmen onlara her zaman şefkatle yaklaşan ve arka çıkan, okuldaki 'Hafize Ana' karakterini canlandıran usta oyuncu kimdir?",
       "options": [
-        "Fransa",
-        "Avusturya",
-        "Polonya",
-        "Çekoslovakya",
-        "Belçika"
+        "Fatma Girik",
+        "Ayşen Gruda",
+        "Meral Zeren",
+        "Adile Naşit",
+        "Gülşen Bubikoğlu"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "\"Naruto\" animesinde, köyü Konoha'nın lideri olan ve 'gölge ateş' anlamına gelen unvanı taşıyan, en güçlü ninjalara verilen isim nedir?",
+      "options": [
+        "Raika",
+        "Kage",
+        "Hokage",
+        "Mizukage",
+        "Tsuchikage"
       ],
       "correct": 2
     },
     {
-      "question": "J.R.R. Tolkien'in \"Yüzüklerin Efendisi\" evreninde, tüm diğer güç yüzüklerini kontrol etmek ve Orta Dünya'ya hükmetmek amacıyla Tek Yüzük'ü döven karanlık lord kimdir?",
+      "question": "FIFA Dünya Kupası tarihinde, turnuvayı ilk kez düzenleyen ve aynı zamanda ilk şampiyonu olan ülke hangisidir?",
       "options": [
-        "Morgoth",
-        "Saruman",
-        "Sauron",
-        "Balrog",
-        "Witch-king of Angmar"
+        "İtalya",
+        "Brezilya",
+        "Arjantin",
+        "Fransa",
+        "Uruguay"
       ],
-      "correct": 2
+      "correct": 4
+    },
+    {
+      "question": "League of Legends'ın en büyük uluslararası turnuvası olan 'Worlds' (Dünya Şampiyonası) kupasını, dört kezle en çok kazanan profesyonel e-spor takımı aşağıdakilerden hangisidir?",
+      "options": [
+        "Fnatic",
+        "Gen.G Esports",
+        "Royal Never Give Up",
+        "T1 (eski adıyla SK Telecom T1)",
+        "EDward Gaming"
+      ],
+      "correct": 3
     }
   ]
 }
