@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Fox Kids'te yayınlanan 'Digimon Adventure' çizgi filminde, Agumon karakterinin eşi olan çocuk kahraman kimdir?",
+      "question": "Ünlü Türk yazar Orhan Pamuk, \"Kar\", \"Benim Adım Kırmızı\" gibi eserleriyle tanınmaktadır. Kendisi, Türk edebiyatına kazandırdığı değerli yapıtlar ve edebiyat dünyasına yaptığı katkılardan dolayı Nobel Edebiyat Ödülü'nü hangi yıl almıştır?",
       "options": [
-        "Taichi 'Tai' Kamiya",
-        "Matt Ishida",
-        "Izzy Izumi",
-        "Joe Kido",
-        "TK Takaishi"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "NBA efsanesi LeBron James, kariyerinde genellikle hangi lakapla anılmaktadır?",
-      "options": [
-        "The Answer",
-        "The Black Mamba",
-        "The King",
-        "Air Jordan",
-        "The Diesel"
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
       ],
       "correct": 2
     },
     {
-      "question": "Modern Türkiye Cumhuriyeti'nin kurucusu ve ilk Cumhurbaşkanı Mustafa Kemal Atatürk, Cumhuriyeti hangi tarihte ilan etmiştir?",
+      "question": "Boks tarihinin en büyük isimlerinden biri olarak kabul edilen ve \"En Büyük\" (The Greatest) lakabıyla anılan efsanevi boksör Muhammed Ali'nin doğumdaki adı nedir?",
       "options": [
-        "29 Ekim 1923",
-        "23 Nisan 1920",
-        "19 Mayıs 1919",
-        "30 Ağustos 1922",
-        "10 Kasım 1938"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Netflix'in popüler bilim kurgu dizisi 'Stranger Things'de, Eleven adlı karakterin sahip olduğu özel güç nedir?",
-      "options": [
-        "Ateş kontrolü",
-        "Görünmezlik",
-        "Telekinezi",
-        "Zaman yolculuğu",
-        "Uçma"
+        "Floyd Patterson",
+        "Mike Tyson",
+        "Cassius Marcellus Clay Jr.",
+        "George Foreman",
+        "Joe Frazier"
       ],
       "correct": 2
     },
     {
-      "question": "Marvel Sinematik Evreni'nde (MCU), Thanos'un evrendeki canlıların yarısını yok etmek için topladığı, her biri farklı bir gücü temsil eden nesnelere ne ad verilir?",
+      "question": "Türkiye'nin en popüler Twitch yayıncılarından biri olan Jahrein (Gürkan Berk), geniş kitlelere ulaşmasını sağlayan ve genellikle hangi tür içeriklerle tanınan bir yayıncıdır?",
       "options": [
-        "Chaos Emeralds",
-        "Dragon Balls",
-        "Infinity Stones",
-        "Elder Scrolls",
-        "Palantirler"
+        "Sadece yemek tarifleri",
+        "Giyim ve moda vlogları",
+        "Makrome ve el işi eğitimleri",
+        "Oyun yayınları ve sohbet içerikleri",
+        "Klasik müzik dinletileri"
       ],
-      "correct": 2
+      "correct": 3
+    },
+    {
+      "question": "Türk sinemasının unutulmaz klasiklerinden \"Selvi Boylum Al Yazmalım\" filminde, İlyas ile Cemşit arasında kalan ve \"Sevgi neydi? Sevgi emekti...\" repliğiyle özdeşleşen Asya karakterini canlandıran efsanevi oyuncu kimdir?",
+      "options": [
+        "Fatma Girik",
+        "Hülya Koçyiğit",
+        "Müjde Ar",
+        "Türkân Şoray",
+        "Filiz Akın"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "\"Salt Bae\" lakabıyla dünya çapında ün kazanan Türk işletmeci ve şef Nusret Gökçe, et üzerine tuz serpiş şekliyle adeta bir internet fenomeni haline gelmiştir. Bu ikonik hareketiyle ünlenen Nusret, sosyal medyada genellikle hangi platformda milyonlarca takipçiye sahiptir?",
+      "options": [
+        "Twitter (X)",
+        "TikTok",
+        "Facebook",
+        "YouTube",
+        "Instagram"
+      ],
+      "correct": 4
     }
   ]
 }
