@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Türkiye'de YouTube platformunda milyonlarca aboneye ulaşan ilk Türk YouTuber'lardan biri olan Enes Batur'un, 2018 yılında Altın Kelebek Ödülleri'nde kazandığı ödülün kategorisi nedir?",
+      "question": "MasterChef Türkiye'nin 2021 sezonunu kazanan isim kimdir?",
       "options": [
-        "En İyi Erkek Şarkıcı",
-        "En İyi Çıkış Yapan Oyuncu",
-        "En İyi YouTuber/Instagrammer",
-        "Yılın Fenomeni",
-        "En İyi Komedi Dizisi"
+        "Eren Kaşıkçı",
+        "Hasan Biltekin",
+        "Sergen Özen",
+        "Dilara Başaran",
+        "Tahsin Küçük"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Erkekler tenis tarihinde en çok Grand Slam tekler şampiyonluğu kazanan oyuncu kimdir?",
+      "options": [
+        "Rafael Nadal",
+        "Roger Federer",
+        "Novak Djokovic",
+        "Pete Sampras",
+        "Björn Borg"
       ],
       "correct": 2
     },
     {
-      "question": "Güney Kore yapımı popüler dizi Descendants of the Sun (Güneşin Torunları) dizisinde, başroldeki karizmatik asker Yüzbaşı Yoo Si-jin karakterini canlandıran ünlü oyuncu kimdir?",
+      "question": "\"Gülümse\", \"Şinanay\" ve \"Vazgeçtim\" gibi şarkılarıyla bilinen, Türk pop müziğinin en güçlü seslerinden ve söz yazarlarından biri olan 'Minik Serçe' lakaplı sanatçı kimdir?",
       "options": [
-        "Lee Min-ho",
-        "Gong Yoo",
-        "Song Joong-ki",
-        "Kim Soo-hyun",
-        "Park Seo-joon"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "20. yüzyılın en etkili moda ikonlarından biri olarak kabul edilen ve özellikle küçük siyah elbise (Little Black Dress) ve Chanel No. 5 parfümü ile özdeşleşen Fransız moda tasarımcısı kimdir?",
-      "options": [
-        "Christian Dior",
-        "Yves Saint Laurent",
-        "Coco Chanel",
-        "Giorgio Armani",
-        "Hubert de Givenchy"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Her yıl Türkiye'de televizyon ve müzik dünyasının en iyilerinin belirlendiği, Hürriyet Gazetesi ve Pantene işbirliğiyle düzenlenen prestijli ödül töreninin adı nedir?",
-      "options": [
-        "Magnum Altın Menekşe Ödülleri",
-        "Altın Portakal Film Festivali",
-        "Altın Kelebek Ödülleri",
-        "Sinema Yazarları Derneği Ödülleri",
-        "Kristal Fare Ödülleri"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türk spor tarihinin efsanevi isimlerinden biri olan ve halter dalında üç kez Olimpiyat şampiyonluğu kazanarak \"Cep Herkülü\" lakabıyla anılan sporcu kimdir?",
-      "options": [
-        "Halil Mutlu",
-        "Naim Süleymanoğlu",
-        "Hamza Yerlikaya",
-        "Mete Gazoz",
-        "Taha Akgül"
+        "Ajda Pekkan",
+        "Sezen Aksu",
+        "Nil Karaibrahimgil",
+        "Sertab Erener",
+        "Candan Erçetin"
       ],
       "correct": 1
+    },
+    {
+      "question": "Olimpiyat Oyunları tarihinde en çok madalya kazanan sporcu kimdir?",
+      "options": [
+        "Usain Bolt",
+        "Michael Phelps",
+        "Carl Lewis",
+        "Larissa Latynina",
+        "Paavo Nurmi"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Leonardo DiCaprio'nun uzun süre aday gösterilmesine rağmen sonunda ilk Oscar'ını kazandığı film hangisidir?",
+      "options": [
+        "Titanic",
+        "Inception",
+        "The Wolf of Wall Street",
+        "The Revenant",
+        "Django Unchained"
+      ],
+      "correct": 3
     }
   ]
 }
