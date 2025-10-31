@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "MasterChef Türkiye'nin 2021 sezonunu kazanan isim kimdir?",
+      "question": "Hangi ünlü dolandırıcı, 'Catch Me If You Can' filmine ilham veren hayat hikayesiyle tanınır?",
       "options": [
-        "Eren Kaşıkçı",
-        "Hasan Biltekin",
-        "Sergen Özen",
-        "Dilara Başaran",
-        "Tahsin Küçük"
+        "Frank Abagnale Jr.",
+        "Bernie Madoff",
+        "Charles Ponzi",
+        "Anna Delvey",
+        "Jordan Belfort"
       ],
       "correct": 0
     },
     {
-      "question": "Erkekler tenis tarihinde en çok Grand Slam tekler şampiyonluğu kazanan oyuncu kimdir?",
+      "question": "Nintendo'nun ikonik video oyunu serisi Super Mario'da, Mario'nun prensesi kurtarmak için sürekli mücadele ettiği baş düşmanı kimdir?",
       "options": [
-        "Rafael Nadal",
-        "Roger Federer",
-        "Novak Djokovic",
-        "Pete Sampras",
-        "Björn Borg"
+        "Bowser",
+        "Wario",
+        "King Boo",
+        "Donkey Kong",
+        "Ganon"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "\"Gülümse\", \"Şinanay\" ve \"Vazgeçtim\" gibi şarkılarıyla bilinen, Türk pop müziğinin en güçlü seslerinden ve söz yazarlarından biri olan 'Minik Serçe' lakaplı sanatçı kimdir?",
+      "question": "Yumurcak TV'de yayınlanan popüler çizgi filmlerden biri olan Şirinler'de, Şirinler'in kötü kalpli düşmanı ve onları yakalamaya çalışan büyücü kimdir?",
       "options": [
-        "Ajda Pekkan",
-        "Sezen Aksu",
-        "Nil Karaibrahimgil",
-        "Sertab Erener",
-        "Candan Erçetin"
+        "Gargamel",
+        "Azman",
+        "Temel Reis",
+        "Obelix",
+        "Red Kit"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
-      "question": "Olimpiyat Oyunları tarihinde en çok madalya kazanan sporcu kimdir?",
+      "question": "Twitter'ın son dönemde geçirdiği büyük isim değişikliğiyle birlikte, platformun yeni adı ne olmuştur?",
       "options": [
-        "Usain Bolt",
-        "Michael Phelps",
-        "Carl Lewis",
-        "Larissa Latynina",
-        "Paavo Nurmi"
+        "X",
+        "Threads",
+        "Meta",
+        "BlueSky",
+        "Spill"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
-      "question": "Leonardo DiCaprio'nun uzun süre aday gösterilmesine rağmen sonunda ilk Oscar'ını kazandığı film hangisidir?",
+      "question": "Pop müziğin dünyaca ünlü yıldızı Taylor Swift, master kayıtlarının sahipliğini geri almak için albümlerini yeniden kaydetme projesine hangi isimle devam etmektedir?",
       "options": [
-        "Titanic",
-        "Inception",
-        "The Wolf of Wall Street",
-        "The Revenant",
-        "Django Unchained"
+        "Taylor's Version",
+        "The Redo Project",
+        "My Own Voice",
+        "Reimagined",
+        "From The Vault"
       ],
-      "correct": 3
+      "correct": 0
     }
   ]
 }
