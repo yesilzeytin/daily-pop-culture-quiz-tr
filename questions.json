@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Hangi ünlü dolandırıcı, 'Catch Me If You Can' filmine ilham veren hayat hikayesiyle tanınır?",
+      "question": "Yaz Olimpiyat Oyunları tarihinde en çok kez ev sahipliği yapan şehirlerden biri olan, 1896 ve 2004 yıllarında Olimpiyatlara ev sahipliği yapmış olan şehir hangisidir?",
       "options": [
-        "Frank Abagnale Jr.",
-        "Bernie Madoff",
-        "Charles Ponzi",
-        "Anna Delvey",
-        "Jordan Belfort"
+        "Paris",
+        "Londra",
+        "Atina",
+        "Los Angeles",
+        "Tokyo"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "question": "Nintendo'nun ikonik video oyunu serisi Super Mario'da, Mario'nun prensesi kurtarmak için sürekli mücadele ettiği baş düşmanı kimdir?",
+      "question": "Şampiyonlar Ligi (eski adıyla Şampiyon Kulüpler Kupası) tarihinde kupayı en çok kazanan takım hangisidir?",
       "options": [
-        "Bowser",
-        "Wario",
-        "King Boo",
-        "Donkey Kong",
-        "Ganon"
+        "Bayern Münih",
+        "Liverpool",
+        "AC Milan",
+        "Real Madrid",
+        "Barcelona"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
-      "question": "Yumurcak TV'de yayınlanan popüler çizgi filmlerden biri olan Şirinler'de, Şirinler'in kötü kalpli düşmanı ve onları yakalamaya çalışan büyücü kimdir?",
+      "question": "NBA tarihinde tüm zamanların en çok sayı atan oyuncusu unvanını elinde bulunduran isim kimdir?",
       "options": [
-        "Gargamel",
-        "Azman",
-        "Temel Reis",
-        "Obelix",
-        "Red Kit"
+        "Michael Jordan",
+        "Kareem Abdul-Jabbar",
+        "LeBron James",
+        "Kobe Bryant",
+        "Karl Malone"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "question": "Twitter'ın son dönemde geçirdiği büyük isim değişikliğiyle birlikte, platformun yeni adı ne olmuştur?",
+      "question": "EuroLeague (THY Avrupa Ligi) şampiyonluğunu kazanan ilk Türk erkek basketbol takımı hangisidir?",
       "options": [
-        "X",
-        "Threads",
-        "Meta",
-        "BlueSky",
-        "Spill"
+        "Anadolu Efes",
+        "Galatasaray Nef",
+        "Pınar Karşıyaka",
+        "Fenerbahçe Beko",
+        "Beşiktaş Emlakjet"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
-      "question": "Pop müziğin dünyaca ünlü yıldızı Taylor Swift, master kayıtlarının sahipliğini geri almak için albümlerini yeniden kaydetme projesine hangi isimle devam etmektedir?",
+      "question": "\"Susamam\" adlı sosyal sorumluluk projesi niteliğindeki şarkıya öncülük eden ve Türk rap müziğinin önemli isimlerinden biri olan rap sanatçısı kimdir?",
       "options": [
-        "Taylor's Version",
-        "The Redo Project",
-        "My Own Voice",
-        "Reimagined",
-        "From The Vault"
+        "Sagopa Kajmer",
+        "Ceza",
+        "Ezhel",
+        "Şanışer",
+        "Norm Ender"
       ],
-      "correct": 0
+      "correct": 3
     }
   ]
 }
