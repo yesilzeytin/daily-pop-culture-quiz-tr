@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Yaz Olimpiyat Oyunları tarihinde en çok kez ev sahipliği yapan şehirlerden biri olan, 1896 ve 2004 yıllarında Olimpiyatlara ev sahipliği yapmış olan şehir hangisidir?",
+      "question": "MasterChef Türkiye'nin 2022 sezonunda şampiyonluğa ulaşan ve izleyicilerin sevgisini kazanan isim kimdir?",
       "options": [
-        "Paris",
-        "Londra",
-        "Atina",
-        "Los Angeles",
-        "Tokyo"
+        "Uğur Kardaş",
+        "Cemre Uyanık",
+        "Metin Yavuz",
+        "Serhat Doğramacı",
+        "Eren Kaşıkçı"
       ],
       "correct": 2
     },
     {
-      "question": "Şampiyonlar Ligi (eski adıyla Şampiyon Kulüpler Kupası) tarihinde kupayı en çok kazanan takım hangisidir?",
+      "question": "Disney Channel'ın popüler çizgi filmlerinden \"Esrarengiz Kasaba\"da, yaz tatillerini amcaları Stan'in yanında geçiren ve kasabanın gizemlerini çözmeye çalışan ikiz kardeşlerin isimleri nelerdir?",
       "options": [
-        "Bayern Münih",
-        "Liverpool",
-        "AC Milan",
-        "Real Madrid",
-        "Barcelona"
+        "Zack ve Cody Martin",
+        "Dipper ve Mabel Pines",
+        "Phineas ve Ferb Flynn",
+        "Kim ve Ron Stoppable",
+        "Perry ve Doofenshmirtz"
       ],
-      "correct": 3
+      "correct": 1
     },
     {
-      "question": "NBA tarihinde tüm zamanların en çok sayı atan oyuncusu unvanını elinde bulunduran isim kimdir?",
+      "question": "\"Bohemian Rhapsody\", \"We Will Rock You\" gibi efsanevi şarkıların seslendiricisi, Queen grubunun unutulmaz solisti, sahne performansı ve ses yeteneğiyle dünya çapında tanınan isim kimdir?",
       "options": [
-        "Michael Jordan",
-        "Kareem Abdul-Jabbar",
-        "LeBron James",
-        "Kobe Bryant",
-        "Karl Malone"
+        "Mick Jagger",
+        "David Bowie",
+        "Freddie Mercury",
+        "Elton John",
+        "George Michael"
       ],
       "correct": 2
     },
     {
-      "question": "EuroLeague (THY Avrupa Ligi) şampiyonluğunu kazanan ilk Türk erkek basketbol takımı hangisidir?",
+      "question": "2000'li yılların başında Türkiye'nin ilk büyük ses yarışmalarından biri olarak Kanal D ekranlarında yayınlanan ve daha sonra pek çok benzer formata öncülük eden, halkın oylarıyla belirlenen popüler müzik yarışması hangisidir?",
       "options": [
-        "Anadolu Efes",
-        "Galatasaray Nef",
-        "Pınar Karşıyaka",
-        "Fenerbahçe Beko",
-        "Beşiktaş Emlakjet"
+        "O Ses Türkiye",
+        "Akademi Türkiye",
+        "Yetenek Sizsiniz Türkiye",
+        "Popstar Türkiye",
+        "Star Avı"
       ],
       "correct": 3
     },
     {
-      "question": "\"Susamam\" adlı sosyal sorumluluk projesi niteliğindeki şarkıya öncülük eden ve Türk rap müziğinin önemli isimlerinden biri olan rap sanatçısı kimdir?",
+      "question": "Formula 1 tarihinde en çok Dünya Şampiyonluğu kazanan iki pilottan biri olan, Alman efsanevi pilot Michael Schumacher, kariyerinin büyük bir kısmını hangi takımla geçirerek efsaneleşmiştir?",
       "options": [
-        "Sagopa Kajmer",
-        "Ceza",
-        "Ezhel",
-        "Şanışer",
-        "Norm Ender"
+        "Mercedes",
+        "McLaren",
+        "Red Bull Racing",
+        "Williams",
+        "Ferrari"
       ],
-      "correct": 3
+      "correct": 4
     }
   ]
 }
