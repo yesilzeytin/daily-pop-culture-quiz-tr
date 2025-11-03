@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "MasterChef Türkiye'nin 2022 sezonunda şampiyonluğa ulaşan ve izleyicilerin sevgisini kazanan isim kimdir?",
+      "question": "Türkiye'nin en popüler Twitch yayıncılarından biri olan ve genellikle oyun yayınları, sohbet ve reaction videolarıyla tanınan \"Elraenn\" lakaplı yayıncının gerçek adı nedir?",
       "options": [
-        "Uğur Kardaş",
-        "Cemre Uyanık",
-        "Metin Yavuz",
-        "Serhat Doğramacı",
-        "Eren Kaşıkçı"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Disney Channel'ın popüler çizgi filmlerinden \"Esrarengiz Kasaba\"da, yaz tatillerini amcaları Stan'in yanında geçiren ve kasabanın gizemlerini çözmeye çalışan ikiz kardeşlerin isimleri nelerdir?",
-      "options": [
-        "Zack ve Cody Martin",
-        "Dipper ve Mabel Pines",
-        "Phineas ve Ferb Flynn",
-        "Kim ve Ron Stoppable",
-        "Perry ve Doofenshmirtz"
+        "Ferit Karakaya",
+        "Cantuğ Özsoy",
+        "Pınar Demirel",
+        "Cem Karakoç",
+        "Tuna Akşen"
       ],
       "correct": 1
     },
     {
-      "question": "\"Bohemian Rhapsody\", \"We Will Rock You\" gibi efsanevi şarkıların seslendiricisi, Queen grubunun unutulmaz solisti, sahne performansı ve ses yeteneğiyle dünya çapında tanınan isim kimdir?",
+      "question": "Birinci Dünya Savaşı sırasında, 1914 Noel'inde Batı Cephesi'nde cephelerdeki askerlerin kendi inisiyatifleriyle ateşkes yaparak futbol oynadığı ve bayramlaştığı, barışın kısa bir an yaşandığı olayin adı nedir?",
       "options": [
-        "Mick Jagger",
-        "David Bowie",
-        "Freddie Mercury",
-        "Elton John",
-        "George Michael"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "2000'li yılların başında Türkiye'nin ilk büyük ses yarışmalarından biri olarak Kanal D ekranlarında yayınlanan ve daha sonra pek çok benzer formata öncülük eden, halkın oylarıyla belirlenen popüler müzik yarışması hangisidir?",
-      "options": [
-        "O Ses Türkiye",
-        "Akademi Türkiye",
-        "Yetenek Sizsiniz Türkiye",
-        "Popstar Türkiye",
-        "Star Avı"
+        "Verdun Ateşkesi",
+        "Somme Barışı",
+        "I. Ypres Mütarekesi",
+        "Noel Ateşkesi",
+        "Marne Anlaşması"
       ],
       "correct": 3
     },
     {
-      "question": "Formula 1 tarihinde en çok Dünya Şampiyonluğu kazanan iki pilottan biri olan, Alman efsanevi pilot Michael Schumacher, kariyerinin büyük bir kısmını hangi takımla geçirerek efsaneleşmiştir?",
+      "question": "2017 yılında EuroLeague şampiyonluğunu kazanarak bu başarıyı yakalayan ilk Türk erkek basketbol takımı olan Fenerbahçe Doğuş'un o dönemki efsanevi başantrenörü kimdi?",
       "options": [
-        "Mercedes",
-        "McLaren",
-        "Red Bull Racing",
-        "Williams",
-        "Ferrari"
+        "Ergin Ataman",
+        "Ufuk Sarıca",
+        "Željko Obradović",
+        "Orhun Ene",
+        "Oktay Mahmuti"
       ],
-      "correct": 4
+      "correct": 2
+    },
+    {
+      "question": "İnternet dünyasında \"Doge\" olarak bilinen ve genellikle Shiba Inu cinsi bir köpeğin komik iç monologlarıyla (such wow, very skill, much amaze) özdeşlenen popüler internet meme'i hangi köpek ırkına aittir?",
+      "options": [
+        "Golden Retriever",
+        "Pug",
+        "Shiba Inu",
+        "Fransız Bulldog",
+        "Sibirya Kurdu"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Pixar'ın 2009 yapımı animasyon filmi \"Yukarı Bak\"ta (Up), eşinin hayalini gerçekleştirmek için evini binlerce balonla uçuran yaşlı maceraperestin adı nedir?",
+      "options": [
+        "Carl Fredricksen",
+        "Russell",
+        "Dug",
+        "Charles Muntz",
+        "Kevin"
+      ],
+      "correct": 0
     }
   ]
 }
