@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Türkiye'nin en popüler Twitch yayıncılarından biri olan ve genellikle oyun yayınları, sohbet ve reaction videolarıyla tanınan \"Elraenn\" lakaplı yayıncının gerçek adı nedir?",
+      "question": "Yeşilçam klasikleri arasında yer alan 'Tosun Paşa' filminde, Şaban karakterinin aslında kim olduğu ortaya çıktıktan sonraki adı nedir?",
       "options": [
-        "Ferit Karakaya",
-        "Cantuğ Özsoy",
-        "Pınar Demirel",
-        "Cem Karakoç",
-        "Tuna Akşen"
+        "Tosun Paşa",
+        "Lütfü Paşa",
+        "Abdullah Paşa",
+        "Dilaver Bey",
+        "Suphi Bey"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Christopher Nolan'ın yönettiği 'Kara Şövalye' (The Dark Knight) üçlemesinde Batman karakterini canlandıran oyuncu kimdir?",
+      "options": [
+        "Christian Bale",
+        "Ben Affleck",
+        "Michael Keaton",
+        "George Clooney",
+        "Robert Pattinson"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Harry Potter evreninde, Hogwarts Cadılık ve Büyücülük Okulu'nun dört binasından biri olan 'Slytherin'in kurucusu kimdir?",
+      "options": [
+        "Godric Gryffindor",
+        "Salazar Slytherin",
+        "Helga Hufflepuff",
+        "Rowena Ravenclaw",
+        "Albus Dumbledore"
       ],
       "correct": 1
     },
     {
-      "question": "Birinci Dünya Savaşı sırasında, 1914 Noel'inde Batı Cephesi'nde cephelerdeki askerlerin kendi inisiyatifleriyle ateşkes yaparak futbol oynadığı ve bayramlaştığı, barışın kısa bir an yaşandığı olayin adı nedir?",
+      "question": "Osmanlı İmparatorluğu'nda 'Lale Devri' olarak bilinen ve zenginlik, estetik ve Batılılaşma akımlarının yaşandığı dönem, hangi padişahın saltanatı sırasında gerçekleşmiştir?",
       "options": [
-        "Verdun Ateşkesi",
-        "Somme Barışı",
-        "I. Ypres Mütarekesi",
-        "Noel Ateşkesi",
-        "Marne Anlaşması"
+        "Fatih Sultan Mehmet",
+        "Yavuz Sultan Selim",
+        "Kanuni Sultan Süleyman",
+        "III. Ahmet",
+        "II. Abdülhamid"
       ],
       "correct": 3
     },
     {
-      "question": "2017 yılında EuroLeague şampiyonluğunu kazanarak bu başarıyı yakalayan ilk Türk erkek basketbol takımı olan Fenerbahçe Doğuş'un o dönemki efsanevi başantrenörü kimdi?",
+      "question": "Türkiye'nin en popüler komedi filmlerinden 'Vizontele'de, 'Deli Emin' karakterini canlandıran ve seyirciden büyük beğeni toplayan oyuncu kimdir?",
       "options": [
-        "Ergin Ataman",
-        "Ufuk Sarıca",
-        "Željko Obradović",
-        "Orhun Ene",
-        "Oktay Mahmuti"
+        "Şener Şen",
+        "Cem Yılmaz",
+        "Yılmaz Erdoğan",
+        "Demet Akbağ",
+        "Altan Erkekli"
       ],
       "correct": 2
-    },
-    {
-      "question": "İnternet dünyasında \"Doge\" olarak bilinen ve genellikle Shiba Inu cinsi bir köpeğin komik iç monologlarıyla (such wow, very skill, much amaze) özdeşlenen popüler internet meme'i hangi köpek ırkına aittir?",
-      "options": [
-        "Golden Retriever",
-        "Pug",
-        "Shiba Inu",
-        "Fransız Bulldog",
-        "Sibirya Kurdu"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Pixar'ın 2009 yapımı animasyon filmi \"Yukarı Bak\"ta (Up), eşinin hayalini gerçekleştirmek için evini binlerce balonla uçuran yaşlı maceraperestin adı nedir?",
-      "options": [
-        "Carl Fredricksen",
-        "Russell",
-        "Dug",
-        "Charles Muntz",
-        "Kevin"
-      ],
-      "correct": 0
     }
   ]
 }
