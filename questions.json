@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Yeşilçam klasikleri arasında yer alan 'Tosun Paşa' filminde, Şaban karakterinin aslında kim olduğu ortaya çıktıktan sonraki adı nedir?",
+      "question": "Star Wars evreninde, Güç'ün aydınlık tarafını temsil eden ve barışı korumakla görevli, ışın kılıcı kullanan savaşçıların oluşturduğu antik tarikatın adı nedir?",
       "options": [
-        "Tosun Paşa",
-        "Lütfü Paşa",
-        "Abdullah Paşa",
-        "Dilaver Bey",
-        "Suphi Bey"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Christopher Nolan'ın yönettiği 'Kara Şövalye' (The Dark Knight) üçlemesinde Batman karakterini canlandıran oyuncu kimdir?",
-      "options": [
-        "Christian Bale",
-        "Ben Affleck",
-        "Michael Keaton",
-        "George Clooney",
-        "Robert Pattinson"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Harry Potter evreninde, Hogwarts Cadılık ve Büyücülük Okulu'nun dört binasından biri olan 'Slytherin'in kurucusu kimdir?",
-      "options": [
-        "Godric Gryffindor",
-        "Salazar Slytherin",
-        "Helga Hufflepuff",
-        "Rowena Ravenclaw",
-        "Albus Dumbledore"
+        "Sith",
+        "Jedi",
+        "Mandaloryalılar",
+        "Federasyon",
+        "Galaktik İmparatorluk"
       ],
       "correct": 1
     },
     {
-      "question": "Osmanlı İmparatorluğu'nda 'Lale Devri' olarak bilinen ve zenginlik, estetik ve Batılılaşma akımlarının yaşandığı dönem, hangi padişahın saltanatı sırasında gerçekleşmiştir?",
+      "question": "İkinci Dünya Savaşı sırasında, Müttefik Devletlerin Avrupa'yı Nazi işgalinden kurtarmak için gerçekleştirdiği, Normandiya Çıkarması olarak bilinen büyük amfibi operasyonun kod adı nedir?",
       "options": [
-        "Fatih Sultan Mehmet",
-        "Yavuz Sultan Selim",
-        "Kanuni Sultan Süleyman",
-        "III. Ahmet",
-        "II. Abdülhamid"
+        "Operasyon Barbarossa",
+        "Operasyon Torch",
+        "Operasyon Overlord",
+        "Operasyon Market Garden",
+        "Operasyon Mincemeat"
       ],
-      "correct": 3
+      "correct": 2
     },
     {
-      "question": "Türkiye'nin en popüler komedi filmlerinden 'Vizontele'de, 'Deli Emin' karakterini canlandıran ve seyirciden büyük beğeni toplayan oyuncu kimdir?",
+      "question": "90'lı yılların sonu ve 2000'li yılların başında özellikle çocukların gözdesi olan, içinde portakal jölesi bulunan ve dışı çikolata kaplı, minik kareler halinde satılan efsanevi atıştırmalığın adı nedir?",
       "options": [
-        "Şener Şen",
-        "Cem Yılmaz",
-        "Yılmaz Erdoğan",
-        "Demet Akbağ",
-        "Altan Erkekli"
+        "Bonibon",
+        "Albeni",
+        "Cino",
+        "Tipitip",
+        "Eti Puf"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Netflix'in tüm dünyada büyük ilgi gören Güney Kore yapımı dizisi \"Squid Game\"de, borç batağındaki yüzlerce insanın ölüm kalım mücadelesi verdiği ilk çocuk oyunu hangisidir?",
+      "options": [
+        "Halat Çekme",
+        "Cam Köprü",
+        "Kırmızı Işık, Yeşil Işık",
+        "Dalgona Şekeri",
+        "Misket Oyunu"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Counter-Strike: Global Offensive (CS:GO) oyununun en prestijli uluslararası turnuvalarına verilen genel isim nedir?",
+      "options": [
+        "The International",
+        "Worlds Championship",
+        "Major Turnuvalar",
+        "LEC Finalleri",
+        "MSI (Mid-Season Invitational)"
       ],
       "correct": 2
     }
