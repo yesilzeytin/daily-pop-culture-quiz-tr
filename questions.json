@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Star Wars evreninde, Güç'ün aydınlık tarafını temsil eden ve barışı korumakla görevli, ışın kılıcı kullanan savaşçıların oluşturduğu antik tarikatın adı nedir?",
+      "question": "Galatasaray Futbol Takımı, 2000 yılında UEFA Kupası'nı kazanarak Türk futbol tarihinde bir ilki başardı. Bu tarihi finalde Galatasaray'ın rakibi hangi takımdı?",
       "options": [
-        "Sith",
-        "Jedi",
-        "Mandaloryalılar",
-        "Federasyon",
-        "Galaktik İmparatorluk"
+        "Arsenal",
+        "Real Madrid",
+        "Bayern Münih",
+        "Parma",
+        "Lazio"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "YouTube platformunda 'MrBeast' olarak bilinen ve büyük ölçekli yardım projeleri, meydan okumalar ve para ödüllü videolarıyla tanınan ünlü içerik üreticisinin gerçek adı nedir?",
+      "options": [
+        "Logan Paul",
+        "Jimmy Donaldson",
+        "Jake Paul",
+        "David Dobrik",
+        "Markiplier"
       ],
       "correct": 1
     },
     {
-      "question": "İkinci Dünya Savaşı sırasında, Müttefik Devletlerin Avrupa'yı Nazi işgalinden kurtarmak için gerçekleştirdiği, Normandiya Çıkarması olarak bilinen büyük amfibi operasyonun kod adı nedir?",
+      "question": "Şampiyonlar Ligi tarihinde, 1999 yılında Manchester United'ın Bayern Münih karşısında son dakikalarda attığı iki golle maçı çevirerek kupayı kazandığı efsanevi final hangi statta oynanmıştır?",
       "options": [
-        "Operasyon Barbarossa",
-        "Operasyon Torch",
-        "Operasyon Overlord",
-        "Operasyon Market Garden",
-        "Operasyon Mincemeat"
+        "Wembley Stadyumu",
+        "Camp Nou",
+        "San Siro",
+        "Olimpiyat Stadyumu (Atina)",
+        "Old Trafford"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
-      "question": "90'lı yılların sonu ve 2000'li yılların başında özellikle çocukların gözdesi olan, içinde portakal jölesi bulunan ve dışı çikolata kaplı, minik kareler halinde satılan efsanevi atıştırmalığın adı nedir?",
+      "question": "Formula 1 tarihinde en çok Dünya Şampiyonluğu kazanan iki pilottan biri olan Lewis Hamilton, bu rekoru Michael Schumacher ile paylaşmaktadır. Hamilton, kariyerindeki ilk Dünya Şampiyonluğu'nu hangi yıl kazanmıştır?",
       "options": [
-        "Bonibon",
-        "Albeni",
-        "Cino",
-        "Tipitip",
-        "Eti Puf"
+        "2007",
+        "2008",
+        "2010",
+        "2013",
+        "2014"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
-      "question": "Netflix'in tüm dünyada büyük ilgi gören Güney Kore yapımı dizisi \"Squid Game\"de, borç batağındaki yüzlerce insanın ölüm kalım mücadelesi verdiği ilk çocuk oyunu hangisidir?",
+      "question": "İnternet dünyasının temel taşlarından biri olan World Wide Web (WWW) projesi, 1989 yılında hangi kurumda Tim Berners-Lee tarafından geliştirilmiştir?",
       "options": [
-        "Halat Çekme",
-        "Cam Köprü",
-        "Kırmızı Işık, Yeşil Işık",
-        "Dalgona Şekeri",
-        "Misket Oyunu"
+        "Microsoft",
+        "Google",
+        "NASA",
+        "CERN",
+        "MIT"
       ],
-      "correct": 2
-    },
-    {
-      "question": "Counter-Strike: Global Offensive (CS:GO) oyununun en prestijli uluslararası turnuvalarına verilen genel isim nedir?",
-      "options": [
-        "The International",
-        "Worlds Championship",
-        "Major Turnuvalar",
-        "LEC Finalleri",
-        "MSI (Mid-Season Invitational)"
-      ],
-      "correct": 2
+      "correct": 3
     }
   ]
 }
