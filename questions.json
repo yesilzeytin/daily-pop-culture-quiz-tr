@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Galatasaray Futbol Takımı, 2000 yılında UEFA Kupası'nı kazanarak Türk futbol tarihinde bir ilki başardı. Bu tarihi finalde Galatasaray'ın rakibi hangi takımdı?",
+      "question": "The Witcher oyun ve dizi serisinde, canavar avcısı Geralt'ın her zaman sadık dostu olan ve maceralarında ona eşlik eden atının adı nedir?",
       "options": [
-        "Arsenal",
-        "Real Madrid",
-        "Bayern Münih",
-        "Parma",
-        "Lazio"
+        "Roach",
+        "Shadowmere",
+        "Epona",
+        "Agro",
+        "Phantom"
       ],
       "correct": 0
     },
     {
-      "question": "YouTube platformunda 'MrBeast' olarak bilinen ve büyük ölçekli yardım projeleri, meydan okumalar ve para ödüllü videolarıyla tanınan ünlü içerik üreticisinin gerçek adı nedir?",
+      "question": "Popüler Nickelodeon çizgi filmi SüngerBob KareŞort'un, denizanası avladığı ve sık sık Patrick ile takıldığı su altı şehrinin adı nedir?",
       "options": [
-        "Logan Paul",
-        "Jimmy Donaldson",
-        "Jake Paul",
-        "David Dobrik",
-        "Markiplier"
+        "Mercan Şehri",
+        "Bikini Kasabası",
+        "Atlantis",
+        "Deniz Yıldızı Limanı",
+        "Pasifik Köyü"
       ],
       "correct": 1
     },
     {
-      "question": "Şampiyonlar Ligi tarihinde, 1999 yılında Manchester United'ın Bayern Münih karşısında son dakikalarda attığı iki golle maçı çevirerek kupayı kazandığı efsanevi final hangi statta oynanmıştır?",
+      "question": "Şahan Gökbakar'ın yaratıp canlandırdığı popüler Türk komedi filmi serisi Recep İvedik'te, Recep'in en yakın arkadaşı ve maceralarına ortak olan karakterin adı nedir?",
       "options": [
-        "Wembley Stadyumu",
-        "Camp Nou",
-        "San Siro",
-        "Olimpiyat Stadyumu (Atina)",
-        "Old Trafford"
+        "Osman",
+        "Cevat",
+        "Nurullah",
+        "Cemal",
+        "Kenan"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
-      "question": "Formula 1 tarihinde en çok Dünya Şampiyonluğu kazanan iki pilottan biri olan Lewis Hamilton, bu rekoru Michael Schumacher ile paylaşmaktadır. Hamilton, kariyerindeki ilk Dünya Şampiyonluğu'nu hangi yıl kazanmıştır?",
+      "question": "Nintendo'nun efsanevi The Legend of Zelda oyun serisinde, kahraman Link'in genellikle kötü güçlerden kurtarmaya çalıştığı ve Hyrule krallığının prensesi olan karakterin adı nedir?",
       "options": [
-        "2007",
-        "2008",
-        "2010",
-        "2013",
-        "2014"
+        "Prenses Peach",
+        "Prenses Rosalina",
+        "Prenses Daisy",
+        "Prenses Zelda",
+        "Prenses Pauline"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
-      "question": "İnternet dünyasının temel taşlarından biri olan World Wide Web (WWW) projesi, 1989 yılında hangi kurumda Tim Berners-Lee tarafından geliştirilmiştir?",
+      "question": "Birinci Dünya Savaşı'nın başlamasına doğrudan neden olan ve savaşın fitilini ateşleyen olay nedir?",
       "options": [
-        "Microsoft",
-        "Google",
-        "NASA",
-        "CERN",
-        "MIT"
+        "Rusya'nın Osmanlı İmparatorluğu'na savaş ilan etmesi",
+        "Almanya'nın Belçika'yı işgali",
+        "Osmanlı İmparatorluğu'nun İtilaf Devletleri'ne katılması",
+        "Avusturya-Macaristan Arşidükü Franz Ferdinand'ın Saraybosna'da suikaste uğraması",
+        "İngiltere'nin Almanya'ya savaş açması"
       ],
       "correct": 3
     }
