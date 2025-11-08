@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "The Witcher oyun ve dizi serisinde, canavar avcısı Geralt'ın her zaman sadık dostu olan ve maceralarında ona eşlik eden atının adı nedir?",
+      "question": "Yeşilçam klasikleri arasında yer alan 'Hababam Sınıfı' film serisinde, okulun disiplinli ve öğrencilerin saygı duyduğu müdür yardımcısı karakterinin adı nedir?",
       "options": [
-        "Roach",
-        "Shadowmere",
-        "Epona",
-        "Agro",
-        "Phantom"
+        "Badi Ekrem",
+        "Hafize Ana",
+        "Güdük Necmi",
+        "Mahmut Hoca",
+        "Domdom Ali"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
-      "question": "Popüler Nickelodeon çizgi filmi SüngerBob KareŞort'un, denizanası avladığı ve sık sık Patrick ile takıldığı su altı şehrinin adı nedir?",
+      "question": "Stanley Kubrick'in Soğuk Savaş dönemi nükleer savaş paranoyasını mizahi bir dille ele alan, 1964 yapımı hiciv filminin tam adı nedir?",
       "options": [
-        "Mercan Şehri",
-        "Bikini Kasabası",
-        "Atlantis",
-        "Deniz Yıldızı Limanı",
-        "Pasifik Köyü"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Şahan Gökbakar'ın yaratıp canlandırdığı popüler Türk komedi filmi serisi Recep İvedik'te, Recep'in en yakın arkadaşı ve maceralarına ortak olan karakterin adı nedir?",
-      "options": [
-        "Osman",
-        "Cevat",
-        "Nurullah",
-        "Cemal",
-        "Kenan"
+        "Full Metal Jacket",
+        "2001: Bir Uzay Destanı",
+        "Dr. Garipaşk veya: Nasıl Kaygılanmayı Bırakıp Bombayı Sevmeyi Öğrendim",
+        "Otomatik Portakal",
+        "Zafer Yolları"
       ],
       "correct": 2
     },
     {
-      "question": "Nintendo'nun efsanevi The Legend of Zelda oyun serisinde, kahraman Link'in genellikle kötü güçlerden kurtarmaya çalıştığı ve Hyrule krallığının prensesi olan karakterin adı nedir?",
+      "question": "PlayStation'ın efsanevi serisi God of War'da, ana karakter Kratos'un simgeleşmiş silahlarından 'Kaos Kılıçları' (Blades of Chaos) ona hangi Yunan tanrısı tarafından verilmiştir?",
       "options": [
-        "Prenses Peach",
-        "Prenses Rosalina",
-        "Prenses Daisy",
-        "Prenses Zelda",
-        "Prenses Pauline"
+        "Zeus",
+        "Hades",
+        "Ares",
+        "Poseidon",
+        "Athena"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "80'li ve 90'lı yılların çocuklarının popüler atıştırmalıklarından biri olan ve içinden çıkan minik karikatürlü etiketleriyle bilinen, hala hafızalarda yer eden sakız markası hangisidir?",
+      "options": [
+        "Patlayan Şeker",
+        "Cino",
+        "Leblebi Tozu",
+        "Tipitip",
+        "Düdüklü Şeker"
       ],
       "correct": 3
     },
     {
-      "question": "Birinci Dünya Savaşı'nın başlamasına doğrudan neden olan ve savaşın fitilini ateşleyen olay nedir?",
+      "question": "İnternet mizah tarihinde 'Hide the Pain Harold' olarak tanınan ve genellikle acı dolu bir gülümsemeyle poz veren, memesinde sıklıkla kullanılan yaşlı adamın gerçek adı nedir?",
       "options": [
-        "Rusya'nın Osmanlı İmparatorluğu'na savaş ilan etmesi",
-        "Almanya'nın Belçika'yı işgali",
-        "Osmanlı İmparatorluğu'nun İtilaf Devletleri'ne katılması",
-        "Avusturya-Macaristan Arşidükü Franz Ferdinand'ın Saraybosna'da suikaste uğraması",
-        "İngiltere'nin Almanya'ya savaş açması"
+        "Gerry Rafferty",
+        "András Arató",
+        "David Thorne",
+        "Rick Astley",
+        "Chuck Norris"
       ],
-      "correct": 3
+      "correct": 1
     }
   ]
 }
