@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Yeşilçam klasikleri arasında yer alan 'Hababam Sınıfı' film serisinde, okulun disiplinli ve öğrencilerin saygı duyduğu müdür yardımcısı karakterinin adı nedir?",
+      "question": "\"Küçük siyah elbise\" (Little Black Dress) moda tarihine damga vuran ve Audrey Hepburn ile özdeşleşen bu ikonik kıyafetin, \"Tiffany'de Kahvaltı\" (Breakfast at Tiffany's) filmindeki versiyonunu tasarlayan ünlü moda tasarımcısı kimdir?",
       "options": [
-        "Badi Ekrem",
-        "Hafize Ana",
-        "Güdük Necmi",
-        "Mahmut Hoca",
-        "Domdom Ali"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Stanley Kubrick'in Soğuk Savaş dönemi nükleer savaş paranoyasını mizahi bir dille ele alan, 1964 yapımı hiciv filminin tam adı nedir?",
-      "options": [
-        "Full Metal Jacket",
-        "2001: Bir Uzay Destanı",
-        "Dr. Garipaşk veya: Nasıl Kaygılanmayı Bırakıp Bombayı Sevmeyi Öğrendim",
-        "Otomatik Portakal",
-        "Zafer Yolları"
+        "Christian Dior",
+        "Coco Chanel",
+        "Hubert de Givenchy",
+        "Yves Saint Laurent",
+        "Giorgio Armani"
       ],
       "correct": 2
     },
     {
-      "question": "PlayStation'ın efsanevi serisi God of War'da, ana karakter Kratos'un simgeleşmiş silahlarından 'Kaos Kılıçları' (Blades of Chaos) ona hangi Yunan tanrısı tarafından verilmiştir?",
+      "question": "\"Cep Herkülü\" lakabıyla bilinen, halter dalında üst üste üç kez Olimpiyat şampiyonu olarak Türk spor tarihine adını altın harflerle yazdıran efsanevi sporcumuz kimdir?",
       "options": [
-        "Zeus",
-        "Hades",
-        "Ares",
-        "Poseidon",
-        "Athena"
+        "Halil Mutlu",
+        "Hamza Yerlikaya",
+        "Naim Süleymanoğlu",
+        "Şahin İnan",
+        "Taner Sağır"
       ],
       "correct": 2
     },
     {
-      "question": "80'li ve 90'lı yılların çocuklarının popüler atıştırmalıklarından biri olan ve içinden çıkan minik karikatürlü etiketleriyle bilinen, hala hafızalarda yer eden sakız markası hangisidir?",
+      "question": "Nintendo'nun popüler oyun ve anime serisi Pokémon'un en tanınmış karakterlerinden biri olan, ana kahraman Ash Ketchum'un yol arkadaşı ve elektrik tipi Pokémon'un adı nedir?",
       "options": [
-        "Patlayan Şeker",
-        "Cino",
-        "Leblebi Tozu",
-        "Tipitip",
-        "Düdüklü Şeker"
+        "Charmander",
+        "Squirtle",
+        "Bulbasaur",
+        "Pikachu",
+        "Eevee"
       ],
       "correct": 3
     },
     {
-      "question": "İnternet mizah tarihinde 'Hide the Pain Harold' olarak tanınan ve genellikle acı dolu bir gülümsemeyle poz veren, memesinde sıklıkla kullanılan yaşlı adamın gerçek adı nedir?",
+      "question": "TikTok platformunda viral olan ve milyonlarca kullanıcı tarafından taklit edilen \"Renegade\" adlı dans koreografisini yaratan genç fenomen kimdir?",
       "options": [
-        "Gerry Rafferty",
-        "András Arató",
-        "David Thorne",
-        "Rick Astley",
-        "Chuck Norris"
+        "Charli D'Amelio",
+        "Addison Rae",
+        "Bella Poarch",
+        "Jalaiah Harmon",
+        "Khaby Lame"
       ],
-      "correct": 1
+      "correct": 3
+    },
+    {
+      "question": "Star Wars evreninde, Luke Skywalker'ın çocukluğunu geçirdiği ve ikonik ikiz güneşiyle bilinen çöl gezegeninin adı nedir?",
+      "options": [
+        "Endor",
+        "Hoth",
+        "Tatooine",
+        "Coruscant",
+        "Naboo"
+      ],
+      "correct": 2
     }
   ]
 }
