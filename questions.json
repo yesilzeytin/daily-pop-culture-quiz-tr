@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "\"Küçük siyah elbise\" (Little Black Dress) moda tarihine damga vuran ve Audrey Hepburn ile özdeşleşen bu ikonik kıyafetin, \"Tiffany'de Kahvaltı\" (Breakfast at Tiffany's) filmindeki versiyonunu tasarlayan ünlü moda tasarımcısı kimdir?",
+      "question": "Netflix Türkiye'nin ilk orijinal yapımlarından biri olan \"Atiye\" dizisinde başrol karakteri Atiye'yi canlandıran oyuncu kimdir?",
       "options": [
-        "Christian Dior",
+        "Beren Saat",
+        "Tuba Büyüküstün",
+        "Serenay Sarıkaya",
+        "Demet Özdemir",
+        "Hande Erçel"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Cengiz Aytmatov'un eserinden uyarlanan ve başrollerini Kadir İnanır ile Türkan Şoray'ın paylaştığı unutulmaz Yeşilçam filmi \"Selvi Boylum Al Yazmalım\"ın efsanevi yönetmeni kimdir?",
+      "options": [
+        "Atıf Yılmaz",
+        "Ertem Eğilmez",
+        "Metin Erksan",
+        "Ömer Lütfi Akad",
+        "Yavuz Turgul"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Çocukluğumuzda bakkallardan aldığımız, genellikle küçük poşetlerde satılan ve ağza atıldığında çıtırtısıyla bilinen, patlayan etkisiyle bizi eğlendiren o nostaljik şekerlemenin adı nedir?",
+      "options": [
+        "Patlayan Şeker",
+        "Leblebi Tozu",
+        "Elma Şekeri",
+        "Horoz Şeker",
+        "Sakız Mısırcığı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Moda dünyasında \"küçük siyah elbise\"yi popülerleştiren, Chanel markasının kurucusu ve kadın giyiminde devrim yaratan Fransız tasarımcı kimdir?",
+      "options": [
         "Coco Chanel",
-        "Hubert de Givenchy",
-        "Yves Saint Laurent",
-        "Giorgio Armani"
+        "Christian Dior",
+        "Elsa Schiaparelli",
+        "Vivienne Westwood",
+        "Mary Quant"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "\"Cep Herkülü\" lakabıyla bilinen, halter dalında üst üste üç kez Olimpiyat şampiyonu olarak Türk spor tarihine adını altın harflerle yazdıran efsanevi sporcumuz kimdir?",
+      "question": "Türkiye'nin tanınmış sosyal medya fenomenlerinden biri olan, makyaj ve mizah içerikleriyle geniş bir kitleye ulaşan, zaman zaman televizyon programlarına da katılan influencer kimdir?",
       "options": [
-        "Halil Mutlu",
-        "Hamza Yerlikaya",
-        "Naim Süleymanoğlu",
-        "Şahin İnan",
-        "Taner Sağır"
+        "Danla Bilic",
+        "Duygu Özaslan",
+        "Ezgi Fındık",
+        "Merve Boluğur",
+        "Cansu Akın"
       ],
-      "correct": 2
-    },
-    {
-      "question": "Nintendo'nun popüler oyun ve anime serisi Pokémon'un en tanınmış karakterlerinden biri olan, ana kahraman Ash Ketchum'un yol arkadaşı ve elektrik tipi Pokémon'un adı nedir?",
-      "options": [
-        "Charmander",
-        "Squirtle",
-        "Bulbasaur",
-        "Pikachu",
-        "Eevee"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "TikTok platformunda viral olan ve milyonlarca kullanıcı tarafından taklit edilen \"Renegade\" adlı dans koreografisini yaratan genç fenomen kimdir?",
-      "options": [
-        "Charli D'Amelio",
-        "Addison Rae",
-        "Bella Poarch",
-        "Jalaiah Harmon",
-        "Khaby Lame"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Star Wars evreninde, Luke Skywalker'ın çocukluğunu geçirdiği ve ikonik ikiz güneşiyle bilinen çöl gezegeninin adı nedir?",
-      "options": [
-        "Endor",
-        "Hoth",
-        "Tatooine",
-        "Coruscant",
-        "Naboo"
-      ],
-      "correct": 2
+      "correct": 0
     }
   ]
 }
