@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Netflix Türkiye'nin ilk orijinal yapımlarından biri olan \"Atiye\" dizisinde başrol karakteri Atiye'yi canlandıran oyuncu kimdir?",
+      "question": "Türk yazar Orhan Pamuk, 2006 yılında hangi alandaki çalışmalarıyla Nobel Ödülü'ne layık görülmüştür?",
       "options": [
-        "Beren Saat",
-        "Tuba Büyüküstün",
-        "Serenay Sarıkaya",
-        "Demet Özdemir",
-        "Hande Erçel"
+        "Barış",
+        "Fizik",
+        "Kimya",
+        "Edebiyat",
+        "Tıp"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
-      "question": "Cengiz Aytmatov'un eserinden uyarlanan ve başrollerini Kadir İnanır ile Türkan Şoray'ın paylaştığı unutulmaz Yeşilçam filmi \"Selvi Boylum Al Yazmalım\"ın efsanevi yönetmeni kimdir?",
+      "question": "Süper Lig tarihinde en çok şampiyonluk yaşayan futbol takımı hangisidir?",
       "options": [
-        "Atıf Yılmaz",
-        "Ertem Eğilmez",
-        "Metin Erksan",
-        "Ömer Lütfi Akad",
-        "Yavuz Turgul"
+        "Fenerbahçe",
+        "Beşiktaş",
+        "Trabzonspor",
+        "Galatasaray",
+        "Başakşehir FK"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
-      "question": "Çocukluğumuzda bakkallardan aldığımız, genellikle küçük poşetlerde satılan ve ağza atıldığında çıtırtısıyla bilinen, patlayan etkisiyle bizi eğlendiren o nostaljik şekerlemenin adı nedir?",
+      "question": "Türkiye'deki internet mizahında ve caps kültüründe sıkça kullanılan, şaşkınlık veya hayret ifadesini yansıtan 'Sen ne diyon?' repliği ile özdeşleşen kişi kimdir?",
       "options": [
-        "Patlayan Şeker",
-        "Leblebi Tozu",
-        "Elma Şekeri",
-        "Horoz Şeker",
-        "Sakız Mısırcığı"
+        "İbrahim Tatlıses",
+        "Acun Ilıcalı",
+        "Cem Yılmaz",
+        "Serkan Yılmaz",
+        "Nusret Gökçe"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
-      "question": "Moda dünyasında \"küçük siyah elbise\"yi popülerleştiren, Chanel markasının kurucusu ve kadın giyiminde devrim yaratan Fransız tasarımcı kimdir?",
+      "question": "Türkiye Millî Futbol Takımı, 2002 yılında FIFA Dünya Kupası'nda elde ettiği tarihi başarı ile turnuvayı kaçıncı sırada tamamlamıştır?",
       "options": [
-        "Coco Chanel",
-        "Christian Dior",
-        "Elsa Schiaparelli",
-        "Vivienne Westwood",
-        "Mary Quant"
+        "Birinci",
+        "İkinci",
+        "Üçüncü",
+        "Dördüncü",
+        "Beşinci"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "question": "Türkiye'nin tanınmış sosyal medya fenomenlerinden biri olan, makyaj ve mizah içerikleriyle geniş bir kitleye ulaşan, zaman zaman televizyon programlarına da katılan influencer kimdir?",
+      "question": "J.R.R. Tolkien'in 'Yüzüklerin Efendisi' serisinde, Yüzük Kardeşliği'nin lideri olarak seçilen ve yüzüğü yok etmekle görevlendirilen karakter kimdir?",
       "options": [
-        "Danla Bilic",
-        "Duygu Özaslan",
-        "Ezgi Fındık",
-        "Merve Boluğur",
-        "Cansu Akın"
+        "Gandalf",
+        "Aragorn",
+        "Frodo Baggins",
+        "Legolas",
+        "Gimli"
       ],
-      "correct": 0
+      "correct": 2
     }
   ]
 }
