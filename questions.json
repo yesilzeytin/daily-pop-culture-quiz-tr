@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Türk yazar Orhan Pamuk, 2006 yılında hangi alandaki çalışmalarıyla Nobel Ödülü'ne layık görülmüştür?",
+      "question": "Nintendo'nun efsanevi oyunu Super Mario serisinde, Prenses Peach'i sürekli kaçırıp Mario'ya musallat olan kaplumbağa benzeri ana düşman karakterinin adı nedir?",
       "options": [
-        "Barış",
-        "Fizik",
-        "Kimya",
-        "Edebiyat",
-        "Tıp"
+        "Bowser",
+        "Ganondorf",
+        "Dr. Eggman",
+        "King K. Rool",
+        "Wario"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
-      "question": "Süper Lig tarihinde en çok şampiyonluk yaşayan futbol takımı hangisidir?",
+      "question": "Marvel Sinematik Evreni'nde (MCU), Tony Stark'ın (Iron Man) zırhının ve genel operasyonlarının ilk yapay zeka asistanının adı nedir?",
       "options": [
-        "Fenerbahçe",
-        "Beşiktaş",
-        "Trabzonspor",
-        "Galatasaray",
-        "Başakşehir FK"
+        "J.A.R.V.I.S.",
+        "F.R.I.D.A.Y.",
+        "U.L.T.R.O.N.",
+        "K.A.R.E.N.",
+        "E.D.I.T.H."
       ],
-      "correct": 3
+      "correct": 0
     },
     {
-      "question": "Türkiye'deki internet mizahında ve caps kültüründe sıkça kullanılan, şaşkınlık veya hayret ifadesini yansıtan 'Sen ne diyon?' repliği ile özdeşleşen kişi kimdir?",
+      "question": "Disney Channel'ın popüler çizgi filmi \"Phineas ve Ferb\"de, başkarakterler Phineas ve Ferb'in, aslında gizli bir ajan olan ve kötü Dr. Doofenshmirtz ile mücadele eden evcil hayvanının adı nedir?",
       "options": [
-        "İbrahim Tatlıses",
-        "Acun Ilıcalı",
-        "Cem Yılmaz",
-        "Serkan Yılmaz",
-        "Nusret Gökçe"
+        "Perry",
+        "Candace",
+        "Isabella",
+        "Baljeet",
+        "Buford"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
-      "question": "Türkiye Millî Futbol Takımı, 2002 yılında FIFA Dünya Kupası'nda elde ettiği tarihi başarı ile turnuvayı kaçıncı sırada tamamlamıştır?",
+      "question": "Her yıl New York'ta düzenlenen ve moda dünyasının en önemli olaylarından biri kabul edilen, Kostüm Enstitüsü'ne gelir sağlamak amacıyla yapılan ünlü \"Met Gala\" etkinliğinin ev sahipliği yaptığı müze hangisidir?",
       "options": [
-        "Birinci",
-        "İkinci",
-        "Üçüncü",
-        "Dördüncü",
-        "Beşinci"
+        "The Metropolitan Museum of Art",
+        "Museum of Modern Art (MoMA)",
+        "Guggenheim Museum",
+        "Whitney Museum of American Art",
+        "American Museum of Natural History"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "J.R.R. Tolkien'in 'Yüzüklerin Efendisi' serisinde, Yüzük Kardeşliği'nin lideri olarak seçilen ve yüzüğü yok etmekle görevlendirilen karakter kimdir?",
+      "question": "Türkiye'nin en popüler Twitch yayıncılarından biri olan ve özellikle sohbet (just chatting), oyun ve siyasi yorumlarıyla geniş bir kitleye hitap eden \"Jahrein\" lakaplı yayıncının gerçek adı nedir?",
       "options": [
-        "Gandalf",
-        "Aragorn",
-        "Frodo Baggins",
-        "Legolas",
-        "Gimli"
+        "Ferit Karakaya",
+        "Tuna Akşen",
+        "Cantuğ Özgül",
+        "Cem Karahan",
+        "Ali Kemal Arslan"
       ],
       "correct": 2
     }
