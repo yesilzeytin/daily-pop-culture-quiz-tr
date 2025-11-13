@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Nintendo'nun efsanevi oyunu Super Mario serisinde, Prenses Peach'i sürekli kaçırıp Mario'ya musallat olan kaplumbağa benzeri ana düşman karakterinin adı nedir?",
+      "question": "God of War (2018) ve God of War Ragnarök oyunlarında, Kratos'un Norse mitolojisindeki yolculuğunda ona eşlik eden ve çoğu zaman babasını \"Boy!\" diye seslenerek uyarıp öğrenen oğlu kimdir?",
       "options": [
-        "Bowser",
-        "Ganondorf",
-        "Dr. Eggman",
-        "King K. Rool",
-        "Wario"
+        "Atreus",
+        "Baldur",
+        "Mimir",
+        "Tyr",
+        "Freya"
       ],
       "correct": 0
     },
     {
-      "question": "Marvel Sinematik Evreni'nde (MCU), Tony Stark'ın (Iron Man) zırhının ve genel operasyonlarının ilk yapay zeka asistanının adı nedir?",
+      "question": "İlk tweet 21 Mart 2006 tarihinde atılmıştır. Bu tweet'i atarak Twitter (o zamanki adıyla twttr) platformunu kuran kişi kimdir?",
       "options": [
-        "J.A.R.V.I.S.",
-        "F.R.I.D.A.Y.",
-        "U.L.T.R.O.N.",
-        "K.A.R.E.N.",
-        "E.D.I.T.H."
+        "Elon Musk",
+        "Mark Zuckerberg",
+        "Jack Dorsey",
+        "Steve Chen",
+        "Larry Page"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "question": "Disney Channel'ın popüler çizgi filmi \"Phineas ve Ferb\"de, başkarakterler Phineas ve Ferb'in, aslında gizli bir ajan olan ve kötü Dr. Doofenshmirtz ile mücadele eden evcil hayvanının adı nedir?",
+      "question": "Walt Disney Animasyon Stüdyoları'nın 1937 yapımı ve dünyanın ilk tam uzunlukta animasyon filmi olan \"Pamuk Prenses ve Yedi Cüceler\" filmindeki kötü kraliçenin adı nedir?",
       "options": [
-        "Perry",
-        "Candace",
-        "Isabella",
-        "Baljeet",
-        "Buford"
+        "Maleficent",
+        "Ursula",
+        "Grimhilde",
+        "Cruella",
+        "Yzma"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "question": "Her yıl New York'ta düzenlenen ve moda dünyasının en önemli olaylarından biri kabul edilen, Kostüm Enstitüsü'ne gelir sağlamak amacıyla yapılan ünlü \"Met Gala\" etkinliğinin ev sahipliği yaptığı müze hangisidir?",
+      "question": "\"Titanic\", \"Inception\" ve \"The Wolf of Wall Street\" gibi filmlerle tanınan, 2016 yılında \"The Revenant\" filmiyle Oscar kazanan ünlü Hollywood aktörünün adı nedir?",
       "options": [
-        "The Metropolitan Museum of Art",
-        "Museum of Modern Art (MoMA)",
-        "Guggenheim Museum",
-        "Whitney Museum of American Art",
-        "American Museum of Natural History"
+        "Brad Pitt",
+        "Tom Hanks",
+        "Leonardo DiCaprio",
+        "Johnny Depp",
+        "Christian Bale"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "question": "Türkiye'nin en popüler Twitch yayıncılarından biri olan ve özellikle sohbet (just chatting), oyun ve siyasi yorumlarıyla geniş bir kitleye hitap eden \"Jahrein\" lakaplı yayıncının gerçek adı nedir?",
+      "question": "Tüm dünyada mılyonlarca oyuncuya ulaşan, ilk olarak bir mod olarak başlayan ve zombi kıyametinde hayatta kalma temasıyla popüler olan, Valve tarafından geliştirilen birinci şahıs nişancı (FPS) oyun serisinin adı nedir?",
       "options": [
-        "Ferit Karakaya",
-        "Tuna Akşen",
-        "Cantuğ Özgül",
-        "Cem Karahan",
-        "Ali Kemal Arslan"
+        "Doom",
+        "Resident Evil",
+        "Left 4 Dead",
+        "Dead Space",
+        "Dying Light"
       ],
       "correct": 2
     }
