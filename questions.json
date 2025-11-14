@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "God of War (2018) ve God of War Ragnarök oyunlarında, Kratos'un Norse mitolojisindeki yolculuğunda ona eşlik eden ve çoğu zaman babasını \"Boy!\" diye seslenerek uyarıp öğrenen oğlu kimdir?",
+      "question": "2019 yapımı 'Joker' filminde, Arthur Fleck karakterini canlandırarak En İyi Erkek Oyuncu Oscar'ını kazanan oyuncu kimdir?",
       "options": [
-        "Atreus",
-        "Baldur",
-        "Mimir",
-        "Tyr",
-        "Freya"
+        "Joaquin Phoenix",
+        "Heath Ledger",
+        "Jared Leto",
+        "Jack Nicholson",
+        "Robert Pattinson"
       ],
       "correct": 0
     },
     {
-      "question": "İlk tweet 21 Mart 2006 tarihinde atılmıştır. Bu tweet'i atarak Twitter (o zamanki adıyla twttr) platformunu kuran kişi kimdir?",
+      "question": "Soğuk Savaş'ın sona ermesinin sembollerinden biri olarak kabul edilen Berlin Duvarı, hangi yıl yıkılmıştır?",
       "options": [
-        "Elon Musk",
-        "Mark Zuckerberg",
-        "Jack Dorsey",
-        "Steve Chen",
-        "Larry Page"
+        "1985",
+        "1991",
+        "1989",
+        "1990",
+        "1987"
       ],
       "correct": 2
     },
     {
-      "question": "Walt Disney Animasyon Stüdyoları'nın 1937 yapımı ve dünyanın ilk tam uzunlukta animasyon filmi olan \"Pamuk Prenses ve Yedi Cüceler\" filmindeki kötü kraliçenin adı nedir?",
+      "question": "Rock müziğin efsanevi gruplarından Queen'in solisti olan ve 'Bohemian Rhapsody', 'We Will Rock You' gibi ikonik şarkılara sesiyle hayat veren sanatçı kimdir?",
       "options": [
-        "Maleficent",
-        "Ursula",
-        "Grimhilde",
-        "Cruella",
-        "Yzma"
+        "Mick Jagger",
+        "Robert Plant",
+        "Freddie Mercury",
+        "David Bowie",
+        "Paul McCartney"
       ],
       "correct": 2
     },
     {
-      "question": "\"Titanic\", \"Inception\" ve \"The Wolf of Wall Street\" gibi filmlerle tanınan, 2016 yılında \"The Revenant\" filmiyle Oscar kazanan ünlü Hollywood aktörünün adı nedir?",
+      "question": "İkinci Dünya Savaşı sırasında, 7 Aralık 1941 tarihinde Japon İmparatorluk Donanması tarafından gerçekleştirilen ve ABD'nin savaşa girmesine neden olan saldırı hangi deniz üssüne yapılmıştır?",
       "options": [
-        "Brad Pitt",
-        "Tom Hanks",
-        "Leonardo DiCaprio",
-        "Johnny Depp",
-        "Christian Bale"
+        "Midway",
+        "Okinawa",
+        "Iwo Jima",
+        "Pearl Harbor",
+        "Corregidor"
       ],
-      "correct": 2
+      "correct": 3
     },
     {
-      "question": "Tüm dünyada mılyonlarca oyuncuya ulaşan, ilk olarak bir mod olarak başlayan ve zombi kıyametinde hayatta kalma temasıyla popüler olan, Valve tarafından geliştirilen birinci şahıs nişancı (FPS) oyun serisinin adı nedir?",
+      "question": "Disney'in 1994 yapımı klasik animasyon filmi 'Aslan Kral'da (The Lion King), ormanlar kralı olacak olan genç aslanın adı nedir?",
       "options": [
-        "Doom",
-        "Resident Evil",
-        "Left 4 Dead",
-        "Dead Space",
-        "Dying Light"
+        "Mufasa",
+        "Scar",
+        "Simba",
+        "Timon",
+        "Pumbaa"
       ],
       "correct": 2
     }
