@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "2019 yapımı 'Joker' filminde, Arthur Fleck karakterini canlandırarak En İyi Erkek Oyuncu Oscar'ını kazanan oyuncu kimdir?",
+      "question": "Türk futbolunda 'Pele' lakabıyla tanınan ve Fenerbahçe formasıyla özdeşleşen efsane golcü kimdir?",
       "options": [
-        "Joaquin Phoenix",
-        "Heath Ledger",
-        "Jared Leto",
-        "Jack Nicholson",
-        "Robert Pattinson"
+        "Lefter Küçükandonyadis",
+        "Can Bartu",
+        "Cemil Turan",
+        "Aykut Kocaman",
+        "Alex de Souza"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
-      "question": "Soğuk Savaş'ın sona ermesinin sembollerinden biri olarak kabul edilen Berlin Duvarı, hangi yıl yıkılmıştır?",
+      "question": "League of Legends Dünya Şampiyonası (Worlds) tarihinde en çok şampiyonluk kazanan takım hangisidir?",
       "options": [
-        "1985",
-        "1991",
-        "1989",
-        "1990",
-        "1987"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Rock müziğin efsanevi gruplarından Queen'in solisti olan ve 'Bohemian Rhapsody', 'We Will Rock You' gibi ikonik şarkılara sesiyle hayat veren sanatçı kimdir?",
-      "options": [
-        "Mick Jagger",
-        "Robert Plant",
-        "Freddie Mercury",
-        "David Bowie",
-        "Paul McCartney"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "İkinci Dünya Savaşı sırasında, 7 Aralık 1941 tarihinde Japon İmparatorluk Donanması tarafından gerçekleştirilen ve ABD'nin savaşa girmesine neden olan saldırı hangi deniz üssüne yapılmıştır?",
-      "options": [
-        "Midway",
-        "Okinawa",
-        "Iwo Jima",
-        "Pearl Harbor",
-        "Corregidor"
+        "Fnatic",
+        "G2 Esports",
+        "Invictus Gaming",
+        "T1",
+        "Gen.G"
       ],
       "correct": 3
     },
     {
-      "question": "Disney'in 1994 yapımı klasik animasyon filmi 'Aslan Kral'da (The Lion King), ormanlar kralı olacak olan genç aslanın adı nedir?",
+      "question": "Harry Potter serisinde, görünmezlik pelerininin ait olduğu üç büyülü nesneden oluşan efsanevi grubun adı nedir?",
       "options": [
-        "Mufasa",
-        "Scar",
-        "Simba",
-        "Timon",
-        "Pumbaa"
+        "Zaman Döndürücüleri",
+        "Hortkuluklar",
+        "Ölüm Yadigarları",
+        "Kara Büyü Kitapları",
+        "Felsefe Taşı"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Ünlü Kanadalı rapçi Drake'in 2018 yılında çıkardığı, \"God's Plan\" ve \"Nice for What\" gibi hit parçaları içeren çifte albümünün adı nedir?",
+      "options": [
+        "Views",
+        "Scorpion",
+        "Certified Lover Boy",
+        "Take Care",
+        "Nothing Was the Same"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "God of War serisinde Kratos, Yunan tanrılarını devirdikten sonra hangi mitolojiye ait tanrılarla mücadele etmeye başlamıştır?",
+      "options": [
+        "Mısır Mitolojisi",
+        "Roma Mitolojisi",
+        "İskandinav Mitolojisi",
+        "Japon Mitolojisi",
+        "Kelt Mitolojisi"
       ],
       "correct": 2
     }
