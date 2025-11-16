@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Türk futbolunda 'Pele' lakabıyla tanınan ve Fenerbahçe formasıyla özdeşleşen efsane golcü kimdir?",
+      "question": "Türkiye'ye Eurovision Şarkı Yarışması'ndaki ilk ve tek birinciliği getiren Sertab Erener'in 2003 yılında kazandığı şarkının adı nedir?",
       "options": [
-        "Lefter Küçükandonyadis",
-        "Can Bartu",
-        "Cemil Turan",
-        "Aykut Kocaman",
-        "Alex de Souza"
+        "Everyway That I Can",
+        "For Real",
+        "Leave Me Alone",
+        "Here I Am",
+        "One More Cup of Coffee"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
-      "question": "League of Legends Dünya Şampiyonası (Worlds) tarihinde en çok şampiyonluk kazanan takım hangisidir?",
+      "question": "Marvel Sinematik Evreni'nin (MCU) ilk filmi olan ve Robert Downey Jr.'ın canlandırdığı Tony Stark karakteriyle tanınan \"Iron Man\" hangi yılda gösterime girmiştir?",
       "options": [
-        "Fnatic",
-        "G2 Esports",
-        "Invictus Gaming",
-        "T1",
-        "Gen.G"
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009"
       ],
       "correct": 3
     },
     {
-      "question": "Harry Potter serisinde, görünmezlik pelerininin ait olduğu üç büyülü nesneden oluşan efsanevi grubun adı nedir?",
+      "question": "Kolombiyalı süperstar Shakira'nın 2010 FIFA Dünya Kupası için seslendirdiği ve dünya çapında büyük bir hit olan resmi şarkısının adı nedir?",
       "options": [
-        "Zaman Döndürücüleri",
-        "Hortkuluklar",
-        "Ölüm Yadigarları",
-        "Kara Büyü Kitapları",
-        "Felsefe Taşı"
+        "Hips Don't Lie",
+        "Whenever, Wherever",
+        "Waka Waka (This Time for Africa)",
+        "La Tortura",
+        "Chantaje"
       ],
       "correct": 2
     },
     {
-      "question": "Ünlü Kanadalı rapçi Drake'in 2018 yılında çıkardığı, \"God's Plan\" ve \"Nice for What\" gibi hit parçaları içeren çifte albümünün adı nedir?",
+      "question": "\"Yüzyıllık Yalnızlık\" ve \"Kolera Günlerinde Aşk\" gibi başyapıtlarıyla tanınan, Büyülü Gerçekçilik akımının en önemli temsilcilerinden biri olan ve 1982 yılında Nobel Edebiyat Ödülü'nü kazanan Kolombiyalı yazar kimdir?",
       "options": [
-        "Views",
-        "Scorpion",
-        "Certified Lover Boy",
-        "Take Care",
-        "Nothing Was the Same"
+        "Mario Vargas Llosa",
+        "Julio Cortázar",
+        "Jorge Luis Borges",
+        "Gabriel García Márquez",
+        "Isabel Allende"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Oscar tarihinde \"En İyi Kadın Oyuncu\" kategorisinde en çok ödül kazanan oyuncu kimdir?",
+      "options": [
+        "Meryl Streep",
+        "Katharine Hepburn",
+        "Bette Davis",
+        "Ingrid Bergman",
+        "Jodie Foster"
       ],
       "correct": 1
-    },
-    {
-      "question": "God of War serisinde Kratos, Yunan tanrılarını devirdikten sonra hangi mitolojiye ait tanrılarla mücadele etmeye başlamıştır?",
-      "options": [
-        "Mısır Mitolojisi",
-        "Roma Mitolojisi",
-        "İskandinav Mitolojisi",
-        "Japon Mitolojisi",
-        "Kelt Mitolojisi"
-      ],
-      "correct": 2
     }
   ]
 }
