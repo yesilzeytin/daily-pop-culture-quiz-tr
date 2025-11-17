@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Türkiye'ye Eurovision Şarkı Yarışması'ndaki ilk ve tek birinciliği getiren Sertab Erener'in 2003 yılında kazandığı şarkının adı nedir?",
+      "question": "The Witcher serisinde, Geralt'ın \"Child of Surprise\" olarak bilinen ve kaderinin ona bağlı olduğu genç kızın adı nedir?",
       "options": [
-        "Everyway That I Can",
-        "For Real",
-        "Leave Me Alone",
-        "Here I Am",
-        "One More Cup of Coffee"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Marvel Sinematik Evreni'nin (MCU) ilk filmi olan ve Robert Downey Jr.'ın canlandırdığı Tony Stark karakteriyle tanınan \"Iron Man\" hangi yılda gösterime girmiştir?",
-      "options": [
-        "2005",
-        "2006",
-        "2007",
-        "2008",
-        "2009"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Kolombiyalı süperstar Shakira'nın 2010 FIFA Dünya Kupası için seslendirdiği ve dünya çapında büyük bir hit olan resmi şarkısının adı nedir?",
-      "options": [
-        "Hips Don't Lie",
-        "Whenever, Wherever",
-        "Waka Waka (This Time for Africa)",
-        "La Tortura",
-        "Chantaje"
+        "Triss Merigold",
+        "Yennefer of Vengerberg",
+        "Ciri",
+        "Fringilla Vigo",
+        "Renfri"
       ],
       "correct": 2
     },
     {
-      "question": "\"Yüzyıllık Yalnızlık\" ve \"Kolera Günlerinde Aşk\" gibi başyapıtlarıyla tanınan, Büyülü Gerçekçilik akımının en önemli temsilcilerinden biri olan ve 1982 yılında Nobel Edebiyat Ödülü'nü kazanan Kolombiyalı yazar kimdir?",
+      "question": "1990'lı yılların sonlarında ve 2000'li yılların başlarında Fox Kids kanalında yayınlanan ve çocukların dijital canavarlarıyla birlikte maceralar yaşadığı popüler animasyon serisinin adı nedir?",
       "options": [
-        "Mario Vargas Llosa",
-        "Julio Cortázar",
-        "Jorge Luis Borges",
-        "Gabriel García Márquez",
-        "Isabel Allende"
+        "Pokémon",
+        "Yu-Gi-Oh!",
+        "Digimon",
+        "Beyblade",
+        "Bakugan"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türkiye'nin en popüler YouTube içerik üreticilerinden biri olan Enes Batur'un YouTube kariyerine ilk olarak hangi tür videolarla başladığı bilinmektedir?",
+      "options": [
+        "Makyaj ve Güzellik",
+        "Oyun ve Eğlence",
+        "Yemek Tarifleri",
+        "Siyasi Tartışmalar",
+        "Belgeseller"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Birinci Dünya Savaşı'nda kullanılan ve özellikle siper savaşlarında etkili olan, kimyasal bir madde püskürterek düşman siperlerini temizlemek için tasarlanmış yeni savaş aracı aşağıdakilerden hangisidir?",
+      "options": [
+        "Tank",
+        "Denizaltı",
+        "Zehirli Gaz",
+        "Alev Makinesi",
+        "Uçak"
       ],
       "correct": 3
     },
     {
-      "question": "Oscar tarihinde \"En İyi Kadın Oyuncu\" kategorisinde en çok ödül kazanan oyuncu kimdir?",
+      "question": "Cartoon Network'ün klasikleşmiş çizgi filmlerinden \"Dexter'ın Laboratuvarı\"nda, deha çocuk Dexter'ın gizli laboratuvarını sık sık karıştıran ve onun icatlarını bozan ablâsının adı nedir?",
       "options": [
-        "Meryl Streep",
-        "Katharine Hepburn",
-        "Bette Davis",
-        "Ingrid Bergman",
-        "Jodie Foster"
+        "Bubbles",
+        "Dee Dee",
+        "Mandy",
+        "Blossom",
+        "Buttercup"
       ],
       "correct": 1
     }
