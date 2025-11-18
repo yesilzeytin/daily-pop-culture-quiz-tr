@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "The Witcher serisinde, Geralt'ın \"Child of Surprise\" olarak bilinen ve kaderinin ona bağlı olduğu genç kızın adı nedir?",
+      "question": "Güney Koreli pop grubu BLACKPINK'in dört ana üyesinden biri olmayan isim aşağıdakilerden hangisidir?",
       "options": [
-        "Triss Merigold",
-        "Yennefer of Vengerberg",
-        "Ciri",
-        "Fringilla Vigo",
-        "Renfri"
+        "Jennie",
+        "Jisoo",
+        "Rosé",
+        "Lisa",
+        "Somi"
       ],
-      "correct": 2
+      "correct": 4
     },
     {
-      "question": "1990'lı yılların sonlarında ve 2000'li yılların başlarında Fox Kids kanalında yayınlanan ve çocukların dijital canavarlarıyla birlikte maceralar yaşadığı popüler animasyon serisinin adı nedir?",
+      "question": "Hollywood'un ünlü aktörlerinden Ryan Gosling, 2023 yılında gişe rekorları kıran ve 'Ken' karakterini canlandırdığı popüler filmle büyük beğeni toplamıştır. Bu film aşağıdakilerden hangisidir?",
       "options": [
-        "Pokémon",
-        "Yu-Gi-Oh!",
-        "Digimon",
-        "Beyblade",
-        "Bakugan"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türkiye'nin en popüler YouTube içerik üreticilerinden biri olan Enes Batur'un YouTube kariyerine ilk olarak hangi tür videolarla başladığı bilinmektedir?",
-      "options": [
-        "Makyaj ve Güzellik",
-        "Oyun ve Eğlence",
-        "Yemek Tarifleri",
-        "Siyasi Tartışmalar",
-        "Belgeseller"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Birinci Dünya Savaşı'nda kullanılan ve özellikle siper savaşlarında etkili olan, kimyasal bir madde püskürterek düşman siperlerini temizlemek için tasarlanmış yeni savaş aracı aşağıdakilerden hangisidir?",
-      "options": [
-        "Tank",
-        "Denizaltı",
-        "Zehirli Gaz",
-        "Alev Makinesi",
-        "Uçak"
+        "La La Land",
+        "Blade Runner 2049",
+        "Drive",
+        "Barbie",
+        "The Notebook"
       ],
       "correct": 3
     },
     {
-      "question": "Cartoon Network'ün klasikleşmiş çizgi filmlerinden \"Dexter'ın Laboratuvarı\"nda, deha çocuk Dexter'ın gizli laboratuvarını sık sık karıştıran ve onun icatlarını bozan ablâsının adı nedir?",
+      "question": "Disney Channel'ın popüler dizilerinden 'Zack ve Cody'nin Lüks Yaşamı'nda (The Suite Life of Zack & Cody) ikizlerin yaşadığı lüks otelin adı nedir?",
       "options": [
-        "Bubbles",
-        "Dee Dee",
-        "Mandy",
-        "Blossom",
-        "Buttercup"
+        "The Grand Hyatt",
+        "The Ritz-Carlton",
+        "The Tipton Hotel",
+        "The Plaza Hotel",
+        "The Beverly Wilshire"
       ],
-      "correct": 1
+      "correct": 2
+    },
+    {
+      "question": "Tuba Büyüküstün, Seda Bakan ve Boncuk Yılmaz gibi oyuncuların rol aldığı, üç arkadaşın Ayvalık'ta geçen ve ailevi travmalarıyla yüzleştiği konuları işleyen popüler Netflix Türkiye yapımı dizi aşağıdakilerden hangisidir?",
+      "options": [
+        "Aşk 101",
+        "Terzi",
+        "Zeytin Ağacı",
+        "Kulüp",
+        "Şahmaran"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Dünyanın en büyük video paylaşım platformlarından biri olan YouTube'un üç kurucusundan biri olmayan isim aşağıdakilerden hangisidir?",
+      "options": [
+        "Chad Hurley",
+        "Steve Chen",
+        "Jawed Karim",
+        "Mark Zuckerberg",
+        "Salar Kamangar"
+      ],
+      "correct": 3
     }
   ]
 }
