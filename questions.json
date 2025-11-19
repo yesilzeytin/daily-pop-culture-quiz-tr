@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Güney Koreli pop grubu BLACKPINK'in dört ana üyesinden biri olmayan isim aşağıdakilerden hangisidir?",
+      "question": "Türkiye'de popüler olan 'Kuruluş Osman' dizisinde, Osmanlı İmparatorluğu'nun kurucusu Osman Bey karakterini canlandıran başrol oyuncusu kimdir?",
       "options": [
-        "Jennie",
-        "Jisoo",
-        "Rosé",
-        "Lisa",
-        "Somi"
+        "Burak Özçivit",
+        "Engin Altan Düzyatan",
+        "Kıvanç Tatlıtuğ",
+        "Kenan İmirzalıoğlu",
+        "Çağatay Ulusoy"
       ],
-      "correct": 4
+      "correct": 0
     },
     {
-      "question": "Hollywood'un ünlü aktörlerinden Ryan Gosling, 2023 yılında gişe rekorları kıran ve 'Ken' karakterini canlandırdığı popüler filmle büyük beğeni toplamıştır. Bu film aşağıdakilerden hangisidir?",
+      "question": "2000'li yılların başlarında Türkiye'de internette viral olan ve 'Sakin ol şampiyon, daha yeni başlıyoruz' repliğiyle hafızalara kazınan videonun orijinal kaynağı ve konusu nedir?",
       "options": [
-        "La La Land",
-        "Blade Runner 2049",
-        "Drive",
-        "Barbie",
-        "The Notebook"
+        "Bir trafik kavgasındaki diyalog",
+        "Bir boks antrenörünün sporcusuna motivasyon konuşması",
+        "Bir futbol maçında oyuncular arasındaki gerginlik",
+        "Bir okul müsameresindeki komik anlar",
+        "Bir televizyon programındaki tartışma"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Apple'ın 2007 yılında tanıttığı ve akıllı telefon endüstrisinde çığır açan ilk iPhone modelinin, o dönemde en devrimci ve dikkat çekici özelliklerinden biri aşağıdakilerden hangisidir?",
+      "options": [
+        "Fiziksel tuş takımı",
+        "Harici hafıza kartı desteği",
+        "Çoklu dokunuş (Multi-touch) ekran teknolojisi",
+        "Dahili projektör özelliği",
+        "Uzun ömürlü ve değiştirilebilir pil"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "J.R.R. Tolkien'in yarattığı 'Yüzüklerin Efendisi' evreninde, Gondor Krallığı'nın başkenti olan ve Ak Ağaç'la özdeşleşen, Orta Dünya'nın en önemli kalelerinden biri sayılan büyük beyaz şehrin adı nedir?",
+      "options": [
+        "Rivendell",
+        "Isengard",
+        "Edoras",
+        "Minas Tirith",
+        "Hobbitköy"
       ],
       "correct": 3
     },
     {
-      "question": "Disney Channel'ın popüler dizilerinden 'Zack ve Cody'nin Lüks Yaşamı'nda (The Suite Life of Zack & Cody) ikizlerin yaşadığı lüks otelin adı nedir?",
+      "question": "Türkiye'deki caps kültüründe ve internet mizahında sıklıkla kullanılan, şaşkınlık veya beklenmedik bir duruma verilen tepkiyi ifade eden 'Ne? Ne dedin sen?' repliğiyle özdeşleşen ve orijinali bir Yeşilçam filminden alınmış olan aktör kimdir?",
       "options": [
-        "The Grand Hyatt",
-        "The Ritz-Carlton",
-        "The Tipton Hotel",
-        "The Plaza Hotel",
-        "The Beverly Wilshire"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Tuba Büyüküstün, Seda Bakan ve Boncuk Yılmaz gibi oyuncuların rol aldığı, üç arkadaşın Ayvalık'ta geçen ve ailevi travmalarıyla yüzleştiği konuları işleyen popüler Netflix Türkiye yapımı dizi aşağıdakilerden hangisidir?",
-      "options": [
-        "Aşk 101",
-        "Terzi",
-        "Zeytin Ağacı",
-        "Kulüp",
-        "Şahmaran"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Dünyanın en büyük video paylaşım platformlarından biri olan YouTube'un üç kurucusundan biri olmayan isim aşağıdakilerden hangisidir?",
-      "options": [
-        "Chad Hurley",
-        "Steve Chen",
-        "Jawed Karim",
-        "Mark Zuckerberg",
-        "Salar Kamangar"
+        "Kemal Sunal",
+        "Cüneyt Arkın",
+        "Sadri Alışık",
+        "Nubar Terziyan",
+        "Turgut Özatay"
       ],
       "correct": 3
     }
