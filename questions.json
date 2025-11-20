@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Türkiye'de popüler olan 'Kuruluş Osman' dizisinde, Osmanlı İmparatorluğu'nun kurucusu Osman Bey karakterini canlandıran başrol oyuncusu kimdir?",
+      "question": "Birinci Dünya Savaşı'nın siperlerinde geçen ve tek plan hissi veren çekim tekniğiyle büyük beğeni toplayan, Sam Mendes'in yönettiği 2019 yapımı savaş filminin adı nedir?",
       "options": [
-        "Burak Özçivit",
-        "Engin Altan Düzyatan",
-        "Kıvanç Tatlıtuğ",
-        "Kenan İmirzalıoğlu",
-        "Çağatay Ulusoy"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "2000'li yılların başlarında Türkiye'de internette viral olan ve 'Sakin ol şampiyon, daha yeni başlıyoruz' repliğiyle hafızalara kazınan videonun orijinal kaynağı ve konusu nedir?",
-      "options": [
-        "Bir trafik kavgasındaki diyalog",
-        "Bir boks antrenörünün sporcusuna motivasyon konuşması",
-        "Bir futbol maçında oyuncular arasındaki gerginlik",
-        "Bir okul müsameresindeki komik anlar",
-        "Bir televizyon programındaki tartışma"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Apple'ın 2007 yılında tanıttığı ve akıllı telefon endüstrisinde çığır açan ilk iPhone modelinin, o dönemde en devrimci ve dikkat çekici özelliklerinden biri aşağıdakilerden hangisidir?",
-      "options": [
-        "Fiziksel tuş takımı",
-        "Harici hafıza kartı desteği",
-        "Çoklu dokunuş (Multi-touch) ekran teknolojisi",
-        "Dahili projektör özelliği",
-        "Uzun ömürlü ve değiştirilebilir pil"
+        "Dunkirk",
+        "Er Ryan'ı Kurtarmak",
+        "1917",
+        "Piyanist",
+        "Fury"
       ],
       "correct": 2
     },
     {
-      "question": "J.R.R. Tolkien'in yarattığı 'Yüzüklerin Efendisi' evreninde, Gondor Krallığı'nın başkenti olan ve Ak Ağaç'la özdeşleşen, Orta Dünya'nın en önemli kalelerinden biri sayılan büyük beyaz şehrin adı nedir?",
+      "question": "Disney'in 2013 yapımı \"Karlar Ülkesi\" (Frozen) animasyon filminde, buz güçlerine sahip Elsa karakterinin seslendirdiği ve Oscar ödülü kazanan ikonik şarkının adı nedir?",
       "options": [
-        "Rivendell",
-        "Isengard",
-        "Edoras",
-        "Minas Tirith",
-        "Hobbitköy"
+        "A Whole New World",
+        "Can You Feel the Love Tonight",
+        "Let It Go",
+        "Circle of Life",
+        "Under the Sea"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Nintendo'nun popüler \"Pokémon\" serisinde, ana karakter Ash Ketchum'un başlangıçtan itibaren yanında olan ve seriyle özdeşleşmiş elektrik tipindeki sarı Pokémon'un adı nedir?",
+      "options": [
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Eevee",
+        "Pikachu"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "FIFA Dünya Kupası tarihinde en çok şampiyonluk kazanmış ülke hangisidir?",
+      "options": [
+        "Almanya",
+        "Arjantin",
+        "İtalya",
+        "Brezilya",
+        "Fransa"
       ],
       "correct": 3
     },
     {
-      "question": "Türkiye'deki caps kültüründe ve internet mizahında sıklıkla kullanılan, şaşkınlık veya beklenmedik bir duruma verilen tepkiyi ifade eden 'Ne? Ne dedin sen?' repliğiyle özdeşleşen ve orijinali bir Yeşilçam filminden alınmış olan aktör kimdir?",
+      "question": "Netflix Türkiye'nin ilk orijinal dizisi olma özelliğini taşıyan ve başrolünde Çağatay Ulusoy'un \"son muhafız\" Hakan'ı canlandırdığı yapımın adı nedir?",
       "options": [
-        "Kemal Sunal",
-        "Cüneyt Arkın",
-        "Sadri Alışık",
-        "Nubar Terziyan",
-        "Turgut Özatay"
+        "Aşk 101",
+        "Fatma",
+        "Kulüp",
+        "Hakan: Muhafız",
+        "Atiye"
       ],
       "correct": 3
     }
