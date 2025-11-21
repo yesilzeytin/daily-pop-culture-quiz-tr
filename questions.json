@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Birinci Dünya Savaşı'nın siperlerinde geçen ve tek plan hissi veren çekim tekniğiyle büyük beğeni toplayan, Sam Mendes'in yönettiği 2019 yapımı savaş filminin adı nedir?",
+      "question": "2013 yılında internette hızla yayılan, Shiba Inu cinsi bir köpeğin iç sesini yansıtan metinlerle mizahi diyaloglar oluşturan ve 'wow', 'such' gibi kelimelerle tanınan popüler internet mizahı akımının adı nedir?",
       "options": [
-        "Dunkirk",
-        "Er Ryan'ı Kurtarmak",
-        "1917",
-        "Piyanist",
-        "Fury"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Disney'in 2013 yapımı \"Karlar Ülkesi\" (Frozen) animasyon filminde, buz güçlerine sahip Elsa karakterinin seslendirdiği ve Oscar ödülü kazanan ikonik şarkının adı nedir?",
-      "options": [
-        "A Whole New World",
-        "Can You Feel the Love Tonight",
-        "Let It Go",
-        "Circle of Life",
-        "Under the Sea"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Nintendo'nun popüler \"Pokémon\" serisinde, ana karakter Ash Ketchum'un başlangıçtan itibaren yanında olan ve seriyle özdeşleşmiş elektrik tipindeki sarı Pokémon'un adı nedir?",
-      "options": [
-        "Charmander",
-        "Bulbasaur",
-        "Squirtle",
-        "Eevee",
-        "Pikachu"
-      ],
-      "correct": 4
-    },
-    {
-      "question": "FIFA Dünya Kupası tarihinde en çok şampiyonluk kazanmış ülke hangisidir?",
-      "options": [
-        "Almanya",
-        "Arjantin",
-        "İtalya",
-        "Brezilya",
-        "Fransa"
+        "Trollface",
+        "Pepe the Frog",
+        "Grumpy Cat",
+        "Doge",
+        "Distracted Boyfriend"
       ],
       "correct": 3
     },
     {
-      "question": "Netflix Türkiye'nin ilk orijinal dizisi olma özelliğini taşıyan ve başrolünde Çağatay Ulusoy'un \"son muhafız\" Hakan'ı canlandırdığı yapımın adı nedir?",
+      "question": "1986 FIFA Dünya Kupası'nda İngiltere'ye karşı attığı ve 'Tanrı'nın Eli' olarak bilinen tartışmalı golle hafızalara kazınan efsanevi futbolcu kimdir?",
       "options": [
-        "Aşk 101",
-        "Fatma",
-        "Kulüp",
-        "Hakan: Muhafız",
-        "Atiye"
+        "Pelé",
+        "Diego Maradona",
+        "Johan Cruyff",
+        "Franz Beckenbauer",
+        "Garrincha"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Erkekler tenisinde en çok Grand Slam tekler şampiyonluğu rekorunu elinde bulunduran (Kasım 2023 itibarıyla) ve 'Big Three' olarak bilinen tenisçilerden biri olan oyuncu kimdir?",
+      "options": [
+        "Roger Federer",
+        "Rafael Nadal",
+        "Pete Sampras",
+        "Novak Djokovic",
+        "Andre Agassi"
       ],
       "correct": 3
+    },
+    {
+      "question": "Türk YouTube'unun popüler komedi ve eğlence gruplarından biri olan 'Kafalar'ın ana üyelerinden biri olmayan isim aşağıdakilerden hangisidir?",
+      "options": [
+        "Atakan Özyurt",
+        "Fatih Yasin",
+        "Bilal Hancı",
+        "Reynmen",
+        "Berkcan Güven"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "PlayStation'ın efsanevi oyun serilerinden Uncharted'da, ana karakter Nathan Drake'in akıl hocası, ortağı ve adeta babacan bir figürü olan karizmatik karakterin adı nedir?",
+      "options": [
+        "Sam Drake",
+        "Rafe Adler",
+        "Victor 'Sully' Sullivan",
+        "Harry Flynn",
+        "Roman"
+      ],
+      "correct": 2
     }
   ]
 }
