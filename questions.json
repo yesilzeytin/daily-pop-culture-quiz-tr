@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "2013 yılında internette hızla yayılan, Shiba Inu cinsi bir köpeğin iç sesini yansıtan metinlerle mizahi diyaloglar oluşturan ve 'wow', 'such' gibi kelimelerle tanınan popüler internet mizahı akımının adı nedir?",
+      "question": "Taylor Swift'in \"Shake It Off\", \"Blank Space\" ve \"Bad Blood\" gibi hit şarkılarını içeren ve ona Yılın Albümü Grammy Ödülü'nü kazandıran albümü hangisidir?",
       "options": [
-        "Trollface",
-        "Pepe the Frog",
-        "Grumpy Cat",
-        "Doge",
-        "Distracted Boyfriend"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "1986 FIFA Dünya Kupası'nda İngiltere'ye karşı attığı ve 'Tanrı'nın Eli' olarak bilinen tartışmalı golle hafızalara kazınan efsanevi futbolcu kimdir?",
-      "options": [
-        "Pelé",
-        "Diego Maradona",
-        "Johan Cruyff",
-        "Franz Beckenbauer",
-        "Garrincha"
+        "Red",
+        "1989",
+        "Lover",
+        "Folklore",
+        "Fearless"
       ],
       "correct": 1
     },
     {
-      "question": "Erkekler tenisinde en çok Grand Slam tekler şampiyonluğu rekorunu elinde bulunduran (Kasım 2023 itibarıyla) ve 'Big Three' olarak bilinen tenisçilerden biri olan oyuncu kimdir?",
+      "question": "Şampiyonlar Ligi tarihinde en çok şampiyonluk kupasını kazanan takım aşağıdakilerden hangisidir?",
       "options": [
-        "Roger Federer",
-        "Rafael Nadal",
-        "Pete Sampras",
-        "Novak Djokovic",
-        "Andre Agassi"
+        "FC Bayern Münih",
+        "AC Milan",
+        "Liverpool FC",
+        "Real Madrid CF",
+        "Barcelona FC"
       ],
       "correct": 3
     },
     {
-      "question": "Türk YouTube'unun popüler komedi ve eğlence gruplarından biri olan 'Kafalar'ın ana üyelerinden biri olmayan isim aşağıdakilerden hangisidir?",
+      "question": "Türkiye'de yayınlanan popüler yarışma programı Survivor Türkiye'nin ilk şampiyonu kimdir?",
       "options": [
-        "Atakan Özyurt",
-        "Fatih Yasin",
-        "Bilal Hancı",
-        "Reynmen",
-        "Berkcan Güven"
+        "Ogeday Girişken",
+        "Uğur Pektaş",
+        "Cemal Can Canseven",
+        "Merve Oflaz",
+        "Turabi Çamkıran"
       ],
-      "correct": 3
+      "correct": 1
     },
     {
-      "question": "PlayStation'ın efsanevi oyun serilerinden Uncharted'da, ana karakter Nathan Drake'in akıl hocası, ortağı ve adeta babacan bir figürü olan karizmatik karakterin adı nedir?",
+      "question": "Popüler şarkısı \"Cevapsız Çınlama\" ile müzik dünyasına hızlı bir giriş yapan ve ardından \"Okyanus\", \"Yaz Gülü\" gibi hitlere imza atan genç Türk pop şarkıcısı kimdir?",
       "options": [
-        "Sam Drake",
-        "Rafe Adler",
-        "Victor 'Sully' Sullivan",
-        "Harry Flynn",
-        "Roman"
+        "Hadise",
+        "Edis",
+        "Aleyna Tilki",
+        "Zeynep Bastık",
+        "Derya Uluğ"
       ],
       "correct": 2
+    },
+    {
+      "question": "Birinci Dünya Savaşı döneminde geçen, genç bir askerin siperlerdeki zorlu mücadelesini anlatan ve 1930 yılında En İyi Film Oscar'ını kazanan ikonik savaş filminin adı nedir?",
+      "options": [
+        "Er Ryan'ı Kurtarmak",
+        "Batı Cephesinde Yeni Bir Şey Yok",
+        "Piyanist",
+        "Gelibolu",
+        "Büyük İhanet"
+      ],
+      "correct": 1
     }
   ]
 }
