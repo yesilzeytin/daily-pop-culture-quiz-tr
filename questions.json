@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Taylor Swift'in \"Shake It Off\", \"Blank Space\" ve \"Bad Blood\" gibi hit şarkılarını içeren ve ona Yılın Albümü Grammy Ödülü'nü kazandıran albümü hangisidir?",
+      "question": "2020 yılında \"En İyi Film\" dahil dört Oscar ödülü kazanarak sinema tarihinde bir ilke imza atan, büyük beğeni toplayan Güney Kore yapımı \"Parazit\" (Parasite) filminin yönetmeni kimdir?",
       "options": [
-        "Red",
-        "1989",
-        "Lover",
-        "Folklore",
-        "Fearless"
+        "Hirokazu Kore-eda",
+        "Bong Joon-ho",
+        "Yorgos Lanthimos",
+        "Alfonso Cuarón",
+        "Ryusuke Hamaguchi"
       ],
       "correct": 1
     },
     {
-      "question": "Şampiyonlar Ligi tarihinde en çok şampiyonluk kupasını kazanan takım aşağıdakilerden hangisidir?",
+      "question": "90'lı yılların sonunda Türkiye ve dünya çapında büyük bir popülarite yakalayan, \"Şıkıdım\", \"Ölürüm Sana\" gibi hitleriyle tanınan \"Megastar\" lakaplı Türk pop müziği sanatçısı kimdir?",
       "options": [
-        "FC Bayern Münih",
-        "AC Milan",
-        "Liverpool FC",
-        "Real Madrid CF",
-        "Barcelona FC"
+        "Sezen Aksu",
+        "Kenan Doğulu",
+        "Mustafa Sandal",
+        "Tarkan",
+        "Serdar Ortaç"
       ],
       "correct": 3
     },
     {
-      "question": "Türkiye'de yayınlanan popüler yarışma programı Survivor Türkiye'nin ilk şampiyonu kimdir?",
+      "question": "Netflix'in dünya çapında büyük yankı uyandıran Güney Kore yapımı \"Squid Game\" dizisinde, karakterlerin hayatta kalmak için oynadığı ölümcül oyunlardan biri olan, oyuncuların kırılabilir veya kırılmaz cam panellerden oluşan bir köprüyü geçmeye çalıştığı oyunun adı nedir?",
       "options": [
-        "Ogeday Girişken",
-        "Uğur Pektaş",
-        "Cemal Can Canseven",
-        "Merve Oflaz",
-        "Turabi Çamkıran"
+        "Kırmızı Işık, Yeşil Işık",
+        "Cam Köprü Oyunu",
+        "Misket Oyunu",
+        "Halat Çekme",
+        "Ddakji Oyunu"
       ],
       "correct": 1
     },
     {
-      "question": "Popüler şarkısı \"Cevapsız Çınlama\" ile müzik dünyasına hızlı bir giriş yapan ve ardından \"Okyanus\", \"Yaz Gülü\" gibi hitlere imza atan genç Türk pop şarkıcısı kimdir?",
+      "question": "Tüm dünyada müzik listelerini altüst eden ve YouTube'da milyarlarca izlenmeye ulaşarak rekorlar kıran, Luis Fonsi ve Daddy Yankee'nin seslendirdiği ünlü Latin pop şarkısı aşağıdakilerden hangisidir?",
       "options": [
-        "Hadise",
-        "Edis",
-        "Aleyna Tilki",
-        "Zeynep Bastık",
-        "Derya Uluğ"
+        "Gasolina",
+        "Livin' la Vida Loca",
+        "Despacito",
+        "Macarena",
+        "Bailando"
       ],
       "correct": 2
     },
     {
-      "question": "Birinci Dünya Savaşı döneminde geçen, genç bir askerin siperlerdeki zorlu mücadelesini anlatan ve 1930 yılında En İyi Film Oscar'ını kazanan ikonik savaş filminin adı nedir?",
+      "question": "Kısa videolarla ünlenen Vine platformunda popülaritesini yakalayan ve ardından dünya çapında başarılı bir müzik kariyeri inşa eden, \"Stitches\", \"Treat You Better\" gibi hitleriyle tanınan Kanadalı şarkıcı kimdir?",
       "options": [
-        "Er Ryan'ı Kurtarmak",
-        "Batı Cephesinde Yeni Bir Şey Yok",
-        "Piyanist",
-        "Gelibolu",
-        "Büyük İhanet"
+        "Justin Bieber",
+        "Charlie Puth",
+        "Shawn Mendes",
+        "The Weeknd",
+        "Troye Sivan"
       ],
-      "correct": 1
+      "correct": 2
     }
   ]
 }
