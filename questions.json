@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "2020 yılında \"En İyi Film\" dahil dört Oscar ödülü kazanarak sinema tarihinde bir ilke imza atan, büyük beğeni toplayan Güney Kore yapımı \"Parazit\" (Parasite) filminin yönetmeni kimdir?",
+      "question": "Nickelodeon'ın popüler çizgi filmi \"Sünger Bob Kare Pantolon\"da, Sünger Bob ve arkadaşlarının yaşadığı su altı şehrinin adı nedir?",
       "options": [
-        "Hirokazu Kore-eda",
-        "Bong Joon-ho",
-        "Yorgos Lanthimos",
-        "Alfonso Cuarón",
-        "Ryusuke Hamaguchi"
+        "Bikini Kasabası",
+        "Mercan Şehri",
+        "Yosunlu Koy",
+        "Denizaltı Diyarı",
+        "Pasifik Limanı"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
-      "question": "90'lı yılların sonunda Türkiye ve dünya çapında büyük bir popülarite yakalayan, \"Şıkıdım\", \"Ölürüm Sana\" gibi hitleriyle tanınan \"Megastar\" lakaplı Türk pop müziği sanatçısı kimdir?",
+      "question": "Modern moda dünyasında minimalist tarzıyla öne çıkan ve sık sık 'quiet luxury' akımıyla anılan, kendi adını taşıyan markasının kurucusu olan ünlü İngiliz tasarımcı ve eski Spice Girls üyesi kimdir?",
       "options": [
-        "Sezen Aksu",
-        "Kenan Doğulu",
-        "Mustafa Sandal",
-        "Tarkan",
-        "Serdar Ortaç"
+        "Stella McCartney",
+        "Donatella Versace",
+        "Victoria Beckham",
+        "Kim Kardashian",
+        "Sarah Jessica Parker"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "\"Hawái\", \"Felices los 4\" ve \"Chantaje\" (Shakira ile düet) gibi dünya çapında hit olmuş şarkılarıyla tanınan, asıl adı Juan Luis Londoño Arias olan Kolombiyalı reggaeton şarkıcısı kimdir?",
+      "options": [
+        "Bad Bunny",
+        "Ricky Martin",
+        "Enrique Iglesias",
+        "Maluma",
+        "Ozuna"
       ],
       "correct": 3
     },
     {
-      "question": "Netflix'in dünya çapında büyük yankı uyandıran Güney Kore yapımı \"Squid Game\" dizisinde, karakterlerin hayatta kalmak için oynadığı ölümcül oyunlardan biri olan, oyuncuların kırılabilir veya kırılmaz cam panellerden oluşan bir köprüyü geçmeye çalıştığı oyunun adı nedir?",
+      "question": "Bir masa başında oturan ve arka planda yanan bir ev varken sinsi bir şekilde gülümseyen küçük bir kızın fotoğrafından oluşan, internette sıklıkla 'felaket kız' veya 'problem kız' (Disaster Girl) olarak bilinen popüler internet mizahı figürünün gerçek adı nedir?",
       "options": [
-        "Kırmızı Işık, Yeşil Işık",
-        "Cam Köprü Oyunu",
-        "Misket Oyunu",
-        "Halat Çekme",
-        "Ddakji Oyunu"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Tüm dünyada müzik listelerini altüst eden ve YouTube'da milyarlarca izlenmeye ulaşarak rekorlar kıran, Luis Fonsi ve Daddy Yankee'nin seslendirdiği ünlü Latin pop şarkısı aşağıdakilerden hangisidir?",
-      "options": [
-        "Gasolina",
-        "Livin' la Vida Loca",
-        "Despacito",
-        "Macarena",
-        "Bailando"
+        "Ermahgerd Girl (Maggie Golden)",
+        "Side-eye Chloe (Chloe Clem)",
+        "Disaster Girl (Zoe Roth)",
+        "Success Kid (Sammy Griner)",
+        "Grumpy Cat (Tardar Sauce)"
       ],
       "correct": 2
     },
     {
-      "question": "Kısa videolarla ünlenen Vine platformunda popülaritesini yakalayan ve ardından dünya çapında başarılı bir müzik kariyeri inşa eden, \"Stitches\", \"Treat You Better\" gibi hitleriyle tanınan Kanadalı şarkıcı kimdir?",
+      "question": "Türk pop müziğinin \"Süperstar\" lakaplı ikonik ismi Ajda Pekkan, uzun yıllardır sahnede ve magazin dünyasında aktif olarak yer almaktadır. Peki, Ajda Pekkan 1980 yılında Türkiye'yi hangi uluslararası şarkı yarışmasında temsil etmiştir?",
       "options": [
-        "Justin Bieber",
-        "Charlie Puth",
-        "Shawn Mendes",
-        "The Weeknd",
-        "Troye Sivan"
+        "Eurovision Şarkı Yarışması",
+        "Altın Güvercin Müzik Yarışması",
+        "Akdeniz Şarkı Yarışması",
+        "Sopot Uluslararası Şarkı Festivali",
+        "Sanremo Müzik Festivali"
       ],
-      "correct": 2
+      "correct": 0
     }
   ]
 }
