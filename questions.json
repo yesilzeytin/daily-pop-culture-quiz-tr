@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Nickelodeon'ın popüler çizgi filmi \"Sünger Bob Kare Pantolon\"da, Sünger Bob ve arkadaşlarının yaşadığı su altı şehrinin adı nedir?",
+      "question": "Kadınlar tenisinde 'Açık Dönem'de (Open Era) en çok Grand Slam tekler şampiyonluğu rekorunu elinde bulunduran (2024 itibarıyla) efsanevi raket kimdir?",
       "options": [
-        "Bikini Kasabası",
-        "Mercan Şehri",
-        "Yosunlu Koy",
-        "Denizaltı Diyarı",
-        "Pasifik Limanı"
+        "Serena Williams",
+        "Steffi Graf",
+        "Martina Navratilova",
+        "Chris Evert",
+        "Margaret Court"
       ],
       "correct": 0
     },
     {
-      "question": "Modern moda dünyasında minimalist tarzıyla öne çıkan ve sık sık 'quiet luxury' akımıyla anılan, kendi adını taşıyan markasının kurucusu olan ünlü İngiliz tasarımcı ve eski Spice Girls üyesi kimdir?",
+      "question": "İkinci Dünya Savaşı sırasında 6 Ağustos 1945'te, tarihte savaşta kullanılan ilk atom bombası hangi Japon şehrine atılmıştır?",
       "options": [
-        "Stella McCartney",
-        "Donatella Versace",
-        "Victoria Beckham",
-        "Kim Kardashian",
-        "Sarah Jessica Parker"
+        "Nagazaki",
+        "Tokyo",
+        "Hiroşima",
+        "Kyoto",
+        "Osaka"
       ],
       "correct": 2
     },
     {
-      "question": "\"Hawái\", \"Felices los 4\" ve \"Chantaje\" (Shakira ile düet) gibi dünya çapında hit olmuş şarkılarıyla tanınan, asıl adı Juan Luis Londoño Arias olan Kolombiyalı reggaeton şarkıcısı kimdir?",
+      "question": "Fransa'nın ünlü Eyfel Kulesi'ni hurdacılara iki kez satmaya kalkışmasıyla tanınan, 'insanlık tarihinin en cesur dolandırıcısı' olarak bilinen kişi kimdir?",
       "options": [
-        "Bad Bunny",
-        "Ricky Martin",
-        "Enrique Iglesias",
-        "Maluma",
-        "Ozuna"
+        "Charles Ponzi",
+        "Victor Lustig",
+        "Frank Abagnale Jr.",
+        "Bernard Madoff",
+        "George C. Parker"
       ],
-      "correct": 3
+      "correct": 1
     },
     {
-      "question": "Bir masa başında oturan ve arka planda yanan bir ev varken sinsi bir şekilde gülümseyen küçük bir kızın fotoğrafından oluşan, internette sıklıkla 'felaket kız' veya 'problem kız' (Disaster Girl) olarak bilinen popüler internet mizahı figürünün gerçek adı nedir?",
+      "question": "Türk spor tarihinde olimpiyatlarda üst üste üç kez altın madalya kazanan tek güreşçi unvanına sahip 'Asrın Güreşçisi' lakaplı sporcu kimdir?",
       "options": [
-        "Ermahgerd Girl (Maggie Golden)",
-        "Side-eye Chloe (Chloe Clem)",
-        "Disaster Girl (Zoe Roth)",
-        "Success Kid (Sammy Griner)",
-        "Grumpy Cat (Tardar Sauce)"
+        "Yaşar Doğu",
+        "Hamza Yerlikaya",
+        "Ahmet Ayık",
+        "Mithat Bayrak",
+        "Mustafa Dağıstanlı"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
-      "question": "Türk pop müziğinin \"Süperstar\" lakaplı ikonik ismi Ajda Pekkan, uzun yıllardır sahnede ve magazin dünyasında aktif olarak yer almaktadır. Peki, Ajda Pekkan 1980 yılında Türkiye'yi hangi uluslararası şarkı yarışmasında temsil etmiştir?",
+      "question": "Porto Rikolu Latin trap ve reggaeton yıldızı Bad Bunny'nin 2020'de yayımlanan, \"Yo Perreo Sola\" ve \"La Santa\" gibi hitleri içeren, Latin müzik listelerinde zirveye yerleşen ve birçok ödül kazanan çığır açan albümünün adı nedir?",
       "options": [
-        "Eurovision Şarkı Yarışması",
-        "Altın Güvercin Müzik Yarışması",
-        "Akdeniz Şarkı Yarışması",
-        "Sopot Uluslararası Şarkı Festivali",
-        "Sanremo Müzik Festivali"
+        "Un Verano Sin Ti",
+        "X 100PRE",
+        "El Último Tour del Mundo",
+        "Oasis",
+        "YHLQMDLG"
       ],
-      "correct": 0
+      "correct": 4
     }
   ]
 }
