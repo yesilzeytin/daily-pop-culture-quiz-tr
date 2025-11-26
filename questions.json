@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Kadınlar tenisinde 'Açık Dönem'de (Open Era) en çok Grand Slam tekler şampiyonluğu rekorunu elinde bulunduran (2024 itibarıyla) efsanevi raket kimdir?",
+      "question": "Soğuk Savaş döneminde casusluk ve siyasi gerilim temalı romanlarıyla tanınan ve 'Casusluk Edebiyatının Babası' olarak anılan İngiliz yazar kimdir?",
       "options": [
-        "Serena Williams",
-        "Steffi Graf",
-        "Martina Navratilova",
-        "Chris Evert",
-        "Margaret Court"
+        "Ian Fleming",
+        "John le Carré",
+        "Frederick Forsyth",
+        "Tom Clancy",
+        "Robert Ludlum"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
-      "question": "İkinci Dünya Savaşı sırasında 6 Ağustos 1945'te, tarihte savaşta kullanılan ilk atom bombası hangi Japon şehrine atılmıştır?",
+      "question": "Türkiye'de özellikle lifestyle, moda ve seyahat içerikleriyle tanınan, sosyal medya fenomeni ve iş kadını olan influencer aşağıdakilerden hangisidir?",
       "options": [
-        "Nagazaki",
-        "Tokyo",
-        "Hiroşima",
-        "Kyoto",
-        "Osaka"
+        "Danla Bilic",
+        "Enes Batur",
+        "Şeyma Subaşı",
+        "Reynmen",
+        "Duygu Özaslan"
       ],
       "correct": 2
     },
     {
-      "question": "Fransa'nın ünlü Eyfel Kulesi'ni hurdacılara iki kez satmaya kalkışmasıyla tanınan, 'insanlık tarihinin en cesur dolandırıcısı' olarak bilinen kişi kimdir?",
+      "question": "Marvel Sinematik Evreni'nde (MCU) 'Kaptan Amerika: Kış Askeri' (Captain America: The Winter Soldier) filminde tanıtılan, Kaptan Amerika'nın en yakın dostu ve daha sonra Kış Askeri olarak bilinen karakterin gerçek adı nedir?",
       "options": [
-        "Charles Ponzi",
-        "Victor Lustig",
-        "Frank Abagnale Jr.",
-        "Bernard Madoff",
-        "George C. Parker"
+        "Sam Wilson",
+        "Clint Barton",
+        "Bucky Barnes",
+        "Scott Lang",
+        "Steve Rogers"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
-      "question": "Türk spor tarihinde olimpiyatlarda üst üste üç kez altın madalya kazanan tek güreşçi unvanına sahip 'Asrın Güreşçisi' lakaplı sporcu kimdir?",
+      "question": "Kadınlar tenisinde kariyer Grand Slam'i tamamlamış, yani dört büyük turnuvayı da (Avustralya Açık, Fransa Açık, Wimbledon, Amerika Açık) farklı yıllarda kazanmış olan efsanevi tenisçi aşağıdakilerden hangisidir?",
       "options": [
-        "Yaşar Doğu",
-        "Hamza Yerlikaya",
-        "Ahmet Ayık",
-        "Mithat Bayrak",
-        "Mustafa Dağıstanlı"
+        "Maria Sharapova",
+        "Venus Williams",
+        "Naomi Osaka",
+        "Serena Williams",
+        "Simona Halep"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
-      "question": "Porto Rikolu Latin trap ve reggaeton yıldızı Bad Bunny'nin 2020'de yayımlanan, \"Yo Perreo Sola\" ve \"La Santa\" gibi hitleri içeren, Latin müzik listelerinde zirveye yerleşen ve birçok ödül kazanan çığır açan albümünün adı nedir?",
+      "question": "Nintendo'nun ikonik 'The Legend of Zelda' serisinin kahramanı olan, genellikle yeşil tunik giyen ve Hyrule krallığını kurtarmak için maceralara atılan karakterin adı nedir?",
       "options": [
-        "Un Verano Sin Ti",
-        "X 100PRE",
-        "El Último Tour del Mundo",
-        "Oasis",
-        "YHLQMDLG"
+        "Mario",
+        "Bowser",
+        "Ganon",
+        "Link",
+        "Luigi"
       ],
-      "correct": 4
+      "correct": 3
     }
   ]
 }
