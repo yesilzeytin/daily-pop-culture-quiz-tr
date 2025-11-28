@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Hangi Cartoon Network çizgi filmi, genelde Gumball ve Darwin adlı balık kardeşlerin Elmore kasabasındaki komik maceralarını konu alır?",
+      "question": "Şampiyonlar Ligi tarihinde, 1990'lı yıllardan sonra üst üste üç kez final oynayan ilk takım aşağıdakilerden hangisidir?",
       "options": [
-        "Adventure Time",
-        "Sürekli Dizi",
-        "Esrarengiz Kasaba",
-        "Gumball Dünyası",
-        "Steven Universe"
+        "Bayern Münih",
+        "Juventus",
+        "Manchester United",
+        "Real Madrid",
+        "Barcelona"
       ],
       "correct": 3
     },
     {
-      "question": "Harry Potter serisinde, Lord Voldemort'un en sadık hizmetkarlarından biri olan ve hortkuluklarından biri haline getirilen dev yılanın adı nedir?",
+      "question": "Formula 1 tarihinde, en çok Dünya Şampiyonluğu (7 kez) rekorunu paylaşan iki efsanevi pilot aşağıdakilerden hangileridir?",
       "options": [
-        "Nagini",
-        "Aragog",
-        "Fawkes",
-        "Hedwig",
-        "Buckbeak"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "MasterChef Türkiye'nin ilk şampiyonu unvanını kazanarak adını tarihe yazdıran yarışmacı kimdir? (2018 sezonu)",
-      "options": [
-        "Cemre Uyanık",
-        "Serhat Doğramacı",
-        "Uğur Kardaş",
-        "Eren Kaşıkçı",
-        "Metin Yavuz"
+        "Ayrton Senna ve Alain Prost",
+        "Lewis Hamilton ve Sebastian Vettel",
+        "Michael Schumacher ve Lewis Hamilton",
+        "Juan Manuel Fangio ve Jim Clark",
+        "Niki Lauda ve Jackie Stewart"
       ],
       "correct": 2
     },
     {
-      "question": "Recep İvedik filmlerinde, Recep'in en yakın arkadaşı ve maceralarına ortak olan, genellikle sakar ve iyi niyetli karakterin adı nedir?",
+      "question": "90'lı yılların popüler Türk pop müziği sanatçılarından olup, \"Araba\", \"Bana Gülmek Yakışır\" ve \"Jest Oldu\" gibi hit şarkılarıyla hafızalara kazınan isim aşağıdakilerden hangisidir?",
       "options": [
-        "Salih",
-        "Zeynep",
-        "Nurullah",
-        "Gürcan",
-        "Osman"
+        "Tarkan",
+        "Burak Kut",
+        "Mustafa Sandal",
+        "Kenan Doğulu",
+        "Serdar Ortaç"
       ],
       "correct": 2
     },
     {
-      "question": "Star Wars evreninde, Jedi Üstadı Yoda'nın sürgünde yaşadığı ve Luke Skywalker'a Jedi eğitimi verdiği, sisli ve bataklıklarla kaplı gezegenin adı nedir?",
+      "question": "Harry Potter evreninde, büyücülerin günlük haberleri ve önemli olayları takip etmek için kullandığı, sihirli fotoğraflar ve hareketli manşetlerle dikkat çeken gazetenin adı nedir?",
       "options": [
-        "Tatooine",
-        "Dagobah",
-        "Hoth",
-        "Endor",
-        "Coruscant"
+        "Sihir Dünyası Gazetesi",
+        "Büyücü Gündemi",
+        "Günlük Kahin",
+        "Fantastik Haberler",
+        "Hogwarts Postası"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Marvel Sinematik Evreni'nin başlangıcı kabul edilen 2008 yapımı \"Iron Man\" filminde, Tony Stark'ı Afganistan'da esir tutan ve onu zırh yapmaya zorlayan terörist örgütün adı nedir?",
+      "options": [
+        "Hydra",
+        "On Halka",
+        "A.I.M.",
+        "Vulture'ın Çetesi",
+        "Ultron Programı"
       ],
       "correct": 1
     }
