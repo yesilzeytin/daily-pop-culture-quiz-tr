@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Şampiyonlar Ligi tarihinde, 1990'lı yıllardan sonra üst üste üç kez final oynayan ilk takım aşağıdakilerden hangisidir?",
+      "question": "J.R.R. Tolkien'in 'Yüzüklerin Efendisi' serisinde, Frodo Baggins'in Tek Yüzük'ü yok etmek için çıktığı yolculukta kendisine eşlik eden ve en sadık dostu olan hobbit kimdir?",
       "options": [
-        "Bayern Münih",
-        "Juventus",
-        "Manchester United",
-        "Real Madrid",
-        "Barcelona"
+        "Merry Brandybuck",
+        "Pippin Took",
+        "Samwise Gamgee",
+        "Bilbo Baggins",
+        "Peregrin Took"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türk pop müziğinin 'Minik Serçe' lakabıyla anılan, besteleri ve yorumculuğuyla efsaneleşmiş sanatçısı kimdir?",
+      "options": [
+        "Ajda Pekkan",
+        "Sezen Aksu",
+        "Candan Erçetin",
+        "Nil Karaibrahimgil",
+        "Nükhet Duru"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "FIFA Dünya Kupası tarihinde ilk kez 1930 yılında düzenlenen turnuvaya ev sahipliği yapan ve aynı zamanda ilk şampiyon olan ülke hangisidir?",
+      "options": [
+        "Brezilya",
+        "İtalya",
+        "Arjantin",
+        "Uruguay",
+        "Almanya"
       ],
       "correct": 3
     },
     {
-      "question": "Formula 1 tarihinde, en çok Dünya Şampiyonluğu (7 kez) rekorunu paylaşan iki efsanevi pilot aşağıdakilerden hangileridir?",
+      "question": "Met Gala etkinliğinin, moda ve sanat dünyasının en prestijli gecelerinden biri olmasını sağlayan ve her yıl farklı bir temayla New York'ta düzenlenen kültürel miras kurumunun adı nedir?",
       "options": [
-        "Ayrton Senna ve Alain Prost",
-        "Lewis Hamilton ve Sebastian Vettel",
-        "Michael Schumacher ve Lewis Hamilton",
-        "Juan Manuel Fangio ve Jim Clark",
-        "Niki Lauda ve Jackie Stewart"
+        "Modern Sanat Müzesi (MoMA)",
+        "Solomon R. Guggenheim Müzesi",
+        "Metropolitan Sanat Müzesi (Metropolitan Museum of Art)",
+        "Whitney Amerikan Sanatı Müzesi",
+        "Doğa Tarihi Amerikan Müzesi"
       ],
       "correct": 2
     },
     {
-      "question": "90'lı yılların popüler Türk pop müziği sanatçılarından olup, \"Araba\", \"Bana Gülmek Yakışır\" ve \"Jest Oldu\" gibi hit şarkılarıyla hafızalara kazınan isim aşağıdakilerden hangisidir?",
+      "question": "İkinci Dünya Savaşı'nın Batı Cephesi'ndeki en büyük askeri operasyonlarından biri olan ve Müttefik Devletler'in Normandiya'ya çıkarma yaparak Avrupa'yı Nazi işgalinden kurtarma yolunda attığı ilk büyük adım olan harekâtın adı nedir?",
       "options": [
-        "Tarkan",
-        "Burak Kut",
-        "Mustafa Sandal",
-        "Kenan Doğulu",
-        "Serdar Ortaç"
+        "Barbarossa Harekâtı",
+        "Dinamo Harekâtı",
+        "Overlord Harekâtı",
+        "Husky Harekâtı",
+        "Torch Harekâtı"
       ],
       "correct": 2
-    },
-    {
-      "question": "Harry Potter evreninde, büyücülerin günlük haberleri ve önemli olayları takip etmek için kullandığı, sihirli fotoğraflar ve hareketli manşetlerle dikkat çeken gazetenin adı nedir?",
-      "options": [
-        "Sihir Dünyası Gazetesi",
-        "Büyücü Gündemi",
-        "Günlük Kahin",
-        "Fantastik Haberler",
-        "Hogwarts Postası"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Marvel Sinematik Evreni'nin başlangıcı kabul edilen 2008 yapımı \"Iron Man\" filminde, Tony Stark'ı Afganistan'da esir tutan ve onu zırh yapmaya zorlayan terörist örgütün adı nedir?",
-      "options": [
-        "Hydra",
-        "On Halka",
-        "A.I.M.",
-        "Vulture'ın Çetesi",
-        "Ultron Programı"
-      ],
-      "correct": 1
     }
   ]
 }
