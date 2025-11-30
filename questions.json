@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "J.R.R. Tolkien'in 'Yüzüklerin Efendisi' serisinde, Frodo Baggins'in Tek Yüzük'ü yok etmek için çıktığı yolculukta kendisine eşlik eden ve en sadık dostu olan hobbit kimdir?",
+      "question": "Türkiye'den Nobel Edebiyat Ödülü'nü kazanan ilk ve tek yazarımız Orhan Pamuk, bu prestijli ödülü hangi yıl almıştır?",
       "options": [
-        "Merry Brandybuck",
-        "Pippin Took",
-        "Samwise Gamgee",
-        "Bilbo Baggins",
-        "Peregrin Took"
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
       ],
       "correct": 2
     },
     {
-      "question": "Türk pop müziğinin 'Minik Serçe' lakabıyla anılan, besteleri ve yorumculuğuyla efsaneleşmiş sanatçısı kimdir?",
+      "question": "MasterChef Türkiye'nin 2020 sezonunda büyük bir mücadele sergileyerek şampiyonluk ipini göğüsleyen yarışmacı kimdir?",
       "options": [
-        "Ajda Pekkan",
-        "Sezen Aksu",
-        "Candan Erçetin",
-        "Nil Karaibrahimgil",
-        "Nükhet Duru"
+        "Serhat Doğramacı",
+        "Barbaros Yoloğlu",
+        "Uğur Kardaş",
+        "Cemre Uyanık",
+        "Eren Kaşıkçı"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
-      "question": "FIFA Dünya Kupası tarihinde ilk kez 1930 yılında düzenlenen turnuvaya ev sahipliği yapan ve aynı zamanda ilk şampiyon olan ülke hangisidir?",
+      "question": "PlayStation'ın efsanevi oyun serisi God of War'da, ana karakter Kratos'un intikam yolculuğunda kendisine eşlik eden ve serinin önemli figürlerinden biri olan oğlunun adı nedir?",
       "options": [
-        "Brezilya",
-        "İtalya",
-        "Arjantin",
-        "Uruguay",
-        "Almanya"
+        "Atreus",
+        "Baldur",
+        "Freya",
+        "Mimir",
+        "Tyr"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
-      "question": "Met Gala etkinliğinin, moda ve sanat dünyasının en prestijli gecelerinden biri olmasını sağlayan ve her yıl farklı bir temayla New York'ta düzenlenen kültürel miras kurumunun adı nedir?",
+      "question": "Nisan 2024 itibarıyla, TikTok platformunda en çok takipçiye sahip olan global influencer kimdir?",
       "options": [
-        "Modern Sanat Müzesi (MoMA)",
-        "Solomon R. Guggenheim Müzesi",
-        "Metropolitan Sanat Müzesi (Metropolitan Museum of Art)",
-        "Whitney Amerikan Sanatı Müzesi",
-        "Doğa Tarihi Amerikan Müzesi"
+        "Addison Rae",
+        "Charli D'Amelio",
+        "Khaby Lame",
+        "Bella Poarch",
+        "MrBeast"
       ],
       "correct": 2
     },
     {
-      "question": "İkinci Dünya Savaşı'nın Batı Cephesi'ndeki en büyük askeri operasyonlarından biri olan ve Müttefik Devletler'in Normandiya'ya çıkarma yaparak Avrupa'yı Nazi işgalinden kurtarma yolunda attığı ilk büyük adım olan harekâtın adı nedir?",
+      "question": "Popüler K-drama 'Crash Landing on You'da, paraşütüyle Kuzey Kore'ye iniş yapan ve bir Kuzey Koreli askerle aşk yaşayan Güney Koreli iş kadını karakterinin adı nedir?",
       "options": [
-        "Barbarossa Harekâtı",
-        "Dinamo Harekâtı",
-        "Overlord Harekâtı",
-        "Husky Harekâtı",
-        "Torch Harekâtı"
+        "Yoon Se-ri",
+        "Seo Dan",
+        "Ri Jeong-hyeok",
+        "Go Ae-shin",
+        "Yoo Jin"
       ],
-      "correct": 2
+      "correct": 0
     }
   ]
 }
