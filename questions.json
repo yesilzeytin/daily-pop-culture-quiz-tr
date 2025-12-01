@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Türkiye'den Nobel Edebiyat Ödülü'nü kazanan ilk ve tek yazarımız Orhan Pamuk, bu prestijli ödülü hangi yıl almıştır?",
+      "question": "Formula 1 tarihinde en çok Grand Prix galibiyeti rekorunu elinde bulunduran pilot kimdir? (Kasım 2023 itibarıyla)",
       "options": [
-        "2004",
-        "2005",
-        "2006",
-        "2007",
-        "2008"
+        "Michael Schumacher",
+        "Ayrton Senna",
+        "Alain Prost",
+        "Lewis Hamilton",
+        "Max Verstappen"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Audrey Hepburn'ün 'Tiffany'de Kahvaltı' (Breakfast at Tiffany's) filmindeki ikonik siyah elbisesini tasarlayan ve kendisiyle özdeşleşen ünlü moda tasarımcısı kimdir?",
+      "options": [
+        "Coco Chanel",
+        "Christian Dior",
+        "Hubert de Givenchy",
+        "Yves Saint Laurent",
+        "Valentino Garavani"
       ],
       "correct": 2
     },
     {
-      "question": "MasterChef Türkiye'nin 2020 sezonunda büyük bir mücadele sergileyerek şampiyonluk ipini göğüsleyen yarışmacı kimdir?",
+      "question": "Tokyo 2020 Olimpiyatları'nda (2021 yılında düzenlendi) okçulukta Türkiye'ye tarihindeki ilk altın madalyayı kazandıran sporcumuz kimdir?",
       "options": [
-        "Serhat Doğramacı",
-        "Barbaros Yoloğlu",
-        "Uğur Kardaş",
-        "Cemre Uyanık",
-        "Eren Kaşıkçı"
+        "Yasemin Adar",
+        "Mete Gazoz",
+        "Taha Akgül",
+        "Busenaz Sürmeneli",
+        "Eray Şamdan"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
-      "question": "PlayStation'ın efsanevi oyun serisi God of War'da, ana karakter Kratos'un intikam yolculuğunda kendisine eşlik eden ve serinin önemli figürlerinden biri olan oğlunun adı nedir?",
+      "question": "Türkiye'de Twitter'da bir dönem oldukça popüler olan ve kullanıcıların kendi günlük hayattan komik veya ilginç anlarını esprili bir dille paylaştığı, genellikle belirli bir ifadeyle başlayan akımın adı nedir?",
       "options": [
-        "Atreus",
-        "Baldur",
-        "Freya",
-        "Mimir",
-        "Tyr"
+        "#GününTweeti",
+        "#AnlatBakalım",
+        "#TürkiyeKonuşuyor",
+        "#NeOlduŞimdi",
+        "#SenBilirsin"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
-      "question": "Nisan 2024 itibarıyla, TikTok platformunda en çok takipçiye sahip olan global influencer kimdir?",
+      "question": "James Cameron'ın yönettiği, 2009 yılında vizyona giren ve dünya genelinde tüm zamanların en yüksek gişe hasılatına ulaşan ilk film unvanını kazanan bilim kurgu filmi hangisidir?",
       "options": [
-        "Addison Rae",
-        "Charli D'Amelio",
-        "Khaby Lame",
-        "Bella Poarch",
-        "MrBeast"
+        "Titanic",
+        "Star Wars: Güç Uyanıyor",
+        "Yenilmezler: Son Oyun",
+        "Avatar",
+        "Jurassic World"
       ],
-      "correct": 2
-    },
-    {
-      "question": "Popüler K-drama 'Crash Landing on You'da, paraşütüyle Kuzey Kore'ye iniş yapan ve bir Kuzey Koreli askerle aşk yaşayan Güney Koreli iş kadını karakterinin adı nedir?",
-      "options": [
-        "Yoon Se-ri",
-        "Seo Dan",
-        "Ri Jeong-hyeok",
-        "Go Ae-shin",
-        "Yoo Jin"
-      ],
-      "correct": 0
+      "correct": 3
     }
   ]
 }
