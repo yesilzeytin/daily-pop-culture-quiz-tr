@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Formula 1 tarihinde en çok Grand Prix galibiyeti rekorunu elinde bulunduran pilot kimdir? (Kasım 2023 itibarıyla)",
+      "question": "Tarihteki ilk insanlı Ay yolculuğu olan Apollo 11 göreviyle Ay'a ilk ayak basan astronot kimdir?",
       "options": [
-        "Michael Schumacher",
-        "Ayrton Senna",
-        "Alain Prost",
-        "Lewis Hamilton",
-        "Max Verstappen"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Audrey Hepburn'ün 'Tiffany'de Kahvaltı' (Breakfast at Tiffany's) filmindeki ikonik siyah elbisesini tasarlayan ve kendisiyle özdeşleşen ünlü moda tasarımcısı kimdir?",
-      "options": [
-        "Coco Chanel",
-        "Christian Dior",
-        "Hubert de Givenchy",
-        "Yves Saint Laurent",
-        "Valentino Garavani"
+        "Buzz Aldrin",
+        "Yuri Gagarin",
+        "Neil Armstrong",
+        "Michael Collins",
+        "Alan Shepard"
       ],
       "correct": 2
     },
     {
-      "question": "Tokyo 2020 Olimpiyatları'nda (2021 yılında düzenlendi) okçulukta Türkiye'ye tarihindeki ilk altın madalyayı kazandıran sporcumuz kimdir?",
+      "question": "\"Şimşek Bolt\" lakabıyla tanınan, sprint yarışlarındaki dünya rekorlarıyla efsaneleşen Jamaikalı atlet Usain Bolt, erkekler 100 metrede kaç saniyeyle dünya rekorunu elinde bulundurmaktadır?",
       "options": [
-        "Yasemin Adar",
-        "Mete Gazoz",
-        "Taha Akgül",
-        "Busenaz Sürmeneli",
-        "Eray Şamdan"
+        "9.78 saniye",
+        "9.58 saniye",
+        "9.69 saniye",
+        "9.83 saniye",
+        "9.74 saniye"
       ],
       "correct": 1
     },
     {
-      "question": "Türkiye'de Twitter'da bir dönem oldukça popüler olan ve kullanıcıların kendi günlük hayattan komik veya ilginç anlarını esprili bir dille paylaştığı, genellikle belirli bir ifadeyle başlayan akımın adı nedir?",
+      "question": "Netflix'in ilk Türk orijinal dizisi olan \"Hakan: Muhafız\"da, ana karakter Hakan Demir'i canlandıran oyuncu kimdir?",
       "options": [
-        "#GününTweeti",
-        "#AnlatBakalım",
-        "#TürkiyeKonuşuyor",
-        "#NeOlduŞimdi",
-        "#SenBilirsin"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "James Cameron'ın yönettiği, 2009 yılında vizyona giren ve dünya genelinde tüm zamanların en yüksek gişe hasılatına ulaşan ilk film unvanını kazanan bilim kurgu filmi hangisidir?",
-      "options": [
-        "Titanic",
-        "Star Wars: Güç Uyanıyor",
-        "Yenilmezler: Son Oyun",
-        "Avatar",
-        "Jurassic World"
+        "Kıvanç Tatlıtuğ",
+        "Engin Akyürek",
+        "Aras Bulut İynemli",
+        "Çağatay Ulusoy",
+        "Kenan İmirzalıoğlu"
       ],
       "correct": 3
+    },
+    {
+      "question": "Pixar Animation Studios tarafından üretilen, Dünya'daki çöp yığınlarını temizlemekle görevli sevimli bir robotun maceralarını konu alan ve En İyi Animasyon Filmi Oscar'ı kazanan animasyon filmi hangisidir?",
+      "options": [
+        "Toy Story 3",
+        "Up",
+        "Wall-E",
+        "Coco",
+        "Finding Nemo"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "HBO'nun tüm dünyada fenomen haline gelen dizisi \"Game of Thrones\"ta, Westeros'un en güçlü hanedanlarından biri olan ve arması aslan olan hanedan hangisidir? (Sloganları \"Hear Me Roar!\" veya \"A Lannister Always Pays His Debts\" olarak bilinir.)",
+      "options": [
+        "Stark Hanedanı",
+        "Targaryen Hanedanı",
+        "Baratheon Hanedanı",
+        "Tyrell Hanedanı",
+        "Lannister Hanedanı"
+      ],
+      "correct": 4
     }
   ]
 }
