@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Tarihteki ilk insanlı Ay yolculuğu olan Apollo 11 göreviyle Ay'a ilk ayak basan astronot kimdir?",
+      "question": "Grammy Ödülleri'nde birden fazla kez Yılın Albümü ödülünü kazanan ve \"Hello\", \"Someone Like You\" gibi hitleriyle tanınan İngiliz şarkıcı kimdir?",
       "options": [
-        "Buzz Aldrin",
-        "Yuri Gagarin",
-        "Neil Armstrong",
-        "Michael Collins",
-        "Alan Shepard"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "\"Şimşek Bolt\" lakabıyla tanınan, sprint yarışlarındaki dünya rekorlarıyla efsaneleşen Jamaikalı atlet Usain Bolt, erkekler 100 metrede kaç saniyeyle dünya rekorunu elinde bulundurmaktadır?",
-      "options": [
-        "9.78 saniye",
-        "9.58 saniye",
-        "9.69 saniye",
-        "9.83 saniye",
-        "9.74 saniye"
+        "Dua Lipa",
+        "Adele",
+        "Ed Sheeran",
+        "Sam Smith",
+        "Jessie J"
       ],
       "correct": 1
     },
     {
-      "question": "Netflix'in ilk Türk orijinal dizisi olan \"Hakan: Muhafız\"da, ana karakter Hakan Demir'i canlandıran oyuncu kimdir?",
+      "question": "2020 yılında yayımlanmaya başlayan ve kısa sürede geniş kitlelere ulaşan \"Masumlar Apartmanı\" dizisinde, psikolojik sorunlarla mücadele eden ve temizlik takıntısı olan \"Gülben\" karakterini canlandıran başarılı oyuncu kimdir?",
       "options": [
-        "Kıvanç Tatlıtuğ",
-        "Engin Akyürek",
-        "Aras Bulut İynemli",
-        "Çağatay Ulusoy",
-        "Kenan İmirzalıoğlu"
+        "Ezgi Mola",
+        "Merve Dizdar",
+        "Farah Zeynep Abdullah",
+        "Birkan Sokullu",
+        "Aslıhan Gürbüz"
       ],
-      "correct": 3
+      "correct": 1
     },
     {
-      "question": "Pixar Animation Studios tarafından üretilen, Dünya'daki çöp yığınlarını temizlemekle görevli sevimli bir robotun maceralarını konu alan ve En İyi Animasyon Filmi Oscar'ı kazanan animasyon filmi hangisidir?",
+      "question": "Türkiye'nin en tanınan Twitch yayıncılarından biri olan ve özellikle sohbet (Just Chatting) ile çeşitli oyun yayınlarıyla bilinen, \"Jahrein\" lakabıyla milyonlarca takipçiye sahip olan fenomenin gerçek adı nedir?",
       "options": [
-        "Toy Story 3",
-        "Up",
-        "Wall-E",
-        "Coco",
-        "Finding Nemo"
+        "Tuğkan Gönültaş",
+        "Canpolat Yıldıran",
+        "Ferit Karakaya",
+        "Berk Rip Tepe",
+        "Umutcan Tura"
       ],
       "correct": 2
     },
     {
-      "question": "HBO'nun tüm dünyada fenomen haline gelen dizisi \"Game of Thrones\"ta, Westeros'un en güçlü hanedanlarından biri olan ve arması aslan olan hanedan hangisidir? (Sloganları \"Hear Me Roar!\" veya \"A Lannister Always Pays His Debts\" olarak bilinir.)",
+      "question": "HBO'nun eleştirmenlerden tam not alan ve birçok ödül kazanan dizisi \"Succession\"da, medya imparatoru Roy ailesinin acımasız patriği Logan Roy'u canlandıran deneyimli oyuncu kimdir?",
       "options": [
-        "Stark Hanedanı",
-        "Targaryen Hanedanı",
-        "Baratheon Hanedanı",
-        "Tyrell Hanedanı",
-        "Lannister Hanedanı"
+        "Jeremy Strong",
+        "Kieran Culkin",
+        "Matthew Macfadyen",
+        "Brian Cox",
+        "Alan Ruck"
       ],
-      "correct": 4
+      "correct": 3
+    },
+    {
+      "question": "Suçluların sembolik maskeler ve şehir isimleriyle anıldığı, büyük bir soygun planını konu alan ve dünya genelinde büyük popülarite kazanan İspanyol yapımı \"La Casa de Papel\" dizisinde, ekibin beyni ve operasyonların mimarı olan \"Profesör\" karakterini canlandıran oyuncu kimdir?",
+      "options": [
+        "Pedro Alonso",
+        "Úrsula Corberó",
+        "Álvaro Morte",
+        "Miguel Herrán",
+        "Jaime Lorente"
+      ],
+      "correct": 2
     }
   ]
 }
