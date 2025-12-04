@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Grammy Ödülleri'nde birden fazla kez Yılın Albümü ödülünü kazanan ve \"Hello\", \"Someone Like You\" gibi hitleriyle tanınan İngiliz şarkıcı kimdir?",
+      "question": "Avrupa basketbolunun kulüpler düzeyindeki en prestijli turnuvası olan EuroLeague'i kazanan ilk Türk takımı hangisidir?",
       "options": [
-        "Dua Lipa",
-        "Adele",
-        "Ed Sheeran",
-        "Sam Smith",
-        "Jessie J"
+        "Anadolu Efes",
+        "Fenerbahçe Beko",
+        "Galatasaray",
+        "Beşiktaş",
+        "Ülker"
       ],
       "correct": 1
     },
     {
-      "question": "2020 yılında yayımlanmaya başlayan ve kısa sürede geniş kitlelere ulaşan \"Masumlar Apartmanı\" dizisinde, psikolojik sorunlarla mücadele eden ve temizlik takıntısı olan \"Gülben\" karakterini canlandıran başarılı oyuncu kimdir?",
+      "question": "Orhan Pamuk, Nobel Edebiyat Ödülü'nü kazandığı yıl, Jüri tarafından öne çıkarılan ve eserlerinin bütününü tanımlayan genel açıklama ne olmuştur?",
       "options": [
-        "Ezgi Mola",
-        "Merve Dizdar",
-        "Farah Zeynep Abdullah",
-        "Birkan Sokullu",
-        "Aslıhan Gürbüz"
+        "Doğu ile Batı arasındaki kültürel köprüyü inşa etmesi nedeniyle",
+        "Kentinin melankolik ruhunun yeni simgelerini ararken kültürlerin çarpışması ve kaynaşmasını tasvir etmesi nedeniyle",
+        "Modern Türk edebiyatına katkıları nedeniyle",
+        "İnsanın iç dünyasını derinlemesine işlemesi nedeniyle",
+        "Tarihi olayları benzersiz bir dille anlatması nedeniyle"
       ],
       "correct": 1
     },
     {
-      "question": "Türkiye'nin en tanınan Twitch yayıncılarından biri olan ve özellikle sohbet (Just Chatting) ile çeşitli oyun yayınlarıyla bilinen, \"Jahrein\" lakabıyla milyonlarca takipçiye sahip olan fenomenin gerçek adı nedir?",
+      "question": "Attack on Titan (Shingeki no Kyojin) animesinde, insanlığın devlerden korunmak için inşa ettiği üç büyük duvardan en dıştaki duvarın adı nedir?",
       "options": [
-        "Tuğkan Gönültaş",
-        "Canpolat Yıldıran",
-        "Ferit Karakaya",
-        "Berk Rip Tepe",
-        "Umutcan Tura"
+        "Duvar Sina",
+        "Duvar Rose",
+        "Duvar Maria",
+        "Duvar Trost",
+        "Duvar Mitras"
       ],
       "correct": 2
     },
     {
-      "question": "HBO'nun eleştirmenlerden tam not alan ve birçok ödül kazanan dizisi \"Succession\"da, medya imparatoru Roy ailesinin acımasız patriği Logan Roy'u canlandıran deneyimli oyuncu kimdir?",
+      "question": "Christopher Nolan'ın yönettiği ve eleştirmenlerden tam not alan \"Kara Şövalye\" (The Dark Knight) filminde, Joker karakterini canlandırarak ölümünden sonra Oscar kazanan oyuncu kimdir?",
       "options": [
-        "Jeremy Strong",
-        "Kieran Culkin",
-        "Matthew Macfadyen",
-        "Brian Cox",
-        "Alan Ruck"
+        "Jared Leto",
+        "Jack Nicholson",
+        "Joaquin Phoenix",
+        "Heath Ledger",
+        "Christian Bale"
       ],
       "correct": 3
     },
     {
-      "question": "Suçluların sembolik maskeler ve şehir isimleriyle anıldığı, büyük bir soygun planını konu alan ve dünya genelinde büyük popülarite kazanan İspanyol yapımı \"La Casa de Papel\" dizisinde, ekibin beyni ve operasyonların mimarı olan \"Profesör\" karakterini canlandıran oyuncu kimdir?",
+      "question": "Pixar'ın \"Coco\" filminde, Miguel Rivera, ailesinin müziğe karşı duruşuna rağmen ünlü bir müzisyen olma hayalini gerçekleştirmek için hangi müzik aletini çalmak istemektedir?",
       "options": [
-        "Pedro Alonso",
-        "Úrsula Corberó",
-        "Álvaro Morte",
-        "Miguel Herrán",
-        "Jaime Lorente"
+        "Piyano",
+        "Akordeon",
+        "Keman",
+        "Trompet",
+        "Gitar"
       ],
-      "correct": 2
+      "correct": 4
     }
   ]
 }
