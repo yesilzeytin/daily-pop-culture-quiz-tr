@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Avrupa basketbolunun kulüpler düzeyindeki en prestijli turnuvası olan EuroLeague'i kazanan ilk Türk takımı hangisidir?",
+      "question": "Yeşilçam'ın unutulmaz filmlerinden 'Selvi Boylum Al Yazmalım'da Kadir İnanır'ın canlandırdığı kamyon şoförü karakterinin adı nedir?",
       "options": [
-        "Anadolu Efes",
-        "Fenerbahçe Beko",
-        "Galatasaray",
-        "Beşiktaş",
-        "Ülker"
+        "İlyas",
+        "Cemşit",
+        "Hasan",
+        "Murat",
+        "Ali"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Galatasaray Futbol Takımı, 2000 yılında UEFA Kupası finalinde hangi takımı penaltı atışları sonucunda yenerek şampiyon olmuştur?",
+      "options": [
+        "Real Madrid",
+        "Arsenal",
+        "Liverpool",
+        "Parma",
+        "Borussia Dortmund"
       ],
       "correct": 1
     },
     {
-      "question": "Orhan Pamuk, Nobel Edebiyat Ödülü'nü kazandığı yıl, Jüri tarafından öne çıkarılan ve eserlerinin bütününü tanımlayan genel açıklama ne olmuştur?",
+      "question": "Formula 1 tarihinde kariyerine 4 dünya şampiyonluğu sığdıran ve 'Profesör' lakabıyla anılan Fransız pilot kimdir?",
       "options": [
-        "Doğu ile Batı arasındaki kültürel köprüyü inşa etmesi nedeniyle",
-        "Kentinin melankolik ruhunun yeni simgelerini ararken kültürlerin çarpışması ve kaynaşmasını tasvir etmesi nedeniyle",
-        "Modern Türk edebiyatına katkıları nedeniyle",
-        "İnsanın iç dünyasını derinlemesine işlemesi nedeniyle",
-        "Tarihi olayları benzersiz bir dille anlatması nedeniyle"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Attack on Titan (Shingeki no Kyojin) animesinde, insanlığın devlerden korunmak için inşa ettiği üç büyük duvardan en dıştaki duvarın adı nedir?",
-      "options": [
-        "Duvar Sina",
-        "Duvar Rose",
-        "Duvar Maria",
-        "Duvar Trost",
-        "Duvar Mitras"
+        "Ayrton Senna",
+        "Niki Lauda",
+        "Alain Prost",
+        "Juan Manuel Fangio",
+        "Jim Clark"
       ],
       "correct": 2
     },
     {
-      "question": "Christopher Nolan'ın yönettiği ve eleştirmenlerden tam not alan \"Kara Şövalye\" (The Dark Knight) filminde, Joker karakterini canlandırarak ölümünden sonra Oscar kazanan oyuncu kimdir?",
+      "question": "Hangi oyuncu, 47. Altın Kelebek Ödülleri'nde 'Yargı' dizisindeki performansıyla 'En İyi Kadın Oyuncu' ödülünü kazanmıştır?",
       "options": [
-        "Jared Leto",
-        "Jack Nicholson",
-        "Joaquin Phoenix",
-        "Heath Ledger",
-        "Christian Bale"
+        "Serenay Sarıkaya",
+        "Neslihan Atagül Doğulu",
+        "Pınar Deniz",
+        "Hande Erçel",
+        "Demet Özdemir"
       ],
-      "correct": 3
+      "correct": 2
     },
     {
-      "question": "Pixar'ın \"Coco\" filminde, Miguel Rivera, ailesinin müziğe karşı duruşuna rağmen ünlü bir müzisyen olma hayalini gerçekleştirmek için hangi müzik aletini çalmak istemektedir?",
+      "question": "Soğuk Savaş döneminin en ikonik simgelerinden biri olan ve Doğu ile Batı Almanya'yı ayıran duvarın adı nedir?",
       "options": [
-        "Piyano",
-        "Akordeon",
-        "Keman",
-        "Trompet",
-        "Gitar"
+        "Berlin Duvarı",
+        "Çin Seddi",
+        "Hadrian Duvarı",
+        "Atlantik Duvarı",
+        "Vietnam Duvarı"
       ],
-      "correct": 4
+      "correct": 0
     }
   ]
 }
