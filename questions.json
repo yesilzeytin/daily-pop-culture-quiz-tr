@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Yeşilçam'ın unutulmaz filmlerinden 'Selvi Boylum Al Yazmalım'da Kadir İnanır'ın canlandırdığı kamyon şoförü karakterinin adı nedir?",
+      "question": "Dünya genelinde büyük bir fenomen haline gelen ve Güney Kore yapımı olan \"Squid Game\" dizisinin ana konusu nedir?",
       "options": [
-        "İlyas",
-        "Cemşit",
-        "Hasan",
-        "Murat",
-        "Ali"
+        "Bir grup öğrencinin okulda yaşadığı gizemli olaylar.",
+        "Kore Savaşı sırasında geçen bir aşk hikayesi.",
+        "Kuzey Kore'ye zorunlu iniş yapan bir kadının hayatta kalma mücadelesi.",
+        "Ekonomik zorluklar çeken insanların ölümcül çocuk oyunlarında mücadele etmesi.",
+        "Bir avukatın eski bir mafya babasıyla iş birliği yapması."
       ],
-      "correct": 0
+      "correct": 3
     },
     {
-      "question": "Galatasaray Futbol Takımı, 2000 yılında UEFA Kupası finalinde hangi takımı penaltı atışları sonucunda yenerek şampiyon olmuştur?",
+      "question": "Tüketici elektroniği alanında dünya liderlerinden biri olan ve özellikle \"Galaxy\" serisi akıllı telefonları, tabletleri ve televizyonlarıyla tanınan Güney Kore merkezli teknoloji şirketi aşağıdakilerden hangisidir?",
       "options": [
-        "Real Madrid",
-        "Arsenal",
-        "Liverpool",
-        "Parma",
-        "Borussia Dortmund"
+        "Apple",
+        "Xiaomi",
+        "Sony",
+        "Samsung",
+        "LG"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
-      "question": "Formula 1 tarihinde kariyerine 4 dünya şampiyonluğu sığdıran ve 'Profesör' lakabıyla anılan Fransız pilot kimdir?",
+      "question": "Eserleriyle müzik dünyasına damga vuran ve \"Amerikan şarkı geleneği içinde yeni şiirsel ifadeler yarattığı için\" 2016 yılında Nobel Edebiyat Ödülü'ne layık görülen Amerikalı sanatçı kimdir?",
       "options": [
-        "Ayrton Senna",
-        "Niki Lauda",
-        "Alain Prost",
-        "Juan Manuel Fangio",
-        "Jim Clark"
+        "Leonard Cohen",
+        "Bruce Springsteen",
+        "Bob Dylan",
+        "Paul McCartney",
+        "Neil Young"
       ],
       "correct": 2
     },
     {
-      "question": "Hangi oyuncu, 47. Altın Kelebek Ödülleri'nde 'Yargı' dizisindeki performansıyla 'En İyi Kadın Oyuncu' ödülünü kazanmıştır?",
+      "question": "Pixar yapımı \"Yukarı Bak\" (Up) filminde, binlerce balonu evine bağlayarak Güney Amerika'ya doğru macera dolu bir yolculuğa çıkan emekli balon satıcısı karakterin adı nedir?",
       "options": [
-        "Serenay Sarıkaya",
-        "Neslihan Atagül Doğulu",
-        "Pınar Deniz",
-        "Hande Erçel",
-        "Demet Özdemir"
+        "Russell",
+        "Dug",
+        "Carl Fredricksen",
+        "Charles Muntz",
+        "Kevin"
       ],
       "correct": 2
     },
     {
-      "question": "Soğuk Savaş döneminin en ikonik simgelerinden biri olan ve Doğu ile Batı Almanya'yı ayıran duvarın adı nedir?",
+      "question": "Türk müziğinin \"Diva\" lakaplı, güçlü sesi ve sahne performanslarıyla tanınan, Altın Kelebek Ödülleri'nde birçok kez \"En İyi Kadın Sanatçı\" ödülünü kazanmış efsanevi isim kimdir?",
       "options": [
-        "Berlin Duvarı",
-        "Çin Seddi",
-        "Hadrian Duvarı",
-        "Atlantik Duvarı",
-        "Vietnam Duvarı"
+        "Sezen Aksu",
+        "Yıldız Tilbe",
+        "Ajda Pekkan",
+        "Sertab Erener",
+        "Candan Erçetin"
       ],
-      "correct": 0
+      "correct": 2
     }
   ]
 }
