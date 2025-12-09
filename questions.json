@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Netflix'in popüler fantezi dizisi 'The Witcher'da, ana karakter Rivyalı Geralt'ı canlandıran oyuncu kimdir?",
+      "question": "Nobel Ödülü tarihinde iki farklı alanda (Fizik ve Kimya) Nobel kazanan tek kadın bilim insanı kimdir?",
       "options": [
-        "Henry Cavill",
-        "Mads Mikkelsen",
-        "Tom Hardy",
-        "Nikolaj Coster-Waldau",
-        "Chris Evans"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Taylor Swift'in kendi master kayıt haklarını geri almak amacıyla başlattığı 'Taylor's Version' projesinin ilk yayınlanan stüdyo albümü aşağıdakilerden hangisidir?",
-      "options": [
-        "Fearless (Taylor's Version)",
-        "Red (Taylor's Version)",
-        "1989 (Taylor's Version)",
-        "Speak Now (Taylor's Version)",
-        "Reputation (Taylor's Version)"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Türk pop müziğinin 'Megastar' lakabıyla anılan Tarkan'ın, uluslararası alanda büyük yankı uyandıran ve özellikle Avrupa'da listeleri kasıp kavuran, meşhur öpücük sesiyle bilinen hit şarkısının adı nedir?",
-      "options": [
-        "Kuzu Kuzu",
-        "Şıkıdım",
-        "Şımarık",
-        "Ölürüm Sana",
-        "Gül Döktüm Yollarına"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türkiye'de Twitter'da kullanıcıların bir tweet'e art arda kendi yorumlarını, görsellerini veya ek bilgilerini ekleyerek oluşturdukları, uzun ve bağlamlı gönderi dizilerine verilen isim nedir?",
-      "options": [
-        "Twitter Akımı",
-        "Tweet Zinciri",
-        "Retweet Fırtınası",
-        "Hashtag Mücadelesi",
-        "Gönderi Dizisi"
+        "Irène Joliot-Curie",
+        "Marie Curie",
+        "Dorothy Hodgkin",
+        "Maria Goeppert Mayer",
+        "Rosalind Franklin"
       ],
       "correct": 1
     },
     {
-      "question": "Hip-hop dünyasının efsanevi isimlerinden Eminem'in 'Lose Yourself' adlı hit şarkısı, başrolünde kendisinin oynadığı hangi filmin orijinal soundtrack'inde yer almıştır?",
+      "question": "1988 Seul Olimpiyatları'nda halterde Türkiye'ye Olimpiyat tarihinde uzun bir aradan sonra ilk altın madalyayı kazandıran ve 'Cep Herkülü' lakabıyla anılan efsanevi sporcu kimdir?",
       "options": [
-        "Straight Outta Compton",
-        "Boyz n the Hood",
-        "8 Mile",
-        "Notorious",
-        "Get Rich or Die Tryin'"
+        "Halil Mutlu",
+        "Taner Sağır",
+        "Naim Süleymanoğlu",
+        "Nurcan Taylan",
+        "Daniyar İsmayilov"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Instagram'da 600 milyondan fazla takipçisiyle en çok takip edilen kişi rekorunu elinde bulunduran ünlü futbolcu kimdir? (Mayıs 2024 itibarıyla)",
+      "options": [
+        "Lionel Messi",
+        "Selena Gomez",
+        "Kylie Jenner",
+        "Cristiano Ronaldo",
+        "Dwayne \"The Rock\" Johnson"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Birinci Dünya Savaşı'nın çıkmasına neden olan kıvılcım olarak kabul edilen olay, Avusturya-Macaristan Arşidükü Franz Ferdinand'ın hangi şehirde öldürülmesidir?",
+      "options": [
+        "Belgrad",
+        "Viyana",
+        "Berlin",
+        "Saraybosna",
+        "Paris"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "UEFA Şampiyonlar Ligi tarihinde en çok şampiyonluk yaşayan kulüp hangisidir?",
+      "options": [
+        "Bayern Münih",
+        "Liverpool",
+        "Real Madrid",
+        "Milan",
+        "Barcelona"
       ],
       "correct": 2
     }
