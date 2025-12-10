@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Nobel Ödülü tarihinde iki farklı alanda (Fizik ve Kimya) Nobel kazanan tek kadın bilim insanı kimdir?",
+      "question": "PlayStation'ın efsanevi oyun serilerinden Uncharted'da, hazine avcısı Nathan Drake'in maceraları ağırlıklı olarak hangi oyun türüne girer?",
       "options": [
-        "Irène Joliot-Curie",
-        "Marie Curie",
-        "Dorothy Hodgkin",
-        "Maria Goeppert Mayer",
-        "Rosalind Franklin"
+        "Rol Yapma (RPG)",
+        "Strateji",
+        "Aksiyon-Macera",
+        "Spor",
+        "Korku"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türkiye'nin tanınmış sosyal medya fenomenlerinden biri olan, özellikle komik ve eğlenceli içerikleriyle bilinen 'Danla Bilic' adıyla ünlenen kişinin gerçek adı nedir?",
+      "options": [
+        "Duygu Bilici",
+        "Neslihan Bilici",
+        "Dilan Bilici",
+        "Büşra Bilici",
+        "Damla Bilici"
       ],
       "correct": 1
     },
     {
-      "question": "1988 Seul Olimpiyatları'nda halterde Türkiye'ye Olimpiyat tarihinde uzun bir aradan sonra ilk altın madalyayı kazandıran ve 'Cep Herkülü' lakabıyla anılan efsanevi sporcu kimdir?",
+      "question": "Hürriyet Gazetesi ve Pantene işbirliğiyle düzenlenen Altın Kelebek Ödülleri'nde, müzik ve televizyon dünyasına katkıları nedeniyle verilen 'Yaşam Boyu Onur Ödülü'nü alan ilk sanatçılardan biri kimdir?",
       "options": [
-        "Halil Mutlu",
-        "Taner Sağır",
-        "Naim Süleymanoğlu",
-        "Nurcan Taylan",
-        "Daniyar İsmayilov"
+        "Sezen Aksu",
+        "Ajda Pekkan",
+        "Barış Manço",
+        "Müslüm Gürses",
+        "Zeki Müren"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
-      "question": "Instagram'da 600 milyondan fazla takipçisiyle en çok takip edilen kişi rekorunu elinde bulunduran ünlü futbolcu kimdir? (Mayıs 2024 itibarıyla)",
+      "question": "İkinci Dünya Savaşı sırasında, Nazi Almanya'sının Sovyetler Birliği'ni işgal etmek amacıyla başlattığı ve Doğu Cephesi'nde milyonlarca can kaybına yol açan büyük askeri operasyonun kod adı nedir?",
       "options": [
-        "Lionel Messi",
-        "Selena Gomez",
-        "Kylie Jenner",
-        "Cristiano Ronaldo",
-        "Dwayne \"The Rock\" Johnson"
+        "Overlord Operasyonu",
+        "Market Garden Operasyonu",
+        "Torch Operasyonu",
+        "Barbarossa Harekâtı",
+        "Uçurum Harekâtı"
       ],
       "correct": 3
     },
     {
-      "question": "Birinci Dünya Savaşı'nın çıkmasına neden olan kıvılcım olarak kabul edilen olay, Avusturya-Macaristan Arşidükü Franz Ferdinand'ın hangi şehirde öldürülmesidir?",
+      "question": "İngiltere Kraliçesi II. Elizabeth'in tahttaki 70. yıl dönümünü kutlamak için 2022 yılında gerçekleştirilen tarihi jübile kutlamasının adı nedir?",
       "options": [
-        "Belgrad",
-        "Viyana",
-        "Berlin",
-        "Saraybosna",
-        "Paris"
+        "Altın Jübile",
+        "Gümüş Jübile",
+        "Pırlanta Jübile",
+        "Yakut Jübile",
+        "Platin Jübile"
       ],
-      "correct": 3
-    },
-    {
-      "question": "UEFA Şampiyonlar Ligi tarihinde en çok şampiyonluk yaşayan kulüp hangisidir?",
-      "options": [
-        "Bayern Münih",
-        "Liverpool",
-        "Real Madrid",
-        "Milan",
-        "Barcelona"
-      ],
-      "correct": 2
+      "correct": 4
     }
   ]
 }
