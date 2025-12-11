@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "PlayStation'ın efsanevi oyun serilerinden Uncharted'da, hazine avcısı Nathan Drake'in maceraları ağırlıklı olarak hangi oyun türüne girer?",
+      "question": "Türkiye'de Vine platformunda popüler olan ve genellikle \"Yalarım\" repliğiyle bilinen komedyen ve sosyal medya fenomeni kimdir?",
       "options": [
-        "Rol Yapma (RPG)",
-        "Strateji",
-        "Aksiyon-Macera",
-        "Spor",
-        "Korku"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türkiye'nin tanınmış sosyal medya fenomenlerinden biri olan, özellikle komik ve eğlenceli içerikleriyle bilinen 'Danla Bilic' adıyla ünlenen kişinin gerçek adı nedir?",
-      "options": [
-        "Duygu Bilici",
-        "Neslihan Bilici",
-        "Dilan Bilici",
-        "Büşra Bilici",
-        "Damla Bilici"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Hürriyet Gazetesi ve Pantene işbirliğiyle düzenlenen Altın Kelebek Ödülleri'nde, müzik ve televizyon dünyasına katkıları nedeniyle verilen 'Yaşam Boyu Onur Ödülü'nü alan ilk sanatçılardan biri kimdir?",
-      "options": [
-        "Sezen Aksu",
-        "Ajda Pekkan",
-        "Barış Manço",
-        "Müslüm Gürses",
-        "Zeki Müren"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "İkinci Dünya Savaşı sırasında, Nazi Almanya'sının Sovyetler Birliği'ni işgal etmek amacıyla başlattığı ve Doğu Cephesi'nde milyonlarca can kaybına yol açan büyük askeri operasyonun kod adı nedir?",
-      "options": [
-        "Overlord Operasyonu",
-        "Market Garden Operasyonu",
-        "Torch Operasyonu",
-        "Barbarossa Harekâtı",
-        "Uçurum Harekâtı"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "İngiltere Kraliçesi II. Elizabeth'in tahttaki 70. yıl dönümünü kutlamak için 2022 yılında gerçekleştirilen tarihi jübile kutlamasının adı nedir?",
-      "options": [
-        "Altın Jübile",
-        "Gümüş Jübile",
-        "Pırlanta Jübile",
-        "Yakut Jübile",
-        "Platin Jübile"
+        "Hakan Hepcan",
+        "Mesut Can Tomay",
+        "Emre Canpolat",
+        "Doğa Konakoğlu",
+        "Halil Söyletmez"
       ],
       "correct": 4
+    },
+    {
+      "question": "2020-2021 ve 2021-2022 sezonlarında EuroLeague şampiyonu olan Anadolu Efes'in bu başarılardaki başantrenörü kimdir?",
+      "options": [
+        "Zeljko Obradovic",
+        "Ergin Ataman",
+        "Sarunas Jasikevicius",
+        "Ahmet Çakı",
+        "Ufuk Sarıca"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Cem Yılmaz'ın hem senaryosunu yazdığı hem de başrolünde oynadığı \"Vizontele Tuuba\" filminde, Cem Yılmaz'ın canlandırdığı karakterin adı nedir?",
+      "options": [
+        "Fikri",
+        "Deli Emin",
+        "Rıfat",
+        "Ceku",
+        "Arif"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Pixar Stüdyoları'nın \"Oyuncak Hikayesi\" (Toy Story) serisindeki ikonik kovboy karakterinin adı nedir?",
+      "options": [
+        "Buzz Lightyear",
+        "Woody",
+        "Jessie",
+        "Mr. Potato Head",
+        "Slinky Dog"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Şahan Gökbakar'ın canlandırdığı \"Recep İvedik\" karakterinin, serinin ilk filminde katıldığı ve birincilik elde ettiği spor müsabakası hangisidir?",
+      "options": [
+        "Güreş turnuvası",
+        "Halı saha maçı",
+        "Dans yarışması",
+        "Tavla turnuvası",
+        "Olimpiyat Oyunları"
+      ],
+      "correct": 2
     }
   ]
 }
