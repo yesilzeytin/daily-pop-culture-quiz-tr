@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Türkiye'de Vine platformunda popüler olan ve genellikle \"Yalarım\" repliğiyle bilinen komedyen ve sosyal medya fenomeni kimdir?",
+      "question": "\"Red Kit\" (Lucky Luke) çizgi filminde, Red Kit'in daima yakaladığı ve sürekli hapisten kaçmaya çalışan dört kardeşli çetenin adı nedir?",
       "options": [
-        "Hakan Hepcan",
-        "Mesut Can Tomay",
-        "Emre Canpolat",
-        "Doğa Konakoğlu",
-        "Halil Söyletmez"
-      ],
-      "correct": 4
-    },
-    {
-      "question": "2020-2021 ve 2021-2022 sezonlarında EuroLeague şampiyonu olan Anadolu Efes'in bu başarılardaki başantrenörü kimdir?",
-      "options": [
-        "Zeljko Obradovic",
-        "Ergin Ataman",
-        "Sarunas Jasikevicius",
-        "Ahmet Çakı",
-        "Ufuk Sarıca"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Cem Yılmaz'ın hem senaryosunu yazdığı hem de başrolünde oynadığı \"Vizontele Tuuba\" filminde, Cem Yılmaz'ın canlandırdığı karakterin adı nedir?",
-      "options": [
-        "Fikri",
-        "Deli Emin",
-        "Rıfat",
-        "Ceku",
-        "Arif"
+        "Dalton Kardeşler",
+        "Flintstone Kardeşler",
+        "Jetgil Kardeşler",
+        "Scooby-Doo Çetesi",
+        "Guffi Kardeşler"
       ],
       "correct": 0
     },
     {
-      "question": "Pixar Stüdyoları'nın \"Oyuncak Hikayesi\" (Toy Story) serisindeki ikonik kovboy karakterinin adı nedir?",
+      "question": "\"Hangimiz Sevmedik\", \"Paramparça\", \"Tanrı İstemezse\" gibi şarkılarıyla bilinen ve hayatı beyaz perdeye de aktarılan arabesk müziğin efsanevi ismi kimdir?",
       "options": [
-        "Buzz Lightyear",
-        "Woody",
-        "Jessie",
-        "Mr. Potato Head",
-        "Slinky Dog"
+        "İbrahim Tatlıses",
+        "Ferdi Tayfur",
+        "Orhan Gencebay",
+        "Müslüm Gürses",
+        "Zeki Müren"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Türk popüler kültüründe \"Dans Eden Adam\" olarak bilinen, TikTok'ta paylaştığı yemek yeme ve dans videolarıyla dünya çapında ün kazanan fenomenin adı nedir?",
+      "options": [
+        "CZN Burak",
+        "Yasin Cengiz",
+        "Reynmen",
+        "Enes Batur",
+        "Cemre Solmaz"
       ],
       "correct": 1
     },
     {
-      "question": "Şahan Gökbakar'ın canlandırdığı \"Recep İvedik\" karakterinin, serinin ilk filminde katıldığı ve birincilik elde ettiği spor müsabakası hangisidir?",
+      "question": "Cem Yılmaz'ın yazdığı ve yönettiği \"G.O.R.A.\" filminde, Arif karakterinin yolu, uzaylılar tarafından kaçırıldığı hangi gezegene düşer?",
       "options": [
-        "Güreş turnuvası",
-        "Halı saha maçı",
-        "Dans yarışması",
-        "Tavla turnuvası",
-        "Olimpiyat Oyunları"
+        "A.R.O.G.",
+        "Zaytung",
+        "G.O.R.A.",
+        "Andromeda",
+        "Galaksi X"
       ],
       "correct": 2
+    },
+    {
+      "question": "\"Fineas ve Förb\" (Phineas and Ferb) çizgi filminde, evcil hayvanları olan ornitorenk Perry'nin gizli kimliği nedir?",
+      "options": [
+        "Ajan P",
+        "Süper Ornitorenk",
+        "Gizli Casus",
+        "Yaratıcı Kahraman",
+        "Dr. Doofenshmirtz'in Rakibi"
+      ],
+      "correct": 0
     }
   ]
 }
