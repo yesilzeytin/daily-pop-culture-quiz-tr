@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "\"Red Kit\" (Lucky Luke) çizgi filminde, Red Kit'in daima yakaladığı ve sürekli hapisten kaçmaya çalışan dört kardeşli çetenin adı nedir?",
+      "question": "Star Wars evreninde Luke Skywalker ve Anakin Skywalker'ın doğup büyüdüğü çöl gezegeninin adı nedir?",
       "options": [
-        "Dalton Kardeşler",
-        "Flintstone Kardeşler",
-        "Jetgil Kardeşler",
-        "Scooby-Doo Çetesi",
-        "Guffi Kardeşler"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "\"Hangimiz Sevmedik\", \"Paramparça\", \"Tanrı İstemezse\" gibi şarkılarıyla bilinen ve hayatı beyaz perdeye de aktarılan arabesk müziğin efsanevi ismi kimdir?",
-      "options": [
-        "İbrahim Tatlıses",
-        "Ferdi Tayfur",
-        "Orhan Gencebay",
-        "Müslüm Gürses",
-        "Zeki Müren"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Türk popüler kültüründe \"Dans Eden Adam\" olarak bilinen, TikTok'ta paylaştığı yemek yeme ve dans videolarıyla dünya çapında ün kazanan fenomenin adı nedir?",
-      "options": [
-        "CZN Burak",
-        "Yasin Cengiz",
-        "Reynmen",
-        "Enes Batur",
-        "Cemre Solmaz"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Cem Yılmaz'ın yazdığı ve yönettiği \"G.O.R.A.\" filminde, Arif karakterinin yolu, uzaylılar tarafından kaçırıldığı hangi gezegene düşer?",
-      "options": [
-        "A.R.O.G.",
-        "Zaytung",
-        "G.O.R.A.",
-        "Andromeda",
-        "Galaksi X"
+        "Coruscant",
+        "Hoth",
+        "Tatooine",
+        "Endor",
+        "Alderaan"
       ],
       "correct": 2
     },
     {
-      "question": "\"Fineas ve Förb\" (Phineas and Ferb) çizgi filminde, evcil hayvanları olan ornitorenk Perry'nin gizli kimliği nedir?",
+      "question": "Türk pop müziğinin en önemli isimlerinden biri olan ve 'Minik Serçe' lakabıyla anılan efsanevi sanatçı kimdir?",
       "options": [
-        "Ajan P",
-        "Süper Ornitorenk",
-        "Gizli Casus",
-        "Yaratıcı Kahraman",
-        "Dr. Doofenshmirtz'in Rakibi"
+        "Ajda Pekkan",
+        "Nil Karaibrahimgil",
+        "Sertab Erener",
+        "Sezen Aksu",
+        "Candem"
       ],
-      "correct": 0
+      "correct": 3
+    },
+    {
+      "question": "Ogre Shrek'in maceralarını konu alan ve \"Eşek\" karakteriyle de çok sevilen popüler animasyon film serisini hangi stüdyo yapmıştır?",
+      "options": [
+        "Pixar Animation Studios",
+        "Walt Disney Animation Studios",
+        "DreamWorks Animation",
+        "Illumination",
+        "Studio Ghibli"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Popüler Türk komedi filmi serisi Recep İvedik'te, Recep'in çok sevdiği ve sık sık ziyaret ettiği babaannesinin adı nedir?",
+      "options": [
+        "Naciye Teyze",
+        "Melek Nine",
+        "Bedriye Anneanne",
+        "Adile Hala",
+        "Süheyla Sultan"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Popüler Türk dizisi Diriliş Ertuğrul'da, Ertuğrul Bey hangi Oğuz Türk boyunun beyliğini yapmaktadır?",
+      "options": [
+        "Avşar Boyu",
+        "Kayı Boyu",
+        "Kınık Boyu",
+        "Bayat Boyu",
+        "Döğer Boyu"
+      ],
+      "correct": 1
     }
   ]
 }
