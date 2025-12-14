@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Star Wars evreninde Luke Skywalker ve Anakin Skywalker'ın doğup büyüdüğü çöl gezegeninin adı nedir?",
+      "question": "Aşk-ı Memnu dizisinde Behlül karakterini canlandıran oyuncu kimdir?",
       "options": [
-        "Coruscant",
-        "Hoth",
-        "Tatooine",
-        "Endor",
-        "Alderaan"
+        "Engin Altan Düzyatan",
+        "Burak Özçivit",
+        "Kıvanç Tatlıtuğ",
+        "Kenan İmirzalıoğlu",
+        "Çağatay Ulusoy"
       ],
       "correct": 2
     },
     {
-      "question": "Türk pop müziğinin en önemli isimlerinden biri olan ve 'Minik Serçe' lakabıyla anılan efsanevi sanatçı kimdir?",
+      "question": "Ezhel'in geniş kitlelerce tanınmasını sağlayan ve Türkiye'de trap müziğin popülerleşmesine büyük katkıda bulunan, 'Geceler' ve 'Şehrimin Tadı' gibi hitlerin yer aldığı ilk stüdyo albümünün adı nedir?",
       "options": [
-        "Ajda Pekkan",
-        "Nil Karaibrahimgil",
-        "Sertab Erener",
-        "Sezen Aksu",
-        "Candem"
+        "Müptezhel",
+        "Lights Out",
+        "Made in Turkey",
+        "Karmakarışık",
+        "Bi Dakika"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "League of Legends Dünya Şampiyonası'nı (Worlds) en çok kazanan takım aşağıdakilerden hangisidir?",
+      "options": [
+        "Fnatic",
+        "Gen.G",
+        "Royal Never Give Up",
+        "T1",
+        "EDward Gaming"
       ],
       "correct": 3
     },
     {
-      "question": "Ogre Shrek'in maceralarını konu alan ve \"Eşek\" karakteriyle de çok sevilen popüler animasyon film serisini hangi stüdyo yapmıştır?",
+      "question": "Türkiye'nin en popüler YouTuber'larından Enes Batur'un, genellikle hangi türde videolar ürettiği bilinmektedir?",
       "options": [
-        "Pixar Animation Studios",
-        "Walt Disney Animation Studios",
-        "DreamWorks Animation",
-        "Illumination",
-        "Studio Ghibli"
+        "Makyaj ve güzellik",
+        "Yemek tarifleri",
+        "Oyun ve eğlence",
+        "Tarihi belgeseller",
+        "Felsefi tartışmalar"
       ],
       "correct": 2
     },
     {
-      "question": "Popüler Türk komedi filmi serisi Recep İvedik'te, Recep'in çok sevdiği ve sık sık ziyaret ettiği babaannesinin adı nedir?",
+      "question": "Kendi ışığını üreten her bir piksel sayesinde mükemmel siyahlar ve canlı renkler sunan, özellikle yüksek kaliteli televizyon ve akıllı telefon ekranlarında kullanılan ekran teknolojisi hangisidir?",
       "options": [
-        "Naciye Teyze",
-        "Melek Nine",
-        "Bedriye Anneanne",
-        "Adile Hala",
-        "Süheyla Sultan"
+        "LCD",
+        "LED",
+        "Plazma",
+        "QLED",
+        "OLED"
       ],
-      "correct": 1
-    },
-    {
-      "question": "Popüler Türk dizisi Diriliş Ertuğrul'da, Ertuğrul Bey hangi Oğuz Türk boyunun beyliğini yapmaktadır?",
-      "options": [
-        "Avşar Boyu",
-        "Kayı Boyu",
-        "Kınık Boyu",
-        "Bayat Boyu",
-        "Döğer Boyu"
-      ],
-      "correct": 1
+      "correct": 4
     }
   ]
 }
