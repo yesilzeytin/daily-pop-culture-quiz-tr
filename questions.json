@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Aşk-ı Memnu dizisinde Behlül karakterini canlandıran oyuncu kimdir?",
+      "question": "Marvel Sinematik Evreni'nin (MCU) başlangıcı kabul edilen ilk film hangisidir?",
       "options": [
-        "Engin Altan Düzyatan",
-        "Burak Özçivit",
-        "Kıvanç Tatlıtuğ",
-        "Kenan İmirzalıoğlu",
-        "Çağatay Ulusoy"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Ezhel'in geniş kitlelerce tanınmasını sağlayan ve Türkiye'de trap müziğin popülerleşmesine büyük katkıda bulunan, 'Geceler' ve 'Şehrimin Tadı' gibi hitlerin yer aldığı ilk stüdyo albümünün adı nedir?",
-      "options": [
-        "Müptezhel",
-        "Lights Out",
-        "Made in Turkey",
-        "Karmakarışık",
-        "Bi Dakika"
+        "Iron Man (2008)",
+        "Kaptan Amerika: İlk Yenilmez (2011)",
+        "Yenilmezler (2012)",
+        "Thor (2011)",
+        "Galaksinin Koruyucuları (2014)"
       ],
       "correct": 0
     },
     {
-      "question": "League of Legends Dünya Şampiyonası'nı (Worlds) en çok kazanan takım aşağıdakilerden hangisidir?",
+      "question": "UEFA Şampiyonlar Ligi tarihinde bir sezonda en çok gol atan oyuncu kimdir?",
       "options": [
-        "Fnatic",
-        "Gen.G",
-        "Royal Never Give Up",
-        "T1",
-        "EDward Gaming"
+        "Cristiano Ronaldo",
+        "Lionel Messi",
+        "Robert Lewandowski",
+        "Karim Benzema",
+        "Erling Haaland"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
-      "question": "Türkiye'nin en popüler YouTuber'larından Enes Batur'un, genellikle hangi türde videolar ürettiği bilinmektedir?",
+      "question": "Genellikle bir köpeğin (özellikle bir Shiba Inu'nun) iç sesini yansıtan Comic Sans metinlerle birlikte görünen popüler internet meme'inin adı nedir?",
       "options": [
-        "Makyaj ve güzellik",
-        "Yemek tarifleri",
-        "Oyun ve eğlence",
-        "Tarihi belgeseller",
-        "Felsefi tartışmalar"
+        "Distracted Boyfriend",
+        "Doge",
+        "Grumpy Cat",
+        "Hide the Pain Harold",
+        "Side-Eyeing Chloe"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
-      "question": "Kendi ışığını üreten her bir piksel sayesinde mükemmel siyahlar ve canlı renkler sunan, özellikle yüksek kaliteli televizyon ve akıllı telefon ekranlarında kullanılan ekran teknolojisi hangisidir?",
+      "question": "Türk Twitch yayıncısı ve YouTube içerik üreticisi olan, genellikle \"Kendine Müzisyen\" adıyla bilinen fenomenin gerçek adı nedir?",
       "options": [
-        "LCD",
-        "LED",
-        "Plazma",
-        "QLED",
-        "OLED"
+        "Efe Uygaç",
+        "Can Sungur",
+        "Uğur Şengül",
+        "Celal Can Algül",
+        "Kemal Can Parlak"
       ],
       "correct": 4
+    },
+    {
+      "question": "İnternet üzerinde hızla yayılan ve genellikle bir durumun abartılı, şaşırtıcı veya ironik sonucunu gösteren kısa videolara ne ad verilir? (Örnek: Vine döneminde popüler olan videolar)",
+      "options": [
+        "Podcast",
+        "Vlog",
+        "Meme",
+        "Viral Video",
+        "GIF"
+      ],
+      "correct": 3
     }
   ]
 }
