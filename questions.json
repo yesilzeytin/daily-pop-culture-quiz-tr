@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Marvel Sinematik Evreni'nin (MCU) başlangıcı kabul edilen ilk film hangisidir?",
+      "question": "Berlin Duvarı'nın yıkılması, Soğuk Savaş'ın sembolik sonu olarak kabul edilir ve dünya tarihinde önemli bir dönüm noktasıdır. Bu olay hangi yılda gerçekleşmiştir?",
       "options": [
-        "Iron Man (2008)",
-        "Kaptan Amerika: İlk Yenilmez (2011)",
-        "Yenilmezler (2012)",
-        "Thor (2011)",
-        "Galaksinin Koruyucuları (2014)"
+        "1985",
+        "1987",
+        "1989",
+        "1991",
+        "1993"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "question": "UEFA Şampiyonlar Ligi tarihinde bir sezonda en çok gol atan oyuncu kimdir?",
+      "question": "Twitter Türkiye'de bir kullanıcının, genellikle bir olayı veya durumu protesto etmek ya da dikkat çekmek amacıyla, çok sayıda başka kullanıcı tarafından aynı anda etiketlenerek (mentionlanarak) yapılan yoğun etkileşime ne ad verilir?",
       "options": [
-        "Cristiano Ronaldo",
-        "Lionel Messi",
-        "Robert Lewandowski",
-        "Karim Benzema",
-        "Erling Haaland"
+        "Hashtag Kampanyası",
+        "Flood Atma",
+        "Mention Yağmuru",
+        "Retweet Fırtınası",
+        "Gündem Oluşturma"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "question": "Genellikle bir köpeğin (özellikle bir Shiba Inu'nun) iç sesini yansıtan Comic Sans metinlerle birlikte görünen popüler internet meme'inin adı nedir?",
+      "question": "Dünya genelinde milyonlarca takipçisi olan ve genellikle büyük ödüllü meydan okumalar, hayır işleri ve pahalı prodüksiyonlarıyla tanınan ünlü YouTuber kimdir?",
       "options": [
-        "Distracted Boyfriend",
-        "Doge",
-        "Grumpy Cat",
-        "Hide the Pain Harold",
-        "Side-Eyeing Chloe"
+        "PewDiePie",
+        "MrBeast",
+        "T-Series",
+        "Markiplier",
+        "Logan Paul"
       ],
       "correct": 1
     },
     {
-      "question": "Türk Twitch yayıncısı ve YouTube içerik üreticisi olan, genellikle \"Kendine Müzisyen\" adıyla bilinen fenomenin gerçek adı nedir?",
+      "question": "FIFA Dünya Kupası tarihinde en çok şampiyonluk yaşayan ülke hangisidir?",
       "options": [
-        "Efe Uygaç",
-        "Can Sungur",
-        "Uğur Şengül",
-        "Celal Can Algül",
-        "Kemal Can Parlak"
-      ],
-      "correct": 4
-    },
-    {
-      "question": "İnternet üzerinde hızla yayılan ve genellikle bir durumun abartılı, şaşırtıcı veya ironik sonucunu gösteren kısa videolara ne ad verilir? (Örnek: Vine döneminde popüler olan videolar)",
-      "options": [
-        "Podcast",
-        "Vlog",
-        "Meme",
-        "Viral Video",
-        "GIF"
+        "Almanya",
+        "İtalya",
+        "Arjantin",
+        "Brezilya",
+        "Fransa"
       ],
       "correct": 3
+    },
+    {
+      "question": "Nickelodeon'ın en ikonik çizgi filmlerinden biri olan, Bikini Kasabası'nda yaşayan sünger bir karakterin su altı maceralarını konu alan yapımın adı nedir?",
+      "options": [
+        "Hey Arnold!",
+        "Rugrats",
+        "Sünger Bob KareŞort",
+        "Fairly OddParents",
+        "Avatar: Son Hava Bükücü"
+      ],
+      "correct": 2
     }
   ]
 }
