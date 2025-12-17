@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Berlin Duvarı'nın yıkılması, Soğuk Savaş'ın sembolik sonu olarak kabul edilir ve dünya tarihinde önemli bir dönüm noktasıdır. Bu olay hangi yılda gerçekleşmiştir?",
+      "question": "Rıfat Ilgaz'ın eserinden uyarlanan ve Türk sinemasının kült komedi filmlerinden biri olan 'Hababam Sınıfı' serisinde, öğrencilerin en çok korktuğu, disiplinli ve sert öğretmenin lakabı nedir?",
       "options": [
-        "1985",
-        "1987",
-        "1989",
-        "1991",
-        "1993"
+        "Kel Mahmut",
+        "Güdük Necmi",
+        "Damat Ferit",
+        "Bacaksız Hayri",
+        "Kalem Şakir"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "Twitter Türkiye'de bir kullanıcının, genellikle bir olayı veya durumu protesto etmek ya da dikkat çekmek amacıyla, çok sayıda başka kullanıcı tarafından aynı anda etiketlenerek (mentionlanarak) yapılan yoğun etkileşime ne ad verilir?",
+      "question": "Türkiye'de ve globalde popülerleşen, bir durumu abartılı bir şekilde ifade eden ve genellikle 'distracted boyfriend' (dikkat dağınık erkek arkadaş) olarak bilinen internet meme'indeki temel hikaye nedir?",
       "options": [
-        "Hashtag Kampanyası",
-        "Flood Atma",
-        "Mention Yağmuru",
-        "Retweet Fırtınası",
-        "Gündem Oluşturma"
+        "Bir erkeğin yanındaki sevgilisiyle yürürken başka bir kadına hayranlıkla bakması.",
+        "Bir kadının kedisine yemek verirken kazara kendisini yakması.",
+        "Bir grup gencin bir partide tuhaf dans hareketleri yapması.",
+        "Bir köpeğin sahibine masumca bakarak yemek istemesi.",
+        "Bir çocuğun bilgisayar oyunu oynarken sinirlenmesi."
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "Dünya genelinde milyonlarca takipçisi olan ve genellikle büyük ödüllü meydan okumalar, hayır işleri ve pahalı prodüksiyonlarıyla tanınan ünlü YouTuber kimdir?",
+      "question": "League of Legends Dünya Şampiyonası (Worlds) tarihindeki en ünlü oyuncularından biri olan ve 'Demon King' (İblis Kral) lakabıyla anılan efsanevi orta koridor oyuncusu kimdir?",
       "options": [
-        "PewDiePie",
-        "MrBeast",
-        "T-Series",
-        "Markiplier",
-        "Logan Paul"
+        "Faker",
+        "Uzi",
+        "Caps",
+        "Rekkles",
+        "Perkz"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
-      "question": "FIFA Dünya Kupası tarihinde en çok şampiyonluk yaşayan ülke hangisidir?",
+      "question": "2002 FIFA Dünya Kupası'nda, Türkiye Milli Futbol Takımı, turnuvayı tarihinde ilk kez katıldığı bu kupada hangi dereceyi elde ederek büyük bir başarıya imza atmıştır?",
       "options": [
-        "Almanya",
-        "İtalya",
-        "Arjantin",
-        "Brezilya",
-        "Fransa"
+        "Üçüncü",
+        "İkinci (Finalist)",
+        "Dördüncü",
+        "Çeyrek Final",
+        "Son 16 Turu"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
-      "question": "Nickelodeon'ın en ikonik çizgi filmlerinden biri olan, Bikini Kasabası'nda yaşayan sünger bir karakterin su altı maceralarını konu alan yapımın adı nedir?",
+      "question": "'Kahpe Bizans', 'G.O.R.A.' ve 'Arif V 216' gibi filmleriyle tanınan, özellikle internet mizahında replikleri ve karakterleriyle sıkça görülmesiyle bilinen ünlü komedyen ve oyuncu kimdir?",
       "options": [
-        "Hey Arnold!",
-        "Rugrats",
-        "Sünger Bob KareŞort",
-        "Fairly OddParents",
-        "Avatar: Son Hava Bükücü"
+        "Cem Yılmaz",
+        "Şahan Gökbakar",
+        "Ata Demirer",
+        "Yılmaz Erdoğan",
+        "Şafak Sezer"
       ],
-      "correct": 2
+      "correct": 0
     }
   ]
 }
