@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Rıfat Ilgaz'ın eserinden uyarlanan ve Türk sinemasının kült komedi filmlerinden biri olan 'Hababam Sınıfı' serisinde, öğrencilerin en çok korktuğu, disiplinli ve sert öğretmenin lakabı nedir?",
+      "question": "Türkiye Milli Futbol Takımı, Avrupa Futbol Şampiyonası (EURO) tarihinde en iyi derecesini hangi yıl elde etmiştir?",
       "options": [
-        "Kel Mahmut",
-        "Güdük Necmi",
-        "Damat Ferit",
-        "Bacaksız Hayri",
-        "Kalem Şakir"
+        "1996",
+        "2000",
+        "2008",
+        "2016",
+        "2020"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "question": "Türkiye'de ve globalde popülerleşen, bir durumu abartılı bir şekilde ifade eden ve genellikle 'distracted boyfriend' (dikkat dağınık erkek arkadaş) olarak bilinen internet meme'indeki temel hikaye nedir?",
+      "question": "'Süperstar' lakabıyla anılan, Türk pop müziğinin en bilinen ve kariyeri boyunca birçok hit şarkıya imza atmış sanatçısı kimdir?",
       "options": [
-        "Bir erkeğin yanındaki sevgilisiyle yürürken başka bir kadına hayranlıkla bakması.",
-        "Bir kadının kedisine yemek verirken kazara kendisini yakması.",
-        "Bir grup gencin bir partide tuhaf dans hareketleri yapması.",
-        "Bir köpeğin sahibine masumca bakarak yemek istemesi.",
-        "Bir çocuğun bilgisayar oyunu oynarken sinirlenmesi."
+        "Sezen Aksu",
+        "Ajda Pekkan",
+        "Nilüfer",
+        "Sertab Erener",
+        "Candan Erçetin"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
-      "question": "League of Legends Dünya Şampiyonası (Worlds) tarihindeki en ünlü oyuncularından biri olan ve 'Demon King' (İblis Kral) lakabıyla anılan efsanevi orta koridor oyuncusu kimdir?",
+      "question": "Netflix'in dünya çapında büyük ilgi gören ve borç batağındaki insanların ölümcül çocuk oyunlarına katıldığı popüler Güney Kore dizisi hangisidir?",
       "options": [
-        "Faker",
-        "Uzi",
-        "Caps",
-        "Rekkles",
-        "Perkz"
+        "Kingdom",
+        "Vincenzo",
+        "Squid Game",
+        "Crash Landing on You",
+        "Parasite"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "question": "2002 FIFA Dünya Kupası'nda, Türkiye Milli Futbol Takımı, turnuvayı tarihinde ilk kez katıldığı bu kupada hangi dereceyi elde ederek büyük bir başarıya imza atmıştır?",
+      "question": "Birinci Dünya Savaşı'nın dehşetini anlatan ve 2020 yılında 'En İyi Yönetmen', 'En İyi Sinematografi' ve 'En İyi Görsel Efekt' dallarında üç Oscar kazanan Sam Mendes yönetmenliğindeki film hangisidir?",
       "options": [
-        "Üçüncü",
-        "İkinci (Finalist)",
-        "Dördüncü",
-        "Çeyrek Final",
-        "Son 16 Turu"
+        "Dunkirk",
+        "Hacksaw Ridge",
+        "1917",
+        "All Quiet on the Western Front",
+        "Saving Private Ryan"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "question": "'Kahpe Bizans', 'G.O.R.A.' ve 'Arif V 216' gibi filmleriyle tanınan, özellikle internet mizahında replikleri ve karakterleriyle sıkça görülmesiyle bilinen ünlü komedyen ve oyuncu kimdir?",
+      "question": "Netflix'in dünya genelinde büyük bir fenomen haline gelen ve İspanya'da bir grup soyguncunun büyük bir plan dahilinde gerçekleştirdiği soygunları konu alan popüler dizisi hangisidir?",
       "options": [
-        "Cem Yılmaz",
-        "Şahan Gökbakar",
-        "Ata Demirer",
-        "Yılmaz Erdoğan",
-        "Şafak Sezer"
+        "Dark",
+        "Stranger Things",
+        "Narcos",
+        "La Casa de Papel",
+        "Elite"
       ],
-      "correct": 0
+      "correct": 3
     }
   ]
 }
