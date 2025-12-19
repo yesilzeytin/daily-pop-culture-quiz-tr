@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Türkiye Milli Futbol Takımı, Avrupa Futbol Şampiyonası (EURO) tarihinde en iyi derecesini hangi yıl elde etmiştir?",
+      "question": "Star Wars evreninde, Jedi ve Sithlerin kullandığı, enerji tabanlı kılıçlara ne ad verilir?",
       "options": [
-        "1996",
-        "2000",
-        "2008",
-        "2016",
-        "2020"
+        "Plazma Baltası",
+        "Kuvvet Asası",
+        "Işın Kılıcı",
+        "Lazer Kamçı",
+        "Enerji Mızrağı"
       ],
       "correct": 2
     },
     {
-      "question": "'Süperstar' lakabıyla anılan, Türk pop müziğinin en bilinen ve kariyeri boyunca birçok hit şarkıya imza atmış sanatçısı kimdir?",
+      "question": "Türk YouTube dünyasının önde gelen isimlerinden Orkun Işıtmak, genellikle hangi tür içerikleriyle tanınmaktadır?",
       "options": [
-        "Sezen Aksu",
-        "Ajda Pekkan",
-        "Nilüfer",
-        "Sertab Erener",
-        "Candan Erçetin"
+        "Tarihi Belgeseller",
+        "Makyaj ve Güzellik Videoları",
+        "Oyun ve Eğlence Vlogları",
+        "Yemek Tarifleri",
+        "Finans ve Ekonomi Analizleri"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Popüler Kore dizisi \"Descendants of the Sun\"da başrol erkek karakteri olan Yüzbaşı Yoo Shi-jin'i canlandıran aktör kimdir?",
+      "options": [
+        "Lee Min-ho",
+        "Song Joong-ki",
+        "Park Seo-joon",
+        "Gong Yoo",
+        "Kim Soo-hyun"
       ],
       "correct": 1
     },
     {
-      "question": "Netflix'in dünya çapında büyük ilgi gören ve borç batağındaki insanların ölümcül çocuk oyunlarına katıldığı popüler Güney Kore dizisi hangisidir?",
+      "question": "Counter-Strike: Global Offensive (CS:GO) sahnesinin en prestijli turnuvalarından biri olan ve her yıl düzenlenen büyük etkinliklere ne ad verilir?",
       "options": [
-        "Kingdom",
-        "Vincenzo",
-        "Squid Game",
-        "Crash Landing on You",
-        "Parasite"
+        "Minor Ligler",
+        "ESL Pro League",
+        "CS:GO Majors",
+        "Challenger Serisi",
+        "DreamHack Açık"
       ],
       "correct": 2
     },
     {
-      "question": "Birinci Dünya Savaşı'nın dehşetini anlatan ve 2020 yılında 'En İyi Yönetmen', 'En İyi Sinematografi' ve 'En İyi Görsel Efekt' dallarında üç Oscar kazanan Sam Mendes yönetmenliğindeki film hangisidir?",
+      "question": "Usta oyuncular Kemal Sunal, Şener Şen ve İlyas Salman'ın başrollerini paylaştığı, köyden kente göç ve ağalık düzenini mizahi bir dille ele alan kült Türk komedi filmi aşağıdakilerden hangisidir?",
       "options": [
-        "Dunkirk",
-        "Hacksaw Ridge",
-        "1917",
-        "All Quiet on the Western Front",
-        "Saving Private Ryan"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Netflix'in dünya genelinde büyük bir fenomen haline gelen ve İspanya'da bir grup soyguncunun büyük bir plan dahilinde gerçekleştirdiği soygunları konu alan popüler dizisi hangisidir?",
-      "options": [
-        "Dark",
-        "Stranger Things",
-        "Narcos",
-        "La Casa de Papel",
-        "Elite"
+        "Zübük",
+        "Davaro",
+        "Çöpçüler Kralı",
+        "Kibar Feyzo",
+        "Salak Milyoner"
       ],
       "correct": 3
     }
