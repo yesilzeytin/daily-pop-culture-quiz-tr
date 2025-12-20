@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Star Wars evreninde, Jedi ve Sithlerin kullandığı, enerji tabanlı kılıçlara ne ad verilir?",
+      "question": "Tom Hanks'in başrolünde oynadığı ve bir kutu çikolata ile özdeşleşen, \"Hayat bir kutu çikolata gibidir, ne çıkacağını asla bilemezsin\" repliğiyle bilinen kült film hangisidir?",
       "options": [
-        "Plazma Baltası",
-        "Kuvvet Asası",
-        "Işın Kılıcı",
-        "Lazer Kamçı",
-        "Enerji Mızrağı"
+        "Forrest Gump",
+        "Esaretin Bedeli",
+        "Yeşil Yol",
+        "Er Ryan'ı Kurtarmak",
+        "Titanik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Britanya Kraliyet Ailesi'nde, Kraliçe II. Elizabeth'in en büyük oğlu ve mevcut Birleşik Krallık hükümdarı olan kişinin adı nedir?",
+      "options": [
+        "Prens Harry",
+        "Prens William",
+        "Kral Charles III",
+        "Prens Andrew",
+        "Prens Edward"
       ],
       "correct": 2
     },
     {
-      "question": "Türk YouTube dünyasının önde gelen isimlerinden Orkun Işıtmak, genellikle hangi tür içerikleriyle tanınmaktadır?",
+      "question": "Türk pop müziğinin megastarı olarak kabul edilen, \"Şıkıdım\", \"Kiss Kiss\" ve \"Hüp\" gibi uluslararası hitlere imza atmış sanatçı kimdir?",
       "options": [
-        "Tarihi Belgeseller",
-        "Makyaj ve Güzellik Videoları",
-        "Oyun ve Eğlence Vlogları",
-        "Yemek Tarifleri",
-        "Finans ve Ekonomi Analizleri"
+        "Mustafa Sandal",
+        "Serdar Ortaç",
+        "Tarkan",
+        "Kenan Doğulu",
+        "Edis"
       ],
       "correct": 2
     },
     {
-      "question": "Popüler Kore dizisi \"Descendants of the Sun\"da başrol erkek karakteri olan Yüzbaşı Yoo Shi-jin'i canlandıran aktör kimdir?",
+      "question": "Bir kedinin masada oturduğu, önünde salata olduğu ve kendisine bağıran kadına 'tepkisiz' baktığı görselle küresel çapta popüler olan internet meme'i hangi adla bilinir?",
       "options": [
-        "Lee Min-ho",
-        "Song Joong-ki",
-        "Park Seo-joon",
-        "Gong Yoo",
-        "Kim Soo-hyun"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Counter-Strike: Global Offensive (CS:GO) sahnesinin en prestijli turnuvalarından biri olan ve her yıl düzenlenen büyük etkinliklere ne ad verilir?",
-      "options": [
-        "Minor Ligler",
-        "ESL Pro League",
-        "CS:GO Majors",
-        "Challenger Serisi",
-        "DreamHack Açık"
+        "Distracted Boyfriend",
+        "Grumpy Cat",
+        "Woman Yelling at a Cat",
+        "Doge",
+        "Success Kid"
       ],
       "correct": 2
     },
     {
-      "question": "Usta oyuncular Kemal Sunal, Şener Şen ve İlyas Salman'ın başrollerini paylaştığı, köyden kente göç ve ağalık düzenini mizahi bir dille ele alan kült Türk komedi filmi aşağıdakilerden hangisidir?",
+      "question": "Fox Kids Türkiye ekranlarında uzun yıllar yayınlanmış ve popülerliğini korumuş, çocukların dijital canavarları ile maceralarını anlatan ünlü anime serisi hangisidir?",
       "options": [
-        "Zübük",
-        "Davaro",
-        "Çöpçüler Kralı",
-        "Kibar Feyzo",
-        "Salak Milyoner"
+        "Pokémon",
+        "Yu-Gi-Oh!",
+        "Digimon",
+        "Beyblade",
+        "Bakugan"
       ],
-      "correct": 3
+      "correct": 2
     }
   ]
 }
