@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Tom Hanks'in başrolünde oynadığı ve bir kutu çikolata ile özdeşleşen, \"Hayat bir kutu çikolata gibidir, ne çıkacağını asla bilemezsin\" repliğiyle bilinen kült film hangisidir?",
+      "question": "Efsanevi Star Wars serisinin ikonik tema müziğini besteleyen ünlü müzisyen kimdir?",
       "options": [
-        "Forrest Gump",
-        "Esaretin Bedeli",
-        "Yeşil Yol",
-        "Er Ryan'ı Kurtarmak",
-        "Titanik"
+        "John Williams",
+        "Hans Zimmer",
+        "Ennio Morricone",
+        "Howard Shore",
+        "Danny Elfman"
       ],
       "correct": 0
     },
     {
-      "question": "Britanya Kraliyet Ailesi'nde, Kraliçe II. Elizabeth'in en büyük oğlu ve mevcut Birleşik Krallık hükümdarı olan kişinin adı nedir?",
+      "question": "\"Thriller\", \"Billie Jean\" ve \"Smooth Criminal\" gibi unutulmaz hitlerle tüm zamanların en çok satan sanatçılarından biri olan ve \"Popun Kralı\" lakabıyla anılan efsanevi şarkıcı kimdir?",
       "options": [
-        "Prens Harry",
-        "Prens William",
-        "Kral Charles III",
-        "Prens Andrew",
-        "Prens Edward"
+        "Elvis Presley",
+        "Prince",
+        "Freddie Mercury",
+        "Michael Jackson",
+        "David Bowie"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Pixar'ın \"Ters Yüz\" (Inside Out) animasyon filminde, genç Riley'nin zihnindeki duyguların lideri ve ana karakteri olan duygu hangisidir?",
+      "options": [
+        "Korku (Fear)",
+        "Öfke (Anger)",
+        "Neşe (Joy)",
+        "Üzüntü (Sadness)",
+        "Tiksinti (Disgust)"
       ],
       "correct": 2
     },
     {
-      "question": "Türk pop müziğinin megastarı olarak kabul edilen, \"Şıkıdım\", \"Kiss Kiss\" ve \"Hüp\" gibi uluslararası hitlere imza atmış sanatçı kimdir?",
+      "question": "Çocukluğumuzda, genellikle küçük bir paketin içinde bulunan, üzerindeki eğlenceli çizgi film karakterleriyle bilinen ve içinde minik bir çikolata gofreti olan atıştırmalık hangisiydi?",
       "options": [
-        "Mustafa Sandal",
-        "Serdar Ortaç",
-        "Tarkan",
-        "Kenan Doğulu",
-        "Edis"
+        "Eti Puf",
+        "Cino",
+        "Jelibon",
+        "Kâğıt Helva",
+        "Şokomilk"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
-      "question": "Bir kedinin masada oturduğu, önünde salata olduğu ve kendisine bağıran kadına 'tepkisiz' baktığı görselle küresel çapta popüler olan internet meme'i hangi adla bilinir?",
+      "question": "UEFA Şampiyonlar Ligi kupasını (eski adıyla Şampiyon Kulüpler Kupası) tarihinde en çok kazanan futbol kulübü hangisidir?",
       "options": [
-        "Distracted Boyfriend",
-        "Grumpy Cat",
-        "Woman Yelling at a Cat",
-        "Doge",
-        "Success Kid"
+        "FC Barcelona",
+        "AC Milan",
+        "Bayern Münih",
+        "Liverpool FC",
+        "Real Madrid CF"
       ],
-      "correct": 2
-    },
-    {
-      "question": "Fox Kids Türkiye ekranlarında uzun yıllar yayınlanmış ve popülerliğini korumuş, çocukların dijital canavarları ile maceralarını anlatan ünlü anime serisi hangisidir?",
-      "options": [
-        "Pokémon",
-        "Yu-Gi-Oh!",
-        "Digimon",
-        "Beyblade",
-        "Bakugan"
-      ],
-      "correct": 2
+      "correct": 4
     }
   ]
 }
