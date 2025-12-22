@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Efsanevi Star Wars serisinin ikonik tema müziğini besteleyen ünlü müzisyen kimdir?",
+      "question": "Erich Maria Remarque'ın ünlü romanından uyarlanan ve Birinci Dünya Savaşı'nın Batı Cephesi'ndeki dehşetini anlatan 2022 yapımı \"Batı Cephesinde Her Şey Sakin\" (All Quiet on the Western Front) filmi, hangi ülkenin uluslararası yapımıdır?",
       "options": [
-        "John Williams",
-        "Hans Zimmer",
-        "Ennio Morricone",
-        "Howard Shore",
-        "Danny Elfman"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "\"Thriller\", \"Billie Jean\" ve \"Smooth Criminal\" gibi unutulmaz hitlerle tüm zamanların en çok satan sanatçılarından biri olan ve \"Popun Kralı\" lakabıyla anılan efsanevi şarkıcı kimdir?",
-      "options": [
-        "Elvis Presley",
-        "Prince",
-        "Freddie Mercury",
-        "Michael Jackson",
-        "David Bowie"
+        "Amerika Birleşik Devletleri",
+        "İngiltere",
+        "Fransa",
+        "Almanya",
+        "Kanada"
       ],
       "correct": 3
     },
     {
-      "question": "Pixar'ın \"Ters Yüz\" (Inside Out) animasyon filminde, genç Riley'nin zihnindeki duyguların lideri ve ana karakteri olan duygu hangisidir?",
+      "question": "Pixar stüdyolarının klasikleşmiş animasyon filmlerinden biri olan \"Kayıp Balık Nemo\"da, oğlunu bulmak için okyanuslar boyunca tehlikeli bir yolculuğa çıkan palyaço balığının adı nedir?",
       "options": [
-        "Korku (Fear)",
-        "Öfke (Anger)",
-        "Neşe (Joy)",
-        "Üzüntü (Sadness)",
-        "Tiksinti (Disgust)"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Çocukluğumuzda, genellikle küçük bir paketin içinde bulunan, üzerindeki eğlenceli çizgi film karakterleriyle bilinen ve içinde minik bir çikolata gofreti olan atıştırmalık hangisiydi?",
-      "options": [
-        "Eti Puf",
-        "Cino",
-        "Jelibon",
-        "Kâğıt Helva",
-        "Şokomilk"
+        "Dory",
+        "Marlin",
+        "Bruce",
+        "Squirt",
+        "Gill"
       ],
       "correct": 1
     },
     {
-      "question": "UEFA Şampiyonlar Ligi kupasını (eski adıyla Şampiyon Kulüpler Kupası) tarihinde en çok kazanan futbol kulübü hangisidir?",
+      "question": "Türkiye Millî Futbol Takımı, tarihinde ilk kez Avrupa Futbol Şampiyonası (EURO) finallerine hangi yılda katılma başarısı göstermiştir?",
       "options": [
-        "FC Barcelona",
-        "AC Milan",
-        "Bayern Münih",
-        "Liverpool FC",
-        "Real Madrid CF"
+        "1988",
+        "1992",
+        "1996",
+        "2000",
+        "2004"
       ],
-      "correct": 4
+      "correct": 2
+    },
+    {
+      "question": "\"Air Jordan\" lakabıyla tanınan efsanevi basketbolcu Michael Jordan, NBA kariyerinin büyük bir bölümünü hangi takımda geçirmiş ve altı şampiyonluk kazanmıştır?",
+      "options": [
+        "Los Angeles Lakers",
+        "Boston Celtics",
+        "Chicago Bulls",
+        "Miami Heat",
+        "New York Knicks"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Britanya Kraliyet Ailesi'nin en uzun süre tahtta kalan hükümdarı Kraliçe II. Elizabeth'in 2021 yılında vefat eden, eşi ve Edinburgh Dükü unvanını taşıyan Prens'in adı nedir?",
+      "options": [
+        "Prens Charles",
+        "Prens William",
+        "Prens Harry",
+        "Prens Philip",
+        "Prens Edward"
+      ],
+      "correct": 3
     }
   ]
 }
