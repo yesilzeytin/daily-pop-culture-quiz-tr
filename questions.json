@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Erich Maria Remarque'ın ünlü romanından uyarlanan ve Birinci Dünya Savaşı'nın Batı Cephesi'ndeki dehşetini anlatan 2022 yapımı \"Batı Cephesinde Her Şey Sakin\" (All Quiet on the Western Front) filmi, hangi ülkenin uluslararası yapımıdır?",
+      "question": "Pixar'ın \"Coco\" animasyon filminde, genç Miguel'in ailesinin müziğe karşı yasağını kırmak için çıktığı yolculukta gittiği, ölülerin dünyasının renkli ve canlı bir şekilde tasvir edildiği yerin adı nedir?",
       "options": [
-        "Amerika Birleşik Devletleri",
-        "İngiltere",
-        "Fransa",
-        "Almanya",
-        "Kanada"
+        "Unutulmuşlar Diyarı",
+        "Ruhlar Diyarı",
+        "Ölüler Diyarı",
+        "Atalar Diyarı",
+        "Sonsuzluk Diyarı"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Nickelodeon'ın popüler çizgi dizilerinden \"Avatar: Son Hava Bükücü\" serisinde, dört elementten biri olan suyu bükme yeteneğine sahip olan Katara hangi kabileden gelmektedir?",
+      "options": [
+        "Toprak Krallığı",
+        "Hava Göçebeleri",
+        "Ateş Ulusu",
+        "Su Kabilesi",
+        "Kum Halkı"
       ],
       "correct": 3
     },
     {
-      "question": "Pixar stüdyolarının klasikleşmiş animasyon filmlerinden biri olan \"Kayıp Balık Nemo\"da, oğlunu bulmak için okyanuslar boyunca tehlikeli bir yolculuğa çıkan palyaço balığının adı nedir?",
+      "question": "Netflix'in dünya çapında büyük ilgi gören \"Stranger Things\" dizisinde, Hawkins kasabasında yaşanan doğaüstü olaylar hangi paralel evrenle ilişkilendirilmektedir?",
       "options": [
-        "Dory",
-        "Marlin",
-        "Bruce",
-        "Squirt",
-        "Gill"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Türkiye Millî Futbol Takımı, tarihinde ilk kez Avrupa Futbol Şampiyonası (EURO) finallerine hangi yılda katılma başarısı göstermiştir?",
-      "options": [
-        "1988",
-        "1992",
-        "1996",
-        "2000",
-        "2004"
+        "Gölge Diyarı",
+        "Karanlık Taraf",
+        "Baş Aşağı Dünya (Upside Down)",
+        "Öte Dünya",
+        "Hiçlik Diyarı"
       ],
       "correct": 2
     },
     {
-      "question": "\"Air Jordan\" lakabıyla tanınan efsanevi basketbolcu Michael Jordan, NBA kariyerinin büyük bir bölümünü hangi takımda geçirmiş ve altı şampiyonluk kazanmıştır?",
+      "question": "\"Bad Guy\", \"Ocean Eyes\" ve \"Happier Than Ever\" gibi hit şarkılarıyla tanınan, genç yaşına rağmen pek çok Grammy Ödülü kazanmış pop ve alternatif müziğin popüler ismi kimdir?",
       "options": [
-        "Los Angeles Lakers",
-        "Boston Celtics",
-        "Chicago Bulls",
-        "Miami Heat",
-        "New York Knicks"
+        "Dua Lipa",
+        "Olivia Rodrigo",
+        "Ariana Grande",
+        "Billie Eilish",
+        "Taylor Swift"
       ],
-      "correct": 2
+      "correct": 3
     },
     {
-      "question": "Britanya Kraliyet Ailesi'nin en uzun süre tahtta kalan hükümdarı Kraliçe II. Elizabeth'in 2021 yılında vefat eden, eşi ve Edinburgh Dükü unvanını taşıyan Prens'in adı nedir?",
+      "question": "FIFA Dünya Kupası tarihinde ilk turnuva hangi ülkede düzenlenmiş ve bu ülkenin milli takımı şampiyon olmuştur?",
       "options": [
-        "Prens Charles",
-        "Prens William",
-        "Prens Harry",
-        "Prens Philip",
-        "Prens Edward"
+        "Brezilya",
+        "İtalya",
+        "İngiltere",
+        "Uruguay",
+        "Almanya"
       ],
       "correct": 3
     }
