@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Pixar'ın \"Coco\" animasyon filminde, genç Miguel'in ailesinin müziğe karşı yasağını kırmak için çıktığı yolculukta gittiği, ölülerin dünyasının renkli ve canlı bir şekilde tasvir edildiği yerin adı nedir?",
+      "question": "Cartoon Network'ün sevilen çizgi filmlerinden \"Sürekli Dizi\" (Regular Show) serisinin başrollerinde yer alan, park işçisi iki arkadaş karakter aşağıdakilerden hangileridir?",
       "options": [
-        "Unutulmuşlar Diyarı",
-        "Ruhlar Diyarı",
-        "Ölüler Diyarı",
-        "Atalar Diyarı",
-        "Sonsuzluk Diyarı"
+        "Gumball ve Darwin",
+        "Finn ve Jake",
+        "Mordecai ve Rigby",
+        "Ben ve Gwen",
+        "Dipper ve Mabel"
       ],
       "correct": 2
     },
     {
-      "question": "Nickelodeon'ın popüler çizgi dizilerinden \"Avatar: Son Hava Bükücü\" serisinde, dört elementten biri olan suyu bükme yeteneğine sahip olan Katara hangi kabileden gelmektedir?",
+      "question": "Netflix'in ilk Türk orijinal dizisi olan ve başrolünü Çağatay Ulusoy'un üstlendiği, fantastik öğeler barındıran yapımın adı nedir?",
       "options": [
-        "Toprak Krallığı",
-        "Hava Göçebeleri",
-        "Ateş Ulusu",
-        "Su Kabilesi",
-        "Kum Halkı"
+        "Atiye",
+        "Hakan: Muhafız",
+        "Kulüp",
+        "Bir Başka Hüsran",
+        "Zeytin Ağacı"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Pop müziğin ikonik isimlerinden Madonna, müziği kadar cesur ve değişken tarzıyla da moda dünyasına damga vurmuştur. Onu en çok hangi unvanla anarız?",
+      "options": [
+        "Popun Kraliçesi",
+        "Rock'n Roll İkonu",
+        "Soul Diva'sı",
+        "Disko Prensesi",
+        "Grunge Kraliçesi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Türk rap müziğinin önemli isimlerinden Ceza ve Sagopa Kajmer'in uzun yıllar süren bir dargınlıklarının ardından, 2017 yılında yeniden bir araya gelerek imza attıkları ve büyük yankı uyandıran parçanın adı nedir?",
+      "options": [
+        "Neyim Var Ki",
+        "Siyah",
+        "Mizahtan Öte",
+        "Üzülme",
+        "Ateşten Gömlek"
       ],
       "correct": 3
     },
     {
-      "question": "Netflix'in dünya çapında büyük ilgi gören \"Stranger Things\" dizisinde, Hawkins kasabasında yaşanan doğaüstü olaylar hangi paralel evrenle ilişkilendirilmektedir?",
+      "question": "İnternet mizahında yaygın olarak bilinen ve bir kişiyi bilerek veya kandırarak Rick Astley'in \"Never Gonna Give You Up\" şarkısının müzik videosuna yönlendirme eylemine ne ad verilir?",
       "options": [
-        "Gölge Diyarı",
-        "Karanlık Taraf",
-        "Baş Aşağı Dünya (Upside Down)",
-        "Öte Dünya",
-        "Hiçlik Diyarı"
+        "Trolling",
+        "Deepfaking",
+        "Rickrolling",
+        "Photoshopping",
+        "Catfishing"
       ],
       "correct": 2
-    },
-    {
-      "question": "\"Bad Guy\", \"Ocean Eyes\" ve \"Happier Than Ever\" gibi hit şarkılarıyla tanınan, genç yaşına rağmen pek çok Grammy Ödülü kazanmış pop ve alternatif müziğin popüler ismi kimdir?",
-      "options": [
-        "Dua Lipa",
-        "Olivia Rodrigo",
-        "Ariana Grande",
-        "Billie Eilish",
-        "Taylor Swift"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "FIFA Dünya Kupası tarihinde ilk turnuva hangi ülkede düzenlenmiş ve bu ülkenin milli takımı şampiyon olmuştur?",
-      "options": [
-        "Brezilya",
-        "İtalya",
-        "İngiltere",
-        "Uruguay",
-        "Almanya"
-      ],
-      "correct": 3
     }
   ]
 }
