@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Cartoon Network'ün sevilen çizgi filmlerinden \"Sürekli Dizi\" (Regular Show) serisinin başrollerinde yer alan, park işçisi iki arkadaş karakter aşağıdakilerden hangileridir?",
+      "question": "Türkiye'ye Eurovision Şarkı Yarışması tarihinde ilk ve tek birinciliği getiren sanatçı Sertab Erener, bu başarıyı hangi şarkıyla ve hangi yıl elde etmiştir?",
       "options": [
-        "Gumball ve Darwin",
-        "Finn ve Jake",
-        "Mordecai ve Rigby",
-        "Ben ve Gwen",
-        "Dipper ve Mabel"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Netflix'in ilk Türk orijinal dizisi olan ve başrolünü Çağatay Ulusoy'un üstlendiği, fantastik öğeler barındıran yapımın adı nedir?",
-      "options": [
-        "Atiye",
-        "Hakan: Muhafız",
-        "Kulüp",
-        "Bir Başka Hüsran",
-        "Zeytin Ağacı"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Pop müziğin ikonik isimlerinden Madonna, müziği kadar cesur ve değişken tarzıyla da moda dünyasına damga vurmuştur. Onu en çok hangi unvanla anarız?",
-      "options": [
-        "Popun Kraliçesi",
-        "Rock'n Roll İkonu",
-        "Soul Diva'sı",
-        "Disko Prensesi",
-        "Grunge Kraliçesi"
+        "Everyway That I Can, 2003",
+        "For Real, 2004",
+        "Shake It Up Şekerim, 2007",
+        "Düm Tek Tek, 2009",
+        "Dinle, 1997"
       ],
       "correct": 0
     },
     {
-      "question": "Türk rap müziğinin önemli isimlerinden Ceza ve Sagopa Kajmer'in uzun yıllar süren bir dargınlıklarının ardından, 2017 yılında yeniden bir araya gelerek imza attıkları ve büyük yankı uyandıran parçanın adı nedir?",
+      "question": "The Witcher serisinin geliştiricisi olan ve özellikle hikaye odaklı rol yapma oyunlarıyla tanınan Polonyalı oyun stüdyosu hangisidir?",
       "options": [
-        "Neyim Var Ki",
-        "Siyah",
-        "Mizahtan Öte",
-        "Üzülme",
-        "Ateşten Gömlek"
+        "Ubisoft",
+        "CD Projekt Red",
+        "Bethesda Softworks",
+        "Blizzard Entertainment",
+        "Rockstar Games"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Süper Lig tarihinde en çok şampiyonluk yaşayan futbol kulübü hangisidir?",
+      "options": [
+        "Fenerbahçe",
+        "Beşiktaş",
+        "Trabzonspor",
+        "Galatasaray",
+        "Başakşehir FK"
       ],
       "correct": 3
     },
     {
-      "question": "İnternet mizahında yaygın olarak bilinen ve bir kişiyi bilerek veya kandırarak Rick Astley'in \"Never Gonna Give You Up\" şarkısının müzik videosuna yönlendirme eylemine ne ad verilir?",
+      "question": "Avengers: Endgame filminde, Thor'un çekici Mjolnir'i layık olduğunu kanıtlayarak kaldırabilen ve onu savaşta kullanan karakter kimdir?",
       "options": [
-        "Trolling",
-        "Deepfaking",
-        "Rickrolling",
-        "Photoshopping",
-        "Catfishing"
+        "Iron Man",
+        "Hulk",
+        "Captain Marvel",
+        "Captain America",
+        "Doctor Strange"
       ],
-      "correct": 2
+      "correct": 3
+    },
+    {
+      "question": "Türk pop müziğinin \"Minik Serçe\" lakaplı duayen ismi Sezen Aksu'nun, 1991 yılında yayımladığı ve \"Gülümse\" gibi birçok hit şarkıyı içeren efsanevi albümünün adı nedir?",
+      "options": [
+        "Firuze",
+        "Git",
+        "Deli Kızın Türküsü",
+        "Gülümse",
+        "Adı Bende Saklı"
+      ],
+      "correct": 3
     }
   ]
 }
