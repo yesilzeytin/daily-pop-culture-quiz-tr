@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Müzik endüstrisindeki başarılarıyla tanınan ve günümüzün en büyük pop yıldızlarından biri olan Taylor Swift'in hayranlarına genellikle hangi isimle hitap edilir?",
+      "question": "Sıkıysa Yakala (Catch Me If You Can) filmine ilham veren, 16 yaşından itibaren pilot, doktor ve avukat gibi kimliklere bürünerek milyonlarca dolarlık dolandırıcılık yapan efsanevi dolandırıcı kimdir?",
       "options": [
-        "Beyhive",
-        "Swifties",
-        "Little Monsters",
-        "Beliebers",
-        "Army"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "'Toprak Kortun Kralı' (King of Clay) lakabıyla anılan, İspanyol tenisçi Rafael Nadal, dünya çapındaki başarılarını en çok hangi spor dalında elde etmiştir?",
-      "options": [
-        "Tenis",
-        "Badminton",
-        "Squash",
-        "Masa Tenisi",
-        "Golf"
+        "Frank Abagnale Jr.",
+        "Bernie Madoff",
+        "Charles Ponzi",
+        "Anna Delvey (Sorokin)",
+        "Walter Lustig"
       ],
       "correct": 0
     },
     {
-      "question": "Şahan Gökbakar'ın yaratıp canlandırdığı, Türk sinemasının en çok izlenen komedi serilerinden biri olan Recep İvedik karakteri, ilk olarak hangi filmle beyazperdeye çıkmıştır?",
+      "question": "Global rap dünyasının en ikonik isimlerinden Eminem'in yarı otobiyografik filmi olan ve Detroit'in hip-hop sahnesindeki mücadelesini anlatan yapımın adı nedir?",
       "options": [
-        "Recep İvedik 7",
-        "Recep İvedik 5",
-        "Recep İvedik 1",
-        "Recep İvedik 6",
-        "Recep İvedik 4"
+        "Straight Outta Compton",
+        "Get Rich or Die Tryin'",
+        "8 Mile",
+        "Notorious",
+        "Bodied"
       ],
       "correct": 2
     },
     {
-      "question": "YouTube'da yaptığı büyük bütçeli meydan okumalar, hayır işleri ve sıklıkla para dağıtma videolarıyla tanınan, dünyanın en popüler YouTube içerik üreticilerinden biri kimdir?",
+      "question": "1950'li yılların İstanbul'unda geçen ve Matilda adında eski bir mahkumun Pera'daki bir gece kulübünde çalıştığı, kızı Raşel ile ilişkisini ve dönemin sosyo-kültürel yapısını anlatan popüler Netflix Türkiye yapımı dizi hangisidir?",
       "options": [
-        "PewDiePie",
-        "Markiplier",
-        "Logan Paul",
-        "MrBeast",
-        "Dude Perfect"
+        "Fatma",
+        "Atiye",
+        "Aşk 101",
+        "Bir Başkadır",
+        "Kulüp"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "PlayStation'ın efsanevi oyun serisi God of War'ın İskandinav mitolojisi temalı son oyunlarında, Kratos'un ana silahı olan, dondurucu güçlere sahip baltanın adı nedir?",
+      "options": [
+        "Blades of Chaos",
+        "Mjolnir",
+        "Stormbreaker",
+        "Leviathan Axe",
+        "Blade of Olympus"
       ],
       "correct": 3
     },
     {
-      "question": "Türkiye'de ve dünya genelinde sosyal medyada, özellikle Perşembe günleri, geçmişten gelen fotoğrafların ve anıların paylaşıldığı, bir nevi 'geçmişe dönüş' akımı olan hashtag aşağıdakilerden hangisidir?",
+      "question": "Fox Kids ekranlarında yayınlanan, kendine özgü sakarlıkları ve her zaman bir şeyler ters giden teknolojik aletleriyle bilinen, 'Go Go Gadget!' nidasıyla akıllara kazınmış ünlü müfettişin adı nedir?",
       "options": [
-        "#TBT",
-        "#FBF",
-        "#WCW",
-        "#MCM",
-        "#ThrowbackThursday"
+        "Müfettiş Şimşek",
+        "Müfettiş Gadget",
+        "Dedektif Conan",
+        "Müfettiş Kemal",
+        "Komiser T Rex"
       ],
-      "correct": 0
+      "correct": 1
     }
   ]
 }
