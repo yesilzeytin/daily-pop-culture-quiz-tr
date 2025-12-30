@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Sıkıysa Yakala (Catch Me If You Can) filmine ilham veren, 16 yaşından itibaren pilot, doktor ve avukat gibi kimliklere bürünerek milyonlarca dolarlık dolandırıcılık yapan efsanevi dolandırıcı kimdir?",
+      "question": "Prens Harry ve Meghan Markle'ın Sussex Dükü ve Düşesi unvanlarından feragat ederek kraliyet görevlerinden ayrıldığı olay popüler medyada hangi isimle anılmıştır?",
       "options": [
-        "Frank Abagnale Jr.",
-        "Bernie Madoff",
-        "Charles Ponzi",
-        "Anna Delvey (Sorokin)",
-        "Walter Lustig"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Global rap dünyasının en ikonik isimlerinden Eminem'in yarı otobiyografik filmi olan ve Detroit'in hip-hop sahnesindeki mücadelesini anlatan yapımın adı nedir?",
-      "options": [
-        "Straight Outta Compton",
-        "Get Rich or Die Tryin'",
-        "8 Mile",
-        "Notorious",
-        "Bodied"
+        "Sandringham Anlaşması",
+        "Windsor Kriz",
+        "Megxit",
+        "Commonwealth Ayrılığı",
+        "Kraliyet Ayrılığı"
       ],
       "correct": 2
     },
     {
-      "question": "1950'li yılların İstanbul'unda geçen ve Matilda adında eski bir mahkumun Pera'daki bir gece kulübünde çalıştığı, kızı Raşel ile ilişkisini ve dönemin sosyo-kültürel yapısını anlatan popüler Netflix Türkiye yapımı dizi hangisidir?",
+      "question": "Game of Thrones evreninde, Demir Taht'ı ele geçirmek için mücadele eden ana hanedanlardan biri olan, mottosu \"Kış Geliyor\" olan ve kılıçlarında Valyria çeliği kullanan hanedanın adı nedir?",
       "options": [
-        "Fatma",
-        "Atiye",
-        "Aşk 101",
-        "Bir Başkadır",
-        "Kulüp"
-      ],
-      "correct": 4
-    },
-    {
-      "question": "PlayStation'ın efsanevi oyun serisi God of War'ın İskandinav mitolojisi temalı son oyunlarında, Kratos'un ana silahı olan, dondurucu güçlere sahip baltanın adı nedir?",
-      "options": [
-        "Blades of Chaos",
-        "Mjolnir",
-        "Stormbreaker",
-        "Leviathan Axe",
-        "Blade of Olympus"
+        "Lannister Hanedanı",
+        "Targaryen Hanedanı",
+        "Baratheon Hanedanı",
+        "Stark Hanedanı",
+        "Arryn Hanedanı"
       ],
       "correct": 3
     },
     {
-      "question": "Fox Kids ekranlarında yayınlanan, kendine özgü sakarlıkları ve her zaman bir şeyler ters giden teknolojik aletleriyle bilinen, 'Go Go Gadget!' nidasıyla akıllara kazınmış ünlü müfettişin adı nedir?",
+      "question": "Türk Kadın Voleybol Milli Takımı'nın yıldız pasör çaprazı olarak bilinen, güçlü smaçları ve enerjik tavırlarıyla tanınan, takımın son dönemdeki başarılarında büyük pay sahibi olan oyuncu kimdir?",
       "options": [
-        "Müfettiş Şimşek",
-        "Müfettiş Gadget",
-        "Dedektif Conan",
-        "Müfettiş Kemal",
-        "Komiser T Rex"
+        "Hande Baladın",
+        "Zehra Güneş",
+        "Ebrar Karakurt",
+        "Melissa Vargas",
+        "Gizem Örge"
       ],
-      "correct": 1
+      "correct": 3
+    },
+    {
+      "question": "Formula 1 tarihinde, 7 kez Dünya Şampiyonluğu kazanarak bu alanda Michael Schumacher ile birlikte rekoru elinde bulunduran ve aktif spor kariyerine devam eden Britanyalı pilot kimdir?",
+      "options": [
+        "Max Verstappen",
+        "Juan Manuel Fangio",
+        "Alain Prost",
+        "Lewis Hamilton",
+        "Ayrton Senna"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Türk sinemasının \"Sultan\" lakabıyla anılan, özellikle melodram filmlerindeki performanslarıyla tanınan ve oyunculuk kariyerinde birçok unutulmaz karaktere hayat veren efsanevi aktris kimdir?",
+      "options": [
+        "Hülya Koçyiğit",
+        "Fatma Girik",
+        "Filiz Akın",
+        "Müjde Ar",
+        "Türkan Şoray"
+      ],
+      "correct": 4
     }
   ]
 }
