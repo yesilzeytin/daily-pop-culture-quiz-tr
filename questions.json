@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Prens Harry ve Meghan Markle'ın Sussex Dükü ve Düşesi unvanlarından feragat ederek kraliyet görevlerinden ayrıldığı olay popüler medyada hangi isimle anılmıştır?",
+      "question": "\"Kuzu Kuzu\", \"Şıkıdım\" ve \"Dudu\" gibi hitleriyle Türk pop müziğine damga vuran ve geniş kitleler tarafından tanınan Tarkan'ın popüler lakabı nedir?",
       "options": [
-        "Sandringham Anlaşması",
-        "Windsor Kriz",
-        "Megxit",
-        "Commonwealth Ayrılığı",
-        "Kraliyet Ayrılığı"
+        "Popun Kralı",
+        "Süperstar",
+        "Megastar",
+        "Minik Serçe",
+        "Prens"
       ],
       "correct": 2
     },
     {
-      "question": "Game of Thrones evreninde, Demir Taht'ı ele geçirmek için mücadele eden ana hanedanlardan biri olan, mottosu \"Kış Geliyor\" olan ve kılıçlarında Valyria çeliği kullanan hanedanın adı nedir?",
+      "question": "Cem Yılmaz'ın hem senaryosunu yazdığı hem de başrolünde oynadığı, uzayda geçen maceralarıyla hafızalara kazınan ve \"Tanıştırayım, Komutan Logar\" repliğiyle bilinen kült filmi hangisidir?",
       "options": [
-        "Lannister Hanedanı",
-        "Targaryen Hanedanı",
-        "Baratheon Hanedanı",
-        "Stark Hanedanı",
-        "Arryn Hanedanı"
+        "A.R.O.G",
+        "Yahşi Batı",
+        "G.O.R.A.",
+        "Hokkabaz",
+        "Arif v 216"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türkiye'de Vine platformunda başlayan kariyerini YouTube ve Instagram'da sürdüren, esprili skeçleri ve kendine özgü mizahıyla gençlerin sevgisini kazanmış sosyal medya fenomeni kimdir?",
+      "options": [
+        "Enes Batur",
+        "Reynmen",
+        "Danla Bilic",
+        "Berkcan Güven",
+        "Cemre Solmaz"
       ],
       "correct": 3
     },
     {
-      "question": "Türk Kadın Voleybol Milli Takımı'nın yıldız pasör çaprazı olarak bilinen, güçlü smaçları ve enerjik tavırlarıyla tanınan, takımın son dönemdeki başarılarında büyük pay sahibi olan oyuncu kimdir?",
+      "question": "Uzun yıllar boyunca YouTube'un en çok abonesi olan bireysel içerik üreticisi unvanını elinde tutan, oyun videolarıyla dünya çapında ünlenen ve hayran kitlesine \"Bro Army\" adını veren İsveçli YouTuber kimdir?",
       "options": [
-        "Hande Baladın",
-        "Zehra Güneş",
-        "Ebrar Karakurt",
-        "Melissa Vargas",
-        "Gizem Örge"
+        "MrBeast",
+        "Markiplier",
+        "PewDiePie",
+        "Jacksepticeye",
+        "Dude Perfect"
       ],
-      "correct": 3
+      "correct": 2
     },
     {
-      "question": "Formula 1 tarihinde, 7 kez Dünya Şampiyonluğu kazanarak bu alanda Michael Schumacher ile birlikte rekoru elinde bulunduran ve aktif spor kariyerine devam eden Britanyalı pilot kimdir?",
+      "question": "Türkiye'deki internet mizahında ve caps kültüründe sıkça kullanılan, özellikle siyaset ve güncel olaylar hakkında yapılan eleştirel veya esprili paylaşımlarda yer alan, bir siyasetçinin uykulu hâlinin fotoğraflarından türeyen ikonik caps serisi kime aittir?",
       "options": [
-        "Max Verstappen",
-        "Juan Manuel Fangio",
-        "Alain Prost",
-        "Lewis Hamilton",
-        "Ayrton Senna"
+        "Devlet Bahçeli",
+        "Binali Yıldırım",
+        "Süleyman Soylu",
+        "Kemal Kılıçdaroğlu",
+        "Recep Tayyip Erdoğan"
       ],
-      "correct": 3
-    },
-    {
-      "question": "Türk sinemasının \"Sultan\" lakabıyla anılan, özellikle melodram filmlerindeki performanslarıyla tanınan ve oyunculuk kariyerinde birçok unutulmaz karaktere hayat veren efsanevi aktris kimdir?",
-      "options": [
-        "Hülya Koçyiğit",
-        "Fatma Girik",
-        "Filiz Akın",
-        "Müjde Ar",
-        "Türkan Şoray"
-      ],
-      "correct": 4
+      "correct": 1
     }
   ]
 }
