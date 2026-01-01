@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "\"Kuzu Kuzu\", \"Şıkıdım\" ve \"Dudu\" gibi hitleriyle Türk pop müziğine damga vuran ve geniş kitleler tarafından tanınan Tarkan'ın popüler lakabı nedir?",
+      "question": "Olimpiyat Oyunları tarihinde 'Cep Herkülü' lakabıyla bilinen efsanevi Türk haltercisi Naim Süleymanoğlu, kaç farklı Olimpiyat Oyunları'nda altın madalya kazanma başarısı göstermiştir?",
       "options": [
-        "Popun Kralı",
-        "Süperstar",
-        "Megastar",
-        "Minik Serçe",
-        "Prens"
+        "2",
+        "3",
+        "4",
+        "5",
+        "1"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "90'lı yılların sonu ve 2000'lerin başında çocukların favori atıştırmalıklarından biri olan, genellikle küçük dikdörtgen şeklinde, çikolatalı ve ambalajından çıkan yapışkan dövmeleriyle bilinen kekin adı nedir?",
+      "options": [
+        "Tipitip",
+        "Leblebi Tozu",
+        "Cino",
+        "Sulugöz",
+        "Patlayan Şeker"
       ],
       "correct": 2
     },
     {
-      "question": "Cem Yılmaz'ın hem senaryosunu yazdığı hem de başrolünde oynadığı, uzayda geçen maceralarıyla hafızalara kazınan ve \"Tanıştırayım, Komutan Logar\" repliğiyle bilinen kült filmi hangisidir?",
+      "question": "Tarihin en büyük Ponzi şemalarından birini kurarak on binlerce yatırımcıyı milyarlarca dolar dolandıran ve 2021 yılında hapishanede vefat eden Amerikalı finansçı kimdir?",
       "options": [
-        "A.R.O.G",
-        "Yahşi Batı",
-        "G.O.R.A.",
-        "Hokkabaz",
-        "Arif v 216"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türkiye'de Vine platformunda başlayan kariyerini YouTube ve Instagram'da sürdüren, esprili skeçleri ve kendine özgü mizahıyla gençlerin sevgisini kazanmış sosyal medya fenomeni kimdir?",
-      "options": [
-        "Enes Batur",
-        "Reynmen",
-        "Danla Bilic",
-        "Berkcan Güven",
-        "Cemre Solmaz"
+        "Frank Abagnale",
+        "Victor Lustig",
+        "Charles Ponzi",
+        "Bernie Madoff",
+        "Jordan Belfort"
       ],
       "correct": 3
     },
     {
-      "question": "Uzun yıllar boyunca YouTube'un en çok abonesi olan bireysel içerik üreticisi unvanını elinde tutan, oyun videolarıyla dünya çapında ünlenen ve hayran kitlesine \"Bro Army\" adını veren İsveçli YouTuber kimdir?",
+      "question": "Harry Potter evreninde, Hogwarts Cadılık ve Büyücülük Okulu'nun dört binasından biri olan, kurucusu Rowena Ravenclaw'ın adını taşıyan ve üyelerinin zeka, bilgelik ve yaratıcılık özellikleriyle öne çıktığı bina hangisidir?",
       "options": [
-        "MrBeast",
-        "Markiplier",
-        "PewDiePie",
-        "Jacksepticeye",
-        "Dude Perfect"
+        "Gryffindor",
+        "Slytherin",
+        "Hufflepuff",
+        "Ravenclaw",
+        "Beauxbatons"
       ],
-      "correct": 2
+      "correct": 3
     },
     {
-      "question": "Türkiye'deki internet mizahında ve caps kültüründe sıkça kullanılan, özellikle siyaset ve güncel olaylar hakkında yapılan eleştirel veya esprili paylaşımlarda yer alan, bir siyasetçinin uykulu hâlinin fotoğraflarından türeyen ikonik caps serisi kime aittir?",
+      "question": "Türk spor tarihinde 'Türk Güreşinin Prensi' olarak anılan, Olimpiyat, Dünya ve Avrupa şampiyonlukları bulunan, uluslararası alanda büyük başarılara imza atmış efsanevi güreşçi kimdir?",
       "options": [
-        "Devlet Bahçeli",
-        "Binali Yıldırım",
-        "Süleyman Soylu",
-        "Kemal Kılıçdaroğlu",
-        "Recep Tayyip Erdoğan"
+        "Hamza Yerlikaya",
+        "Yaşar Doğu",
+        "Mahmut Demir",
+        "Halil Mutlu",
+        "Rıza Kayaalp"
       ],
-      "correct": 1
+      "correct": 0
     }
   ]
 }
