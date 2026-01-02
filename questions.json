@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Olimpiyat Oyunları tarihinde 'Cep Herkülü' lakabıyla bilinen efsanevi Türk haltercisi Naim Süleymanoğlu, kaç farklı Olimpiyat Oyunları'nda altın madalya kazanma başarısı göstermiştir?",
+      "question": "1990'lı yılların başlarında grunge müziğin öncülerinden olan, 'Smells Like Teen Spirit' şarkısıyla dünya çapında ün kazanan Amerikan rock grubu hangisidir?",
       "options": [
-        "2",
-        "3",
-        "4",
-        "5",
-        "1"
+        "Pearl Jam",
+        "Soundgarden",
+        "Alice in Chains",
+        "Nirvana",
+        "Stone Temple Pilots"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Türkiye'de özellikle canlı yayın platformu Twitch'te yaptığı oyun yayınları ve sohbetleriyle bilinen, kendine özgü mizah anlayışıyla geniş bir takipçi kitlesi edinmiş 'Jahrein' lakaplı yayıncının gerçek adı aşağıdakilerden hangisidir?",
+      "options": [
+        "Ferit Karakaya",
+        "Kemal Can Parlak",
+        "Tuna Akşen",
+        "Cantuğ Özsoy",
+        "Pelin Baynazoğlu"
       ],
       "correct": 1
     },
     {
-      "question": "90'lı yılların sonu ve 2000'lerin başında çocukların favori atıştırmalıklarından biri olan, genellikle küçük dikdörtgen şeklinde, çikolatalı ve ambalajından çıkan yapışkan dövmeleriyle bilinen kekin adı nedir?",
+      "question": "Türkiye'de 2010'lu yılların başında internette popüler hale gelen ve genellikle komik, absürt veya abartılı durumlarda kullanılan 'Benim Adım Cemil' repliği hangi dizinin karakterine aittir?",
       "options": [
-        "Tipitip",
-        "Leblebi Tozu",
-        "Cino",
-        "Sulugöz",
-        "Patlayan Şeker"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Tarihin en büyük Ponzi şemalarından birini kurarak on binlerce yatırımcıyı milyarlarca dolar dolandıran ve 2021 yılında hapishanede vefat eden Amerikalı finansçı kimdir?",
-      "options": [
-        "Frank Abagnale",
-        "Victor Lustig",
-        "Charles Ponzi",
-        "Bernie Madoff",
-        "Jordan Belfort"
+        "Leyla ile Mecnun",
+        "Geniş Aile",
+        "Çiçek Taksi",
+        "Bizimkiler",
+        "Süper Baba"
       ],
       "correct": 3
     },
     {
-      "question": "Harry Potter evreninde, Hogwarts Cadılık ve Büyücülük Okulu'nun dört binasından biri olan, kurucusu Rowena Ravenclaw'ın adını taşıyan ve üyelerinin zeka, bilgelik ve yaratıcılık özellikleriyle öne çıktığı bina hangisidir?",
+      "question": "Türk pop müziğinin duayen isimlerinden Sezen Aksu'nun, 1984 yılında piyasaya sürdüğü ve 'Küçük Bir Aşk Masalı', 'Haydi Gel Benimle Ol' gibi hitleri içeren efsanevi albümünün adı nedir?",
       "options": [
-        "Gryffindor",
-        "Slytherin",
-        "Hufflepuff",
-        "Ravenclaw",
-        "Beauxbatons"
+        "Seni Kimler Aldı",
+        "Git",
+        "Ağlamak Güzeldir",
+        "Sen Ağlama",
+        "Adı Bende Saklı"
       ],
       "correct": 3
     },
     {
-      "question": "Türk spor tarihinde 'Türk Güreşinin Prensi' olarak anılan, Olimpiyat, Dünya ve Avrupa şampiyonlukları bulunan, uluslararası alanda büyük başarılara imza atmış efsanevi güreşçi kimdir?",
+      "question": "1990'lı yılların sonu ve 2000'li yılların başında Türk magazin basınının en çok konu ettiği isimlerden biri olan, manken ve oyuncu kimliğiyle tanınan ve olaylı evlilikleri ile sıkça gündeme gelen ünlü kadın figür aşağıdakilerden hangisidir?",
       "options": [
-        "Hamza Yerlikaya",
-        "Yaşar Doğu",
-        "Mahmut Demir",
-        "Halil Mutlu",
-        "Rıza Kayaalp"
+        "Çağla Şıkel",
+        "Deniz Akkaya",
+        "Ebru Şallı",
+        "Demet Akalın",
+        "Petek Dinçöz"
       ],
-      "correct": 0
+      "correct": 1
     }
   ]
 }
