@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "1990'lı yılların başlarında grunge müziğin öncülerinden olan, 'Smells Like Teen Spirit' şarkısıyla dünya çapında ün kazanan Amerikan rock grubu hangisidir?",
+      "question": "Apple tarafından 2001 yılında tanıtılan ve müziği cebimize sığdırarak dijital müzik dinleme alışkanlığını kökten değiştiren popüler taşınabilir medya oynatıcının adı nedir?",
       "options": [
-        "Pearl Jam",
-        "Soundgarden",
-        "Alice in Chains",
-        "Nirvana",
-        "Stone Temple Pilots"
+        "Discman",
+        "Walkman",
+        "Zune",
+        "iPod",
+        "Creative Zen"
       ],
       "correct": 3
     },
     {
-      "question": "Türkiye'de özellikle canlı yayın platformu Twitch'te yaptığı oyun yayınları ve sohbetleriyle bilinen, kendine özgü mizah anlayışıyla geniş bir takipçi kitlesi edinmiş 'Jahrein' lakaplı yayıncının gerçek adı aşağıdakilerden hangisidir?",
+      "question": "Türkiye Cumhuriyeti'nin kuruluşu ve ilk Cumhurbaşkanı Mustafa Kemal Atatürk'ün bu göreve gelişi hangi tarihte gerçekleşmiştir?",
       "options": [
-        "Ferit Karakaya",
-        "Kemal Can Parlak",
-        "Tuna Akşen",
-        "Cantuğ Özsoy",
-        "Pelin Baynazoğlu"
+        "19 Mayıs 1919",
+        "23 Nisan 1920",
+        "29 Ekim 1923",
+        "30 Ağustos 1922",
+        "24 Temmuz 1923"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
-      "question": "Türkiye'de 2010'lu yılların başında internette popüler hale gelen ve genellikle komik, absürt veya abartılı durumlarda kullanılan 'Benim Adım Cemil' repliği hangi dizinin karakterine aittir?",
+      "question": "Fox Kids ekranlarında yayınlanan, dijital dünyada yaşayan ve insan çocuklarla birleşerek kötü güçlere karşı savaşan yaratıkların maceralarını konu alan, çok sevilen Japon yapımı çizgi film serisinin adı nedir?",
       "options": [
-        "Leyla ile Mecnun",
-        "Geniş Aile",
-        "Çiçek Taksi",
-        "Bizimkiler",
-        "Süper Baba"
+        "Pokémon",
+        "Yu-Gi-Oh!",
+        "Digimon Macera",
+        "Beyblade",
+        "Bakugan"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Çocukluğumuzun unutulmaz sakızlarından biri olan, her çiğnediğimizde içinden çıkan çizgi romanlarıyla hafızalara kazınan ve kahramanı 'Tipitip' olan sakız markası aşağıdakilerden hangisidir?",
+      "options": [
+        "Falım",
+        "Topsy",
+        "Şıpsevdi",
+        "Tipitip",
+        "Big Babol"
       ],
       "correct": 3
     },
     {
-      "question": "Türk pop müziğinin duayen isimlerinden Sezen Aksu'nun, 1984 yılında piyasaya sürdüğü ve 'Küçük Bir Aşk Masalı', 'Haydi Gel Benimle Ol' gibi hitleri içeren efsanevi albümünün adı nedir?",
+      "question": "\"Hayat bir kutu çikolata gibidir, neyle karşılaşacağını asla bilemezsin\" repliğiyle bilinen, Tom Hanks'in başrolünde oynadığı ve En İyi Film Oscar'ını kazanan 1994 yapımı unutulmaz film aşağıdakilerden hangisidir?",
       "options": [
-        "Seni Kimler Aldı",
-        "Git",
-        "Ağlamak Güzeldir",
-        "Sen Ağlama",
-        "Adı Bende Saklı"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "1990'lı yılların sonu ve 2000'li yılların başında Türk magazin basınının en çok konu ettiği isimlerden biri olan, manken ve oyuncu kimliğiyle tanınan ve olaylı evlilikleri ile sıkça gündeme gelen ünlü kadın figür aşağıdakilerden hangisidir?",
-      "options": [
-        "Çağla Şıkel",
-        "Deniz Akkaya",
-        "Ebru Şallı",
-        "Demet Akalın",
-        "Petek Dinçöz"
+        "Esaretin Bedeli (The Shawshank Redemption)",
+        "Forrest Gump",
+        "Ucuz Roman (Pulp Fiction)",
+        "Yeşil Yol (The Green Mile)",
+        "Er Ryan'ı Kurtarmak (Saving Private Ryan)"
       ],
       "correct": 1
     }
