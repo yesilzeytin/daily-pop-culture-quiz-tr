@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Apple tarafından 2001 yılında tanıtılan ve müziği cebimize sığdırarak dijital müzik dinleme alışkanlığını kökten değiştiren popüler taşınabilir medya oynatıcının adı nedir?",
+      "question": "Filenin Sultanları lakabıyla anılan Türkiye Kadın Voleybol Milli Takımı, ilk kez hangi yıl CEV Avrupa Şampiyonası'nda zirveye çıkarak altın madalya kazanmıştır?",
       "options": [
-        "Discman",
-        "Walkman",
-        "Zune",
-        "iPod",
-        "Creative Zen"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Türkiye Cumhuriyeti'nin kuruluşu ve ilk Cumhurbaşkanı Mustafa Kemal Atatürk'ün bu göreve gelişi hangi tarihte gerçekleşmiştir?",
-      "options": [
-        "19 Mayıs 1919",
-        "23 Nisan 1920",
-        "29 Ekim 1923",
-        "30 Ağustos 1922",
-        "24 Temmuz 1923"
+        "2019",
+        "2021",
+        "2023",
+        "2017",
+        "2022"
       ],
       "correct": 2
     },
     {
-      "question": "Fox Kids ekranlarında yayınlanan, dijital dünyada yaşayan ve insan çocuklarla birleşerek kötü güçlere karşı savaşan yaratıkların maceralarını konu alan, çok sevilen Japon yapımı çizgi film serisinin adı nedir?",
+      "question": "\"Yaparım Bilirsin\" ve \"Araba\" gibi şarkılarıyla 90'lı yılların sonlarına damga vuran, kariyerinde hem şarkıcılık hem de oyunculuk yapan popüler sanatçı kimdir?",
       "options": [
-        "Pokémon",
-        "Yu-Gi-Oh!",
-        "Digimon Macera",
-        "Beyblade",
-        "Bakugan"
+        "Mustafa Sandal",
+        "Tarkan",
+        "Serdar Ortaç",
+        "Kenan Doğulu",
+        "Rafet El Roman"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Super Mario oyun serisinin baş karakteri Mario'nun mesleği nedir?",
+      "options": [
+        "Tamirci",
+        "Fırıncı",
+        "Tesisatçı",
+        "Doktor",
+        "Polis"
       ],
       "correct": 2
     },
     {
-      "question": "Çocukluğumuzun unutulmaz sakızlarından biri olan, her çiğnediğimizde içinden çıkan çizgi romanlarıyla hafızalara kazınan ve kahramanı 'Tipitip' olan sakız markası aşağıdakilerden hangisidir?",
+      "question": "90'lı yılların vazgeçilmez çocukluk atıştırmalıklarından biri olan, küçük yuvarlak renkli draje şekerlerin bir tüp içinde sunulduğu ve genellikle kapağında küçük bir oyuncak bulunan ürünün adı nedir?",
       "options": [
-        "Falım",
-        "Topsy",
-        "Şıpsevdi",
-        "Tipitip",
-        "Big Babol"
+        "Jelibon",
+        "Bonibon",
+        "Pez",
+        "Toffifee",
+        "Smarties"
       ],
-      "correct": 3
+      "correct": 2
     },
     {
-      "question": "\"Hayat bir kutu çikolata gibidir, neyle karşılaşacağını asla bilemezsin\" repliğiyle bilinen, Tom Hanks'in başrolünde oynadığı ve En İyi Film Oscar'ını kazanan 1994 yapımı unutulmaz film aşağıdakilerden hangisidir?",
+      "question": "\"Uçan Hollandalı\" lakabıyla tanınan, futbol tarihinin en büyük efsanelerinden biri olarak kabul edilen ve Total Futbol'un sembol ismi olan futbolcu kimdir?",
       "options": [
-        "Esaretin Bedeli (The Shawshank Redemption)",
-        "Forrest Gump",
-        "Ucuz Roman (Pulp Fiction)",
-        "Yeşil Yol (The Green Mile)",
-        "Er Ryan'ı Kurtarmak (Saving Private Ryan)"
+        "Johan Cruyff",
+        "Franz Beckenbauer",
+        "Alfredo Di Stéfano",
+        "George Best",
+        "Pelé"
       ],
-      "correct": 1
+      "correct": 0
     }
   ]
 }
