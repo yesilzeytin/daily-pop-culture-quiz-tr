@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Filenin Sultanları lakabıyla anılan Türkiye Kadın Voleybol Milli Takımı, ilk kez hangi yıl CEV Avrupa Şampiyonası'nda zirveye çıkarak altın madalya kazanmıştır?",
+      "question": "SüngerBob KareŞort (SpongeBob SquarePants) çizgi filminde, SüngerBob'un evcil salyangozunun adı nedir?",
       "options": [
-        "2019",
-        "2021",
-        "2023",
-        "2017",
-        "2022"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "\"Yaparım Bilirsin\" ve \"Araba\" gibi şarkılarıyla 90'lı yılların sonlarına damga vuran, kariyerinde hem şarkıcılık hem de oyunculuk yapan popüler sanatçı kimdir?",
-      "options": [
-        "Mustafa Sandal",
-        "Tarkan",
-        "Serdar Ortaç",
-        "Kenan Doğulu",
-        "Rafet El Roman"
+        "Gary",
+        "Patrick",
+        "Plankton",
+        "Squidward",
+        "Eugene"
       ],
       "correct": 0
     },
     {
-      "question": "Super Mario oyun serisinin baş karakteri Mario'nun mesleği nedir?",
+      "question": "Michael Jordan'ın efsanevi kariyerinin büyük bir bölümünü geçirdiği ve altı NBA şampiyonluğu kazandığı takım hangisidir?",
       "options": [
-        "Tamirci",
-        "Fırıncı",
-        "Tesisatçı",
-        "Doktor",
-        "Polis"
+        "Los Angeles Lakers",
+        "Boston Celtics",
+        "Miami Heat",
+        "Chicago Bulls",
+        "Golden State Warriors"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "The Legend of Zelda oyun serisinde, Hyrule krallığının prensesi ve genellikle Link'in kurtarmaya çalıştığı karakterin adı nedir?",
+      "options": [
+        "Peach",
+        "Daisy",
+        "Rosalina",
+        "Zelda",
+        "Samus"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Soğuk Savaş döneminin en belirgin sembollerinden biri olan ve Doğu ile Batı Almanya'yı ayıran Berlin Duvarı, hangi yılda yıkılmıştır?",
+      "options": [
+        "1961",
+        "1975",
+        "1989",
+        "1991",
+        "2000"
       ],
       "correct": 2
     },
     {
-      "question": "90'lı yılların vazgeçilmez çocukluk atıştırmalıklarından biri olan, küçük yuvarlak renkli draje şekerlerin bir tüp içinde sunulduğu ve genellikle kapağında küçük bir oyuncak bulunan ürünün adı nedir?",
+      "question": "Netflix'in popüler Güney Kore yapımı dizisi Squid Game'de, yarışmacıların ilk katıldığı ve en ikonik oyunlardan biri olan, dev bir robot kızın hareketlerini takip etmelerini gerektiren oyunun adı nedir?",
       "options": [
-        "Jelibon",
-        "Bonibon",
-        "Pez",
-        "Toffifee",
-        "Smarties"
+        "Misket Oyunu",
+        "Kırmızı Işık, Yeşil Işık",
+        "Şeker Kalıp Oyunu",
+        "Köprü Oyunu",
+        "Halat Çekme"
       ],
-      "correct": 2
-    },
-    {
-      "question": "\"Uçan Hollandalı\" lakabıyla tanınan, futbol tarihinin en büyük efsanelerinden biri olarak kabul edilen ve Total Futbol'un sembol ismi olan futbolcu kimdir?",
-      "options": [
-        "Johan Cruyff",
-        "Franz Beckenbauer",
-        "Alfredo Di Stéfano",
-        "George Best",
-        "Pelé"
-      ],
-      "correct": 0
+      "correct": 1
     }
   ]
 }
