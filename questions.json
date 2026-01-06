@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "SüngerBob KareŞort (SpongeBob SquarePants) çizgi filminde, SüngerBob'un evcil salyangozunun adı nedir?",
+      "question": "Hangi küresel TikTok fenomeni, özellikle dans videolarıyla tanınır ve platformda en yüksek takipçi sayısına ulaşan ilk kişilerden biri olmuştur?",
       "options": [
-        "Gary",
-        "Patrick",
-        "Plankton",
-        "Squidward",
-        "Eugene"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Michael Jordan'ın efsanevi kariyerinin büyük bir bölümünü geçirdiği ve altı NBA şampiyonluğu kazandığı takım hangisidir?",
-      "options": [
-        "Los Angeles Lakers",
-        "Boston Celtics",
-        "Miami Heat",
-        "Chicago Bulls",
-        "Golden State Warriors"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "The Legend of Zelda oyun serisinde, Hyrule krallığının prensesi ve genellikle Link'in kurtarmaya çalıştığı karakterin adı nedir?",
-      "options": [
-        "Peach",
-        "Daisy",
-        "Rosalina",
-        "Zelda",
-        "Samus"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Soğuk Savaş döneminin en belirgin sembollerinden biri olan ve Doğu ile Batı Almanya'yı ayıran Berlin Duvarı, hangi yılda yıkılmıştır?",
-      "options": [
-        "1961",
-        "1975",
-        "1989",
-        "1991",
-        "2000"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Netflix'in popüler Güney Kore yapımı dizisi Squid Game'de, yarışmacıların ilk katıldığı ve en ikonik oyunlardan biri olan, dev bir robot kızın hareketlerini takip etmelerini gerektiren oyunun adı nedir?",
-      "options": [
-        "Misket Oyunu",
-        "Kırmızı Işık, Yeşil Işık",
-        "Şeker Kalıp Oyunu",
-        "Köprü Oyunu",
-        "Halat Çekme"
+        "Addison Rae",
+        "Charli D'Amelio",
+        "Bella Poarch",
+        "Khaby Lame",
+        "Zach King"
       ],
       "correct": 1
+    },
+    {
+      "question": "Twitter Türkiye'de, genellikle akşam saatlerinde kullanıcıların birbirlerine iyi geceler dilekleri gönderdiği ve samimi paylaşımlar yaptığı popüler hashtaglerden biri hangisidir?",
+      "options": [
+        "#GünaydınTürkiye",
+        "#HayırlıCumalar",
+        "#Tbt",
+        "#GeceyeNot",
+        "#SabahKahvesi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "\"Titanic\", \"Inception\" ve \"Para Avcısı (The Wolf of Wall Street)\" gibi filmlerdeki unutulmaz rolleriyle tanınan ve nihayet \"Diriliş (The Revenant)\" filmiyle En İyi Erkek Oyuncu Oscar'ını kazanan Hollywood yıldızı kimdir?",
+      "options": [
+        "Brad Pitt",
+        "Johnny Depp",
+        "Tom Hanks",
+        "Leonardo DiCaprio",
+        "George Clooney"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "NBA tarihinde normal sezonlarda en çok sayı atan oyuncu rekorunu elinde bulunduran isim kimdir?",
+      "options": [
+        "Michael Jordan",
+        "Kareem Abdul-Jabbar",
+        "Kobe Bryant",
+        "LeBron James",
+        "Karl Malone"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "2005 yılında üç eski PayPal çalışanı tarafından kurulan ve 2006 yılında Google tarafından satın alınan, dünyanın en büyük video paylaşım platformu hangisidir?",
+      "options": [
+        "Vimeo",
+        "DailyMotion",
+        "Netflix",
+        "YouTube",
+        "Twitch"
+      ],
+      "correct": 3
     }
   ]
 }
