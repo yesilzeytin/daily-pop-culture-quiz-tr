@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Hangi küresel TikTok fenomeni, özellikle dans videolarıyla tanınır ve platformda en yüksek takipçi sayısına ulaşan ilk kişilerden biri olmuştur?",
+      "question": "'Leyla ile Mecnun' dizisinde, hikayenin ana karakteri Mecnun Çınar'ı canlandıran oyuncu kimdir?",
       "options": [
-        "Addison Rae",
-        "Charli D'Amelio",
-        "Bella Poarch",
-        "Khaby Lame",
-        "Zach King"
+        "Ali Atay",
+        "Serkan Keskin",
+        "Osman Sonant",
+        "Cengiz Bozkurt",
+        "Ahmet Mümtaz Taylan"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
-      "question": "Twitter Türkiye'de, genellikle akşam saatlerinde kullanıcıların birbirlerine iyi geceler dilekleri gönderdiği ve samimi paylaşımlar yaptığı popüler hashtaglerden biri hangisidir?",
+      "question": "Hangi Türk rock grubu, 2010 Eurovision Şarkı Yarışması'nda \"We Could Be The Same\" adlı şarkısıyla Türkiye'yi temsil etmiştir?",
       "options": [
-        "#GünaydınTürkiye",
-        "#HayırlıCumalar",
-        "#Tbt",
-        "#GeceyeNot",
-        "#SabahKahvesi"
+        "Duman",
+        "Mor ve Ötesi",
+        "maNga",
+        "Şebnem Ferah",
+        "Athena"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türkiye'de internet ve caps kültüründe, genellikle aşırı şaşkınlık veya korku ifade etmek için kullanılan, ağzı sonuna kadar açılmış ve gözleri faltaşı gibi açılmış kedinin yer aldığı popüler görsel (meme) hangi isimle anılır?",
+      "options": [
+        "Grumpy Cat",
+        "Nyan Cat",
+        "Surprised Pikachu",
+        "Şaşkın Kedi",
+        "Sad Cat"
       ],
       "correct": 3
     },
     {
-      "question": "\"Titanic\", \"Inception\" ve \"Para Avcısı (The Wolf of Wall Street)\" gibi filmlerdeki unutulmaz rolleriyle tanınan ve nihayet \"Diriliş (The Revenant)\" filmiyle En İyi Erkek Oyuncu Oscar'ını kazanan Hollywood yıldızı kimdir?",
+      "question": "J.R.R. Tolkien'ın Yüzüklerin Efendisi evreninde, Tek Yüzük'ü Mordor'a götürüp Hüküm Dağı'nda yok etmekle görevlendirilen Hobbit karakterinin adı nedir?",
       "options": [
-        "Brad Pitt",
-        "Johnny Depp",
-        "Tom Hanks",
-        "Leonardo DiCaprio",
-        "George Clooney"
+        "Samwise Gamgee",
+        "Merry Brandybuck",
+        "Frodo Baggins",
+        "Pippin Took",
+        "Bilbo Baggins"
       ],
-      "correct": 3
+      "correct": 2
     },
     {
-      "question": "NBA tarihinde normal sezonlarda en çok sayı atan oyuncu rekorunu elinde bulunduran isim kimdir?",
+      "question": "Türkiye'de internet, ilk kez hangi üniversite aracılığıyla ve hangi yıl akademik ağa bağlanarak kullanılmaya başlanmıştır?",
       "options": [
-        "Michael Jordan",
-        "Kareem Abdul-Jabbar",
-        "Kobe Bryant",
-        "LeBron James",
-        "Karl Malone"
+        "Boğaziçi Üniversitesi, 1991",
+        "İstanbul Teknik Üniversitesi, 1992",
+        "Orta Doğu Teknik Üniversitesi (ODTÜ), 1993",
+        "Ankara Üniversitesi, 1994",
+        "Bilkent Üniversitesi, 1995"
       ],
-      "correct": 3
-    },
-    {
-      "question": "2005 yılında üç eski PayPal çalışanı tarafından kurulan ve 2006 yılında Google tarafından satın alınan, dünyanın en büyük video paylaşım platformu hangisidir?",
-      "options": [
-        "Vimeo",
-        "DailyMotion",
-        "Netflix",
-        "YouTube",
-        "Twitch"
-      ],
-      "correct": 3
+      "correct": 2
     }
   ]
 }
