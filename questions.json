@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "J.R.R. Tolkien'in efsanevi \"Yüzüklerin Efendisi\" serisinde, Tek Yüzük tarafından yozlaşmadan önce Gollum'un bir hobbit benzeri yaratık olarak bilinen asıl adı nedir?",
+      "question": "Kenan Doğulu, 2007 Eurovision Şarkı Yarışması'nda Türkiye'yi hangi şarkıyla temsil etmiştir?",
       "options": [
-        "Sméagol",
-        "Déagol",
-        "Gildor",
-        "Gríma",
-        "Boromir"
+        "Baş Harfi Ben",
+        "Shake It Up Şekerim",
+        "Gelinim Ol",
+        "Yaparım Bilirsin",
+        "Kandırdım"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
-      "question": "Christopher Nolan'ın yönettiği eleştirel ve gişe başarısı yakalayan \"Kara Şövalye\" (The Dark Knight) üçlemesinde Batman karakterini başarıyla canlandıran aktör kimdir?",
+      "question": "Hangi TikTok fenomeni, genellikle günlük yaşamdaki basit durumları ironik ve sessiz bir şekilde çözerek veya basitleştirerek dünya çapında tanınmıştır?",
       "options": [
-        "Christian Bale",
-        "Ben Affleck",
-        "Michael Keaton",
-        "George Clooney",
-        "Robert Pattinson"
+        "Charli D'Amelio",
+        "Addison Rae",
+        "Khaby Lame",
+        "Bella Poarch",
+        "MrBeast"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "question": "Yönetmen Sam Mendes'in Birinci Dünya Savaşı döneminde geçen ve kesintisiz tek bir plan çekilmiş gibi duran sinematografisiyle büyük beğeni toplayan, En İyi Film Oscar'ına aday gösterilen 2019 yapımı filmi hangisidir?",
+      "question": "Marvel Sinematik Evreni'nde (MCU) Kaptan Amerika'nın ikonik kalkanı, hangi hayali metalden yapılmıştır?",
       "options": [
-        "1917",
-        "Er Ryan'ı Kurtarmak",
-        "Dunkirk",
-        "Batı Cephesinde Yeni Bir Şey Yok",
-        "Cesur Yürek"
+        "Adamantiyum",
+        "Vibranyum",
+        "Karbonadyum",
+        "Naysiyum",
+        "Element X"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
-      "question": "\"Küçük siyah elbise\" (Little Black Dress) konseptini moda dünyasına kazandıran ve 20. yüzyılın en etkili moda ikonlarından biri olarak kabul edilen Fransız tasarımcı kimdir?",
+      "question": "Disney'in klasik animasyon filmi \"Aslan Kral\"da (The Lion King), Simba'nın kötü kalpli amcası ve Mufasa'nın kardeşi olan karakterin adı nedir?",
       "options": [
-        "Coco Chanel",
-        "Audrey Hepburn",
-        "Vivienne Westwood",
-        "Donatella Versace",
-        "Miuccia Prada"
+        "Zazu",
+        "Timon",
+        "Pumbaa",
+        "Scar",
+        "Rafiki"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
-      "question": "Türk arabesk müziğinin efsanevi ismi Müslüm Gürses'in 2006 yılında yayımladığı ve Teoman, Duman, Şebnem Ferah gibi rock sanatçılarının eserlerini kendi yorumuyla seslendirerek geniş kitlelerce sevilmesini sağlayan albümünün adı nedir?",
+      "question": "2009 yılında vizyona giren ve yıllarca tüm zamanların en yüksek gişe hasılatı yapan filmi unvanını elinde tutan \"Avatar\" filminin yönetmeni kimdir?",
       "options": [
-        "Aşk Tesadüfleri Sever",
-        "Paramparça",
-        "Tanrı İstemezse",
-        "Usta",
-        "Mahzendeki Şarkılar"
+        "Steven Spielberg",
+        "Christopher Nolan",
+        "James Cameron",
+        "Peter Jackson",
+        "George Lucas"
       ],
-      "correct": 0
+      "correct": 2
     }
   ]
 }
