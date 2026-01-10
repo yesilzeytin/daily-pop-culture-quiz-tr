@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Kenan Doğulu, 2007 Eurovision Şarkı Yarışması'nda Türkiye'yi hangi şarkıyla temsil etmiştir?",
+      "question": "\"Şımarık\" şarkısı ile dünya çapında tanınan Tarkan'ın bu şarkısının söz ve müziği hangi ünlü sanatçıya aittir?",
       "options": [
-        "Baş Harfi Ben",
-        "Shake It Up Şekerim",
-        "Gelinim Ol",
-        "Yaparım Bilirsin",
-        "Kandırdım"
+        "Tarkan",
+        "Sezen Aksu",
+        "Mustafa Sandal",
+        "Hande Yener",
+        "Kenan Doğulu"
       ],
       "correct": 1
     },
     {
-      "question": "Hangi TikTok fenomeni, genellikle günlük yaşamdaki basit durumları ironik ve sessiz bir şekilde çözerek veya basitleştirerek dünya çapında tanınmıştır?",
+      "question": "Netflix'in popüler bilim kurgu ve korku dizisi Stranger Things'deki olayların geçtiği kurgusal kasabanın adı nedir?",
       "options": [
-        "Charli D'Amelio",
-        "Addison Rae",
-        "Khaby Lame",
-        "Bella Poarch",
-        "MrBeast"
+        "Riverdale",
+        "Sunnydale",
+        "Hawkins",
+        "Arkham",
+        "Twin Peaks"
       ],
       "correct": 2
     },
     {
-      "question": "Marvel Sinematik Evreni'nde (MCU) Kaptan Amerika'nın ikonik kalkanı, hangi hayali metalden yapılmıştır?",
+      "question": "Yılmaz Erdoğan'ın yazıp yönettiği ve başrolünü oynadığı, 2001 yılında vizyona giren, Anadolu'da televizyonun ilk kez geldiği bir köyde yaşanan olayları anlatan Türk komedi filminin adı nedir?",
       "options": [
-        "Adamantiyum",
-        "Vibranyum",
-        "Karbonadyum",
-        "Naysiyum",
-        "Element X"
+        "Organize İşler",
+        "G.O.R.A.",
+        "Vizontele",
+        "Pek Yakında",
+        "Kocan Kadar Konuş"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
-      "question": "Disney'in klasik animasyon filmi \"Aslan Kral\"da (The Lion King), Simba'nın kötü kalpli amcası ve Mufasa'nın kardeşi olan karakterin adı nedir?",
+      "question": "Pokémon animesi ve oyunlarının ana karakteri Ash Ketchum'ın (Satoshi) yolculuğuna başladığı ve en yakın arkadaşı olan elektrik türü Pokémon'un adı nedir?",
       "options": [
-        "Zazu",
-        "Timon",
-        "Pumbaa",
-        "Scar",
-        "Rafiki"
+        "Charmander",
+        "Squirtle",
+        "Bulbasaur",
+        "Pikachu",
+        "Eevee"
       ],
       "correct": 3
     },
     {
-      "question": "2009 yılında vizyona giren ve yıllarca tüm zamanların en yüksek gişe hasılatı yapan filmi unvanını elinde tutan \"Avatar\" filminin yönetmeni kimdir?",
+      "question": "2020 yılında En İyi Film Oscar'ını kazanan, Bong Joon-ho tarafından yönetilen ve aynı zamanda En İyi Yönetmen, En İyi Orijinal Senaryo ve En İyi Uluslararası Film ödüllerini de alarak tarih yazan Güney Kore yapımı film hangisidir?",
       "options": [
-        "Steven Spielberg",
-        "Christopher Nolan",
-        "James Cameron",
-        "Peter Jackson",
-        "George Lucas"
+        "Roma",
+        "Minari",
+        "Drive My Car",
+        "Parasite",
+        "Everything Everywhere All at Once"
       ],
-      "correct": 2
+      "correct": 3
     }
   ]
 }
