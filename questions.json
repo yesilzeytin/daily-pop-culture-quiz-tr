@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "\"Şımarık\" şarkısı ile dünya çapında tanınan Tarkan'ın bu şarkısının söz ve müziği hangi ünlü sanatçıya aittir?",
+      "question": "K-Pop dünyasının önde gelen gruplarından Blackpink'in en çok izlenen müzik videolarından biri olan ve 2018 yılında yayınlanan hit şarkıları aşağıdakilerden hangisidir?",
       "options": [
-        "Tarkan",
-        "Sezen Aksu",
-        "Mustafa Sandal",
-        "Hande Yener",
-        "Kenan Doğulu"
+        "DDU-DU DDU-DU",
+        "Kill This Love",
+        "How You Like That",
+        "Pink Venom",
+        "Boombayah"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Şahan Gökbakar'ın yaratıcısı ve başrol oyuncusu olduğu popüler Türk komedi film serisi Recep İvedik'in ilk filmi hangi yılda vizyona girmiştir?",
+      "options": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Türk futbol tarihinde UEFA Kupası'nı kazanan ilk ve tek Türk takımı olan Galatasaray, bu büyük başarıya hangi teknik direktör yönetiminde ulaşmıştır?",
+      "options": [
+        "Mustafa Denizli",
+        "Şenol Güneş",
+        "Fatih Terim",
+        "Mircea Lucescu",
+        "Christoph Daum"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türk rap müziğinin önde gelen isimlerinden Ceza'nın, 2007 yılında yayınladığı ve 'Yerli Plaka' gibi hit şarkıları içeren albümünün adı nedir?",
+      "options": [
+        "Med Cezir",
+        "Rapstar",
+        "Fark Var",
+        "Yerli Plaka",
+        "Suspus"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Türkiye'nin en tanınan dijital içerik üreticilerinden biri olan, genellikle makyaj ve güzellik videolarıyla bilinen, ayrıca moda ve yaşam tarzı içerikleri de üreten ünlü YouTuber ve influencer kimdir?",
+      "options": [
+        "Enes Batur",
+        "Danla Bilic",
+        "Meryem Can",
+        "Cem Korkmaz",
+        "Orkun Işıtmak"
       ],
       "correct": 1
-    },
-    {
-      "question": "Netflix'in popüler bilim kurgu ve korku dizisi Stranger Things'deki olayların geçtiği kurgusal kasabanın adı nedir?",
-      "options": [
-        "Riverdale",
-        "Sunnydale",
-        "Hawkins",
-        "Arkham",
-        "Twin Peaks"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Yılmaz Erdoğan'ın yazıp yönettiği ve başrolünü oynadığı, 2001 yılında vizyona giren, Anadolu'da televizyonun ilk kez geldiği bir köyde yaşanan olayları anlatan Türk komedi filminin adı nedir?",
-      "options": [
-        "Organize İşler",
-        "G.O.R.A.",
-        "Vizontele",
-        "Pek Yakında",
-        "Kocan Kadar Konuş"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Pokémon animesi ve oyunlarının ana karakteri Ash Ketchum'ın (Satoshi) yolculuğuna başladığı ve en yakın arkadaşı olan elektrik türü Pokémon'un adı nedir?",
-      "options": [
-        "Charmander",
-        "Squirtle",
-        "Bulbasaur",
-        "Pikachu",
-        "Eevee"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "2020 yılında En İyi Film Oscar'ını kazanan, Bong Joon-ho tarafından yönetilen ve aynı zamanda En İyi Yönetmen, En İyi Orijinal Senaryo ve En İyi Uluslararası Film ödüllerini de alarak tarih yazan Güney Kore yapımı film hangisidir?",
-      "options": [
-        "Roma",
-        "Minari",
-        "Drive My Car",
-        "Parasite",
-        "Everything Everywhere All at Once"
-      ],
-      "correct": 3
     }
   ]
 }
