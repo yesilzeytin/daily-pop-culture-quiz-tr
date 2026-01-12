@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "K-Pop dünyasının önde gelen gruplarından Blackpink'in en çok izlenen müzik videolarından biri olan ve 2018 yılında yayınlanan hit şarkıları aşağıdakilerden hangisidir?",
+      "question": "UEFA Şampiyonlar Ligi tarihinde en çok kupa kazanan teknik direktör kimdir?",
       "options": [
-        "DDU-DU DDU-DU",
-        "Kill This Love",
-        "How You Like That",
-        "Pink Venom",
-        "Boombayah"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Şahan Gökbakar'ın yaratıcısı ve başrol oyuncusu olduğu popüler Türk komedi film serisi Recep İvedik'in ilk filmi hangi yılda vizyona girmiştir?",
-      "options": [
-        "2005",
-        "2006",
-        "2007",
-        "2008",
-        "2009"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Türk futbol tarihinde UEFA Kupası'nı kazanan ilk ve tek Türk takımı olan Galatasaray, bu büyük başarıya hangi teknik direktör yönetiminde ulaşmıştır?",
-      "options": [
-        "Mustafa Denizli",
-        "Şenol Güneş",
-        "Fatih Terim",
-        "Mircea Lucescu",
-        "Christoph Daum"
+        "Sir Alex Ferguson",
+        "Jose Mourinho",
+        "Carlo Ancelotti",
+        "Pep Guardiola",
+        "Zinédine Zidane"
       ],
       "correct": 2
     },
     {
-      "question": "Türk rap müziğinin önde gelen isimlerinden Ceza'nın, 2007 yılında yayınladığı ve 'Yerli Plaka' gibi hit şarkıları içeren albümünün adı nedir?",
+      "question": "\"Deli Mavi\", \"Yine Mi Çiçek\" ve \"Düşler Sokağı\" gibi hit şarkılarıyla tanınan, kendine özgü tarzı ve güçlü sesiyle Türk pop müziğinin önde gelen isimlerinden biri olan kadın şarkıcı kimdir?",
       "options": [
-        "Med Cezir",
-        "Rapstar",
-        "Fark Var",
-        "Yerli Plaka",
-        "Suspus"
+        "Sertab Erener",
+        "Şebnem Ferah",
+        "Nil Karaibrahimgil",
+        "Candan Erçetin",
+        "Ayşegül Aldinç"
       ],
       "correct": 3
     },
     {
-      "question": "Türkiye'nin en tanınan dijital içerik üreticilerinden biri olan, genellikle makyaj ve güzellik videolarıyla bilinen, ayrıca moda ve yaşam tarzı içerikleri de üreten ünlü YouTuber ve influencer kimdir?",
+      "question": "Türk edebiyatının önemli isimlerinden Orhan Pamuk, hangi yıl Nobel Edebiyat Ödülü'nü kazanmıştır?",
       "options": [
-        "Enes Batur",
-        "Danla Bilic",
-        "Meryem Can",
-        "Cem Korkmaz",
-        "Orkun Işıtmak"
+        "2004",
+        "2006",
+        "2008",
+        "2010",
+        "2012"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Her yıl Mayıs ayının ilk Pazartesi günü New York'ta düzenlenen, moda dünyasının en prestijli etkinliklerinden biri olarak kabul edilen ve ünlülerin en iddialı kıyafetlerle katıldığı davetin adı nedir?",
+      "options": [
+        "Cannes Film Festivali Galası",
+        "Venedik Film Festivali Açılış Töreni",
+        "Grammy Ödülleri Töreni",
+        "Met Gala",
+        "Altın Küre Ödülleri Töreni"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Nickelodeon'un popüler çizgi filmlerinden biri olan \"Hey Arnold!\"da, baş karakter Arnold'ın kafası neye benzemektedir?",
+      "options": [
+        "Basketbol topu",
+        "Futbol topu",
+        "Beyzbol şapkası",
+        "Patates",
+        "Yumurta"
       ],
       "correct": 1
     }
