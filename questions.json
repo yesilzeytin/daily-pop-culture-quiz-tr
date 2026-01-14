@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Dünyanın en popüler YouTuber'larından biri olan MrBeast, pahalı ve iddialı meydan okumaları, büyük ödülleri ve hayırseverlik projeleriyle tanınmaktadır. MrBeast'in gerçek adı nedir?",
+      "question": "Erkekler tenisinde \"Büyük Üçlü\" olarak bilinen efsanelerden biri olan ve teklerde en fazla Grand Slam şampiyonluğu rekorunu elinde bulunduran raket kimdir?",
       "options": [
-        "Felix Kjellberg",
-        "Mark Fischbach",
-        "Jimmy Donaldson",
-        "Sean McLoughlin",
-        "Ryan Kaji"
+        "Rafael Nadal",
+        "Roger Federer",
+        "Novak Djokovic",
+        "Pete Sampras",
+        "Andre Agassi"
       ],
       "correct": 2
     },
     {
-      "question": "90'lı yılların sonları ve 2000'lerin başlarında Fox Kids ekranlarında yayınlanan popüler \"Örümcek Adam\" (Spider-Man) çizgi film serisinde, Peter Parker'ın fotoğrafçı olarak çalıştığı ve J. Jonah Jameson'ın editörlüğünü yaptığı gazetenin adı nedir?",
+      "question": "Nintendo'nun ikonik ev konsolu \"Nintendo Entertainment System\" (NES) ilk olarak Kuzey Amerika pazarında hangi yılda piyasaya sürülmüştür?",
       "options": [
-        "Daily Planet",
-        "Daily Bugle",
-        "Gotham Gazette",
-        "Metropolis Star",
-        "Central City Citizen"
+        "1981",
+        "1983",
+        "1985",
+        "1987",
+        "1989"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
-      "question": "Türk rock müziğinin sevilen gruplarından Mor ve Ötesi, 2008 yılında Sırbistan'ın Belgrad şehrinde düzenlenen Eurovision Şarkı Yarışması'nda Türkiye'yi hangi şarkıyla temsil etmiştir?",
+      "question": "Modern internetin temel taşlarından biri olan World Wide Web (WWW) kavramını ortaya atan ve ilk web tarayıcısını geliştiren bilgisayar bilimcisi kimdir?",
       "options": [
-        "Bir Derdim Var",
-        "Cambaz",
-        "Resimdeki Gözyaşları",
-        "Deli",
-        "Güneye Giderken"
+        "Bill Gates",
+        "Steve Jobs",
+        "Linus Torvalds",
+        "Tim Berners-Lee",
+        "Mark Zuckerberg"
       ],
       "correct": 3
     },
     {
-      "question": "Şahan Gökbakar'ın yaratıcısı ve başrol oyuncusu olduğu popüler Recep İvedik karakteri, ilk kez hangi televizyon programındaki skeçleriyle izleyici karşısına çıkmıştır?",
+      "question": "UEFA Şampiyonlar Ligi tarihinin en ikonik finallerinden biri olan, Liverpool'un 3-0 geriden gelerek Milan'ı penaltılarla mağlup ettiği, \"İstanbul Mucizesi\" olarak anılan maç hangi yılda oynanmıştır?",
       "options": [
-        "Kutsal Damacana",
-        "Şahan Show",
-        "Dikkat Şahan Çıkabilir",
-        "Komedi Dükkanı",
-        "Çok Güzel Hareketler Bunlar"
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
-      "question": "HBO'nun dünyaca ünlü fantastik dizisi Game of Thrones'ta, Kışyarı hanedanı Stark'ın en büyük kızı ve hikayenin ilerleyen dönemlerinde Kuzey'in Kraliçesi unvanını alan karakterin adı nedir?",
+      "question": "Türkiye'nin en popüler Twitch yayıncılarından biri olan ve genellikle oyun yayınlarının yanı sıra sohbet (Just Chatting) içerikleriyle de bilinen, \"Jahrein\" takma adıyla tanınan yayıncının gerçek adı nedir?",
       "options": [
-        "Arya Stark",
-        "Daenerys Targaryen",
-        "Cersei Lannister",
-        "Ygritte",
-        "Sansa Stark"
+        "Cem Karaca",
+        "Ali Eren Demir",
+        "Levent Sevinç",
+        "Ferit Karakaya",
+        "Mete Yılmaz"
       ],
-      "correct": 4
+      "correct": 3
     }
   ]
 }
