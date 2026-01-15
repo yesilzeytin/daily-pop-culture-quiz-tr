@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Erkekler tenisinde \"Büyük Üçlü\" olarak bilinen efsanelerden biri olan ve teklerde en fazla Grand Slam şampiyonluğu rekorunu elinde bulunduran raket kimdir?",
+      "question": "Ünlü Amerikalı rapçi Eminem'in, özellikle ilk dönem kariyerinde kullandığı ve karanlık, alter ego kişiliğini yansıtan sahne adı nedir?",
       "options": [
-        "Rafael Nadal",
-        "Roger Federer",
-        "Novak Djokovic",
-        "Pete Sampras",
-        "Andre Agassi"
+        "Slim Shady",
+        "B-Rabbit",
+        "Marshall Mathers",
+        "White Shadow",
+        "Rap God"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "Nintendo'nun ikonik ev konsolu \"Nintendo Entertainment System\" (NES) ilk olarak Kuzey Amerika pazarında hangi yılda piyasaya sürülmüştür?",
+      "question": "1980'lerin pop müzik dünyasına damga vuran ve 'Like a Virgin', 'Material Girl' gibi şarkılarıyla bilinen kadın pop ikonu kimdir?",
       "options": [
-        "1981",
-        "1983",
-        "1985",
-        "1987",
-        "1989"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Modern internetin temel taşlarından biri olan World Wide Web (WWW) kavramını ortaya atan ve ilk web tarayıcısını geliştiren bilgisayar bilimcisi kimdir?",
-      "options": [
-        "Bill Gates",
-        "Steve Jobs",
-        "Linus Torvalds",
-        "Tim Berners-Lee",
-        "Mark Zuckerberg"
+        "Mariah Carey",
+        "Whitney Houston",
+        "Janet Jackson",
+        "Madonna",
+        "Celine Dion"
       ],
       "correct": 3
     },
     {
-      "question": "UEFA Şampiyonlar Ligi tarihinin en ikonik finallerinden biri olan, Liverpool'un 3-0 geriden gelerek Milan'ı penaltılarla mağlup ettiği, \"İstanbul Mucizesi\" olarak anılan maç hangi yılda oynanmıştır?",
+      "question": "Türk rock müziğinin en sevilen gruplarından Duman'ın vokalisti ve gitaristi kimdir?",
       "options": [
-        "2003",
-        "2005",
-        "2007",
-        "2009",
-        "2011"
+        "Harun Tekin",
+        "Ferman Akgül",
+        "Kaan Tangöze",
+        "Ogün Sanlısoy",
+        "Can Bonomo"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
-      "question": "Türkiye'nin en popüler Twitch yayıncılarından biri olan ve genellikle oyun yayınlarının yanı sıra sohbet (Just Chatting) içerikleriyle de bilinen, \"Jahrein\" takma adıyla tanınan yayıncının gerçek adı nedir?",
+      "question": "Kuzey Koreli bir subay ile Güney Koreli bir mirasçının aşk hikayesini konu alan ve dünya çapında büyük ilgi gören popüler K-drama hangisidir?",
       "options": [
-        "Cem Karaca",
-        "Ali Eren Demir",
-        "Levent Sevinç",
-        "Ferit Karakaya",
-        "Mete Yılmaz"
+        "Vagabond",
+        "Kingdom",
+        "Crash Landing on You",
+        "It's Okay to Not Be Okay",
+        "Vincenzo"
       ],
-      "correct": 3
+      "correct": 2
+    },
+    {
+      "question": "YouTube'da en çok abonesi olan bireysel kanallardan birine sahip olan, özellikle oyun videoları ve yorumlarıyla tanınan İsveçli YouTuber'ın sahne adı nedir?",
+      "options": [
+        "MrBeast",
+        "T-Series",
+        "PewDiePie",
+        "Smosh",
+        "Dude Perfect"
+      ],
+      "correct": 2
     }
   ]
 }
