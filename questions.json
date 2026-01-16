@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Ünlü Amerikalı rapçi Eminem'in, özellikle ilk dönem kariyerinde kullandığı ve karanlık, alter ego kişiliğini yansıtan sahne adı nedir?",
+      "question": "PlayStation efsanevi oyunu God of War'ın İskandinav mitolojisi serisinde, Kratos'un ana silahlarından biri olan sihirli baltasının adı nedir?",
       "options": [
-        "Slim Shady",
-        "B-Rabbit",
-        "Marshall Mathers",
-        "White Shadow",
-        "Rap God"
+        "Blade of Chaos",
+        "Leviathan Axe",
+        "Mjolnir",
+        "Stormbreaker",
+        "Aegis Shield"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Tüketici elektroniği tarihinde bir dönüm noktası olan ilk iPhone, Apple tarafından hangi yılda tanıtılmıştır?",
+      "options": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "NBA efsanesi Michael Jordan, Chicago Bulls formasıyla kariyerinin büyük bir bölümünde hangi forma numarasını giymiştir?",
+      "options": [
+        "23",
+        "32",
+        "33",
+        "24",
+        "45"
       ],
       "correct": 0
     },
     {
-      "question": "1980'lerin pop müzik dünyasına damga vuran ve 'Like a Virgin', 'Material Girl' gibi şarkılarıyla bilinen kadın pop ikonu kimdir?",
+      "question": "Sosyal medyada özellikle hazırladığı devasa porsiyonlu yemekler ve yemek yaparkenki gülümseyen tavırlarıyla dünya çapında tanınan Türk aşçı ve Instagram fenomeni kimdir?",
       "options": [
-        "Mariah Carey",
-        "Whitney Houston",
-        "Janet Jackson",
-        "Madonna",
-        "Celine Dion"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Türk rock müziğinin en sevilen gruplarından Duman'ın vokalisti ve gitaristi kimdir?",
-      "options": [
-        "Harun Tekin",
-        "Ferman Akgül",
-        "Kaan Tangöze",
-        "Ogün Sanlısoy",
-        "Can Bonomo"
+        "Refika Birgül",
+        "Arda Türkmen",
+        "CZN Burak (Burak Özdemir)",
+        "Danla Bilic",
+        "Enes Batur"
       ],
       "correct": 2
     },
     {
-      "question": "Kuzey Koreli bir subay ile Güney Koreli bir mirasçının aşk hikayesini konu alan ve dünya çapında büyük ilgi gören popüler K-drama hangisidir?",
+      "question": "Türkiye'de internet ve caps kültüründe sıklıkla mizahi diyaloglarda ve tepkilerde kullanılan, \"Bana ne bana ne?\" repliğiyle de tanınan, Leyla ile Mecnun dizisinden hangi karakterin görseli meşhur olmuştur?",
       "options": [
-        "Vagabond",
-        "Kingdom",
-        "Crash Landing on You",
-        "It's Okay to Not Be Okay",
-        "Vincenzo"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "YouTube'da en çok abonesi olan bireysel kanallardan birine sahip olan, özellikle oyun videoları ve yorumlarıyla tanınan İsveçli YouTuber'ın sahne adı nedir?",
-      "options": [
-        "MrBeast",
-        "T-Series",
-        "PewDiePie",
-        "Smosh",
-        "Dude Perfect"
+        "Mecnun Çınar",
+        "İsmail Abi",
+        "Erdal Bakkal",
+        "Sakallı Celal",
+        "Ak Sakallı Dede"
       ],
       "correct": 2
     }
