@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "PlayStation efsanevi oyunu God of War'ın İskandinav mitolojisi serisinde, Kratos'un ana silahlarından biri olan sihirli baltasının adı nedir?",
+      "question": "Hogwarts'ın dört kurucusundan biri olan, genellikle büyücülüğün gizemli ve karanlık yönlerine ilgi duyan, Slytherin Binası'nın kurucusu kimdir?",
       "options": [
-        "Blade of Chaos",
-        "Leviathan Axe",
-        "Mjolnir",
-        "Stormbreaker",
-        "Aegis Shield"
+        "Godric Gryffindor",
+        "Helga Hufflepuff",
+        "Rowena Ravenclaw",
+        "Salazar Slytherin",
+        "Albus Dumbledore"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Formula 1 tarihinde en çok Dünya Şampiyonluğu kazanan iki pilottan biri olan, \"Kırmızı Baron\" lakabıyla da bilinen efsanevi Alman pilot kimdir?",
+      "options": [
+        "Lewis Hamilton",
+        "Max Verstappen",
+        "Ayrton Senna",
+        "Sebastian Vettel",
+        "Michael Schumacher"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "Türkiye'nin en çok takip edilen YouTuber'larından biri olan Enes Batur, kariyerinin başlarında genellikle hangi tür içeriklerle tanınmıştır?",
+      "options": [
+        "Makyaj ve güzellik videoları",
+        "Oyun ve eğlence videoları",
+        "Tarihi belgeseller",
+        "Yemek tarifleri",
+        "Seyahat vlogları"
       ],
       "correct": 1
     },
     {
-      "question": "Tüketici elektroniği tarihinde bir dönüm noktası olan ilk iPhone, Apple tarafından hangi yılda tanıtılmıştır?",
+      "question": "\"Saltbae\" hareketiyle dünya çapında tanınan ve et restoranları zinciriyle de bilinen ünlü Türk şef ve Instagram fenomeni kimdir?",
       "options": [
-        "2005",
-        "2006",
-        "2007",
-        "2008",
-        "2009"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "NBA efsanesi Michael Jordan, Chicago Bulls formasıyla kariyerinin büyük bir bölümünde hangi forma numarasını giymiştir?",
-      "options": [
-        "23",
-        "32",
-        "33",
-        "24",
-        "45"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Sosyal medyada özellikle hazırladığı devasa porsiyonlu yemekler ve yemek yaparkenki gülümseyen tavırlarıyla dünya çapında tanınan Türk aşçı ve Instagram fenomeni kimdir?",
-      "options": [
-        "Refika Birgül",
+        "Burak Özdemir (CZN Burak)",
+        "Nusret Gökçe",
         "Arda Türkmen",
-        "CZN Burak (Burak Özdemir)",
-        "Danla Bilic",
-        "Enes Batur"
+        "Mehmet Yalçınkaya",
+        "Danilo Zanna"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
-      "question": "Türkiye'de internet ve caps kültüründe sıklıkla mizahi diyaloglarda ve tepkilerde kullanılan, \"Bana ne bana ne?\" repliğiyle de tanınan, Leyla ile Mecnun dizisinden hangi karakterin görseli meşhur olmuştur?",
+      "question": "Cem Yılmaz'ın senaryosunu yazıp başrolünde oynadığı \"G.O.R.A.\" filminde, uzaylılar tarafından kaçırılarak G.O.R.A. gezegenine götürülen halı satıcısı Arif karakterini canlandıran oyuncu kimdir?",
       "options": [
-        "Mecnun Çınar",
-        "İsmail Abi",
-        "Erdal Bakkal",
-        "Sakallı Celal",
-        "Ak Sakallı Dede"
+        "Ozan Güven",
+        "Şafak Sezer",
+        "Cem Yılmaz",
+        "Mazhar Alanson",
+        "Özkan Uğur"
       ],
       "correct": 2
     }
