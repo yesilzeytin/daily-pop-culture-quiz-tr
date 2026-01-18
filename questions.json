@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Hogwarts'ın dört kurucusundan biri olan, genellikle büyücülüğün gizemli ve karanlık yönlerine ilgi duyan, Slytherin Binası'nın kurucusu kimdir?",
+      "question": "Anadolu Efes, tarihinde kazandığı ilk EuroLeague şampiyonluğunu (2021) hangi başantrenör yönetiminde elde etmiştir?",
       "options": [
-        "Godric Gryffindor",
-        "Helga Hufflepuff",
-        "Rowena Ravenclaw",
-        "Salazar Slytherin",
-        "Albus Dumbledore"
+        "Ergin Ataman",
+        "Zeljko Obradovic",
+        "Dusan Ivkovic",
+        "Oktay Mahmuti",
+        "David Blatt"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
-      "question": "Formula 1 tarihinde en çok Dünya Şampiyonluğu kazanan iki pilottan biri olan, \"Kırmızı Baron\" lakabıyla da bilinen efsanevi Alman pilot kimdir?",
+      "question": "Fizik, kimya, tıp, edebiyat ve barış alanlarında verilen geleneksel Nobel Ödülleri'ne ek olarak, 1968 yılında İsveç Merkez Bankası'nın katkılarıyla hangi alanda bir ödül daha eklenmiştir?",
       "options": [
-        "Lewis Hamilton",
-        "Max Verstappen",
-        "Ayrton Senna",
-        "Sebastian Vettel",
-        "Michael Schumacher"
+        "Ekonomi Bilimleri",
+        "Matematik",
+        "Mimarlık",
+        "Tarih",
+        "Felsefe"
       ],
-      "correct": 4
+      "correct": 0
     },
     {
-      "question": "Türkiye'nin en çok takip edilen YouTuber'larından biri olan Enes Batur, kariyerinin başlarında genellikle hangi tür içeriklerle tanınmıştır?",
+      "question": "\"New Look\" akımıyla tanınan, 1947'de savaş sonrası dönemin kadın modasına devrim niteliğinde bir değişim getiren ve silueti yeniden tanımlayan Fransız moda tasarımcısı kimdir?",
       "options": [
-        "Makyaj ve güzellik videoları",
-        "Oyun ve eğlence videoları",
-        "Tarihi belgeseller",
-        "Yemek tarifleri",
-        "Seyahat vlogları"
+        "Coco Chanel",
+        "Christian Dior",
+        "Yves Saint Laurent",
+        "Hubert de Givenchy",
+        "Pierre Cardin"
       ],
       "correct": 1
     },
     {
-      "question": "\"Saltbae\" hareketiyle dünya çapında tanınan ve et restoranları zinciriyle de bilinen ünlü Türk şef ve Instagram fenomeni kimdir?",
+      "question": "Modern Olimpiyat Oyunları'nın yeniden canlanmasına öncülük eden ve ilk modern Olimpiyat Oyunları'nın 1896'da Atina'da düzenlenmesinde kilit rol oynayan Fransız eğitimci ve tarihçi kimdir?",
       "options": [
-        "Burak Özdemir (CZN Burak)",
-        "Nusret Gökçe",
-        "Arda Türkmen",
-        "Mehmet Yalçınkaya",
-        "Danilo Zanna"
+        "Pierre de Coubertin",
+        "Demetrius Vikelas",
+        "Spiridon Louis",
+        "William Penny Brookes",
+        "Evangelos Zappas"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
-      "question": "Cem Yılmaz'ın senaryosunu yazıp başrolünde oynadığı \"G.O.R.A.\" filminde, uzaylılar tarafından kaçırılarak G.O.R.A. gezegenine götürülen halı satıcısı Arif karakterini canlandıran oyuncu kimdir?",
+      "question": "Star Wars evreninde, Jedi ve Sith'lerin kullandığı ikonik silah olan ışın kılıçlarının (lightsaber) bıçağı, hangi özel kristal sayesinde enerji kazanır?",
       "options": [
-        "Ozan Güven",
-        "Şafak Sezer",
-        "Cem Yılmaz",
-        "Mazhar Alanson",
-        "Özkan Uğur"
+        "Kyber kristali",
+        "Adegan kristali",
+        "Krayt ejderhası incisi",
+        "Corusca gem",
+        "Ilum kristali"
       ],
-      "correct": 2
+      "correct": 0
     }
   ]
 }
