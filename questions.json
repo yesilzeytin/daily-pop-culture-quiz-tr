@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Anadolu Efes, tarihinde kazandığı ilk EuroLeague şampiyonluğunu (2021) hangi başantrenör yönetiminde elde etmiştir?",
+      "question": "Survivor Türkiye yarışmasında 2005 yılında 'Survivor Türkiye: Büyük Macera' adıyla düzenlenen ilk sezonun şampiyonu kim olmuştur?",
       "options": [
-        "Ergin Ataman",
-        "Zeljko Obradovic",
-        "Dusan Ivkovic",
-        "Oktay Mahmuti",
-        "David Blatt"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Fizik, kimya, tıp, edebiyat ve barış alanlarında verilen geleneksel Nobel Ödülleri'ne ek olarak, 1968 yılında İsveç Merkez Bankası'nın katkılarıyla hangi alanda bir ödül daha eklenmiştir?",
-      "options": [
-        "Ekonomi Bilimleri",
-        "Matematik",
-        "Mimarlık",
-        "Tarih",
-        "Felsefe"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "\"New Look\" akımıyla tanınan, 1947'de savaş sonrası dönemin kadın modasına devrim niteliğinde bir değişim getiren ve silueti yeniden tanımlayan Fransız moda tasarımcısı kimdir?",
-      "options": [
-        "Coco Chanel",
-        "Christian Dior",
-        "Yves Saint Laurent",
-        "Hubert de Givenchy",
-        "Pierre Cardin"
+        "Mert Öcal",
+        "Uğur Pektaş",
+        "Atakan Arslan",
+        "Ogeday Girişken",
+        "Turabi Çamkıran"
       ],
       "correct": 1
     },
     {
-      "question": "Modern Olimpiyat Oyunları'nın yeniden canlanmasına öncülük eden ve ilk modern Olimpiyat Oyunları'nın 1896'da Atina'da düzenlenmesinde kilit rol oynayan Fransız eğitimci ve tarihçi kimdir?",
+      "question": "Hollywood'un sevilen aktörlerinden Leonardo DiCaprio, kariyerinin ilk 'En İyi Erkek Oyuncu' Oscar ödülünü 2016 yılında hangi filmdeki performansıyla kazanmıştır?",
       "options": [
-        "Pierre de Coubertin",
-        "Demetrius Vikelas",
-        "Spiridon Louis",
-        "William Penny Brookes",
-        "Evangelos Zappas"
+        "The Wolf of Wall Street",
+        "Django Unchained",
+        "The Revenant",
+        "Inception",
+        "Titanic"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "question": "Star Wars evreninde, Jedi ve Sith'lerin kullandığı ikonik silah olan ışın kılıçlarının (lightsaber) bıçağı, hangi özel kristal sayesinde enerji kazanır?",
+      "question": "Eurovision Şarkı Yarışması'nda Türkiye'ye 2003 yılında 'Everyway That I Can' şarkısıyla ilk ve tek birinciliği getiren sanatçı kimdir?",
       "options": [
-        "Kyber kristali",
-        "Adegan kristali",
-        "Krayt ejderhası incisi",
-        "Corusca gem",
-        "Ilum kristali"
+        "maNga",
+        "Athena",
+        "Hadise",
+        "Sertab Erener",
+        "Şebnem Paker"
       ],
-      "correct": 0
+      "correct": 3
+    },
+    {
+      "question": "2000'li yılların sonunda büyük bir fenomene dönüşen 'Aşk-ı Memnu' dizisinde, 'Behlül Haznedar' karakterine hayat veren oyuncu kimdir?",
+      "options": [
+        "Kenan İmirzalıoğlu",
+        "Çağatay Ulusoy",
+        "Burak Özçivit",
+        "Kıvanç Tatlıtuğ",
+        "Engin Akyürek"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "İnsanlık tarihinde Ay'a ilk ayak basan kişi olarak bilinen Amerikalı astronot kimdir?",
+      "options": [
+        "Buzz Aldrin",
+        "Michael Collins",
+        "Neil Armstrong",
+        "Yuri Gagarin",
+        "Alan Shepard"
+      ],
+      "correct": 2
     }
   ]
 }
