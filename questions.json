@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Survivor Türkiye yarışmasında 2005 yılında 'Survivor Türkiye: Büyük Macera' adıyla düzenlenen ilk sezonun şampiyonu kim olmuştur?",
+      "question": "Tüm zamanların en çok izlenen Türk filmleri arasında yer alan Recep İvedik serisinin yönetmenliğini kim üstlenmektedir?",
       "options": [
-        "Mert Öcal",
-        "Uğur Pektaş",
-        "Atakan Arslan",
-        "Ogeday Girişken",
-        "Turabi Çamkıran"
+        "Şahan Gökbakar",
+        "Togan Gökbakar",
+        "Cem Yılmaz",
+        "Nuri Bilge Ceylan",
+        "Yılmaz Erdoğan"
       ],
       "correct": 1
     },
     {
-      "question": "Hollywood'un sevilen aktörlerinden Leonardo DiCaprio, kariyerinin ilk 'En İyi Erkek Oyuncu' Oscar ödülünü 2016 yılında hangi filmdeki performansıyla kazanmıştır?",
+      "question": "Netflix'in dünya çapında büyük yankı uyandıran Güney Kore yapımı dizisi \"Squid Game\"de, yarışmacıların hayatlarına mal olan ilk oyunun adı nedir?",
       "options": [
-        "The Wolf of Wall Street",
-        "Django Unchained",
-        "The Revenant",
-        "Inception",
-        "Titanic"
+        "Kırmızı Işık, Yeşil Işık",
+        "Ddakji",
+        "Misket",
+        "Halat Çekme",
+        "Cam Köprü"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "Eurovision Şarkı Yarışması'nda Türkiye'ye 2003 yılında 'Everyway That I Can' şarkısıyla ilk ve tek birinciliği getiren sanatçı kimdir?",
+      "question": "Naughty Dog tarafından geliştirilen ve hazine avcısı Nathan Drake'in maceralarını konu alan popüler PlayStation oyun serisinin adı nedir?",
       "options": [
-        "maNga",
-        "Athena",
-        "Hadise",
-        "Sertab Erener",
-        "Şebnem Paker"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "2000'li yılların sonunda büyük bir fenomene dönüşen 'Aşk-ı Memnu' dizisinde, 'Behlül Haznedar' karakterine hayat veren oyuncu kimdir?",
-      "options": [
-        "Kenan İmirzalıoğlu",
-        "Çağatay Ulusoy",
-        "Burak Özçivit",
-        "Kıvanç Tatlıtuğ",
-        "Engin Akyürek"
+        "The Last of Us",
+        "Horizon Zero Dawn",
+        "Red Dead Redemption",
+        "Uncharted",
+        "God of War"
       ],
       "correct": 3
     },
     {
-      "question": "İnsanlık tarihinde Ay'a ilk ayak basan kişi olarak bilinen Amerikalı astronot kimdir?",
+      "question": "Marvel Sinematik Evreni'nin (MCU) en güçlü düşmanlarından biri olan ve Sonsuzluk Taşları'nı toplayarak evrenin yarısını yok etmeyi amaçlayan karakterin adı nedir?",
       "options": [
-        "Buzz Aldrin",
-        "Michael Collins",
-        "Neil Armstrong",
-        "Yuri Gagarin",
-        "Alan Shepard"
+        "Loki",
+        "Ultron",
+        "Red Skull",
+        "Thanos",
+        "Doctor Doom"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Nobel Barış Ödülü'nü kazanan en genç kişi kimdir?",
+      "options": [
+        "Martin Luther King Jr.",
+        "Nelson Mandela",
+        "Malala Yousafzai",
+        "Jimmy Carter",
+        "Barack Obama"
       ],
       "correct": 2
     }
