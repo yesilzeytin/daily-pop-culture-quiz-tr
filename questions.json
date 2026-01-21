@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Tüm zamanların en çok izlenen Türk filmleri arasında yer alan Recep İvedik serisinin yönetmenliğini kim üstlenmektedir?",
+      "question": "Moda dünyasının en etkili isimlerinden biri olarak kabul edilen, Amerikan Vogue dergisinin uzun yıllardır genel yayın yönetmenliğini yapan ve popüler kültüre yön veren isim kimdir?",
       "options": [
-        "Şahan Gökbakar",
-        "Togan Gökbakar",
-        "Cem Yılmaz",
-        "Nuri Bilge Ceylan",
-        "Yılmaz Erdoğan"
+        "Donatella Versace",
+        "Miuccia Prada",
+        "Anna Wintour",
+        "Coco Chanel",
+        "Vera Wang"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türkiye'nin tanınan YouTuber'larından biri olan, 'Katarsis' adını verdiği program serisiyle geniş kitlelere ulaşan ve konuklarıyla derinlemesine sohbetleriyle bilinen isim kimdir?",
+      "options": [
+        "Orkun Işıtmak",
+        "Reynmen",
+        "Gökhan Çınar",
+        "Enes Batur",
+        "Berkcan Güven"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Marvel Sinematik Evreni'nin (MCU) en ikonik karakterlerinden biri olan ve 'Ben Iron Man' repliğiyle hafızalara kazınan Tony Stark'ı canlandıran aktör kimdir?",
+      "options": [
+        "Chris Evans",
+        "Robert Downey Jr.",
+        "Mark Ruffalo",
+        "Jeremy Renner",
+        "Chris Hemsworth"
       ],
       "correct": 1
     },
     {
-      "question": "Netflix'in dünya çapında büyük yankı uyandıran Güney Kore yapımı dizisi \"Squid Game\"de, yarışmacıların hayatlarına mal olan ilk oyunun adı nedir?",
+      "question": "Türkçe rap müziğin dikkat çeken isimlerinden Norm Ender, 2019 yılında yayınladığı ve kısa sürede internette viral olan, aynı zamanda tartışmalara yol açan hit şarkısıyla gündeme gelmiştir. Bu şarkının adı nedir?",
       "options": [
-        "Kırmızı Işık, Yeşil Işık",
-        "Ddakji",
-        "Misket",
-        "Halat Çekme",
-        "Cam Köprü"
+        "Mekanın Sahibi",
+        "Deli Hisler",
+        "Kural Ne Bilmiyorum",
+        "Çıktık Yola",
+        "Gözlerimde Arpacık"
       ],
       "correct": 0
     },
     {
-      "question": "Naughty Dog tarafından geliştirilen ve hazine avcısı Nathan Drake'in maceralarını konu alan popüler PlayStation oyun serisinin adı nedir?",
+      "question": "Dünya genelinde büyük bir hayran kitlesine sahip olan K-Pop grubu BTS'in, grubun lideri ve ana rapçisi olan üyesi kimdir?",
       "options": [
-        "The Last of Us",
-        "Horizon Zero Dawn",
-        "Red Dead Redemption",
-        "Uncharted",
-        "God of War"
+        "Jin",
+        "Jimin",
+        "Jungkook",
+        "RM",
+        "V"
       ],
       "correct": 3
-    },
-    {
-      "question": "Marvel Sinematik Evreni'nin (MCU) en güçlü düşmanlarından biri olan ve Sonsuzluk Taşları'nı toplayarak evrenin yarısını yok etmeyi amaçlayan karakterin adı nedir?",
-      "options": [
-        "Loki",
-        "Ultron",
-        "Red Skull",
-        "Thanos",
-        "Doctor Doom"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Nobel Barış Ödülü'nü kazanan en genç kişi kimdir?",
-      "options": [
-        "Martin Luther King Jr.",
-        "Nelson Mandela",
-        "Malala Yousafzai",
-        "Jimmy Carter",
-        "Barack Obama"
-      ],
-      "correct": 2
     }
   ]
 }
