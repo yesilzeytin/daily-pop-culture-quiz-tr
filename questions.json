@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Star Wars evreninde, ışın kılıcı kullanan bir Jedi veya Sith'in temel eğitimini aldığı ve Güç'ü hissetmeyi öğrendiği dini ve felsefi düzenin adı nedir?",
+      "question": "Türkiye'nin en çok takip edilen Instagram hesaplarından birine sahip olan, özellikle makyaj videoları ve güzellik içerikleriyle tanınan influencer kimdir?",
       "options": [
-        "Sith Lordları",
-        "Cumhuriyet Muhafızları",
-        "Jedi Düzeni",
-        "İmparatorluk Elitleri",
-        "Bağımsızlar Birliği"
+        "Danla Bilic",
+        "Duygu Özaslan",
+        "Şeyma Subaşı",
+        "Ece Seçkin",
+        "Selin Yağcıoğlu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Ünlü rapçi Kanye West'in, 2010 yılında yayınladığı ve eleştirmenler tarafından geniş çapta bir başyapıt olarak kabul edilen, 'Runaway' gibi hitleri içeren albümünün adı nedir?",
+      "options": [
+        "The College Dropout",
+        "Late Registration",
+        "808s & Heartbreak",
+        "My Beautiful Dark Twisted Fantasy",
+        "Yeezus"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Cem Yılmaz'ın yönetmenliğini ve başrolünü üstlendiği, 2018 yapımı \"Arif V 216\" filminde, uzaylı dostu 216'ya hayat veren, Cem Yılmaz ile birlikte performansı dikkat çeken oyuncu kimdir?",
+      "options": [
+        "Ozan Güven",
+        "Zafer Algöz",
+        "Ezgi Mola",
+        "Seda Bakan",
+        "Uraz Kaygılaroğlu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Dünya Kupası tarihinde en çok şampiyonluk kazanan ülke hangisidir?",
+      "options": [
+        "Almanya",
+        "İtalya",
+        "Brezilya",
+        "Arjantin",
+        "Fransa"
       ],
       "correct": 2
     },
     {
-      "question": "Birinci Dünya Savaşı sırasında, siper savaşı ve yoğun topçu ateşiyle özdeşleşen, insanlık tarihinin en kanlı muharebelerinden biri olan ve 1916 yılında gerçekleşen savaş hangisidir?",
+      "question": "Eyfel Kulesi'ni iki kez hurda demir olarak satmaya çalışan ve \"Eyfel Kulesi'ni Satan Adam\" olarak ünlenen tarihteki ünlü dolandırıcı kimdir?",
       "options": [
-        "Stalingrad Muharebesi",
-        "Waterloo Muharebesi",
-        "Somme Muharebesi",
-        "Gettysburg Muharebesi",
-        "Marne Muharebesi"
+        "Frank Abagnale Jr.",
+        "Victor Lustig",
+        "Charles Ponzi",
+        "Bernard Madoff",
+        "George C. Parker"
       ],
-      "correct": 2
-    },
-    {
-      "question": "2004 yılında kurulan ve kısa sürede dünyanın en popüler sosyal medya platformlarından biri haline gelen 'Facebook'un kurucusu kimdir?",
-      "options": [
-        "Jack Dorsey",
-        "Kevin Systrom",
-        "Mark Zuckerberg",
-        "Larry Page",
-        "Jeff Bezos"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türkiye'nin en prestijli medya ve sanat ödüllerinden biri olan Altın Kelebek Ödülleri, hangi gazete tarafından düzenlenmektedir?",
-      "options": [
-        "Sabah",
-        "Milliyet",
-        "Hürriyet",
-        "Cumhuriyet",
-        "Akşam"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Marvel Sinematik Evreni'nde (MCU), Kaptan Amerika'nın ilk filmi 'İlk Yenilmez'de (Captain America: The First Avenger) süper asker serumunu almadan önceki zayıf ve kısa boylu halinin adı nedir?",
-      "options": [
-        "James Barnes",
-        "Bucky Barnes",
-        "Steve Rogers",
-        "Sam Wilson",
-        "Clint Barton"
-      ],
-      "correct": 2
+      "correct": 1
     }
   ]
 }
