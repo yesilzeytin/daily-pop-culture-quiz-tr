@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Türkiye'nin en çok takip edilen Instagram hesaplarından birine sahip olan, özellikle makyaj videoları ve güzellik içerikleriyle tanınan influencer kimdir?",
+      "question": "Yumurcak TV ekranlarında uzun yıllar boyunca çocukların severek izlediği, sarı renkli, uçmayı seven ve genellikle Sylvester'ın peşinde olduğu meşhur çizgi film karakteri kimdir?",
       "options": [
-        "Danla Bilic",
-        "Duygu Özaslan",
-        "Şeyma Subaşı",
-        "Ece Seçkin",
-        "Selin Yağcıoğlu"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Ünlü rapçi Kanye West'in, 2010 yılında yayınladığı ve eleştirmenler tarafından geniş çapta bir başyapıt olarak kabul edilen, 'Runaway' gibi hitleri içeren albümünün adı nedir?",
-      "options": [
-        "The College Dropout",
-        "Late Registration",
-        "808s & Heartbreak",
-        "My Beautiful Dark Twisted Fantasy",
-        "Yeezus"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Cem Yılmaz'ın yönetmenliğini ve başrolünü üstlendiği, 2018 yapımı \"Arif V 216\" filminde, uzaylı dostu 216'ya hayat veren, Cem Yılmaz ile birlikte performansı dikkat çeken oyuncu kimdir?",
-      "options": [
-        "Ozan Güven",
-        "Zafer Algöz",
-        "Ezgi Mola",
-        "Seda Bakan",
-        "Uraz Kaygılaroğlu"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Dünya Kupası tarihinde en çok şampiyonluk kazanan ülke hangisidir?",
-      "options": [
-        "Almanya",
-        "İtalya",
-        "Brezilya",
-        "Arjantin",
-        "Fransa"
+        "Mickey Mouse",
+        "Atom Karınca",
+        "Tweety",
+        "Red Kit",
+        "He-Man"
       ],
       "correct": 2
     },
     {
-      "question": "Eyfel Kulesi'ni iki kez hurda demir olarak satmaya çalışan ve \"Eyfel Kulesi'ni Satan Adam\" olarak ünlenen tarihteki ünlü dolandırıcı kimdir?",
+      "question": "\"Cep Herkülü\" lakabıyla tanınan, halterde dünya rekorları kırarak efsaneleşen ve Türkiye'ye Olimpiyat Oyunları'nda 3 altın madalya kazandıran milli sporcumuz kimdir?",
       "options": [
-        "Frank Abagnale Jr.",
-        "Victor Lustig",
-        "Charles Ponzi",
-        "Bernard Madoff",
-        "George C. Parker"
+        "Halil Mutlu",
+        "Hamza Yerlikaya",
+        "Naim Süleymanoğlu",
+        "Mete Gazoz",
+        "Nur Tatar"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Star Wars evreninde, Luke Skywalker'ın büyüdüğü, çift güneşiyle ünlü çöl gezegeninin adı nedir?",
+      "options": [
+        "Coruscant",
+        "Tatooine",
+        "Hoth",
+        "Endor",
+        "Naboo"
       ],
       "correct": 1
+    },
+    {
+      "question": "Türkiye'deki popüler Twitch yayıncılarından biri olan ve özellikle League of Legends oyun yayınları, komik anları ve sohbet içerikleriyle geniş bir kitleye ulaşan, gerçek adı Tuğkan Gönültaş olan yayıncı kimdir?",
+      "options": [
+        "Pqueen",
+        "WTCN",
+        "Mert Günhan",
+        "Elraenn",
+        "Ferit Karakaya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Türkiye Millî Futbol Takımı, tarihinde katıldığı FIFA Dünya Kupası organizasyonlarında en büyük başarısını hangi yıl elde etmiştir?",
+      "options": [
+        "1994",
+        "1998",
+        "2002",
+        "2006",
+        "2010"
+      ],
+      "correct": 2
     }
   ]
 }
