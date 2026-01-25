@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Yumurcak TV ekranlarında uzun yıllar boyunca çocukların severek izlediği, sarı renkli, uçmayı seven ve genellikle Sylvester'ın peşinde olduğu meşhur çizgi film karakteri kimdir?",
+      "question": "Şampiyonlar Ligi (eski adıyla Şampiyon Kulüpler Kupası) ilk olarak hangi yılda düzenlenmiştir?",
       "options": [
-        "Mickey Mouse",
-        "Atom Karınca",
-        "Tweety",
-        "Red Kit",
-        "He-Man"
+        "1955",
+        "1960",
+        "1945",
+        "1970",
+        "1950"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Disney'in dünya çapında büyük başarı kazanan ve tam uzunlukta üretilen ilk animasyon filmi hangisidir?",
+      "options": [
+        "Pamuk Prenses ve Yedi Cüceler",
+        "Fantasia",
+        "Pinokyo",
+        "Bambi",
+        "Aslan Kral"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Eurovision Şarkı Yarışması'nda Türkiye'yi temsil eden ve 'We Could Be The Same' adlı şarkısıyla ikinci olan Türk rock grubu hangisidir?",
+      "options": [
+        "Duman",
+        "Mor ve Ötesi",
+        "Şebnem Ferah",
+        "Athena",
+        "maNga"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "Steven Spielberg'in yönettiği ve Leonardo DiCaprio'nun başrolünde oynadığı 'Sıkıysa Yakala' (Catch Me If You Can) filmine ilham veren, birçok farklı kimliğe bürünerek dolandırıcılık yapan ünlü isim kimdir?",
+      "options": [
+        "Charles Ponzi",
+        "Bernie Madoff",
+        "Frank Abagnale Jr.",
+        "George C. Parker",
+        "Jordan Belfort"
       ],
       "correct": 2
     },
     {
-      "question": "\"Cep Herkülü\" lakabıyla tanınan, halterde dünya rekorları kırarak efsaneleşen ve Türkiye'ye Olimpiyat Oyunları'nda 3 altın madalya kazandıran milli sporcumuz kimdir?",
+      "question": "2017 yılında Survivor Türkiye'nin 'Ünlüler-Gönüllüler' formatında şampiyonluğa ulaşan ve profesyonel olarak kürek sporuyla ilgilenen yarışmacı kimdir?",
       "options": [
-        "Halil Mutlu",
-        "Hamza Yerlikaya",
-        "Naim Süleymanoğlu",
-        "Mete Gazoz",
-        "Nur Tatar"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Star Wars evreninde, Luke Skywalker'ın büyüdüğü, çift güneşiyle ünlü çöl gezegeninin adı nedir?",
-      "options": [
-        "Coruscant",
-        "Tatooine",
-        "Hoth",
-        "Endor",
-        "Naboo"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Türkiye'deki popüler Twitch yayıncılarından biri olan ve özellikle League of Legends oyun yayınları, komik anları ve sohbet içerikleriyle geniş bir kitleye ulaşan, gerçek adı Tuğkan Gönültaş olan yayıncı kimdir?",
-      "options": [
-        "Pqueen",
-        "WTCN",
-        "Mert Günhan",
-        "Elraenn",
-        "Ferit Karakaya"
+        "Adem Kılıççı",
+        "Turabi Çamkıran",
+        "Nihat Doğan",
+        "Ogeday Girişken",
+        "Batuhan Karacakaya"
       ],
       "correct": 3
-    },
-    {
-      "question": "Türkiye Millî Futbol Takımı, tarihinde katıldığı FIFA Dünya Kupası organizasyonlarında en büyük başarısını hangi yıl elde etmiştir?",
-      "options": [
-        "1994",
-        "1998",
-        "2002",
-        "2006",
-        "2010"
-      ],
-      "correct": 2
     }
   ]
 }
