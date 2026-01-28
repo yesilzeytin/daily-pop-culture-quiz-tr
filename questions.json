@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Harry Potter evreninde, Hogwarts Cadılık ve Büyücülük Okulu'nun dört binasından hangisi en çok hırs, kurnazlık ve liderlik özellikleriyle ilişkilendirilir?",
+      "question": "1990'larda Michael Jordan'ın liderliğindeki efsanevi kadrosuyla 6 NBA şampiyonluğu kazanmış olan takım hangisidir?",
       "options": [
-        "Gryffindor",
-        "Hufflepuff",
-        "Ravenclaw",
-        "Slytherin",
-        "Durmstrang"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "NBA tarihinde, kariyerinde altı şampiyonluk yüzüğü bulunan ve \"Air Jordan\" lakabıyla tanınan efsanevi basketbolcu kimdir?",
-      "options": [
-        "LeBron James",
-        "Kareem Abdul-Jabbar",
-        "Larry Bird",
-        "Michael Jordan",
-        "Magic Johnson"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Şener Şen ve İlyas Salman'ın başrollerini paylaştığı, köyden kente göçün mizahi bir dille ele alınıp işsizlik, barınma gibi sorunların komik bir şekilde yansıtıldığı, Türk sinemasının unutulmaz filmlerinden biri olan yapım hangisidir?",
-      "options": [
-        "Kibar Feyzo",
-        "Çiçek Abbas",
-        "Banker Bilo",
-        "Hababam Sınıfı",
-        "Tosun Paşa"
+        "Los Angeles Lakers",
+        "Boston Celtics",
+        "Chicago Bulls",
+        "San Antonio Spurs",
+        "Detroit Pistons"
       ],
       "correct": 2
     },
     {
-      "question": "İkinci Dünya Savaşı'nın dönüm noktalarından biri olarak kabul edilen ve Müttefik Devletler'in Batı Cephesi'ni açarak Nazi Almanya'sına karşı kesin bir zafer kazanmasında kilit rol oynayan büyük çıkarmasının adı nedir?",
+      "question": "2020 Tokyo Olimpiyatları'nda (2021 yılında düzenlendi) okçulukta Türkiye'ye erkekler bireysel kategorisinde ilk Olimpiyat altın madalyasını kazandıran milli sporcumuz kimdir?",
       "options": [
-        "Stalingrad Muharebesi",
-        "Midway Muharebesi",
-        "Pearl Harbor Baskını",
-        "Normandiya Çıkarması",
-        "Berlin Muharebesi"
+        "Mete Gazoz",
+        "Yasemin Ecem Anagöz",
+        "Ulaş Berkim Tümer",
+        "Doğanay Yiğit",
+        "Samet Ak"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
-      "question": "2007 yılında piyasaya sürülen, eleştirel beğeni toplayan ve oyun dünyasında bir devrim yaratan, bilim kurgu temalı bu hayatta kalma-korku oyunu, oyuncuları uzaylı istilasına uğramış bir uzay maden gemisi olan USG Ishimura'ya bırakarak korku ve gerilimi bir araya getirmiştir. Bu oyun serisinin adı nedir?",
+      "question": "Yumurcak TV ekranlarında yayınlanan ve çocukların severek izlediği 'Şirinler' çizgi filminde, Şirinlerin ezeli düşmanı olan kötü kalpli büyücünün adı nedir?",
       "options": [
-        "BioShock",
-        "Dead Space",
-        "System Shock",
-        "F.E.A.R.",
-        "Doom"
+        "Azman",
+        "Homurdanan Şirin",
+        "Gargamel",
+        "Uykucu Şirin",
+        "Obur Şirin"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Recep İvedik karakterine can veren, aynı zamanda filmin senaryo ekibinde de yer alan ve Türk sinemasının popüler komedyenlerinden biri olan oyuncu kimdir?",
+      "options": [
+        "Cem Yılmaz",
+        "Şahan Gökbakar",
+        "Ata Demirer",
+        "Tolga Çevik",
+        "Binnur Kaya"
       ],
       "correct": 1
+    },
+    {
+      "question": "1980'lerin en ikonik pop yıldızlarından biri olan, 'Like a Virgin', 'Material Girl' ve 'Vogue' gibi hitleriyle dünya çapında ün kazanmış kadın sanatçı kimdir?",
+      "options": [
+        "Whitney Houston",
+        "Mariah Carey",
+        "Janet Jackson",
+        "Madonna",
+        "Celine Dion"
+      ],
+      "correct": 3
     }
   ]
 }
