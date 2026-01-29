@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "1990'larda Michael Jordan'ın liderliğindeki efsanevi kadrosuyla 6 NBA şampiyonluğu kazanmış olan takım hangisidir?",
+      "question": "Popüler Türk komedi filmi serisi \"Recep İvedik\"te, Recep'in en yakın arkadaşı ve sürekli maceradan maceraya koşan, ona sadık dostu olan karakterin adı nedir?",
       "options": [
-        "Los Angeles Lakers",
-        "Boston Celtics",
-        "Chicago Bulls",
-        "San Antonio Spurs",
-        "Detroit Pistons"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "2020 Tokyo Olimpiyatları'nda (2021 yılında düzenlendi) okçulukta Türkiye'ye erkekler bireysel kategorisinde ilk Olimpiyat altın madalyasını kazandıran milli sporcumuz kimdir?",
-      "options": [
-        "Mete Gazoz",
-        "Yasemin Ecem Anagöz",
-        "Ulaş Berkim Tümer",
-        "Doğanay Yiğit",
-        "Samet Ak"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Yumurcak TV ekranlarında yayınlanan ve çocukların severek izlediği 'Şirinler' çizgi filminde, Şirinlerin ezeli düşmanı olan kötü kalpli büyücünün adı nedir?",
-      "options": [
-        "Azman",
-        "Homurdanan Şirin",
-        "Gargamel",
-        "Uykucu Şirin",
-        "Obur Şirin"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Recep İvedik karakterine can veren, aynı zamanda filmin senaryo ekibinde de yer alan ve Türk sinemasının popüler komedyenlerinden biri olan oyuncu kimdir?",
-      "options": [
-        "Cem Yılmaz",
-        "Şahan Gökbakar",
-        "Ata Demirer",
-        "Tolga Çevik",
-        "Binnur Kaya"
+        "Sibel",
+        "Nurullah",
+        "Zeynep",
+        "Salih",
+        "Gökhan"
       ],
       "correct": 1
     },
     {
-      "question": "1980'lerin en ikonik pop yıldızlarından biri olan, 'Like a Virgin', 'Material Girl' ve 'Vogue' gibi hitleriyle dünya çapında ün kazanmış kadın sanatçı kimdir?",
+      "question": "Pixar Animasyon Stüdyoları tarafından üretilen ve tüm zamanların en sevilen animasyon serilerinden biri olan \"Oyuncak Hikayesi\" (Toy Story) filminin ilk bölümü hangi yılda vizyona girmiştir?",
       "options": [
-        "Whitney Houston",
-        "Mariah Carey",
-        "Janet Jackson",
-        "Madonna",
-        "Celine Dion"
+        "1990",
+        "1995",
+        "2000",
+        "2005",
+        "1985"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "İnternetin ilk dönemlerinde, 1990 yılında Tim Berners-Lee tarafından geliştirilen ve web sayfalarını görüntülemek için kullanılan ilk web tarayıcısının orijinal adı nedir?",
+      "options": [
+        "Mosaic",
+        "Internet Explorer",
+        "Netscape Navigator",
+        "WorldWideWeb",
+        "Opera"
       ],
       "correct": 3
+    },
+    {
+      "question": "\"Canım Benim\", \"Bitanesi\" ve \"Yak Gel\" gibi hareketli ve popüler şarkılarıyla 2000'li yıllarda Türk pop müziğine damga vuran ünlü şarkıcı kimdir?",
+      "options": [
+        "Hadise",
+        "Demet Akalın",
+        "Serdar Ortaç",
+        "Bengü",
+        "Gülşen"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "20. yüzyılın sonlarında, Soğuk Savaş'ın sembollerinden biri olan ve 1989 yılında yıkılarak Doğu ve Batı Almanya'nın birleşme sürecine girmesine yol açan yapı hangisidir?",
+      "options": [
+        "Çernobil Faciası",
+        "Berlin Duvarı'nın Yıkılışı",
+        "Tiananmen Meydanı Katliamı",
+        "Sovyetler Birliği'nin Dağılması",
+        "Glasnost ve Perestroyka Reformları"
+      ],
+      "correct": 1
     }
   ]
 }
