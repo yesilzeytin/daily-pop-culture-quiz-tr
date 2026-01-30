@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Popüler Türk komedi filmi serisi \"Recep İvedik\"te, Recep'in en yakın arkadaşı ve sürekli maceradan maceraya koşan, ona sadık dostu olan karakterin adı nedir?",
+      "question": "Kıvanç Tatlıtuğ'un başrolünde yer aldığı ve 2008-2010 yılları arasında yayınlanan, Türk televizyon tarihinin en ikonik yapımlarından biri olan dizinin adı nedir?",
       "options": [
-        "Sibel",
-        "Nurullah",
-        "Zeynep",
-        "Salih",
-        "Gökhan"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Pixar Animasyon Stüdyoları tarafından üretilen ve tüm zamanların en sevilen animasyon serilerinden biri olan \"Oyuncak Hikayesi\" (Toy Story) filminin ilk bölümü hangi yılda vizyona girmiştir?",
-      "options": [
-        "1990",
-        "1995",
-        "2000",
-        "2005",
-        "1985"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "İnternetin ilk dönemlerinde, 1990 yılında Tim Berners-Lee tarafından geliştirilen ve web sayfalarını görüntülemek için kullanılan ilk web tarayıcısının orijinal adı nedir?",
-      "options": [
-        "Mosaic",
-        "Internet Explorer",
-        "Netscape Navigator",
-        "WorldWideWeb",
-        "Opera"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "\"Canım Benim\", \"Bitanesi\" ve \"Yak Gel\" gibi hareketli ve popüler şarkılarıyla 2000'li yıllarda Türk pop müziğine damga vuran ünlü şarkıcı kimdir?",
-      "options": [
-        "Hadise",
-        "Demet Akalın",
-        "Serdar Ortaç",
-        "Bengü",
-        "Gülşen"
+        "Ezel",
+        "Kuzey Güney",
+        "Aşk-ı Memnu",
+        "Çarpışma",
+        "Cesur ve Güzel"
       ],
       "correct": 2
     },
     {
-      "question": "20. yüzyılın sonlarında, Soğuk Savaş'ın sembollerinden biri olan ve 1989 yılında yıkılarak Doğu ve Batı Almanya'nın birleşme sürecine girmesine yol açan yapı hangisidir?",
+      "question": "Pokemon evreninde, Pikachu'nun evrimleşmiş hali olan ve genellikle bir elektrik fırtınası başlatma yeteneğiyle bilinen Pokemon'un adı nedir?",
       "options": [
-        "Çernobil Faciası",
-        "Berlin Duvarı'nın Yıkılışı",
-        "Tiananmen Meydanı Katliamı",
-        "Sovyetler Birliği'nin Dağılması",
-        "Glasnost ve Perestroyka Reformları"
+        "Raichu",
+        "Pichu",
+        "Electabuzz",
+        "Jolteon",
+        "Zapdos"
       ],
-      "correct": 1
+      "correct": 0
+    },
+    {
+      "question": "Netflix'in dünya genelinde büyük beğeni toplayan \"La Casa de Papel\" (Money Heist) dizisinde, ekibin beyni ve operasyonları planlayan lider karakterin kod adı nedir?",
+      "options": [
+        "Berlin",
+        "Tokyo",
+        "Rio",
+        "Nairobi",
+        "Profesör"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "CD Projekt Red tarafından geliştirilen ve dünya genelinde milyonlarca oyuncuya ulaşan \"The Witcher\" serisinin ana karakteri, canavar avcısı kimdir?",
+      "options": [
+        "V",
+        "Commander Shepard",
+        "Geralt of Rivia",
+        "Arthur Morgan",
+        "Kratos"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Pixar Animasyon Stüdyoları'nın 2003 yapımı popüler animasyon filmi \"Kayıp Balık Nemo\"da (Finding Nemo), ana karakter Nemo'nun babası olan, oğlunu bulmak için uzun ve tehlikeli bir yolculuğa çıkan palyaço balığının adı nedir?",
+      "options": [
+        "Marlin",
+        "Dory",
+        "Gill",
+        "Crush",
+        "Bruce"
+      ],
+      "correct": 0
     }
   ]
 }
