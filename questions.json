@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Kıvanç Tatlıtuğ'un başrolünde yer aldığı ve 2008-2010 yılları arasında yayınlanan, Türk televizyon tarihinin en ikonik yapımlarından biri olan dizinin adı nedir?",
+      "question": "2010'lu yılların başında popüler olan ve katılımcıların belirli bir şarkı eşliğinde aniden dans etmeye başladığı, internetin en erken viral fenomenlerinden biri olarak kabul edilen video akımı nedir?",
       "options": [
-        "Ezel",
-        "Kuzey Güney",
-        "Aşk-ı Memnu",
-        "Çarpışma",
-        "Cesur ve Güzel"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Pokemon evreninde, Pikachu'nun evrimleşmiş hali olan ve genellikle bir elektrik fırtınası başlatma yeteneğiyle bilinen Pokemon'un adı nedir?",
-      "options": [
-        "Raichu",
-        "Pichu",
-        "Electabuzz",
-        "Jolteon",
-        "Zapdos"
+        "Harlem Shake",
+        "Ice Bucket Challenge",
+        "Mannequin Challenge",
+        "Kiki Challenge",
+        "Plank Challenge"
       ],
       "correct": 0
     },
     {
-      "question": "Netflix'in dünya genelinde büyük beğeni toplayan \"La Casa de Papel\" (Money Heist) dizisinde, ekibin beyni ve operasyonları planlayan lider karakterin kod adı nedir?",
+      "question": "20. yüzyılın başlarında Rusya'da kendisini Romanov Hanedanı'nın hayatta kalan üyesi olarak tanıtan ve bu iddiasıyla uzun yıllar boyunca birçok kişiyi etkileyen, tarihin en ilginç dolandırıcılarından biri olarak kabul edilen kadın kimdir?",
       "options": [
-        "Berlin",
-        "Tokyo",
-        "Rio",
-        "Nairobi",
-        "Profesör"
+        "Belle Gibson",
+        "Anna Anderson",
+        "Elizabeth Holmes",
+        "Lori Drew",
+        "Sarah Boone"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Netflix'in dünya genelinde rekorlar kıran Güney Kore yapımı dizisi \"Squid Game\"de, yarışmacıların oynadığı ve elenenlerin vurulduğu ilk oyunun adı nedir?",
+      "options": [
+        "Halat Çekme",
+        "Cam Köprü",
+        "Kırmızı Işık, Yeşil Işık",
+        "Misket Oyunu",
+        "Ddakji"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Olimpiyat tarihinde en fazla madalya kazanan kadın sporcu unvanına sahip olan, jimnastik dalında büyük başarılara imza atmış, Sovyetler Birliği adına yarışan efsanevi sporcu kimdir?",
+      "options": [
+        "Nadia Comăneci",
+        "Simone Biles",
+        "Olga Korbut",
+        "Larisa Latynina",
+        "Vera Čáslavská"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Türkiye'de Instagram platformunda geniş bir kitleye ulaşmış, eğlenceli ve günlük hayat içerikleriyle tanınan, özellikle \"Kafalar\" ekibinin üyelerinden biri olarak da bilinen fenomen kimdir?",
+      "options": [
+        "Reynmen (Yusuf Aktaş)",
+        "Enes Batur",
+        "Berkcan Güven",
+        "Cemal Can Canseven",
+        "Bilal Hancı"
       ],
       "correct": 4
-    },
-    {
-      "question": "CD Projekt Red tarafından geliştirilen ve dünya genelinde milyonlarca oyuncuya ulaşan \"The Witcher\" serisinin ana karakteri, canavar avcısı kimdir?",
-      "options": [
-        "V",
-        "Commander Shepard",
-        "Geralt of Rivia",
-        "Arthur Morgan",
-        "Kratos"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Pixar Animasyon Stüdyoları'nın 2003 yapımı popüler animasyon filmi \"Kayıp Balık Nemo\"da (Finding Nemo), ana karakter Nemo'nun babası olan, oğlunu bulmak için uzun ve tehlikeli bir yolculuğa çıkan palyaço balığının adı nedir?",
-      "options": [
-        "Marlin",
-        "Dory",
-        "Gill",
-        "Crush",
-        "Bruce"
-      ],
-      "correct": 0
     }
   ]
 }
