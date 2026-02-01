@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "2010'lu yılların başında popüler olan ve katılımcıların belirli bir şarkı eşliğinde aniden dans etmeye başladığı, internetin en erken viral fenomenlerinden biri olarak kabul edilen video akımı nedir?",
+      "question": "Hangi rapçi, hem müziği hem de moda ve iş dünyasındaki girişimleriyle tanınan, 'Yeezy' markasının kurucusudur?",
       "options": [
-        "Harlem Shake",
-        "Ice Bucket Challenge",
-        "Mannequin Challenge",
-        "Kiki Challenge",
-        "Plank Challenge"
+        "Drake",
+        "Eminem",
+        "Travis Scott",
+        "Jay-Z",
+        "Kanye West"
       ],
-      "correct": 0
+      "correct": 4
     },
     {
-      "question": "20. yüzyılın başlarında Rusya'da kendisini Romanov Hanedanı'nın hayatta kalan üyesi olarak tanıtan ve bu iddiasıyla uzun yıllar boyunca birçok kişiyi etkileyen, tarihin en ilginç dolandırıcılarından biri olarak kabul edilen kadın kimdir?",
+      "question": "\"Benim Adım Kırmızı\", \"Kar\" ve \"Masumiyet Müzesi\" gibi eserleriyle tanınan ve 2006 yılında Nobel Edebiyat Ödülü'nü kazanan Türk yazar kimdir?",
       "options": [
-        "Belle Gibson",
-        "Anna Anderson",
-        "Elizabeth Holmes",
-        "Lori Drew",
-        "Sarah Boone"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Netflix'in dünya genelinde rekorlar kıran Güney Kore yapımı dizisi \"Squid Game\"de, yarışmacıların oynadığı ve elenenlerin vurulduğu ilk oyunun adı nedir?",
-      "options": [
-        "Halat Çekme",
-        "Cam Köprü",
-        "Kırmızı Işık, Yeşil Işık",
-        "Misket Oyunu",
-        "Ddakji"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Olimpiyat tarihinde en fazla madalya kazanan kadın sporcu unvanına sahip olan, jimnastik dalında büyük başarılara imza atmış, Sovyetler Birliği adına yarışan efsanevi sporcu kimdir?",
-      "options": [
-        "Nadia Comăneci",
-        "Simone Biles",
-        "Olga Korbut",
-        "Larisa Latynina",
-        "Vera Čáslavská"
+        "Yaşar Kemal",
+        "Nazım Hikmet",
+        "Elif Şafak",
+        "Orhan Pamuk",
+        "Sabahattin Ali"
       ],
       "correct": 3
     },
     {
-      "question": "Türkiye'de Instagram platformunda geniş bir kitleye ulaşmış, eğlenceli ve günlük hayat içerikleriyle tanınan, özellikle \"Kafalar\" ekibinin üyelerinden biri olarak da bilinen fenomen kimdir?",
+      "question": "Fox Kids kuşağının popüler çizgi filmlerinden biri olan, farklı dijital canavarları eğiterek savaştıran ve bir grup çocuğun maceralarını konu alan yapımın adı nedir?",
       "options": [
-        "Reynmen (Yusuf Aktaş)",
-        "Enes Batur",
-        "Berkcan Güven",
-        "Cemal Can Canseven",
-        "Bilal Hancı"
+        "Pokémon",
+        "Yu-Gi-Oh!",
+        "Beyblade",
+        "Digimon",
+        "Bakugan"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Valve Corporation tarafından geliştirilen, teröristler ve anti-teröristler arasındaki çatışmaları konu alan, rekabetçi e-spor sahnesinde büyük bir yere sahip olan popüler birinci şahıs nişancı oyun serisinin adı nedir?",
+      "options": [
+        "Call of Duty",
+        "Battlefield",
+        "Rainbow Six Siege",
+        "Valorant",
+        "Counter-Strike"
       ],
       "correct": 4
+    },
+    {
+      "question": "Popüler bilim kurgu dizisi \"Stranger Things\"de, doğaüstü güçlere sahip genç bir kız olan ve ana karakterler arasında yer alan kahramanın adı nedir?",
+      "options": [
+        "Nancy",
+        "Max",
+        "Joyce",
+        "Eleven",
+        "Robin"
+      ],
+      "correct": 3
     }
   ]
 }
