@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Hangi rapçi, hem müziği hem de moda ve iş dünyasındaki girişimleriyle tanınan, 'Yeezy' markasının kurucusudur?",
+      "question": "Filenin Sultanları lakabıyla bilinen Türk Kadın Voleybol Milli Takımı'nın 2023 yılında kazandığı Avrupa Şampiyonası finalinde hangi ülkeyi yenerek şampiyon olmuştur?",
       "options": [
-        "Drake",
-        "Eminem",
-        "Travis Scott",
-        "Jay-Z",
-        "Kanye West"
+        "İtalya",
+        "Polonya",
+        "Sırbistan",
+        "Hollanda",
+        "Belçika"
       ],
-      "correct": 4
+      "correct": 2
     },
     {
-      "question": "\"Benim Adım Kırmızı\", \"Kar\" ve \"Masumiyet Müzesi\" gibi eserleriyle tanınan ve 2006 yılında Nobel Edebiyat Ödülü'nü kazanan Türk yazar kimdir?",
+      "question": "Üç kez 'Yılın Albümü' Grammy Ödülü'nü kazanarak bu başarıya ulaşan ilk kadın sanatçı kimdir?",
       "options": [
-        "Yaşar Kemal",
-        "Nazım Hikmet",
-        "Elif Şafak",
-        "Orhan Pamuk",
-        "Sabahattin Ali"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Fox Kids kuşağının popüler çizgi filmlerinden biri olan, farklı dijital canavarları eğiterek savaştıran ve bir grup çocuğun maceralarını konu alan yapımın adı nedir?",
-      "options": [
-        "Pokémon",
-        "Yu-Gi-Oh!",
-        "Beyblade",
-        "Digimon",
-        "Bakugan"
+        "Adele",
+        "Beyoncé",
+        "Billie Eilish",
+        "Taylor Swift",
+        "Madonna"
       ],
       "correct": 3
     },
     {
-      "question": "Valve Corporation tarafından geliştirilen, teröristler ve anti-teröristler arasındaki çatışmaları konu alan, rekabetçi e-spor sahnesinde büyük bir yere sahip olan popüler birinci şahıs nişancı oyun serisinin adı nedir?",
+      "question": "2014-2019 yılları arasında yayınlanan ve büyük ilgi gören 'Diriliş Ertuğrul' dizisinde başrol karakteri Ertuğrul Bey'i canlandıran oyuncu kimdir?",
       "options": [
-        "Call of Duty",
-        "Battlefield",
-        "Rainbow Six Siege",
-        "Valorant",
-        "Counter-Strike"
+        "Burak Özçivit",
+        "Engin Altan Düzyatan",
+        "Çağatay Ulusoy",
+        "Kenan İmirzalıoğlu",
+        "Kıvanç Tatlıtuğ"
       ],
-      "correct": 4
+      "correct": 1
     },
     {
-      "question": "Popüler bilim kurgu dizisi \"Stranger Things\"de, doğaüstü güçlere sahip genç bir kız olan ve ana karakterler arasında yer alan kahramanın adı nedir?",
+      "question": "Modayı ve kişisel tarzıyla dünyada bir fenomen haline gelen, Vogue Amerika dergisinin uzun yıllardır genel yayın yönetmenliğini yapan ve 'Şeytan Marka Giyer' (The Devil Wears Prada) filmine ilham kaynağı olan isim kimdir?",
       "options": [
-        "Nancy",
-        "Max",
-        "Joyce",
-        "Eleven",
-        "Robin"
+        "Donatella Versace",
+        "Miuccia Prada",
+        "Anna Wintour",
+        "Coco Chanel",
+        "Carine Roitfeld"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "2008 yapımı 'Kara Şövalye' (The Dark Knight) filminde, Christian Bale'in canlandırdığı Batman karakterinin ezeli düşmanı Joker'i canlandırarak ölümünden sonra En İyi Yardımcı Erkek Oyuncu Oscar'ını kazanan oyuncu kimdir?",
+      "options": [
+        "Jared Leto",
+        "Joaquin Phoenix",
+        "Jack Nicholson",
+        "Heath Ledger",
+        "Barry Keoghan"
       ],
       "correct": 3
     }
