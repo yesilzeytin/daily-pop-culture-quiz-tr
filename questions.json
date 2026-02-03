@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Filenin Sultanları lakabıyla bilinen Türk Kadın Voleybol Milli Takımı'nın 2023 yılında kazandığı Avrupa Şampiyonası finalinde hangi ülkeyi yenerek şampiyon olmuştur?",
+      "question": "Modern Olimpiyat Oyunları'nın başladığı 1896 yılından itibaren düzenlenen tüm yaz Olimpiyat Oyunları'na katılmış tek ülke hangisidir?",
       "options": [
-        "İtalya",
-        "Polonya",
-        "Sırbistan",
-        "Hollanda",
-        "Belçika"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Üç kez 'Yılın Albümü' Grammy Ödülü'nü kazanarak bu başarıya ulaşan ilk kadın sanatçı kimdir?",
-      "options": [
-        "Adele",
-        "Beyoncé",
-        "Billie Eilish",
-        "Taylor Swift",
-        "Madonna"
+        "ABD",
+        "Birleşik Krallık",
+        "Fransa",
+        "Yunanistan",
+        "İtalya"
       ],
       "correct": 3
     },
     {
-      "question": "2014-2019 yılları arasında yayınlanan ve büyük ilgi gören 'Diriliş Ertuğrul' dizisinde başrol karakteri Ertuğrul Bey'i canlandıran oyuncu kimdir?",
+      "question": "2019 yılında Hint müzik şirketi T-Series tarafından geçilene kadar, dünya çapında en çok aboneye sahip bireysel YouTuber kanalı unvanını elinde tutan isim kimdir?",
       "options": [
-        "Burak Özçivit",
-        "Engin Altan Düzyatan",
-        "Çağatay Ulusoy",
-        "Kenan İmirzalıoğlu",
-        "Kıvanç Tatlıtuğ"
+        "MrBeast",
+        "PewDiePie",
+        "Markiplier",
+        "Smosh",
+        "Dude Perfect"
       ],
       "correct": 1
     },
     {
-      "question": "Modayı ve kişisel tarzıyla dünyada bir fenomen haline gelen, Vogue Amerika dergisinin uzun yıllardır genel yayın yönetmenliğini yapan ve 'Şeytan Marka Giyer' (The Devil Wears Prada) filmine ilham kaynağı olan isim kimdir?",
+      "question": "NBA tarihinde 2023 yılında, tüm zamanların en skorer oyuncusu unvanını Kareem Abdul-Jabbar'dan devralarak bu rekoru kıran efsanevi basketbolcu kimdir?",
       "options": [
-        "Donatella Versace",
-        "Miuccia Prada",
-        "Anna Wintour",
-        "Coco Chanel",
-        "Carine Roitfeld"
+        "Michael Jordan",
+        "LeBron James",
+        "Kobe Bryant",
+        "Karl Malone",
+        "Shaquille O'Neal"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
-      "question": "2008 yapımı 'Kara Şövalye' (The Dark Knight) filminde, Christian Bale'in canlandırdığı Batman karakterinin ezeli düşmanı Joker'i canlandırarak ölümünden sonra En İyi Yardımcı Erkek Oyuncu Oscar'ını kazanan oyuncu kimdir?",
+      "question": "Eyfel Kulesi'ni iki kez hurda metal olarak satmaya kalkışan ve bu cüretkar dolandırıcılığıyla tarihe geçmiş ünlü dolandırıcı kimdir?",
       "options": [
-        "Jared Leto",
-        "Joaquin Phoenix",
-        "Jack Nicholson",
-        "Heath Ledger",
-        "Barry Keoghan"
+        "Charles Ponzi",
+        "Frank Abagnale Jr.",
+        "Bernie Madoff",
+        "Victor Lustig",
+        "Anna Anderson"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Popüler anime serisi One Piece'te, Hasır Şapka Korsanları'nın kaptanı Monkey D. Luffy'nin en büyük hayali ve nihai hedefi nedir?",
+      "options": [
+        "Dünyanın en iyi kılıç ustası olmak",
+        "Kayıp yüzyılın sırrını çözmek",
+        "Tüm Grand Line'ı keşfetmek",
+        "Korsanlar Kralı olmak ve One Piece hazinesini bulmak",
+        "Tüm denizleri birleştiren All Blue'yu bulmak"
       ],
       "correct": 3
     }
