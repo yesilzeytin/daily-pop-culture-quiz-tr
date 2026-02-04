@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Modern Olimpiyat Oyunları'nın başladığı 1896 yılından itibaren düzenlenen tüm yaz Olimpiyat Oyunları'na katılmış tek ülke hangisidir?",
+      "question": "Anadolu Efes Erkek Basketbol Takımı, tarihinde ilk EuroLeague şampiyonluğunu hangi yıl kazanmıştır?",
       "options": [
-        "ABD",
-        "Birleşik Krallık",
-        "Fransa",
-        "Yunanistan",
-        "İtalya"
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023"
       ],
-      "correct": 3
+      "correct": 2
     },
     {
-      "question": "2019 yılında Hint müzik şirketi T-Series tarafından geçilene kadar, dünya çapında en çok aboneye sahip bireysel YouTuber kanalı unvanını elinde tutan isim kimdir?",
+      "question": "Genç pop yıldızı Billie Eilish, James Bond filmi 'No Time To Die' için seslendirdiği aynı adlı şarkıyla 2022 yılında hangi önemli ödülü kazanmıştır?",
       "options": [
-        "MrBeast",
-        "PewDiePie",
-        "Markiplier",
-        "Smosh",
-        "Dude Perfect"
+        "Grammy Yılın Kaydı",
+        "Brit Ödülleri Yılın Şarkısı",
+        "Oscar En İyi Özgün Şarkı",
+        "MTV Video Müzik Ödülleri Yılın Videosu",
+        "Billboard Müzik Ödülleri Top Hot 100 Şarkısı"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türkiye A Milli Futbol Takımı, tarihinde katıldığı 2002 FIFA Dünya Kupası'nda, Güney Kore'yi 3-2 yenerek turnuvayı kaçıncı sırada tamamlamıştır?",
+      "options": [
+        "1.",
+        "2.",
+        "3.",
+        "4.",
+        "Çeyrek Final"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Soğuk Savaş dönemindeki uzay yarışını başlatan olaylardan biri olarak kabul edilen, Sovyetler Birliği tarafından 1957 yılında uzaya fırlatılan ilk yapay uydu hangisidir?",
+      "options": [
+        "Apollo 11",
+        "Sputnik 1",
+        "Vostok 1",
+        "Explorer 1",
+        "Luna 1"
       ],
       "correct": 1
     },
     {
-      "question": "NBA tarihinde 2023 yılında, tüm zamanların en skorer oyuncusu unvanını Kareem Abdul-Jabbar'dan devralarak bu rekoru kıran efsanevi basketbolcu kimdir?",
+      "question": "Instagram platformunda dünya genelinde en çok takipçiye sahip olan kişilerden biri olan, Portekizli ünlü futbolcu kimdir?",
       "options": [
-        "Michael Jordan",
-        "LeBron James",
-        "Kobe Bryant",
-        "Karl Malone",
-        "Shaquille O'Neal"
+        "Lionel Messi",
+        "Cristiano Ronaldo",
+        "Neymar Jr.",
+        "Kylian Mbappé",
+        "Mohamed Salah"
       ],
       "correct": 1
-    },
-    {
-      "question": "Eyfel Kulesi'ni iki kez hurda metal olarak satmaya kalkışan ve bu cüretkar dolandırıcılığıyla tarihe geçmiş ünlü dolandırıcı kimdir?",
-      "options": [
-        "Charles Ponzi",
-        "Frank Abagnale Jr.",
-        "Bernie Madoff",
-        "Victor Lustig",
-        "Anna Anderson"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Popüler anime serisi One Piece'te, Hasır Şapka Korsanları'nın kaptanı Monkey D. Luffy'nin en büyük hayali ve nihai hedefi nedir?",
-      "options": [
-        "Dünyanın en iyi kılıç ustası olmak",
-        "Kayıp yüzyılın sırrını çözmek",
-        "Tüm Grand Line'ı keşfetmek",
-        "Korsanlar Kralı olmak ve One Piece hazinesini bulmak",
-        "Tüm denizleri birleştiren All Blue'yu bulmak"
-      ],
-      "correct": 3
     }
   ]
 }
