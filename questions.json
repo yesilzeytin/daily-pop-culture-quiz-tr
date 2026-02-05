@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Anadolu Efes Erkek Basketbol Takımı, tarihinde ilk EuroLeague şampiyonluğunu hangi yıl kazanmıştır?",
+      "question": "2023 Altın Kelebek Ödülleri'nde 'En İyi Dizi' ödülünü kazanan ve geniş bir izleyici kitlesine ulaşan popüler televizyon yapımı hangisidir?",
       "options": [
-        "2019",
-        "2020",
-        "2021",
-        "2022",
-        "2023"
+        "Yalı Çapkını",
+        "Kızılcık Şerbeti",
+        "Aile",
+        "Hudutsuz Sevda",
+        "Sandık Kokusu"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "Genç pop yıldızı Billie Eilish, James Bond filmi 'No Time To Die' için seslendirdiği aynı adlı şarkıyla 2022 yılında hangi önemli ödülü kazanmıştır?",
+      "question": "Yüzüklerin Efendisi serisinde, Gondor krallığının başkenti olan ve genellikle Beyaz Ağaç ile özdeşleştirilen büyük şehir hangisidir?",
       "options": [
-        "Grammy Yılın Kaydı",
-        "Brit Ödülleri Yılın Şarkısı",
-        "Oscar En İyi Özgün Şarkı",
-        "MTV Video Müzik Ödülleri Yılın Videosu",
-        "Billboard Müzik Ödülleri Top Hot 100 Şarkısı"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türkiye A Milli Futbol Takımı, tarihinde katıldığı 2002 FIFA Dünya Kupası'nda, Güney Kore'yi 3-2 yenerek turnuvayı kaçıncı sırada tamamlamıştır?",
-      "options": [
-        "1.",
-        "2.",
-        "3.",
-        "4.",
-        "Çeyrek Final"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Soğuk Savaş dönemindeki uzay yarışını başlatan olaylardan biri olarak kabul edilen, Sovyetler Birliği tarafından 1957 yılında uzaya fırlatılan ilk yapay uydu hangisidir?",
-      "options": [
-        "Apollo 11",
-        "Sputnik 1",
-        "Vostok 1",
-        "Explorer 1",
-        "Luna 1"
+        "Rivendell",
+        "Minas Tirith",
+        "Isengard",
+        "Rohan",
+        "Moria"
       ],
       "correct": 1
     },
     {
-      "question": "Instagram platformunda dünya genelinde en çok takipçiye sahip olan kişilerden biri olan, Portekizli ünlü futbolcu kimdir?",
+      "question": "Birinci Dünya Savaşı sırasında, Osmanlı İmparatorluğu'nun savunmasında kritik rol oynayan ve dünya tarihinde 'Çanakkale Geçilmez' destanına konu olan muharebe hangi cephede gerçekleşmiştir?",
       "options": [
-        "Lionel Messi",
-        "Cristiano Ronaldo",
-        "Neymar Jr.",
-        "Kylian Mbappé",
-        "Mohamed Salah"
+        "Kafkas Cephesi",
+        "Irak Cephesi",
+        "Sina ve Filistin Cephesi",
+        "Galiçya Cephesi",
+        "Çanakkale Cephesi"
       ],
-      "correct": 1
+      "correct": 4
+    },
+    {
+      "question": "James Cameron'ın yönettiği ve Pandora gezegeninde geçen, tüm zamanların en yüksek gişe hasılatına ulaşan filmlerden biri olan yapım hangisidir?",
+      "options": [
+        "Titanic",
+        "Avengers: Endgame",
+        "Avatar",
+        "Star Wars: Güç Uyanıyor",
+        "Jurassic World"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Osmanlı İmparatorluğu'nun kuruluşunda önemli bir figür olan ve babası Ertuğrul Gazi'den sonra beyliğin başına geçerek devletin temellerini atan lider kimdir?",
+      "options": [
+        "Fatih Sultan Mehmet",
+        "Kanuni Sultan Süleyman",
+        "Osman Gazi",
+        "Yıldırım Bayezid",
+        "Orhan Gazi"
+      ],
+      "correct": 2
     }
   ]
 }
