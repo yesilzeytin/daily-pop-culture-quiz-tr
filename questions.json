@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "2023 Altın Kelebek Ödülleri'nde 'En İyi Dizi' ödülünü kazanan ve geniş bir izleyici kitlesine ulaşan popüler televizyon yapımı hangisidir?",
+      "question": "Cem Yılmaz'ın senaryosunu yazıp yönettiği ve başrolünde yer aldığı, uzaylılarla insanlar arasındaki komik etkileşimi konu alan popüler bilim kurgu komedi filmi serisinin ilk filmi hangi isimle vizyona girmiştir?",
       "options": [
-        "Yalı Çapkını",
-        "Kızılcık Şerbeti",
-        "Aile",
-        "Hudutsuz Sevda",
-        "Sandık Kokusu"
+        "Hokkabaz",
+        "Her Şey Çok Güzel Olacak",
+        "A.R.O.G",
+        "G.O.R.A.",
+        "Yahşi Batı"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
-      "question": "Yüzüklerin Efendisi serisinde, Gondor krallığının başkenti olan ve genellikle Beyaz Ağaç ile özdeşleştirilen büyük şehir hangisidir?",
+      "question": "\"Yalnızlık Senfonisi\", \"Ah Canım Vah Canım\" ve \"Gitme\" gibi popüler şarkılarıyla 90'lı yıllara damgasını vurmuş, sahne performansları ve güçlü sesiyle tanınan ünlü Türk sanatçı kimdir?",
       "options": [
-        "Rivendell",
-        "Minas Tirith",
-        "Isengard",
-        "Rohan",
-        "Moria"
+        "Tarkan",
+        "Sezen Aksu",
+        "Sertab Erener",
+        "Candan Erçetin",
+        "Kenan Doğulu"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
-      "question": "Birinci Dünya Savaşı sırasında, Osmanlı İmparatorluğu'nun savunmasında kritik rol oynayan ve dünya tarihinde 'Çanakkale Geçilmez' destanına konu olan muharebe hangi cephede gerçekleşmiştir?",
+      "question": "İkinci Dünya Savaşı sırasında, İngiltere Başbakanı Winston Churchill ve ABD Başkanı Franklin D. Roosevelt'in yanı sıra, Sovyetler Birliği'ni temsil eden lider kimdir?",
       "options": [
-        "Kafkas Cephesi",
-        "Irak Cephesi",
-        "Sina ve Filistin Cephesi",
-        "Galiçya Cephesi",
-        "Çanakkale Cephesi"
-      ],
-      "correct": 4
-    },
-    {
-      "question": "James Cameron'ın yönettiği ve Pandora gezegeninde geçen, tüm zamanların en yüksek gişe hasılatına ulaşan filmlerden biri olan yapım hangisidir?",
-      "options": [
-        "Titanic",
-        "Avengers: Endgame",
-        "Avatar",
-        "Star Wars: Güç Uyanıyor",
-        "Jurassic World"
+        "Adolf Hitler",
+        "Benito Mussolini",
+        "Joseph Stalin",
+        "Harry S. Truman",
+        "Charles de Gaulle"
       ],
       "correct": 2
     },
     {
-      "question": "Osmanlı İmparatorluğu'nun kuruluşunda önemli bir figür olan ve babası Ertuğrul Gazi'den sonra beyliğin başına geçerek devletin temellerini atan lider kimdir?",
+      "question": "2023 yılında Nobel Edebiyat Ödülü'nü \"dile getirilemeyenin sesini yükselten yenilikçi oyunları ve nesirleri\" nedeniyle kazanan Norveçli yazar kimdir?",
       "options": [
-        "Fatih Sultan Mehmet",
-        "Kanuni Sultan Süleyman",
-        "Osman Gazi",
-        "Yıldırım Bayezid",
-        "Orhan Gazi"
+        "Annie Ernaux",
+        "Kazuo Ishiguro",
+        "Abdulrazak Gurnah",
+        "Jon Fosse",
+        "Bob Dylan"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "1969 yılında gerçekleşen ve insanlığın Ay'a ilk ayak basmasıyla tarihe geçen bu olay, hangi uzay aracı ve görevi ile gerçekleştirilmiştir?",
+      "options": [
+        "Apollo 8 - Saturn V",
+        "Sputnik 1 - Vostok",
+        "Apollo 11 - Eagle",
+        "Challenger - Discovery",
+        "Soyuz - Mir"
       ],
       "correct": 2
     }
