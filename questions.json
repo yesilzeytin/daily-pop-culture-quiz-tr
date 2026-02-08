@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "maNga grubunun 2010 Eurovision Şarkı Yarışması'nda Türkiye'yi temsil ettiği, ikinci olarak tamamladığı şarkının adı nedir?",
+      "question": "Hangi popüler rol yapma oyunu serisi, oyunculara 'ejderdoğan' (Dragonborn) olarak bilinen bir karakteri kontrol etme imkanı sunar ve geniş, fantastik açık dünyasıyla tanınır?",
       "options": [
-        "We Could Be The Same",
-        "Sakın Bana Sorma",
-        "Bitti Rüya",
-        "Dursun Zaman",
-        "Cevapsız Sorular"
+        "The Witcher",
+        "Fallout",
+        "Elder Scrolls",
+        "Mass Effect",
+        "Dragon Age"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "question": "Türk futbolunda \"Dört Büyükler\" olarak anılan kulüplerden biri olan Beşiktaş Jimnastik Kulübü, 1903 yılında hangi spor branşında kurulmuştur?",
+      "question": "\"Bad Romance\", \"Poker Face\" ve \"Shallow\" gibi hit şarkılarıyla dünya çapında tanınan ve eksantrik sahne kostümleriyle de dikkat çeken Amerikalı şarkıcı ve aktris kimdir?",
       "options": [
-        "Futbol",
-        "Güreş",
-        "Atletizm",
-        "Cimnastik",
-        "Basketbol"
+        "Rihanna",
+        "Adele",
+        "Katy Perry",
+        "Beyoncé",
+        "Lady Gaga"
       ],
-      "correct": 3
+      "correct": 4
     },
     {
-      "question": "Galler Prensesi Diana'nın, 1997'deki trajik ölümünden önce Prenses ünvanını taşıdığı dönemde, eşi Prens Charles ile kaç yılında evlenmiştir?",
+      "question": "Dünya çapında popüler hale gelen ve genellikle yemeklere tuz serpiştirme hareketiyle özdeşleşen \"Salt Bae\" meme'indeki ünlü Türk şef ve restoran işletmecisinin gerçek adı nedir?",
       "options": [
-        "1978",
-        "1981",
-        "1985",
-        "1990",
-        "1992"
+        "Mehmet Yaşin",
+        "Burak Özdemir",
+        "Nusret Gökçe",
+        "Cüneyt Asan",
+        "Somer Sivrioğlu"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
-      "question": "Kıvanç Tatlıtuğ ve Beren Saat'in başrollerini paylaştığı, Türk televizyon tarihinin en ikonik yapımlarından biri olan \"Aşk-ı Memnu\" dizisi, hangi yıl ilk kez ekranlara gelmiştir?",
+      "question": "\"Yüz Yıllık Yalnızlık\" ve \"Kolera Günlerinde Aşk\" gibi başyapıtlarıyla tanınan, büyülü gerçekçilik akımının en önemli temsilcilerinden biri olan ve 1982 yılında Nobel Edebiyat Ödülü'nü kazanan Kolombiyalı yazar kimdir?",
       "options": [
-        "2005",
-        "2006",
-        "2007",
-        "2008",
-        "2009"
+        "Jorge Luis Borges",
+        "Julio Cortázar",
+        "Gabriel García Márquez",
+        "Isabel Allende",
+        "Mario Vargas Llosa"
       ],
-      "correct": 3
+      "correct": 2
     },
     {
-      "question": "Ünlü Türk Twitch yayıncısı \"Elraenn\" takma adıyla bilinen fenomenin gerçek adı nedir?",
+      "question": "Recep İvedik karakterine hayat veren, aynı zamanda popüler \"Recep İvedik\" film serisinin senaristi ve yönetmeni olan Türk komedyen ve oyuncu kimdir?",
       "options": [
-        "Cem Karahan",
-        "Ferit Karakaya",
-        "Tuna Akşen",
-        "Enes Batur Sungurtekin",
-        "Can Sungur"
+        "Ata Demirer",
+        "Cem Yılmaz",
+        "Şahan Gökbakar",
+        "Tolga Çevik",
+        "Yılmaz Erdoğan"
       ],
-      "correct": 1
+      "correct": 2
     }
   ]
 }
