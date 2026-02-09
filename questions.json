@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Hangi popüler rol yapma oyunu serisi, oyunculara 'ejderdoğan' (Dragonborn) olarak bilinen bir karakteri kontrol etme imkanı sunar ve geniş, fantastik açık dünyasıyla tanınır?",
+      "question": "Netflix Türkiye'nin ilk orijinal yapımı olan ve çok izlenen fantastik dizi \"Hakan: Muhafız\"da, ana karakter Hakan Demir'i canlandıran oyuncu kimdir?",
       "options": [
-        "The Witcher",
-        "Fallout",
-        "Elder Scrolls",
-        "Mass Effect",
-        "Dragon Age"
+        "Çağatay Ulusoy",
+        "Aras Bulut İynemli",
+        "Kıvanç Tatlıtuğ",
+        "Burak Özçivit",
+        "Kenan İmirzalıoğlu"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "\"Bad Romance\", \"Poker Face\" ve \"Shallow\" gibi hit şarkılarıyla dünya çapında tanınan ve eksantrik sahne kostümleriyle de dikkat çeken Amerikalı şarkıcı ve aktris kimdir?",
+      "question": "Modern Olimpiyat Oyunları tarihinde Türkiye'ye ilk altın madalyayı kazandıran sporcu kimdir?",
       "options": [
-        "Rihanna",
-        "Adele",
-        "Katy Perry",
-        "Beyoncé",
-        "Lady Gaga"
+        "Naim Süleymanoğlu",
+        "Halil Mutlu",
+        "Hamza Yerlikaya",
+        "Yaşar Doğu",
+        "Mithat Bayrak"
       ],
       "correct": 4
     },
     {
-      "question": "Dünya çapında popüler hale gelen ve genellikle yemeklere tuz serpiştirme hareketiyle özdeşleşen \"Salt Bae\" meme'indeki ünlü Türk şef ve restoran işletmecisinin gerçek adı nedir?",
+      "question": "Popüler Güney Kore dizisi \"Crash Landing on You\" (Aşkın Konuşlanışı)nda, Kuzey Koreli asker Ri Jeong-hyeok karakterini canlandıran ünlü oyuncu kimdir?",
       "options": [
-        "Mehmet Yaşin",
-        "Burak Özdemir",
-        "Nusret Gökçe",
-        "Cüneyt Asan",
-        "Somer Sivrioğlu"
+        "Lee Jong-suk",
+        "Hyun Bin",
+        "Park Seo-joon",
+        "Gong Yoo",
+        "Kim Soo-hyun"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Pantene Altın Kelebek Ödülleri'nde, televizyon ve müzik dünyasına uzun yıllar hizmet etmiş değerli isimlere verilen prestijli ödülün adı nedir?",
+      "options": [
+        "Yılın En İyi Özel Başarı Ödülü",
+        "Jüri Özel Ödülü",
+        "Yaşam Boyu Onur Ödülü",
+        "Yılın En İlham Veren İsmi",
+        "En İyi Genç Yetenek Ödülü"
       ],
       "correct": 2
     },
     {
-      "question": "\"Yüz Yıllık Yalnızlık\" ve \"Kolera Günlerinde Aşk\" gibi başyapıtlarıyla tanınan, büyülü gerçekçilik akımının en önemli temsilcilerinden biri olan ve 1982 yılında Nobel Edebiyat Ödülü'nü kazanan Kolombiyalı yazar kimdir?",
+      "question": "Disney Channel'ın sevilen çizgi filmlerinden \"Fineas ve Föb\"de, iki ana karakter olan Fineas ve Föb'ün ablasının ve sürekli annelerine onları şikayet etmeye çalışan karakterin adı nedir?",
       "options": [
-        "Jorge Luis Borges",
-        "Julio Cortázar",
-        "Gabriel García Márquez",
-        "Isabel Allende",
-        "Mario Vargas Llosa"
+        "Candace",
+        "Isabella",
+        "Vanessa",
+        "Stacy",
+        "Gretchen"
       ],
-      "correct": 2
-    },
-    {
-      "question": "Recep İvedik karakterine hayat veren, aynı zamanda popüler \"Recep İvedik\" film serisinin senaristi ve yönetmeni olan Türk komedyen ve oyuncu kimdir?",
-      "options": [
-        "Ata Demirer",
-        "Cem Yılmaz",
-        "Şahan Gökbakar",
-        "Tolga Çevik",
-        "Yılmaz Erdoğan"
-      ],
-      "correct": 2
+      "correct": 0
     }
   ]
 }
