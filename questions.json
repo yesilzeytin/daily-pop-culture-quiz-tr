@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Netflix Türkiye'nin ilk orijinal yapımı olan ve çok izlenen fantastik dizi \"Hakan: Muhafız\"da, ana karakter Hakan Demir'i canlandıran oyuncu kimdir?",
+      "question": "Bir dönemin popüler Fox Kids çizgi filmi \"Ay Savaşçısı\"nın (Sailor Moon) ana kahramanı olan ve Ay gezegeninin gücüyle savaşan lise öğrencisi kızın ismi nedir?",
       "options": [
-        "Çağatay Ulusoy",
-        "Aras Bulut İynemli",
-        "Kıvanç Tatlıtuğ",
-        "Burak Özçivit",
-        "Kenan İmirzalıoğlu"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Modern Olimpiyat Oyunları tarihinde Türkiye'ye ilk altın madalyayı kazandıran sporcu kimdir?",
-      "options": [
-        "Naim Süleymanoğlu",
-        "Halil Mutlu",
-        "Hamza Yerlikaya",
-        "Yaşar Doğu",
-        "Mithat Bayrak"
-      ],
-      "correct": 4
-    },
-    {
-      "question": "Popüler Güney Kore dizisi \"Crash Landing on You\" (Aşkın Konuşlanışı)nda, Kuzey Koreli asker Ri Jeong-hyeok karakterini canlandıran ünlü oyuncu kimdir?",
-      "options": [
-        "Lee Jong-suk",
-        "Hyun Bin",
-        "Park Seo-joon",
-        "Gong Yoo",
-        "Kim Soo-hyun"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Pantene Altın Kelebek Ödülleri'nde, televizyon ve müzik dünyasına uzun yıllar hizmet etmiş değerli isimlere verilen prestijli ödülün adı nedir?",
-      "options": [
-        "Yılın En İyi Özel Başarı Ödülü",
-        "Jüri Özel Ödülü",
-        "Yaşam Boyu Onur Ödülü",
-        "Yılın En İlham Veren İsmi",
-        "En İyi Genç Yetenek Ödülü"
+        "Mina Aino",
+        "Makoto Kino",
+        "Usagi Tsukino",
+        "Rei Hino",
+        "Ami Mizuno"
       ],
       "correct": 2
     },
     {
-      "question": "Disney Channel'ın sevilen çizgi filmlerinden \"Fineas ve Föb\"de, iki ana karakter olan Fineas ve Föb'ün ablasının ve sürekli annelerine onları şikayet etmeye çalışan karakterin adı nedir?",
+      "question": "Global pop yıldızı Taylor Swift, kariyerinin ilk dönemlerinde hangi müzik türünde şarkılar yapmaktaydı ve bu türde büyük başarılar elde etmiştir?",
       "options": [
-        "Candace",
-        "Isabella",
-        "Vanessa",
-        "Stacy",
-        "Gretchen"
+        "R&B",
+        "Rock",
+        "Country",
+        "Hip-Hop",
+        "Jazz"
       ],
-      "correct": 0
+      "correct": 2
+    },
+    {
+      "question": "Türkiye, modern Olimpiyat Oyunları tarihinde en fazla madalyayı hangi spor dalında kazanmıştır? (Yaz ve Kış Olimpiyatları toplamı)",
+      "options": [
+        "Atletizm",
+        "Halter",
+        "Güreş",
+        "Boks",
+        "Tekvando"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Nickelodeon'ın en sevilen ve uzun soluklu çizgi filmlerinden biri olan \"SüngerBob KareŞort\"ta, SüngerBob'un evcil salyangozunun adı nedir?",
+      "options": [
+        "Patrick",
+        "Gary",
+        "Squidward",
+        "Eugene",
+        "Sheldon"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "PlayStation'ın efsanevi oyun serisi \"God of War\"da, Yunan mitolojisindeki tanrılara karşı intikam arayışında olan ana karakter Kratos'un, İskandinav mitolojisi döneminde kendisine eşlik eden oğlunun adı nedir?",
+      "options": [
+        "Deimos",
+        "Asclepius",
+        "Helios",
+        "Atreus",
+        "Baldur"
+      ],
+      "correct": 3
     }
   ]
 }
