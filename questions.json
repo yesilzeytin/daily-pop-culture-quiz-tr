@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Bir dönemin popüler Fox Kids çizgi filmi \"Ay Savaşçısı\"nın (Sailor Moon) ana kahramanı olan ve Ay gezegeninin gücüyle savaşan lise öğrencisi kızın ismi nedir?",
+      "question": "Hangi global fenomen, kısa videolarıyla özellikle dans videoları ve dudak senkronizasyonu (lip-sync) ile tanınmış ve TikTok'un en çok takip edilen isimlerinden biri olmuştur?",
       "options": [
-        "Mina Aino",
-        "Makoto Kino",
-        "Usagi Tsukino",
-        "Rei Hino",
-        "Ami Mizuno"
+        "Charli D'Amelio",
+        "Addison Rae",
+        "Bella Poarch",
+        "Khaby Lame",
+        "MrBeast"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Kadın hakları ve insan hakları mücadelesiyle bilinen, hapishanede olmasına rağmen 2023 Nobel Barış Ödülü'ne layık görülen İranlı aktivist kimdir?",
+      "options": [
+        "Malala Yousafzai",
+        "Leymah Gbowee",
+        "Narges Mohammadi",
+        "Tawakkol Karman",
+        "Rigoberta Menchú Tum"
       ],
       "correct": 2
     },
     {
-      "question": "Global pop yıldızı Taylor Swift, kariyerinin ilk dönemlerinde hangi müzik türünde şarkılar yapmaktaydı ve bu türde büyük başarılar elde etmiştir?",
+      "question": "Başrolünde Kıvanç Tatlıtuğ'un yer aldığı, bir denizaltı mürettebatının gizemli bir doğa olayından kaçışını konu alan ve 2022'de Netflix'te yayınlanan bilim kurgu dizisi hangisidir?",
       "options": [
-        "R&B",
-        "Rock",
-        "Country",
-        "Hip-Hop",
-        "Jazz"
+        "Yakamoz S-245",
+        "Aşıklar Bayramı",
+        "İnsanlar İkiye Ayrılır",
+        "Kin",
+        "Azizler"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "Türkiye, modern Olimpiyat Oyunları tarihinde en fazla madalyayı hangi spor dalında kazanmıştır? (Yaz ve Kış Olimpiyatları toplamı)",
+      "question": "Marvel Sinematik Evreni'nin ilk filmi olan ve Robert Downey Jr.'ın canlandırdığı Tony Stark karakterini izleyiciyle buluşturan yapım hangisidir?",
       "options": [
-        "Atletizm",
-        "Halter",
-        "Güreş",
-        "Boks",
-        "Tekvando"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Nickelodeon'ın en sevilen ve uzun soluklu çizgi filmlerinden biri olan \"SüngerBob KareŞort\"ta, SüngerBob'un evcil salyangozunun adı nedir?",
-      "options": [
-        "Patrick",
-        "Gary",
-        "Squidward",
-        "Eugene",
-        "Sheldon"
+        "The Incredible Hulk",
+        "Iron Man",
+        "Captain America: The First Avenger",
+        "Thor",
+        "The Avengers"
       ],
       "correct": 1
     },
     {
-      "question": "PlayStation'ın efsanevi oyun serisi \"God of War\"da, Yunan mitolojisindeki tanrılara karşı intikam arayışında olan ana karakter Kratos'un, İskandinav mitolojisi döneminde kendisine eşlik eden oğlunun adı nedir?",
+      "question": "MasterChef Türkiye'nin 2022 sezonunda şampiyonluğa ulaşan ve finalde Metin Yavuz'u geride bırakan yarışmacı kimdir?",
       "options": [
-        "Deimos",
-        "Asclepius",
-        "Helios",
-        "Atreus",
-        "Baldur"
+        "Uğur Kardaş",
+        "Serhat Doğramacı",
+        "Eren Kaşıkçı",
+        "Kıvanç Karadeniz",
+        "Cemre Uysal"
       ],
       "correct": 3
     }
