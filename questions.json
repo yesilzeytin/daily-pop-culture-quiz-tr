@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Hangi global fenomen, kısa videolarıyla özellikle dans videoları ve dudak senkronizasyonu (lip-sync) ile tanınmış ve TikTok'un en çok takip edilen isimlerinden biri olmuştur?",
+      "question": "Formula 1 tarihinde en çok Dünya Şampiyonluğu kazanan iki pilot, yedişer şampiyonlukla hangi efsanevi isimlerdir?",
       "options": [
-        "Charli D'Amelio",
-        "Addison Rae",
-        "Bella Poarch",
-        "Khaby Lame",
-        "MrBeast"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Kadın hakları ve insan hakları mücadelesiyle bilinen, hapishanede olmasına rağmen 2023 Nobel Barış Ödülü'ne layık görülen İranlı aktivist kimdir?",
-      "options": [
-        "Malala Yousafzai",
-        "Leymah Gbowee",
-        "Narges Mohammadi",
-        "Tawakkol Karman",
-        "Rigoberta Menchú Tum"
+        "Ayrton Senna ve Alain Prost",
+        "Juan Manuel Fangio ve Jim Clark",
+        "Michael Schumacher ve Lewis Hamilton",
+        "Max Verstappen ve Sebastian Vettel",
+        "Fernando Alonso ve Niki Lauda"
       ],
       "correct": 2
     },
     {
-      "question": "Başrolünde Kıvanç Tatlıtuğ'un yer aldığı, bir denizaltı mürettebatının gizemli bir doğa olayından kaçışını konu alan ve 2022'de Netflix'te yayınlanan bilim kurgu dizisi hangisidir?",
+      "question": "NBA tarihinin en ikonik figürlerinden biri olan ve 'His Airness' (Havalı Hazretleri) lakabıyla tanınan efsanevi basketbolcu kimdir?",
       "options": [
-        "Yakamoz S-245",
-        "Aşıklar Bayramı",
-        "İnsanlar İkiye Ayrılır",
-        "Kin",
-        "Azizler"
+        "Kareem Abdul-Jabbar",
+        "Shaquille O'Neal",
+        "LeBron James",
+        "Michael Jordan",
+        "Magic Johnson"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Pixar'ın \"Yukarı Bak\" (Up) filminde, evini binlerce balonla uçurarak hayalini gerçekleştirmeye çalışan yaşlı adamın adı nedir?",
+      "options": [
+        "Carl Fredricksen",
+        "Russell",
+        "Charles Muntz",
+        "Dug",
+        "Kevin"
       ],
       "correct": 0
     },
     {
-      "question": "Marvel Sinematik Evreni'nin ilk filmi olan ve Robert Downey Jr.'ın canlandırdığı Tony Stark karakterini izleyiciyle buluşturan yapım hangisidir?",
+      "question": "Türkiye, Eurovision Şarkı Yarışması tarihinde ilk ve tek birinciliğini, Sertab Erener'in \"Everyway That I Can\" şarkısıyla hangi yıl elde etmiştir?",
       "options": [
-        "The Incredible Hulk",
-        "Iron Man",
-        "Captain America: The First Avenger",
-        "Thor",
-        "The Avengers"
+        "1997",
+        "2000",
+        "2003",
+        "2005",
+        "2008"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
-      "question": "MasterChef Türkiye'nin 2022 sezonunda şampiyonluğa ulaşan ve finalde Metin Yavuz'u geride bırakan yarışmacı kimdir?",
+      "question": "Türkiye'de sosyal medyada, özellikle Twitter'da (şimdiki adıyla X), beklenmedik ve sarsıcı bir durum karşısında şaşkınlık veya tepki ifade etmek için kullanılan, 'o değil de...' veya 'şimdi o değil de...' ile başlayan ve çoğunlukla alaycı bir üsluba sahip olan popüler akım aşağıdakilerden hangisidir?",
       "options": [
-        "Uğur Kardaş",
-        "Serhat Doğramacı",
-        "Eren Kaşıkçı",
-        "Kıvanç Karadeniz",
-        "Cemre Uysal"
+        "#tbt",
+        "#fenerbahçe",
+        "O değil de...",
+        "#iyigeceler",
+        "#bugünneoldu"
       ],
-      "correct": 3
+      "correct": 2
     }
   ]
 }
