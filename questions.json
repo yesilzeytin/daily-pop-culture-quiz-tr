@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Formula 1 tarihinde en çok Dünya Şampiyonluğu kazanan iki pilot, yedişer şampiyonlukla hangi efsanevi isimlerdir?",
+      "question": "Yüzüklerin Efendisi serisinde Gandalf'ın, Gölgesu Vadisi'nden çağırdığı ve kendisine en sadık binek hayvanı olan efsanevi atının adı nedir?",
       "options": [
-        "Ayrton Senna ve Alain Prost",
-        "Juan Manuel Fangio ve Jim Clark",
-        "Michael Schumacher ve Lewis Hamilton",
-        "Max Verstappen ve Sebastian Vettel",
-        "Fernando Alonso ve Niki Lauda"
+        "Arod",
+        "Gölgeles (Shadowfax)",
+        "Brego",
+        "Bill",
+        "Nahar"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
-      "question": "NBA tarihinin en ikonik figürlerinden biri olan ve 'His Airness' (Havalı Hazretleri) lakabıyla tanınan efsanevi basketbolcu kimdir?",
+      "question": "Bir zamanlar popüler olan ve kullanıcıların en fazla 6 saniyelik kısa videolar paylaştığı sosyal medya platformu Vine'ın videolar için belirlediği maksimum süre kaç saniyeydi?",
       "options": [
-        "Kareem Abdul-Jabbar",
-        "Shaquille O'Neal",
-        "LeBron James",
-        "Michael Jordan",
-        "Magic Johnson"
+        "3 saniye",
+        "6 saniye",
+        "10 saniye",
+        "15 saniye",
+        "30 saniye"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "YouTube'da yaptığı büyük ödüllü yarışmalar, meydan okumalar ve hayır işleriyle tanınan, dünyanın en çok abonesi olan bireysel kanallarından birinin sahibi olan MrBeast'in gerçek adı nedir?",
+      "options": [
+        "Felix Kjellberg",
+        "Jimmy Donaldson",
+        "Logan Paul",
+        "Mark Fischbach",
+        "Sean McLoughlin"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Türkiye'nin ilk büyük YouTuber'larından biri olan ve kariyerinin ilk dönemlerinde genellikle parodi, kısa skeçler ve vlog içerikleriyle tanınan isim kimdir?",
+      "options": [
+        "Enes Batur",
+        "Reynmen",
+        "Berkcan Güven",
+        "Orkun Işıtmak",
+        "Barış Özcan"
       ],
       "correct": 3
     },
     {
-      "question": "Pixar'ın \"Yukarı Bak\" (Up) filminde, evini binlerce balonla uçurarak hayalini gerçekleştirmeye çalışan yaşlı adamın adı nedir?",
+      "question": "Pixar'ın sevilen animasyon filmi \"Kayıp Balık Nemo\" (Finding Nemo) filminde, kısa süreli hafıza kaybı yaşayan ancak Nemo'yu bulma yolculuğunda Marlin'e eşlik eden mavi tang balığının adı nedir?",
       "options": [
-        "Carl Fredricksen",
-        "Russell",
-        "Charles Muntz",
-        "Dug",
-        "Kevin"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Türkiye, Eurovision Şarkı Yarışması tarihinde ilk ve tek birinciliğini, Sertab Erener'in \"Everyway That I Can\" şarkısıyla hangi yıl elde etmiştir?",
-      "options": [
-        "1997",
-        "2000",
-        "2003",
-        "2005",
-        "2008"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türkiye'de sosyal medyada, özellikle Twitter'da (şimdiki adıyla X), beklenmedik ve sarsıcı bir durum karşısında şaşkınlık veya tepki ifade etmek için kullanılan, 'o değil de...' veya 'şimdi o değil de...' ile başlayan ve çoğunlukla alaycı bir üsluba sahip olan popüler akım aşağıdakilerden hangisidir?",
-      "options": [
-        "#tbt",
-        "#fenerbahçe",
-        "O değil de...",
-        "#iyigeceler",
-        "#bugünneoldu"
+        "Gill",
+        "Bruce",
+        "Dory",
+        "Crush",
+        "Bloat"
       ],
       "correct": 2
     }
