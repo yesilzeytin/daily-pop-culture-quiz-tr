@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Yüzüklerin Efendisi serisinde Gandalf'ın, Gölgesu Vadisi'nden çağırdığı ve kendisine en sadık binek hayvanı olan efsanevi atının adı nedir?",
+      "question": "\"The Witcher\" dizisinin ilk sezonu hangi dijital yayın platformunda izleyiciyle buluşmuştur?",
       "options": [
-        "Arod",
-        "Gölgeles (Shadowfax)",
-        "Brego",
-        "Bill",
-        "Nahar"
+        "Netflix",
+        "Amazon Prime Video",
+        "HBO Max",
+        "Disney+",
+        "Apple TV+"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
-      "question": "Bir zamanlar popüler olan ve kullanıcıların en fazla 6 saniyelik kısa videolar paylaştığı sosyal medya platformu Vine'ın videolar için belirlediği maksimum süre kaç saniyeydi?",
+      "question": "Türk rap müziğinin önde gelen isimlerinden Ceza ve Sagopa Kajmer, 90'lı yılların sonunda hangi hip-hop grubunun üyeleriydi?",
       "options": [
-        "3 saniye",
-        "6 saniye",
-        "10 saniye",
-        "15 saniye",
-        "30 saniye"
+        "Cartel",
+        "Mode XL",
+        "Nefret",
+        "Cash Flow",
+        "Islamic Force"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
-      "question": "YouTube'da yaptığı büyük ödüllü yarışmalar, meydan okumalar ve hayır işleriyle tanınan, dünyanın en çok abonesi olan bireysel kanallarından birinin sahibi olan MrBeast'in gerçek adı nedir?",
+      "question": "Türkiye'nin en popüler YouTuber'larından Enes Batur'un başrolünde oynadığı ve 2018 yılında vizyona giren ilk sinema filminin adı nedir?",
       "options": [
-        "Felix Kjellberg",
-        "Jimmy Donaldson",
-        "Logan Paul",
-        "Mark Fischbach",
-        "Sean McLoughlin"
+        "Enes Batur Hayal Mi Gerçek Mi?",
+        "Enes Batur Gerçek Kahraman",
+        "Enes Batur Uzay Macerası",
+        "Enes Batur'un Dünyası",
+        "Enes Batur: Hayat Hikayesi"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
-      "question": "Türkiye'nin ilk büyük YouTuber'larından biri olan ve kariyerinin ilk dönemlerinde genellikle parodi, kısa skeçler ve vlog içerikleriyle tanınan isim kimdir?",
+      "question": "Soğuk Savaş'ın sembollerinden biri olan Berlin Duvarı, Doğu ve Batı Almanya'yı ayıran fiziksel bariyer olarak hangi yıl yıkılmıştır?",
       "options": [
-        "Enes Batur",
-        "Reynmen",
-        "Berkcan Güven",
-        "Orkun Işıtmak",
-        "Barış Özcan"
+        "1985",
+        "1987",
+        "1989",
+        "1991",
+        "1993"
       ],
-      "correct": 3
+      "correct": 2
     },
     {
-      "question": "Pixar'ın sevilen animasyon filmi \"Kayıp Balık Nemo\" (Finding Nemo) filminde, kısa süreli hafıza kaybı yaşayan ancak Nemo'yu bulma yolculuğunda Marlin'e eşlik eden mavi tang balığının adı nedir?",
+      "question": "Global pop yıldızı Taylor Swift'in kariyerinin farklı dönemlerini temsil eden şarkılarını bir araya getirdiği ve dünya çapında büyük ilgi gören turnesinin adı nedir?",
       "options": [
-        "Gill",
-        "Bruce",
-        "Dory",
-        "Crush",
-        "Bloat"
+        "Reputation Tour",
+        "1989 World Tour",
+        "The Eras Tour",
+        "Fearless Tour",
+        "Speak Now World Tour"
       ],
       "correct": 2
     }
