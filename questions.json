@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "\"The Witcher\" dizisinin ilk sezonu hangi dijital yayın platformunda izleyiciyle buluşmuştur?",
+      "question": "Apple'ın modern akıllı telefon çağını başlatan ve dokunmatik ekran teknolojisinde devrim yaratan ilk iPhone modelini piyasaya sürdüğü yıl hangisidir?",
       "options": [
-        "Netflix",
-        "Amazon Prime Video",
-        "HBO Max",
-        "Disney+",
-        "Apple TV+"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Türk rap müziğinin önde gelen isimlerinden Ceza ve Sagopa Kajmer, 90'lı yılların sonunda hangi hip-hop grubunun üyeleriydi?",
-      "options": [
-        "Cartel",
-        "Mode XL",
-        "Nefret",
-        "Cash Flow",
-        "Islamic Force"
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009"
       ],
       "correct": 2
     },
     {
-      "question": "Türkiye'nin en popüler YouTuber'larından Enes Batur'un başrolünde oynadığı ve 2018 yılında vizyona giren ilk sinema filminin adı nedir?",
+      "question": "Türkiye'nin tanınmış Instagram fenomenlerinden, özellikle komik makyaj videoları ve karakteristik tiplemeleriyle geniş kitlelere ulaşan isim kimdir?",
       "options": [
-        "Enes Batur Hayal Mi Gerçek Mi?",
-        "Enes Batur Gerçek Kahraman",
-        "Enes Batur Uzay Macerası",
-        "Enes Batur'un Dünyası",
-        "Enes Batur: Hayat Hikayesi"
+        "Şeyma Subaşı",
+        "Danla Bilic",
+        "Rachel Araz",
+        "Merve Özkaynak",
+        "Yasemin Özilhan"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
-      "question": "Soğuk Savaş'ın sembollerinden biri olan Berlin Duvarı, Doğu ve Batı Almanya'yı ayıran fiziksel bariyer olarak hangi yıl yıkılmıştır?",
+      "question": "Türkiye Millî Futbol Takımı'nın 2002 FIFA Dünya Kupası'nda tarihî bir başarı elde ederek üçüncü olması, hangi teknik direktörün yönetiminde gerçekleşmiştir?",
       "options": [
-        "1985",
-        "1987",
-        "1989",
-        "1991",
-        "1993"
+        "Fatih Terim",
+        "Mustafa Denizli",
+        "Mircea Lucescu",
+        "Şenol Güneş",
+        "Guus Hiddink"
       ],
-      "correct": 2
+      "correct": 3
     },
     {
-      "question": "Global pop yıldızı Taylor Swift'in kariyerinin farklı dönemlerini temsil eden şarkılarını bir araya getirdiği ve dünya çapında büyük ilgi gören turnesinin adı nedir?",
+      "question": "\"Hotline Bling\", \"God's Plan\" ve \"One Dance\" gibi hit şarkılarıyla dünya çapında tanınan ve kariyerine Kanada'dan başlayan ünlü rapçi ve şarkıcı kimdir?",
       "options": [
-        "Reputation Tour",
-        "1989 World Tour",
-        "The Eras Tour",
-        "Fearless Tour",
-        "Speak Now World Tour"
+        "Travis Scott",
+        "Kendrick Lamar",
+        "J. Cole",
+        "Drake",
+        "Post Malone"
       ],
-      "correct": 2
+      "correct": 3
+    },
+    {
+      "question": "\"Kahvaltıda Tiffany\" (Breakfast at Tiffany's) filmindeki ikonik tarzıyla moda dünyasında çığır açan ve özellikle Givenchy ile olan iş birliğiyle akıllara kazınan aktris kimdir?",
+      "options": [
+        "Grace Kelly",
+        "Marilyn Monroe",
+        "Elizabeth Taylor",
+        "Audrey Hepburn",
+        "Sophia Loren"
+      ],
+      "correct": 3
     }
   ]
 }
