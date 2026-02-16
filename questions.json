@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Apple'ın modern akıllı telefon çağını başlatan ve dokunmatik ekran teknolojisinde devrim yaratan ilk iPhone modelini piyasaya sürdüğü yıl hangisidir?",
+      "question": "Türk pop müziğinin 'Megastar' lakabıyla anılan, \"Şıkıdım\", \"Dudu\" ve \"Kiss Kiss\" gibi hit şarkılarıyla hem Türkiye'de hem de dünyada tanınan ünlü sanatçı kimdir?",
       "options": [
-        "2005",
-        "2006",
-        "2007",
-        "2008",
-        "2009"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türkiye'nin tanınmış Instagram fenomenlerinden, özellikle komik makyaj videoları ve karakteristik tiplemeleriyle geniş kitlelere ulaşan isim kimdir?",
-      "options": [
-        "Şeyma Subaşı",
-        "Danla Bilic",
-        "Rachel Araz",
-        "Merve Özkaynak",
-        "Yasemin Özilhan"
+        "Mustafa Sandal",
+        "Tarkan",
+        "Kenan Doğulu",
+        "Murat Boz",
+        "Serdar Ortaç"
       ],
       "correct": 1
     },
     {
-      "question": "Türkiye Millî Futbol Takımı'nın 2002 FIFA Dünya Kupası'nda tarihî bir başarı elde ederek üçüncü olması, hangi teknik direktörün yönetiminde gerçekleşmiştir?",
+      "question": "Gişe rekorları kıran ve görsel efektleriyle çığır açan 'Avatar' serisinin yönetmenliğini üstlenen ve aynı zamanda 'Titanic' filminin de yönetmeni olan ünlü sinemacı kimdir?",
       "options": [
-        "Fatih Terim",
-        "Mustafa Denizli",
-        "Mircea Lucescu",
-        "Şenol Güneş",
-        "Guus Hiddink"
+        "Christopher Nolan",
+        "Steven Spielberg",
+        "James Cameron",
+        "Denis Villeneuve",
+        "Ridley Scott"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türkiye'nin en uzun soluklu ve en çok izlenen reality show'larından biri olan 'Survivor Türkiye' programının sunucusu ve aynı zamanda yapım şirketi 'Acun Medya'nın kurucusu olan isim kimdir?",
+      "options": [
+        "Ali Canlı",
+        "Murat Ceylan",
+        "Alp Kırşan",
+        "Acun Ilıcalı",
+        "Hakan Hatipoğlu"
       ],
       "correct": 3
     },
     {
-      "question": "\"Hotline Bling\", \"God's Plan\" ve \"One Dance\" gibi hit şarkılarıyla dünya çapında tanınan ve kariyerine Kanada'dan başlayan ünlü rapçi ve şarkıcı kimdir?",
+      "question": "Ata Demirer'in senaryosunu yazdığı ve başrolünde yer aldığı, Geyikli'de geçen maceralarıyla izleyicileri güldüren 'Eyvah Eyvah' film serisindeki klarnet çalan ana karakterin adı nedir?",
       "options": [
-        "Travis Scott",
-        "Kendrick Lamar",
-        "J. Cole",
-        "Drake",
-        "Post Malone"
+        "Niyazi",
+        "Hüseyin Badem",
+        "Ramiz",
+        "Şevket",
+        "Ferhat"
       ],
-      "correct": 3
+      "correct": 1
     },
     {
-      "question": "\"Kahvaltıda Tiffany\" (Breakfast at Tiffany's) filmindeki ikonik tarzıyla moda dünyasında çığır açan ve özellikle Givenchy ile olan iş birliğiyle akıllara kazınan aktris kimdir?",
+      "question": "Türk sinemasının dört yapraklı yoncasından biri olarak kabul edilen ve 'Sultan' lakabıyla anılan, yüzlerce filmde başrol oynamış efsanevi aktris kimdir?",
       "options": [
-        "Grace Kelly",
-        "Marilyn Monroe",
-        "Elizabeth Taylor",
-        "Audrey Hepburn",
-        "Sophia Loren"
+        "Fatma Girik",
+        "Türkan Şoray",
+        "Filiz Akın",
+        "Hülya Koçyiğit",
+        "Gülşen Bubikoğlu"
       ],
-      "correct": 3
+      "correct": 1
     }
   ]
 }
