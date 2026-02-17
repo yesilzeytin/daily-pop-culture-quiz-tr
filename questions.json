@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Türk pop müziğinin 'Megastar' lakabıyla anılan, \"Şıkıdım\", \"Dudu\" ve \"Kiss Kiss\" gibi hit şarkılarıyla hem Türkiye'de hem de dünyada tanınan ünlü sanatçı kimdir?",
+      "question": "Disney Channel'ın sevilen çizgi filmlerinden \"DuckTales\"ta (Vakvak Amca), Donald Duck'ın zengin ve maceraperest amcasının adı nedir?",
       "options": [
-        "Mustafa Sandal",
-        "Tarkan",
-        "Kenan Doğulu",
-        "Murat Boz",
-        "Serdar Ortaç"
+        "Scrooge McDuck",
+        "Gladstone Gander",
+        "Gyro Gearloose",
+        "Launchpad McQuack",
+        "Flintheart Glomgold"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
-      "question": "Gişe rekorları kıran ve görsel efektleriyle çığır açan 'Avatar' serisinin yönetmenliğini üstlenen ve aynı zamanda 'Titanic' filminin de yönetmeni olan ünlü sinemacı kimdir?",
+      "question": "Türkiye'de Twitter'da, özellikle ekonomik durumlarla ilgili ironik ve eleştirel bir yaklaşım sergilemek için kullanılan, belirli bir görsel veya video ile özdeşleşmiş olan popüler mizahi akım aşağıdakilerden hangisidir?",
       "options": [
-        "Christopher Nolan",
-        "Steven Spielberg",
-        "James Cameron",
-        "Denis Villeneuve",
-        "Ridley Scott"
+        "#EkonomiÇokİyi",
+        "#HaniNerde",
+        "#BuDaGeçer",
+        "#YineMiSen",
+        "#AnlatBakalım"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Yumurcak TV'de bir dönem yayınlanan, meraklı yapısıyla bilinen ve sürekli olarak \"Neden?\", \"Nasıl?\" gibi sorular soran kel bir çocuğun maceralarını anlatan çizgi filmin adı nedir?",
+      "options": [
+        "Pepee",
+        "Cedric",
+        "Caillou",
+        "Heidi",
+        "Tenten"
       ],
       "correct": 2
     },
     {
-      "question": "Türkiye'nin en uzun soluklu ve en çok izlenen reality show'larından biri olan 'Survivor Türkiye' programının sunucusu ve aynı zamanda yapım şirketi 'Acun Medya'nın kurucusu olan isim kimdir?",
+      "question": "Türkiye Millî Futbol Takımı'nın 2008 Avrupa Şampiyonası'nda (EURO 2008) yarı finale yükseldiği turnuvada, özellikle son dakikalarda attığı kritik gollerle hafızalara kazınan forvet oyuncusu kimdir?",
       "options": [
-        "Ali Canlı",
-        "Murat Ceylan",
-        "Alp Kırşan",
-        "Acun Ilıcalı",
-        "Hakan Hatipoğlu"
+        "Arda Turan",
+        "Tuncay Şanlı",
+        "Nihat Kahveci",
+        "Semih Şentürk",
+        "Emre Belözoğlu"
       ],
       "correct": 3
     },
     {
-      "question": "Ata Demirer'in senaryosunu yazdığı ve başrolünde yer aldığı, Geyikli'de geçen maceralarıyla izleyicileri güldüren 'Eyvah Eyvah' film serisindeki klarnet çalan ana karakterin adı nedir?",
+      "question": "İnternet üzerinde, özellikle 2000'lerin sonu ve 2010'ların başında popülerleşen, basit çizimlerle belirli bir duygu veya duruma mizahi bir şekilde tepki veren \"Forever Alone\", \"Trollface\", \"Rage Guy\" gibi karakterlerin kullanıldığı çizgi roman tarzı paylaşımlara genel olarak ne ad verilir?",
       "options": [
-        "Niyazi",
-        "Hüseyin Badem",
-        "Ramiz",
-        "Şevket",
-        "Ferhat"
+        "Capsler",
+        "GIF'ler",
+        "Rage Comics",
+        "Vine'lar",
+        "TikTok Videoları"
       ],
-      "correct": 1
-    },
-    {
-      "question": "Türk sinemasının dört yapraklı yoncasından biri olarak kabul edilen ve 'Sultan' lakabıyla anılan, yüzlerce filmde başrol oynamış efsanevi aktris kimdir?",
-      "options": [
-        "Fatma Girik",
-        "Türkan Şoray",
-        "Filiz Akın",
-        "Hülya Koçyiğit",
-        "Gülşen Bubikoğlu"
-      ],
-      "correct": 1
+      "correct": 2
     }
   ]
 }
