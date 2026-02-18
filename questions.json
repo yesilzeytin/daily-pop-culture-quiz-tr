@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Disney Channel'ın sevilen çizgi filmlerinden \"DuckTales\"ta (Vakvak Amca), Donald Duck'ın zengin ve maceraperest amcasının adı nedir?",
+      "question": "\"Avatar: Son Hava Bükücü\" (Avatar: The Last Airbender) animasyon serisinde, ana karakter Aang'in uçan bizon dostunun adı nedir?",
       "options": [
-        "Scrooge McDuck",
-        "Gladstone Gander",
-        "Gyro Gearloose",
-        "Launchpad McQuack",
-        "Flintheart Glomgold"
+        "Appa",
+        "Momo",
+        "Naga",
+        "Pabu",
+        "Oogi"
       ],
       "correct": 0
     },
     {
-      "question": "Türkiye'de Twitter'da, özellikle ekonomik durumlarla ilgili ironik ve eleştirel bir yaklaşım sergilemek için kullanılan, belirli bir görsel veya video ile özdeşleşmiş olan popüler mizahi akım aşağıdakilerden hangisidir?",
+      "question": "CD Projekt Red tarafından geliştirilen ve sonrasında Netflix'e uyarlanan \"The Witcher\" serisinin ana karakteri Rivialı Geralt'ın sadık atının adı nedir?",
       "options": [
-        "#EkonomiÇokİyi",
-        "#HaniNerde",
-        "#BuDaGeçer",
-        "#YineMiSen",
-        "#AnlatBakalım"
+        "Ruh",
+        "Pegasus",
+        "Shadowmere",
+        "Epona",
+        "Agro"
       ],
       "correct": 0
     },
     {
-      "question": "Yumurcak TV'de bir dönem yayınlanan, meraklı yapısıyla bilinen ve sürekli olarak \"Neden?\", \"Nasıl?\" gibi sorular soran kel bir çocuğun maceralarını anlatan çizgi filmin adı nedir?",
+      "question": "Netflix Türkiye'nin popüler dizilerinden \"Kulüp\"te, kızı Raşel ile yeniden bir araya gelmeye çalışan ve eski bir mahkum olan başrol karakter Matilda Aseo'yu canlandıran oyuncu kimdir?",
       "options": [
-        "Pepee",
-        "Cedric",
-        "Caillou",
-        "Heidi",
-        "Tenten"
+        "Gökçe Bahadır",
+        "Asude Kalebek",
+        "Salih Bademci",
+        "Fırat Tanış",
+        "Barış Arduç"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "Türkiye Millî Futbol Takımı'nın 2008 Avrupa Şampiyonası'nda (EURO 2008) yarı finale yükseldiği turnuvada, özellikle son dakikalarda attığı kritik gollerle hafızalara kazınan forvet oyuncusu kimdir?",
+      "question": "\"Hips Don't Lie\", \"Waka Waka\" ve \"Whenever, Wherever\" gibi dünya çapında hit olmuş şarkılarıyla tanınan, Kolombiya doğumlu dünyaca ünlü Latin pop şarkıcısı ve söz yazarı kimdir?",
       "options": [
-        "Arda Turan",
-        "Tuncay Şanlı",
-        "Nihat Kahveci",
-        "Semih Şentürk",
-        "Emre Belözoğlu"
+        "Shakira",
+        "Jennifer Lopez",
+        "Becky G",
+        "Camila Cabello",
+        "Karol G"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
-      "question": "İnternet üzerinde, özellikle 2000'lerin sonu ve 2010'ların başında popülerleşen, basit çizimlerle belirli bir duygu veya duruma mizahi bir şekilde tepki veren \"Forever Alone\", \"Trollface\", \"Rage Guy\" gibi karakterlerin kullanıldığı çizgi roman tarzı paylaşımlara genel olarak ne ad verilir?",
+      "question": "2006 yılında Nobel Edebiyat Ödülü'nü kazanan ilk ve tek Türk yazar olan Orhan Pamuk'un, Doğu ile Batı arasındaki kültürel çatışmaları ve aşkı konu alırken, bir ressamın gizemli cinayetini araştıran kahramanların hikayesini anlatan romanı hangisidir?",
       "options": [
-        "Capsler",
-        "GIF'ler",
-        "Rage Comics",
-        "Vine'lar",
-        "TikTok Videoları"
+        "Benim Adım Kırmızı",
+        "Kar",
+        "Masumiyet Müzesi",
+        "Cevdet Bey ve Oğulları",
+        "Yeni Hayat"
       ],
-      "correct": 2
+      "correct": 0
     }
   ]
 }
