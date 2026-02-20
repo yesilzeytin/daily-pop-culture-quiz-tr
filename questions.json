@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Türkiye'de TV8'de yayınlanan 'Survivor' yarışmasında şampiyon olduktan sonra sosyal medyada büyük bir takipçi kitlesine ulaşarak influencer kariyerine adım atan isim kimdir?",
+      "question": "Cartoon Network'ün sevilen çizgi filmlerinden \"Adventure Time\"da, Finn'in sürekli yanında olan, sihirli güçlere sahip ve şekil değiştirebilen köpek arkadaşının adı nedir?",
       "options": [
-        "Danla Bilic",
-        "Cemal Can Canseven",
-        "Reynmen",
-        "Merve Boluğur",
-        "Ecem Sena Bayır"
+        "Marceline",
+        "Jake",
+        "BMO",
+        "Prenses Ciklet",
+        "Buz Kralı"
       ],
       "correct": 1
     },
     {
-      "question": "Nickelodeon'ın kült çizgi filmlerinden 'Hey Arnold!'da, baş karakter Arnold'a zorbalık yapan ancak ona gizlice aşık olan, büyük pembe kurdelesiyle tanınan kız karakterin adı nedir?",
+      "question": "Yedi kez Formula 1 Dünya Şampiyonu olan ve Mercedes takımıyla rekorlar kıran efsanevi İngiliz pilot kimdir?",
       "options": [
-        "Rhonda Lloyd",
-        "Lila Sawyer",
-        "Phoebe Heyerdahl",
-        "Helga Pataki",
-        "Nadine"
+        "Sebastian Vettel",
+        "Max Verstappen",
+        "Michael Schumacher",
+        "Ayrton Senna",
+        "Lewis Hamilton"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "\"The Marshall Mathers LP\", \"Encore\" ve \"Recovery\" gibi çok satan albümlerle tanınan, genellikle \"Slim Shady\" alter egosunu da kullanan Grammy ödüllü Amerikalı rapçi kimdir?",
+      "options": [
+        "Jay-Z",
+        "Kanye West",
+        "Dr. Dre",
+        "Eminem",
+        "Travis Scott"
       ],
       "correct": 3
     },
     {
-      "question": "Soğuk Savaş dönemindeki Uzay Yarışı sırasında, 12 Nisan 1961'de Vostok 1 aracıyla Dünya yörüngesinde seyahat eden ve uzaya çıkan ilk insan olan Sovyet kozmonot kimdir?",
+      "question": "Nickelodeon'ın popüler çizgi filmlerinden \"Fairly OddParents\" (Sihirli Ailem) adlı yapımda, Timmy Turner'ın dileklerini gerçekleştiren iki sihirli balık perisinin isimleri nelerdir?",
       "options": [
-        "Neil Armstrong",
-        "Buzz Aldrin",
-        "Yuri Gagarin",
-        "Valentina Tereşkova",
-        "Alan Shepard"
+        "Patrick ve Sandy",
+        "Cosmo ve Wanda",
+        "SpongeBob ve Gary",
+        "Danny ve Sam",
+        "Jimmy ve Carl"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Birinci Dünya Savaşı'nın Batı Cephesi'nde, özellikle Noel 1914'te gerçekleşen ve düşman askerlerinin kısa süreliğine çatışmayı bırakıp barışçıl etkileşimlerde bulunduğu, birçok film ve popüler kültür eserine konu olmuş olaya ne ad verilir?",
+      "options": [
+        "Ypres Muharebesi",
+        "Somme Muharebesi",
+        "Noel Ateşkesi",
+        "Marne Muharebesi",
+        "Gallipoli Çıkarması"
       ],
       "correct": 2
-    },
-    {
-      "question": "Günümüzde kullandığımız World Wide Web'i (WWW) icat eden, ilk web sunucusunu ve ilk web tarayıcısını geliştiren İngiliz bilgisayar bilimcisi kimdir?",
-      "options": [
-        "Bill Gates",
-        "Steve Jobs",
-        "Mark Zuckerberg",
-        "Tim Berners-Lee",
-        "Larry Page"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "2020 yılında düzenlenen Akademi Ödülleri'nde 'En İyi Film' dalında Oscar kazanan ve aynı zamanda 'En İyi Yönetmen', 'En İyi Uluslararası Film' ve 'En İyi Özgün Senaryo' ödüllerini de alarak büyük bir başarıya imza atan Güney Kore yapımı film hangisidir?",
-      "options": [
-        "Roma",
-        "Joker",
-        "1917",
-        "Parazit",
-        "Yeşil Rehber"
-      ],
-      "correct": 3
     }
   ]
 }
