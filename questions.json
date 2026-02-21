@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Cartoon Network'ün sevilen çizgi filmlerinden \"Adventure Time\"da, Finn'in sürekli yanında olan, sihirli güçlere sahip ve şekil değiştirebilen köpek arkadaşının adı nedir?",
+      "question": "2005 Şampiyonlar Ligi finalinde Liverpool'un Milan'ı 3-0 geriden gelerek penaltılarla mağlup edip kupayı kazandığı, futbol tarihine geçen mücadele hangi isimle anılır?",
       "options": [
-        "Marceline",
-        "Jake",
-        "BMO",
-        "Prenses Ciklet",
-        "Buz Kralı"
+        "Bern Mucizesi",
+        "Şükrü Saracoğlu Destanı",
+        "İstanbul Mucizesi",
+        "Lizbon Gecesi",
+        "Camp Nou Draması"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Disney'in Karlar Ülkesi (Frozen) filminin baş karakterlerinden biri olan ve 'Let It Go' şarkısıyla dünya çapında popülerleşen buz kraliçesinin adı nedir?",
+      "options": [
+        "Anna",
+        "Elsa",
+        "Rapunzel",
+        "Moana",
+        "Belle"
       ],
       "correct": 1
     },
     {
-      "question": "Yedi kez Formula 1 Dünya Şampiyonu olan ve Mercedes takımıyla rekorlar kıran efsanevi İngiliz pilot kimdir?",
+      "question": "İnternet tarihinin ilk ticari alan adı ('domain name'), hangi yıl ve hangi şirket tarafından kaydedilmiştir?",
       "options": [
-        "Sebastian Vettel",
-        "Max Verstappen",
-        "Michael Schumacher",
-        "Ayrton Senna",
-        "Lewis Hamilton"
+        "1987, IBM",
+        "1990, Microsoft",
+        "1985, Symbolics Inc.",
+        "1993, Google",
+        "1984, Apple"
       ],
-      "correct": 4
+      "correct": 2
     },
     {
-      "question": "\"The Marshall Mathers LP\", \"Encore\" ve \"Recovery\" gibi çok satan albümlerle tanınan, genellikle \"Slim Shady\" alter egosunu da kullanan Grammy ödüllü Amerikalı rapçi kimdir?",
+      "question": "“Gülümse”, “Vazgeçtim” ve “Firuze” gibi klasikler başta olmak üzere, 80'ler ve 90'lar Türk pop müziğine yön veren eserlere imza atan, 'Minik Serçe' lakaplı efsanevi sanatçı kimdir?",
       "options": [
-        "Jay-Z",
-        "Kanye West",
-        "Dr. Dre",
-        "Eminem",
-        "Travis Scott"
+        "Ajda Pekkan",
+        "Nilüfer",
+        "Candan Erçetin",
+        "Sezen Aksu",
+        "Nükhet Duru"
       ],
       "correct": 3
     },
     {
-      "question": "Nickelodeon'ın popüler çizgi filmlerinden \"Fairly OddParents\" (Sihirli Ailem) adlı yapımda, Timmy Turner'ın dileklerini gerçekleştiren iki sihirli balık perisinin isimleri nelerdir?",
+      "question": "Marvel Sinematik Evreni'nin 2019 yapımı filmi \"Avengers: Endgame\", dünya çapında tüm zamanların en yüksek gişe hasılatına sahip filmler listesinde hangi sıradadır? (Not: Enflasyon ayarsız ham gişe hasılatı baz alınmıştır.)",
       "options": [
-        "Patrick ve Sandy",
-        "Cosmo ve Wanda",
-        "SpongeBob ve Gary",
-        "Danny ve Sam",
-        "Jimmy ve Carl"
+        "Birinci",
+        "İkinci",
+        "Üçüncü",
+        "Dördüncü",
+        "Beşinci"
       ],
       "correct": 1
-    },
-    {
-      "question": "Birinci Dünya Savaşı'nın Batı Cephesi'nde, özellikle Noel 1914'te gerçekleşen ve düşman askerlerinin kısa süreliğine çatışmayı bırakıp barışçıl etkileşimlerde bulunduğu, birçok film ve popüler kültür eserine konu olmuş olaya ne ad verilir?",
-      "options": [
-        "Ypres Muharebesi",
-        "Somme Muharebesi",
-        "Noel Ateşkesi",
-        "Marne Muharebesi",
-        "Gallipoli Çıkarması"
-      ],
-      "correct": 2
     }
   ]
 }
