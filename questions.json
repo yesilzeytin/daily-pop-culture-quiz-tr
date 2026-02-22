@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "2005 Şampiyonlar Ligi finalinde Liverpool'un Milan'ı 3-0 geriden gelerek penaltılarla mağlup edip kupayı kazandığı, futbol tarihine geçen mücadele hangi isimle anılır?",
+      "question": "Türk Kadın Voleybol Milli Takımı, 2023 yılında Milletler Ligi (VNL) ve Avrupa Şampiyonası'nda şampiyon olarak tarihi bir başarıya imza atmıştır. Bu takıma verilen ve halk arasında yaygın olarak kullanılan lakap nedir?",
       "options": [
-        "Bern Mucizesi",
-        "Şükrü Saracoğlu Destanı",
-        "İstanbul Mucizesi",
-        "Lizbon Gecesi",
-        "Camp Nou Draması"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Disney'in Karlar Ülkesi (Frozen) filminin baş karakterlerinden biri olan ve 'Let It Go' şarkısıyla dünya çapında popülerleşen buz kraliçesinin adı nedir?",
-      "options": [
-        "Anna",
-        "Elsa",
-        "Rapunzel",
-        "Moana",
-        "Belle"
+        "Altın Kızlar",
+        "Filenin Sultanları",
+        "Voleybol Perileri",
+        "Demirden Bilekler",
+        "Anadolu Ateşi"
       ],
       "correct": 1
     },
     {
-      "question": "İnternet tarihinin ilk ticari alan adı ('domain name'), hangi yıl ve hangi şirket tarafından kaydedilmiştir?",
+      "question": "Marvel Sinematik Evreni'nin temellerini atan ve Robert Downey Jr.'ın canlandırdığı Tony Stark karakterini izleyiciyle buluşturan ilk film hangisidir?",
       "options": [
-        "1987, IBM",
-        "1990, Microsoft",
-        "1985, Symbolics Inc.",
-        "1993, Google",
-        "1984, Apple"
+        "Yenilmezler (The Avengers)",
+        "Kaptan Amerika: İlk Yenilmez (Captain America: The First Avenger)",
+        "Iron Man",
+        "Thor",
+        "Galaksinin Koruyucuları (Guardians of the Galaxy)"
       ],
       "correct": 2
     },
     {
-      "question": "“Gülümse”, “Vazgeçtim” ve “Firuze” gibi klasikler başta olmak üzere, 80'ler ve 90'lar Türk pop müziğine yön veren eserlere imza atan, 'Minik Serçe' lakaplı efsanevi sanatçı kimdir?",
+      "question": "Günümüzün en büyük sosyal medya platformlarından biri olan Facebook, Mark Zuckerberg tarafından hangi üniversite kampüsünde kurulmuştur?",
       "options": [
-        "Ajda Pekkan",
-        "Nilüfer",
-        "Candan Erçetin",
-        "Sezen Aksu",
-        "Nükhet Duru"
+        "Stanford Üniversitesi",
+        "MIT (Massachusetts Teknoloji Enstitüsü)",
+        "Harvard Üniversitesi",
+        "Yale Üniversitesi",
+        "Oxford Üniversitesi"
       ],
-      "correct": 3
+      "correct": 2
     },
     {
-      "question": "Marvel Sinematik Evreni'nin 2019 yapımı filmi \"Avengers: Endgame\", dünya çapında tüm zamanların en yüksek gişe hasılatına sahip filmler listesinde hangi sıradadır? (Not: Enflasyon ayarsız ham gişe hasılatı baz alınmıştır.)",
+      "question": "1990'larda dünya genelinde büyük bir popülerlik kazanan ve 'PlayStation' adıyla oyun dünyasına damga vuran ilk oyun konsolu hangi şirket tarafından piyasaya sürülmüştür?",
       "options": [
-        "Birinci",
-        "İkinci",
-        "Üçüncü",
-        "Dördüncü",
-        "Beşinci"
+        "Nintendo",
+        "Microsoft",
+        "Sony",
+        "Sega",
+        "Atari"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "20. yüzyıl modasının en etkili isimlerinden biri olan ve özellikle küçük siyah elbise (little black dress) ile 'Chanel No. 5' parfümünü ikonikleştiren Fransız moda tasarımcısı kimdir?",
+      "options": [
+        "Christian Dior",
+        "Coco Chanel",
+        "Yves Saint Laurent",
+        "Gianni Versace",
+        "Hubert de Givenchy"
       ],
       "correct": 1
     }
