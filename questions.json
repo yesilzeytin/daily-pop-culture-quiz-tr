@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Türk Kadın Voleybol Milli Takımı, 2023 yılında Milletler Ligi (VNL) ve Avrupa Şampiyonası'nda şampiyon olarak tarihi bir başarıya imza atmıştır. Bu takıma verilen ve halk arasında yaygın olarak kullanılan lakap nedir?",
+      "question": "Nickelodeon'ın popüler çizgi filmlerinden SüngerBob KareŞort'un (SpongeBob SquarePants) evcil salyangozunun adı nedir?",
       "options": [
-        "Altın Kızlar",
-        "Filenin Sultanları",
-        "Voleybol Perileri",
-        "Demirden Bilekler",
-        "Anadolu Ateşi"
+        "Patrick",
+        "Mr. Krabs",
+        "Gary",
+        "Sandy",
+        "Plankton"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türkiye'nin en prestijli medya ödüllerinden biri olan Altın Kelebek Ödülleri, hangi medya grubunun yayın organları aracılığıyla düzenlenmektedir?",
+      "options": [
+        "Doğuş Yayın Grubu",
+        "Acun Medya",
+        "Turkuvaz Medya Grubu",
+        "Demirören Medya Grubu",
+        "Ciner Medya Grubu"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "HBO'nun dünya çapında fenomen haline gelen dizisi Game of Thrones'da, 'Kış Geliyor' (Winter is Coming) mottosu hangi soylu hanedana aittir?",
+      "options": [
+        "Lannister",
+        "Targaryen",
+        "Baratheon",
+        "Stark",
+        "Arryn"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "UEFA Şampiyonlar Ligi tarihinde en çok gol atan futbolcu unvanına sahip olan oyuncu kimdir?",
+      "options": [
+        "Lionel Messi",
+        "Cristiano Ronaldo",
+        "Robert Lewandowski",
+        "Karim Benzema",
+        "Raúl González"
       ],
       "correct": 1
     },
     {
-      "question": "Marvel Sinematik Evreni'nin temellerini atan ve Robert Downey Jr.'ın canlandırdığı Tony Stark karakterini izleyiciyle buluşturan ilk film hangisidir?",
+      "question": "Türkiye Millî Futbol Takımı, tarihinde ilk kez hangi Avrupa Şampiyonası'na (EURO) katılma hakkı kazanmıştır?",
       "options": [
-        "Yenilmezler (The Avengers)",
-        "Kaptan Amerika: İlk Yenilmez (Captain America: The First Avenger)",
-        "Iron Man",
-        "Thor",
-        "Galaksinin Koruyucuları (Guardians of the Galaxy)"
+        "EURO 1988",
+        "EURO 1992",
+        "EURO 1996",
+        "EURO 2000",
+        "EURO 2004"
       ],
       "correct": 2
-    },
-    {
-      "question": "Günümüzün en büyük sosyal medya platformlarından biri olan Facebook, Mark Zuckerberg tarafından hangi üniversite kampüsünde kurulmuştur?",
-      "options": [
-        "Stanford Üniversitesi",
-        "MIT (Massachusetts Teknoloji Enstitüsü)",
-        "Harvard Üniversitesi",
-        "Yale Üniversitesi",
-        "Oxford Üniversitesi"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "1990'larda dünya genelinde büyük bir popülerlik kazanan ve 'PlayStation' adıyla oyun dünyasına damga vuran ilk oyun konsolu hangi şirket tarafından piyasaya sürülmüştür?",
-      "options": [
-        "Nintendo",
-        "Microsoft",
-        "Sony",
-        "Sega",
-        "Atari"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "20. yüzyıl modasının en etkili isimlerinden biri olan ve özellikle küçük siyah elbise (little black dress) ile 'Chanel No. 5' parfümünü ikonikleştiren Fransız moda tasarımcısı kimdir?",
-      "options": [
-        "Christian Dior",
-        "Coco Chanel",
-        "Yves Saint Laurent",
-        "Gianni Versace",
-        "Hubert de Givenchy"
-      ],
-      "correct": 1
     }
   ]
 }
