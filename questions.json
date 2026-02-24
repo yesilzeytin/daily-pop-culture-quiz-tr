@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Nickelodeon'ın popüler çizgi filmlerinden SüngerBob KareŞort'un (SpongeBob SquarePants) evcil salyangozunun adı nedir?",
+      "question": "İnternet kullanımının yaygınlaşmasında büyük rol oynayan ve Mosaic tarayıcısından esinlenilerek geliştirilen, 1990'ların ortalarında piyasaya sürülen ilk popüler web tarayıcısı hangisidir?",
       "options": [
-        "Patrick",
-        "Mr. Krabs",
-        "Gary",
-        "Sandy",
-        "Plankton"
+        "Google Chrome",
+        "Mozilla Firefox",
+        "Internet Explorer",
+        "Netscape Navigator",
+        "Opera"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Müslüm Gürses'in özellikle konserlerinde ve yaşam şeklinde görülen, ona karşı duyulan yoğun sevgi ve bağlılığı ifade eden hayranlarına verilen popüler lakap aşağıdakilerden hangisidir?",
+      "options": [
+        "Ferdi Tayfurcular",
+        "Orhan Severler",
+        "Müslümcüler",
+        "Arabesk Sevdalıları",
+        "Baba Fanları"
       ],
       "correct": 2
     },
     {
-      "question": "Türkiye'nin en prestijli medya ödüllerinden biri olan Altın Kelebek Ödülleri, hangi medya grubunun yayın organları aracılığıyla düzenlenmektedir?",
+      "question": "The Witcher evreninde, Rivialı Geralt'ın ana mesleği ve unvanı nedir?",
       "options": [
-        "Doğuş Yayın Grubu",
-        "Acun Medya",
-        "Turkuvaz Medya Grubu",
-        "Demirören Medya Grubu",
-        "Ciner Medya Grubu"
+        "Sihirbaz",
+        "Şövalye",
+        "Canavar Avcısı",
+        "Kraliyet Muhafızı",
+        "Tüccar"
       ],
-      "correct": 3
+      "correct": 2
     },
     {
-      "question": "HBO'nun dünya çapında fenomen haline gelen dizisi Game of Thrones'da, 'Kış Geliyor' (Winter is Coming) mottosu hangi soylu hanedana aittir?",
+      "question": "Futbol tarihinin ilk FIFA Dünya Kupası, 1930 yılında hangi ülkede düzenlenmiştir?",
       "options": [
-        "Lannister",
-        "Targaryen",
-        "Baratheon",
-        "Stark",
-        "Arryn"
+        "Brezilya",
+        "İtalya",
+        "Uruguay",
+        "Fransa",
+        "Arjantin"
       ],
-      "correct": 3
+      "correct": 2
     },
     {
-      "question": "UEFA Şampiyonlar Ligi tarihinde en çok gol atan futbolcu unvanına sahip olan oyuncu kimdir?",
+      "question": "1980'ler ve 1990'lar Türkiye'sinde çocukların vazgeçilmezi olan Tipitip sakızlarının içinden çıkan ve biriktirilen popüler objeler nelerdi?",
       "options": [
-        "Lionel Messi",
-        "Cristiano Ronaldo",
-        "Robert Lewandowski",
-        "Karim Benzema",
-        "Raúl González"
+        "Küçük oyuncaklar",
+        "Çıkartmalar (sticker)",
+        "Madeni paralar",
+        "Kitapçıklar",
+        "Şekerler"
       ],
       "correct": 1
-    },
-    {
-      "question": "Türkiye Millî Futbol Takımı, tarihinde ilk kez hangi Avrupa Şampiyonası'na (EURO) katılma hakkı kazanmıştır?",
-      "options": [
-        "EURO 1988",
-        "EURO 1992",
-        "EURO 1996",
-        "EURO 2000",
-        "EURO 2004"
-      ],
-      "correct": 2
     }
   ]
 }
