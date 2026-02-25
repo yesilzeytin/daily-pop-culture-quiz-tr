@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "İnternet kullanımının yaygınlaşmasında büyük rol oynayan ve Mosaic tarayıcısından esinlenilerek geliştirilen, 1990'ların ortalarında piyasaya sürülen ilk popüler web tarayıcısı hangisidir?",
+      "question": "The Witcher evreninde, Rivialı Geralt'ın evlatlık kızı olan ve aynı zamanda Kadim Kan'a (Elder Blood) sahip olan karakterin gerçek adı ve unvanı nedir?",
       "options": [
-        "Google Chrome",
-        "Mozilla Firefox",
-        "Internet Explorer",
-        "Netscape Navigator",
-        "Opera"
+        "Cirilla Fiona Elen Riannon, Cintra Prensesi",
+        "Yennefer of Vengerberg, Vengerberg Büyücüsü",
+        "Triss Merigold, Kovir Kraliyet Danışmanı",
+        "Filippa Eilhart, Aretuza Büyücüsü",
+        "Renfri, Blaviken Kasabı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Roland Garros olarak da bilinen Fransa Açık Tenis Turnuvası'nda, toprak korttaki üstün başarısıyla 'Toprak Kortların Kralı' unvanını alan ve bu turnuvayı en çok kazanan erkek tenisçi kimdir?",
+      "options": [
+        "Roger Federer",
+        "Novak Djokovic",
+        "Andy Murray",
+        "Rafael Nadal",
+        "Pete Sampras"
       ],
       "correct": 3
     },
     {
-      "question": "Müslüm Gürses'in özellikle konserlerinde ve yaşam şeklinde görülen, ona karşı duyulan yoğun sevgi ve bağlılığı ifade eden hayranlarına verilen popüler lakap aşağıdakilerden hangisidir?",
+      "question": "PlayStation'ın ikonik oyun serilerinden God of War'da, ana karakter Kratos'un Norse mitolojisindeki maceralarında ona eşlik eden ve okçuluk yetenekleriyle bilinen oğlu kimdir?",
       "options": [
-        "Ferdi Tayfurcular",
-        "Orhan Severler",
-        "Müslümcüler",
-        "Arabesk Sevdalıları",
-        "Baba Fanları"
+        "Zeus",
+        "Baldur",
+        "Atreus",
+        "Thor",
+        "Hermes"
       ],
       "correct": 2
     },
     {
-      "question": "The Witcher evreninde, Rivialı Geralt'ın ana mesleği ve unvanı nedir?",
+      "question": "2005 yılında kurulup kısa sürede video paylaşım platformlarının lideri haline gelen YouTube, 2006 yılında hangi teknoloji devi tarafından 1.65 milyar dolara satın alınmıştır?",
       "options": [
-        "Sihirbaz",
-        "Şövalye",
-        "Canavar Avcısı",
-        "Kraliyet Muhafızı",
-        "Tüccar"
+        "Microsoft",
+        "Apple",
+        "Amazon",
+        "Meta (Facebook)",
+        "Google"
       ],
-      "correct": 2
+      "correct": 4
     },
     {
-      "question": "Futbol tarihinin ilk FIFA Dünya Kupası, 1930 yılında hangi ülkede düzenlenmiştir?",
+      "question": "Survivor Türkiye'nin 2018 yılında düzenlenen All Star sezonunda, Gönüllüler takımından başlayıp finale kadar yükselen ve yarışmayı şampiyon olarak tamamlayan isim kimdir?",
       "options": [
-        "Brezilya",
-        "İtalya",
-        "Uruguay",
-        "Fransa",
-        "Arjantin"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "1980'ler ve 1990'lar Türkiye'sinde çocukların vazgeçilmezi olan Tipitip sakızlarının içinden çıkan ve biriktirilen popüler objeler nelerdi?",
-      "options": [
-        "Küçük oyuncaklar",
-        "Çıkartmalar (sticker)",
-        "Madeni paralar",
-        "Kitapçıklar",
-        "Şekerler"
+        "Nagihan Karadere",
+        "Adem Kılıççı",
+        "Hakan Hatipoğlu",
+        "Damla Can",
+        "Turabi Çamkıran"
       ],
       "correct": 1
     }
