@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Pixar'ın sevilen animasyon filmlerinden \"Yukarı Bak\" (Up) filminde, yaşlı maceracı Carl Fredricksen'ın en sadık köpek arkadaşının adı nedir?",
+      "question": "Formula 1 tarihinde en çok Dünya Şampiyonluğu kazanan iki pilot, yedişer şampiyonlukla hangi efsanevi isimlerdir?",
       "options": [
-        "Dug",
-        "Kevin",
-        "Alpha",
-        "Beta",
-        "Gamma"
+        "Ayrton Senna ve Alain Prost",
+        "Juan Manuel Fangio ve Jim Clark",
+        "Michael Schumacher ve Lewis Hamilton",
+        "Sebastian Vettel ve Fernando Alonso",
+        "Niki Lauda ve Jackie Stewart"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Uncharted serisinde, ana karakter Nathan Drake'in akıl hocası ve sadık yol arkadaşı olan, lakabı 'Sully' olan karakterin tam adı nedir?",
+      "options": [
+        "Victor Sullivan",
+        "Samuel Drake",
+        "Charlie Cutter",
+        "Harry Flynn",
+        "Rafe Adler"
       ],
       "correct": 0
     },
     {
-      "question": "Türk sinemasının unutulmaz yapımlarından \"Selvi Boylum Al Yazmalım\" filminde, kamyon şoförü İlyas ile Asya'nın büyük aşk hikayesinde, İlyas karakterini canlandıran usta oyuncu kimdir?",
+      "question": "Nintendo'nun popüler oyun serisi ve animesi Pokémon'da, serinin ikonik elektrik tipi fare Pokémon'unun adı nedir?",
       "options": [
-        "Tarık Akan",
-        "Kadir İnanır",
-        "Cüneyt Arkın",
-        "Ayhan Işık",
-        "Ediz Hun"
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Pikachu",
+        "Eevee"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Türkiye Millî Futbol Takımı, tarihinde katıldığı tek FIFA Dünya Kupası'nda (2002 FIFA Dünya Kupası) dünya üçüncüsü olarak tarihi bir başarıya imza atmıştır. Bu turnuvada Millî Takımımızın teknik direktörü kimdi?",
+      "options": [
+        "Fatih Terim",
+        "Şenol Güneş",
+        "Mustafa Denizli",
+        "Guus Hiddink",
+        "Mircea Lucescu"
       ],
       "correct": 1
     },
     {
-      "question": "\"Air Jordan\" lakabıyla tanınan ve Chicago Bulls formasıyla efsaneleşen, NBA tarihinin en büyük basketbolcularından biri olarak kabul edilen sporcu kimdir?",
+      "question": "Cem Yılmaz'ın yazıp oynadığı ve büyük beğeni toplayan 'G.O.R.A.' filminde, uzaylı komutan Logar'ın yardımcısı olan ve sık sık 'Bir cisim yaklaşıyor efendim!' repliğini kullanan karakterin adı nedir?",
       "options": [
-        "LeBron James",
-        "Kobe Bryant",
-        "Michael Jordan",
-        "Stephen Curry",
-        "Magic Johnson"
+        "Ceku",
+        "Bob Marley Faruk",
+        "Garavel",
+        "Erşan Kuneri",
+        "Tihulu"
       ],
-      "correct": 2
-    },
-    {
-      "question": "Disney Channel'ın popüler çizgi dizilerinden \"Phineas ve Ferb\"de, Phineas ve Ferb'in evcil hayvanı olan ve gizli bir ajan olarak kötülerle savaşan ornitorenkin adı nedir?",
-      "options": [
-        "Jeremy",
-        "Baljeet",
-        "Perry",
-        "Isabella",
-        "Doofenshmirtz"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "PlayStation'ın efsanevi serilerinden \"Uncharted\"ın ana kahramanı olan, dünya çapında antik kalıntıları ve hazineleri keşfeden maceraperestin tam adı nedir?",
-      "options": [
-        "Joel Miller",
-        "Kratos",
-        "Nathan Drake",
-        "Arthur Morgan",
-        "Aloy"
-      ],
-      "correct": 2
+      "correct": 4
     }
   ]
 }
