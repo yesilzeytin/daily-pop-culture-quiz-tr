@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Formula 1 tarihinde en çok Dünya Şampiyonluğu kazanan iki pilot, yedişer şampiyonlukla hangi efsanevi isimlerdir?",
+      "question": "Netflix Türkiye'nin bilim kurgu ve gizem dizisi \"Atiye\"de, ana karakter Atiye'nin mistik güçleri olan bir mağara keşfettiği antik yerleşim yeri neresidir?",
       "options": [
-        "Ayrton Senna ve Alain Prost",
-        "Juan Manuel Fangio ve Jim Clark",
-        "Michael Schumacher ve Lewis Hamilton",
-        "Sebastian Vettel ve Fernando Alonso",
-        "Niki Lauda ve Jackie Stewart"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Uncharted serisinde, ana karakter Nathan Drake'in akıl hocası ve sadık yol arkadaşı olan, lakabı 'Sully' olan karakterin tam adı nedir?",
-      "options": [
-        "Victor Sullivan",
-        "Samuel Drake",
-        "Charlie Cutter",
-        "Harry Flynn",
-        "Rafe Adler"
+        "Göbeklitepe",
+        "Çatalhöyük",
+        "Efes",
+        "Pergamon",
+        "Truva"
       ],
       "correct": 0
     },
     {
-      "question": "Nintendo'nun popüler oyun serisi ve animesi Pokémon'da, serinin ikonik elektrik tipi fare Pokémon'unun adı nedir?",
+      "question": "Dünya çapında büyük bir hayran kitlesine sahip olan pop yıldızı Taylor Swift'in kariyerindeki farklı müzik dönemlerini kutladığı, 2023-2024 yılları arasında devam eden ve rekorlar kıran konser turnesinin adı nedir?",
       "options": [
-        "Charmander",
-        "Bulbasaur",
-        "Squirtle",
-        "Pikachu",
-        "Eevee"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Türkiye Millî Futbol Takımı, tarihinde katıldığı tek FIFA Dünya Kupası'nda (2002 FIFA Dünya Kupası) dünya üçüncüsü olarak tarihi bir başarıya imza atmıştır. Bu turnuvada Millî Takımımızın teknik direktörü kimdi?",
-      "options": [
-        "Fatih Terim",
-        "Şenol Güneş",
-        "Mustafa Denizli",
-        "Guus Hiddink",
-        "Mircea Lucescu"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Cem Yılmaz'ın yazıp oynadığı ve büyük beğeni toplayan 'G.O.R.A.' filminde, uzaylı komutan Logar'ın yardımcısı olan ve sık sık 'Bir cisim yaklaşıyor efendim!' repliğini kullanan karakterin adı nedir?",
-      "options": [
-        "Ceku",
-        "Bob Marley Faruk",
-        "Garavel",
-        "Erşan Kuneri",
-        "Tihulu"
+        "The Red Tour",
+        "The Speak Now Tour",
+        "The 1989 World Tour",
+        "The Reputation Stadium Tour",
+        "The Eras Tour"
       ],
       "correct": 4
+    },
+    {
+      "question": "Türkiye'nin popüler caps kültüründe sıkça kullanılan karakterlerden biri olan \"Çaycı Hüseyin\", hangi uzun soluklu Türk dizisinin ikonik karakteridir?",
+      "options": [
+        "Leyla ile Mecnun",
+        "Avrupa Yakası",
+        "Çocuklar Duymasın",
+        "Bizimkiler",
+        "Süper Baba"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türk basketbolunun en başarılı takımlarından biri olan Anadolu Efes, 2021 ve 2022 yıllarında üst üste iki kez EuroLeague şampiyonluğunu kazanarak tarihi bir başarıya imza atmıştır. Takımın bu zaferlerdeki başantrenörü kimdir?",
+      "options": [
+        "Ergin Ataman",
+        "Bogdan Tanjevic",
+        "Oktay Mahmuti",
+        "Ufuk Sarıca",
+        "Orhun Ene"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Porto Rikolu şarkıcı Bad Bunny, reggaeton ve Latin trap türlerindeki müziğiyle dünya çapında tanınmıştır. Sanatçı, 2020 yılında yayımladığı ve Grammy Ödülleri'nde En İyi Latin Pop veya Urbana Albümü dalında ödül kazanan albümünün adıyla bilinir. Bu albüm hangisidir?",
+      "options": [
+        "YHLQMDLG",
+        "Un Verano Sin Ti",
+        "X 100pre",
+        "El Último Tour del Mundo",
+        "Oasis (J Balvin ile)"
+      ],
+      "correct": 0
     }
   ]
 }
