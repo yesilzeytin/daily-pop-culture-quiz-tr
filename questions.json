@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Netflix Türkiye'nin bilim kurgu ve gizem dizisi \"Atiye\"de, ana karakter Atiye'nin mistik güçleri olan bir mağara keşfettiği antik yerleşim yeri neresidir?",
+      "question": "Her yıl New York'taki Metropolitan Sanat Müzesi Kostüm Enstitüsü'ne yarar sağlamak amacıyla düzenlenen ve ünlülerin her sene belirlenen bir temaya uygun iddialı kıyafetleriyle dikkat çektiği prestijli moda etkinliğinin adı nedir?",
       "options": [
-        "Göbeklitepe",
-        "Çatalhöyük",
-        "Efes",
-        "Pergamon",
-        "Truva"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Dünya çapında büyük bir hayran kitlesine sahip olan pop yıldızı Taylor Swift'in kariyerindeki farklı müzik dönemlerini kutladığı, 2023-2024 yılları arasında devam eden ve rekorlar kıran konser turnesinin adı nedir?",
-      "options": [
-        "The Red Tour",
-        "The Speak Now Tour",
-        "The 1989 World Tour",
-        "The Reputation Stadium Tour",
-        "The Eras Tour"
-      ],
-      "correct": 4
-    },
-    {
-      "question": "Türkiye'nin popüler caps kültüründe sıkça kullanılan karakterlerden biri olan \"Çaycı Hüseyin\", hangi uzun soluklu Türk dizisinin ikonik karakteridir?",
-      "options": [
-        "Leyla ile Mecnun",
-        "Avrupa Yakası",
-        "Çocuklar Duymasın",
-        "Bizimkiler",
-        "Süper Baba"
+        "Paris Moda Haftası",
+        "Venedik Film Festivali",
+        "Met Gala",
+        "Cannes Film Festivali",
+        "New York Moda Haftası"
       ],
       "correct": 2
     },
     {
-      "question": "Türk basketbolunun en başarılı takımlarından biri olan Anadolu Efes, 2021 ve 2022 yıllarında üst üste iki kez EuroLeague şampiyonluğunu kazanarak tarihi bir başarıya imza atmıştır. Takımın bu zaferlerdeki başantrenörü kimdir?",
+      "question": "Netflix'in dünya çapında büyük ilgi gören Güney Kore yapımı dizisi \"Squid Game\"de, yarışmacıların oynadığı ilk ölümcül oyunun adı nedir?",
       "options": [
-        "Ergin Ataman",
-        "Bogdan Tanjevic",
-        "Oktay Mahmuti",
-        "Ufuk Sarıca",
-        "Orhun Ene"
+        "Halat Çekme",
+        "Kırmızı Işık, Yeşil Işık",
+        "Misket Oyunu",
+        "Köprüden Atlama",
+        "Cam Zemin"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "K-Pop grubu BTS, dünya çapında büyük bir hayran kitlesine sahiptir. Grubun, 2020 yılında yayınladığı ve ilk tamamen İngilizce teklisi olan hit şarkısı hangisidir?",
+      "options": [
+        "ON",
+        "IDOL",
+        "DNA",
+        "Dynamite",
+        "Fake Love"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Japonya'nın popüler anime serilerinden \"Attack on Titan\"da (Shingeki no Kyojin), insanlığı devlerden koruyan en dıştaki devasa duvarın adı nedir?",
+      "options": [
+        "Duvar Maria",
+        "Duvar Rose",
+        "Duvar Sina",
+        "Duvar Eldia",
+        "Duvar Paradis"
       ],
       "correct": 0
     },
     {
-      "question": "Porto Rikolu şarkıcı Bad Bunny, reggaeton ve Latin trap türlerindeki müziğiyle dünya çapında tanınmıştır. Sanatçı, 2020 yılında yayımladığı ve Grammy Ödülleri'nde En İyi Latin Pop veya Urbana Albümü dalında ödül kazanan albümünün adıyla bilinir. Bu albüm hangisidir?",
+      "question": "Tüm zamanların en yüksek gişe hasılatına sahip filmlerinden biri olan \"Avatar\" serisinin yönetmenliğini ve senaristliğini üstlenen ünlü isim kimdir?",
       "options": [
-        "YHLQMDLG",
-        "Un Verano Sin Ti",
-        "X 100pre",
-        "El Último Tour del Mundo",
-        "Oasis (J Balvin ile)"
+        "Steven Spielberg",
+        "Christopher Nolan",
+        "George Lucas",
+        "James Cameron",
+        "Quentin Tarantino"
       ],
-      "correct": 0
+      "correct": 3
     }
   ]
 }
