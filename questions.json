@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Her yıl New York'taki Metropolitan Sanat Müzesi Kostüm Enstitüsü'ne yarar sağlamak amacıyla düzenlenen ve ünlülerin her sene belirlenen bir temaya uygun iddialı kıyafetleriyle dikkat çektiği prestijli moda etkinliğinin adı nedir?",
+      "question": "Pixar Animation Studios yapımı \"Kayıp Balık Nemo\" (Finding Nemo) filminde, babası Marlin ile birlikte oğlunu arayan, kısa süreli hafıza kaybı yaşayan ancak çok neşeli olan mavi tang balığının adı nedir?",
       "options": [
-        "Paris Moda Haftası",
-        "Venedik Film Festivali",
-        "Met Gala",
-        "Cannes Film Festivali",
-        "New York Moda Haftası"
+        "Coral",
+        "Peach",
+        "Dory",
+        "Gill",
+        "Nigel"
       ],
       "correct": 2
     },
     {
-      "question": "Netflix'in dünya çapında büyük ilgi gören Güney Kore yapımı dizisi \"Squid Game\"de, yarışmacıların oynadığı ilk ölümcül oyunun adı nedir?",
+      "question": "Survivor Türkiye yarışmalarında 'Turbo' lakabıyla bilinen, eski milli futbolcu kimdir?",
       "options": [
-        "Halat Çekme",
-        "Kırmızı Işık, Yeşil Işık",
-        "Misket Oyunu",
-        "Köprüden Atlama",
-        "Cam Zemin"
+        "Adem Kılıççı",
+        "Batuhan Karacakaya",
+        "Sercan Yıldırım",
+        "Anıl Berk Baki",
+        "Mert Öcal"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
-      "question": "K-Pop grubu BTS, dünya çapında büyük bir hayran kitlesine sahiptir. Grubun, 2020 yılında yayınladığı ve ilk tamamen İngilizce teklisi olan hit şarkısı hangisidir?",
+      "question": "Türk internet ve caps kültüründe, \"Lanet olsun dostum bu çok iyi!\" repliğiyle özdeşleşen, genellikle hayranlık veya şaşkınlık ifade eden meşhur caps karakteri hangi ünlü aktöre aittir?",
       "options": [
-        "ON",
-        "IDOL",
-        "DNA",
-        "Dynamite",
-        "Fake Love"
+        "Sylvester Stallone",
+        "Arnold Schwarzenegger",
+        "Jean-Claude Van Damme",
+        "Chuck Norris",
+        "Dwayne 'The Rock' Johnson"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Britanya Kraliyet Ailesi'nde, Kraliçe II. Elizabeth'in 2022'deki vefatının ardından tahta geçen ve şu anki Birleşik Krallık hükümdarı olan isim kimdir?",
+      "options": [
+        "Prens William",
+        "Prens Harry",
+        "Kral V. George",
+        "Kral III. Charles",
+        "Prens Andrew"
       ],
       "correct": 3
     },
     {
-      "question": "Japonya'nın popüler anime serilerinden \"Attack on Titan\"da (Shingeki no Kyojin), insanlığı devlerden koruyan en dıştaki devasa duvarın adı nedir?",
+      "question": "Türk pop müziğinin sevilen isimlerinden biri olan ve \"Bangır Bangır\", \"Öp\" ile \"Yatcaz Kalkcaz Ordayım\" gibi hit şarkılarıyla bilinen kadın sanatçı kimdir?",
       "options": [
-        "Duvar Maria",
-        "Duvar Rose",
-        "Duvar Sina",
-        "Duvar Eldia",
-        "Duvar Paradis"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Tüm zamanların en yüksek gişe hasılatına sahip filmlerinden biri olan \"Avatar\" serisinin yönetmenliğini ve senaristliğini üstlenen ünlü isim kimdir?",
-      "options": [
-        "Steven Spielberg",
-        "Christopher Nolan",
-        "George Lucas",
-        "James Cameron",
-        "Quentin Tarantino"
+        "Demet Akalın",
+        "Hande Yener",
+        "Hadise",
+        "Gülşen",
+        "Sıla"
       ],
       "correct": 3
     }
