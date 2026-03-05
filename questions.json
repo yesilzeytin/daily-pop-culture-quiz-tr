@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "UEFA Şampiyonlar Ligi kupasını (eski adıyla Şampiyon Kulüpler Kupası) tarihinde en çok kez kazanan kulüp aşağıdakilerden hangisidir?",
+      "question": "NBA tarihinin en önemli oyuncularından biri olarak kabul edilen LeBron James, kariyerine hangi takımda başlamıştır?",
       "options": [
-        "Barcelona",
-        "Bayern Münih",
-        "Liverpool",
-        "Real Madrid",
-        "Milan"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Modern Olimpiyat Oyunları tarihinde Türkiye'ye ilk altın madalyayı kazandıran kadın sporcumuz kimdir?",
-      "options": [
-        "Halet Çambel",
-        "Nurcan Taylan",
-        "Hamide Ayşe Tünel",
-        "Elif Jale Yeşilırmak",
-        "Daniya Kadirova"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Osmanlı İmparatorluğu'nun en önemli dönüm noktalarından biri olan İstanbul'un fethi, hangi padişah döneminde gerçekleşmiştir?",
-      "options": [
-        "I. Süleyman (Kanuni)",
-        "Yavuz Sultan Selim",
-        "Fatih Sultan Mehmet",
-        "Yıldırım Bayezid",
-        "Osman Gazi"
+        "Miami Heat",
+        "Los Angeles Lakers",
+        "Cleveland Cavaliers",
+        "Sacramento Kings",
+        "Orlando Magic"
       ],
       "correct": 2
     },
     {
-      "question": "Star Wars evreninde, Luke Skywalker'ın babası olan ve serinin en ikonik kötü karakterlerinden biri haline gelen isim kimdir?",
+      "question": "2003 yılında 'Everyway That I Can' adlı şarkısıyla Türkiye'ye Eurovision Şarkı Yarışması'ndaki ilk ve tek birinciliği getiren sanatçı kimdir?",
       "options": [
-        "Obi-Wan Kenobi",
-        "Palpatine",
-        "Han Solo",
-        "Yoda",
-        "Darth Vader"
+        "Hadise",
+        "Athena",
+        "maNga",
+        "Sertab Erener",
+        "Şebnem Paker"
       ],
-      "correct": 4
+      "correct": 3
     },
     {
-      "question": "Türk futbol tarihinde bir Avrupa kupası (UEFA Kupası veya Şampiyonlar Ligi) kazanan ilk ve tek Türk takımı aşağıdakilerden hangisidir?",
+      "question": "Yeşilçam'ın unutulmaz filmlerinden 'Neşeli Günler'de, ailesiyle birlikte turşuculuk yapan ve filmin ana karakterlerinden biri olan 'Turşucu Tevfik'i canlandıran usta oyuncu kimdir?",
       "options": [
-        "Fenerbahçe",
-        "Beşiktaş",
-        "Trabzonspor",
-        "Galatasaray",
-        "Bursaspor"
+        "Şener Şen",
+        "Kemal Sunal",
+        "Adile Naşit",
+        "Münir Özkul",
+        "Halit Akçatepe"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Dünya genelinde büyük bir hayran kitlesine sahip K-Pop grubu Blackpink'in üyelerinden hangisi, 'SOLO' adlı hit şarkısıyla da tanınan bir solo sanatçıdır?",
+      "options": [
+        "Lisa",
+        "Rosé",
+        "Jisoo",
+        "Jennie",
+        "Mina"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "1071 yılında gerçekleşen ve Anadolu'nun kapılarını Türklere açan 'Malazgirt Meydan Muharebesi'nde Selçuklu ordusuna komutanlık eden hükümdar kimdir?",
+      "options": [
+        "Melikşah",
+        "Tuğrul Bey",
+        "Kılıç Arslan",
+        "Alparslan",
+        "Sultan Sencer"
       ],
       "correct": 3
     }
