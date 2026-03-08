@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Cem Yılmaz'ın yönettiği ve başrolünde oynadığı \"AROG\" filminde, zamanda yolculuk yaparak taş devrine düşen Arif, ilk olarak hangi ilkel kabilenin eline düşer?",
+      "question": "Türk influencer'lar arasında en çok takipçisi olan isimlerden biri olan ve genellikle makyaj, moda ve yaşam tarzı içerikleri üreten Danla Bilic'in gerçek adı nedir?",
       "options": [
-        "Mandalina Adamlar",
-        "Karga Adamlar",
-        "Batu Kabile",
-        "Taş Devri Köylüleri",
-        "Mağara Adamları"
+        "Neslihan Bilic",
+        "Yasemin Bilic",
+        "Derya Bilic",
+        "Nesrin Bilic",
+        "Bahar Bilic"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "Türk basketbol tarihinde EuroLeague şampiyonluğunu kazanan ilk ve tek Türk takımı olan Fenerbahçe Beko, bu zaferi hangi başantrenör yönetiminde elde etmiştir?",
+      "question": "1950'li ve 60'lı yılların efsanevi sinema oyuncusu ve moda ikonlarından Audrey Hepburn'u bugün dahi popüler kılan, küçük siyah elbisesiyle özdeşleşen filmi hangisidir?",
       "options": [
-        "Ergin Ataman",
-        "Ufuk Sarıca",
-        "Dimitris Itoudis",
-        "Obradovic",
-        "Orhun Ene"
+        "Roman Holiday (Roma Tatili)",
+        "Sabrina",
+        "My Fair Lady (Şahane Kadın)",
+        "Breakfast at Tiffany's (Tiffany'de Kahvaltı)",
+        "Charade (Şeytanın Kurbanları)"
       ],
       "correct": 3
     },
     {
-      "question": "Genç yaşına rağmen dünya çapında büyük başarılar elde eden Billie Eilish, James Bond serisinin \"No Time to Die\" filmi için seslendirdiği tema şarkısıyla 2022 yılında hangi prestijli ödülü kazanmıştır?",
+      "question": "Türk rap müziğinin öncü isimlerinden \"Ceza\" sahne adıyla bilinen sanatçının gerçek adı nedir?",
       "options": [
-        "Grammy Ödülü",
-        "Altın Küre Ödülü",
-        "Oscar Ödülü",
-        "MTV Video Müzik Ödülü",
-        "Emmy Ödülü"
+        "Bilgin Özçalkan",
+        "Berkay Karataş",
+        "Burak Akkul",
+        "Mustafa Kemal Özyurt",
+        "Emrah Karakuyu"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "FIFA Dünya Kupası tarihinde en çok şampiyonluk yaşayan ülke, toplamda 5 kez kupayı müzesine götürme başarısı göstermiştir. Bu ülke hangisidir?",
+      "question": "Popüler sosyal medya platformu Instagram, ilk olarak hangi yıl halka açılmış ve kullanıma sunulmuştur?",
       "options": [
-        "Arjantin",
-        "Almanya",
-        "İtalya",
-        "Fransa",
-        "Brezilya"
-      ],
-      "correct": 4
-    },
-    {
-      "question": "Türk internet ve caps kültüründe, bir durum veya fikrin aslında kendisine ait olduğunu ancak başkasının bunu sahiplenerek başarıya ulaştığını ifade etmek için kullanılan meşhur replik aşağıdakilerden hangisidir?",
-      "options": [
-        "Lanet olsun dostum bu çok iyi!",
-        "Şerefsizim benim aklıma gelmişti!",
-        "Çaycı Hüseyin geldi!",
-        "Burası neresi? Benim ne işim var burada?",
-        "Dımtıs dımtıs dımtıs!"
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2006"
       ],
       "correct": 1
+    },
+    {
+      "question": "\"The Witcher\" serisinin oyunlarındaki ana karakter Geralt of Rivia'nın, her seferinde \"Roach\" adını verdiği sadık atının orijinal ismi (Roach) ne anlama gelmektedir?",
+      "options": [
+        "Rüzgar",
+        "Gölge",
+        "Hamam Böceği",
+        "Şimşek",
+        "Gece"
+      ],
+      "correct": 2
     }
   ]
 }
