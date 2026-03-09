@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Türk influencer'lar arasında en çok takipçisi olan isimlerden biri olan ve genellikle makyaj, moda ve yaşam tarzı içerikleri üreten Danla Bilic'in gerçek adı nedir?",
+      "question": "HBO'nun fenomen dizisi Game of Thrones'ta, Westeros'un demir tahtı için mücadele eden ve 'Ejderhaların Annesi' olarak bilinen ikonik karakter kimdir?",
       "options": [
-        "Neslihan Bilic",
-        "Yasemin Bilic",
-        "Derya Bilic",
-        "Nesrin Bilic",
-        "Bahar Bilic"
+        "Cersei Lannister",
+        "Sansa Stark",
+        "Daenerys Targaryen",
+        "Arya Stark",
+        "Margaery Tyrell"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "question": "1950'li ve 60'lı yılların efsanevi sinema oyuncusu ve moda ikonlarından Audrey Hepburn'u bugün dahi popüler kılan, küçük siyah elbisesiyle özdeşleşen filmi hangisidir?",
+      "question": "'New Look' akımının yaratıcısı olarak bilinen ve kendi adını taşıyan lüks moda evini kuran Fransız moda tasarımcısı kimdir?",
       "options": [
-        "Roman Holiday (Roma Tatili)",
-        "Sabrina",
-        "My Fair Lady (Şahane Kadın)",
-        "Breakfast at Tiffany's (Tiffany'de Kahvaltı)",
-        "Charade (Şeytanın Kurbanları)"
+        "Coco Chanel",
+        "Yves Saint Laurent",
+        "Giorgio Armani",
+        "Christian Dior",
+        "Hubert de Givenchy"
       ],
       "correct": 3
     },
     {
-      "question": "Türk rap müziğinin öncü isimlerinden \"Ceza\" sahne adıyla bilinen sanatçının gerçek adı nedir?",
+      "question": "Marvel Sinematik Evreni'nde (MCU), 'Sonsuzluk Taşları'nı toplayarak parmak şıklatmasıyla evrendeki canlı yaşamının yarısını yok eden ikonik kötü karakter Thanos'un bu eylemi, hayranlar arasında hangi isimle anılır?",
       "options": [
-        "Bilgin Özçalkan",
-        "Berkay Karataş",
-        "Burak Akkul",
-        "Mustafa Kemal Özyurt",
-        "Emrah Karakuyu"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Popüler sosyal medya platformu Instagram, ilk olarak hangi yıl halka açılmış ve kullanıma sunulmuştur?",
-      "options": [
-        "2008",
-        "2010",
-        "2012",
-        "2014",
-        "2006"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "\"The Witcher\" serisinin oyunlarındaki ana karakter Geralt of Rivia'nın, her seferinde \"Roach\" adını verdiği sadık atının orijinal ismi (Roach) ne anlama gelmektedir?",
-      "options": [
-        "Rüzgar",
-        "Gölge",
-        "Hamam Böceği",
-        "Şimşek",
-        "Gece"
+        "The Blip",
+        "The Great Purge",
+        "The Snap",
+        "The Cosmic Event",
+        "The Reckoning"
       ],
       "correct": 2
+    },
+    {
+      "question": "2023 yılında tarih yazarak CEV Avrupa Şampiyonası'nda altın madalya kazanan A Milli Kadın Voleybol Takımımız 'Filenin Sultanları', final maçında hangi ülkenin takımını mağlup etmiştir?",
+      "options": [
+        "İtalya",
+        "Polonya",
+        "Sırbistan",
+        "Hollanda",
+        "Fransa"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "NBA efsanesi Michael Jordan'ın liderliğindeki Chicago Bulls, 1991 yılında kazandığı ilk NBA şampiyonluğunda finalde hangi takımı mağlup etmiştir?",
+      "options": [
+        "Portland Trail Blazers",
+        "Los Angeles Lakers",
+        "Phoenix Suns",
+        "Detroit Pistons",
+        "Utah Jazz"
+      ],
+      "correct": 1
     }
   ]
 }
