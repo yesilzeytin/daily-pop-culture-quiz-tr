@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "HBO'nun fenomen dizisi Game of Thrones'ta, Westeros'un demir tahtı için mücadele eden ve 'Ejderhaların Annesi' olarak bilinen ikonik karakter kimdir?",
+      "question": "Hangi Disney animasyonunda, \"Let It Go\" şarkısı ile buzdan bir saray inşa eden güçlü bir prenses bulunur?",
       "options": [
-        "Cersei Lannister",
-        "Sansa Stark",
-        "Daenerys Targaryen",
-        "Arya Stark",
-        "Margaery Tyrell"
+        "Karlar Ülkesi (Frozen)",
+        "Moana",
+        "Küçük Deniz Kızı (The Little Mermaid)",
+        "Cesur (Brave)",
+        "Rapunzel"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "PlayStation'ın popüler aksiyon-macera serisi Uncharted'ın ana karakteri Nathan Drake'in mesleği nedir?",
+      "options": [
+        "Samuray",
+        "Bilim Adamı",
+        "Hazine Avcısı",
+        "Formula 1 Pilotu",
+        "Uzay Maceracısı"
       ],
       "correct": 2
     },
     {
-      "question": "'New Look' akımının yaratıcısı olarak bilinen ve kendi adını taşıyan lüks moda evini kuran Fransız moda tasarımcısı kimdir?",
+      "question": "\"Interstellar\", \"Inception\" ve \"The Wolf of Wall Street\" gibi filmlerdeki performanslarıyla tanınan, kariyerinde birçok prestijli ödüle sahip olan ünlü aktör kimdir?",
       "options": [
-        "Coco Chanel",
-        "Yves Saint Laurent",
-        "Giorgio Armani",
-        "Christian Dior",
-        "Hubert de Givenchy"
+        "Brad Pitt",
+        "Tom Hanks",
+        "Leonardo DiCaprio",
+        "Johnny Depp",
+        "Will Smith"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Pokémon serisi oyunlarında oyuncuların temel amacı genellikle nedir?",
+      "options": [
+        "En hızlı arabayı sürmek",
+        "Krallığı kurtarmak",
+        "Futbol şampiyonu olmak",
+        "Tüm Pokémonları yakalayıp eğiticisi olmak",
+        "Uzaylı istilasını durdurmak"
       ],
       "correct": 3
     },
     {
-      "question": "Marvel Sinematik Evreni'nde (MCU), 'Sonsuzluk Taşları'nı toplayarak parmak şıklatmasıyla evrendeki canlı yaşamının yarısını yok eden ikonik kötü karakter Thanos'un bu eylemi, hayranlar arasında hangi isimle anılır?",
+      "question": "Türkiye'deki caps kültüründe sıkça görülen ve genellikle bir olayın beklenmedik veya trajikomik bir şekilde sona erdiğini anlatan, \"Peki ya...?\" sorusuyla başlayan meşhur caps serisi, hangi Türk filminin ikonik repliklerinden esinlenilmiştir? (İpucu: Münir Özkul ve Adile Naşit'in rol aldığı bir Yeşilçam klasiği)",
       "options": [
-        "The Blip",
-        "The Great Purge",
-        "The Snap",
-        "The Cosmic Event",
-        "The Reckoning"
+        "Hababam Sınıfı",
+        "Neşeli Günler",
+        "Bizim Aile",
+        "Selvi Boylum Al Yazmalım",
+        "Tosun Paşa"
       ],
       "correct": 2
-    },
-    {
-      "question": "2023 yılında tarih yazarak CEV Avrupa Şampiyonası'nda altın madalya kazanan A Milli Kadın Voleybol Takımımız 'Filenin Sultanları', final maçında hangi ülkenin takımını mağlup etmiştir?",
-      "options": [
-        "İtalya",
-        "Polonya",
-        "Sırbistan",
-        "Hollanda",
-        "Fransa"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "NBA efsanesi Michael Jordan'ın liderliğindeki Chicago Bulls, 1991 yılında kazandığı ilk NBA şampiyonluğunda finalde hangi takımı mağlup etmiştir?",
-      "options": [
-        "Portland Trail Blazers",
-        "Los Angeles Lakers",
-        "Phoenix Suns",
-        "Detroit Pistons",
-        "Utah Jazz"
-      ],
-      "correct": 1
     }
   ]
 }
