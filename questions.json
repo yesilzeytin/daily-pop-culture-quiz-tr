@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Hangi Disney animasyonunda, \"Let It Go\" şarkısı ile buzdan bir saray inşa eden güçlü bir prenses bulunur?",
+      "question": "Türkiye'nin ilk Formula 1 pilotu unvanını taşıyan ve 2005 yılında Minardi takımıyla Formula 1 test sürüşleri gerçekleştiren sporcu kimdir?",
       "options": [
-        "Karlar Ülkesi (Frozen)",
-        "Moana",
-        "Küçük Deniz Kızı (The Little Mermaid)",
-        "Cesur (Brave)",
-        "Rapunzel"
+        "Jason Tahincioğlu",
+        "Can Artam",
+        "Cem Bölüşbaşı",
+        "Ayhancan Güven",
+        "Alperen Karaman"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
-      "question": "PlayStation'ın popüler aksiyon-macera serisi Uncharted'ın ana karakteri Nathan Drake'in mesleği nedir?",
+      "question": "Türkiye'de Twitch platformunda en çok takipçiye sahip yayıncılardan biri olan ve özellikle League of Legends yayınlarıyla tanınan \"Elraenn\" lakaplı ismin gerçek adı nedir?",
       "options": [
-        "Samuray",
-        "Bilim Adamı",
-        "Hazine Avcısı",
-        "Formula 1 Pilotu",
-        "Uzay Maceracısı"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "\"Interstellar\", \"Inception\" ve \"The Wolf of Wall Street\" gibi filmlerdeki performanslarıyla tanınan, kariyerinde birçok prestijli ödüle sahip olan ünlü aktör kimdir?",
-      "options": [
-        "Brad Pitt",
-        "Tom Hanks",
-        "Leonardo DiCaprio",
-        "Johnny Depp",
-        "Will Smith"
+        "Ferit Karakaya",
+        "Efe Uygaç",
+        "Cem Karakoç",
+        "Tuna Akşen",
+        "Can Sungur"
       ],
       "correct": 2
     },
     {
-      "question": "Pokémon serisi oyunlarında oyuncuların temel amacı genellikle nedir?",
+      "question": "\"Shallow\" şarkısıyla hem Grammy hem de Oscar ödülü kazanan, \"Bir Yıldız Doğuyor\" (A Star Is Born) filmindeki performansıyla da beğeni toplayan dünyaca ünlü şarkıcı ve oyuncu kimdir?",
       "options": [
-        "En hızlı arabayı sürmek",
-        "Krallığı kurtarmak",
-        "Futbol şampiyonu olmak",
-        "Tüm Pokémonları yakalayıp eğiticisi olmak",
-        "Uzaylı istilasını durdurmak"
+        "Rihanna",
+        "Adele",
+        "Lady Gaga",
+        "Beyoncé",
+        "Taylor Swift"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "90'lı yılların çocuklarının vazgeçilmezi olan, paketin içinden genellikle küçük bir çizgi film veya karikatürle birlikte çıkan, tadı şekerli ve hafif ekşi olan sakızın adı nedir?",
+      "options": [
+        "Big Babol",
+        "Sulugöz",
+        "Şıpsevdi",
+        "Tipitip",
+        "Turbo"
       ],
       "correct": 3
     },
     {
-      "question": "Türkiye'deki caps kültüründe sıkça görülen ve genellikle bir olayın beklenmedik veya trajikomik bir şekilde sona erdiğini anlatan, \"Peki ya...?\" sorusuyla başlayan meşhur caps serisi, hangi Türk filminin ikonik repliklerinden esinlenilmiştir? (İpucu: Münir Özkul ve Adile Naşit'in rol aldığı bir Yeşilçam klasiği)",
+      "question": "Bir dönem Yumurcak TV'de yayınlanan ve \"Haydi gel köyümüze geri dönelim!\" şarkısıyla akıllarda yer eden, Alp Dağları'nda dedesiyle yaşayan küçük kız karakterin adı nedir?",
       "options": [
-        "Hababam Sınıfı",
-        "Neşeli Günler",
-        "Bizim Aile",
-        "Selvi Boylum Al Yazmalım",
-        "Tosun Paşa"
+        "Candy",
+        "Maya",
+        "Heidi",
+        "Pollyanna",
+        "Pippi Uzunçorap"
       ],
       "correct": 2
     }
