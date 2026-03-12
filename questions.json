@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Türkiye'nin ilk Formula 1 pilotu unvanını taşıyan ve 2005 yılında Minardi takımıyla Formula 1 test sürüşleri gerçekleştiren sporcu kimdir?",
+      "question": "Gişe rekorları kıran \"Avatar\" filmleri serisinin yönetmeni kimdir? Kendisi aynı zamanda \"Titanic\" ve \"Terminator 2: Judgment Day\" gibi ikonik yapımlarla da tanınmaktadır.",
       "options": [
-        "Jason Tahincioğlu",
-        "Can Artam",
-        "Cem Bölüşbaşı",
-        "Ayhancan Güven",
-        "Alperen Karaman"
+        "Christopher Nolan",
+        "Steven Spielberg",
+        "James Cameron",
+        "George Lucas",
+        "Peter Jackson"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Pixar Animation Studios yapımı, duygusal ve macera dolu animasyon filmi \"Yukarı Bak\" (Up) filminde, hayali Güney Amerika seyahatini gerçekleştirmek için evini binlerce balonla uçuran, eşini kaybetmiş yaşlı maceraperestin adı nedir?",
+      "options": [
+        "Carl Fredricksen",
+        "Russell",
+        "Dug",
+        "Kevin",
+        "Charles Muntz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "20. yüzyılın en etkili moda tasarımcılarından biri olan ve kendi adını taşıyan markasıyla \"küçük siyah elbise\" (Little Black Dress) ile tüvit takımları gibi zamansız ve ikonik tasarımlara imza atan Fransız tasarımcı kimdir?",
+      "options": [
+        "Yves Saint Laurent",
+        "Coco Chanel",
+        "Elsa Schiaparelli",
+        "Hubert de Givenchy",
+        "Jeanne Lanvin"
       ],
       "correct": 1
     },
     {
-      "question": "Türkiye'de Twitch platformunda en çok takipçiye sahip yayıncılardan biri olan ve özellikle League of Legends yayınlarıyla tanınan \"Elraenn\" lakaplı ismin gerçek adı nedir?",
+      "question": "Gupse Özay'ın yazıp başrolünü üstlendiği, deli dolu ve sakar karakter 'Yeliz'in komik maceralarını anlatan ve büyük gişe başarısı yakalayan Türk komedi filmi serisinin adı nedir?",
       "options": [
-        "Ferit Karakaya",
-        "Efe Uygaç",
-        "Cem Karakoç",
-        "Tuna Akşen",
-        "Can Sungur"
+        "Kocan Kadar Konuş",
+        "Görümce",
+        "Deliha",
+        "Eltilerin Savaşı",
+        "Tatlım Tatlım"
       ],
       "correct": 2
     },
     {
-      "question": "\"Shallow\" şarkısıyla hem Grammy hem de Oscar ödülü kazanan, \"Bir Yıldız Doğuyor\" (A Star Is Born) filmindeki performansıyla da beğeni toplayan dünyaca ünlü şarkıcı ve oyuncu kimdir?",
+      "question": "TikTok platformunda \"nasıl yapıldığını\" gösteren komik ve basit çözümlerle bilinen, neredeyse hiçbir kelime kullanmadan çektiği kısa videolarla dünya çapında ün kazanmış ve en çok takipçisi olan isimlerden biri haline gelmiş fenomen kimdir?",
       "options": [
-        "Rihanna",
-        "Adele",
-        "Lady Gaga",
-        "Beyoncé",
-        "Taylor Swift"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "90'lı yılların çocuklarının vazgeçilmezi olan, paketin içinden genellikle küçük bir çizgi film veya karikatürle birlikte çıkan, tadı şekerli ve hafif ekşi olan sakızın adı nedir?",
-      "options": [
-        "Big Babol",
-        "Sulugöz",
-        "Şıpsevdi",
-        "Tipitip",
-        "Turbo"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Bir dönem Yumurcak TV'de yayınlanan ve \"Haydi gel köyümüze geri dönelim!\" şarkısıyla akıllarda yer eden, Alp Dağları'nda dedesiyle yaşayan küçük kız karakterin adı nedir?",
-      "options": [
-        "Candy",
-        "Maya",
-        "Heidi",
-        "Pollyanna",
-        "Pippi Uzunçorap"
+        "Charli D'Amelio",
+        "Addison Rae",
+        "Khaby Lame",
+        "Bella Poarch",
+        "MrBeast"
       ],
       "correct": 2
     }
