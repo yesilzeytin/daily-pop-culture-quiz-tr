@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Gişe rekorları kıran \"Avatar\" filmleri serisinin yönetmeni kimdir? Kendisi aynı zamanda \"Titanic\" ve \"Terminator 2: Judgment Day\" gibi ikonik yapımlarla da tanınmaktadır.",
+      "question": "Ünlü aktör Tom Cruise'un canlandırdığı, bir IMF ajanının (Impossible Missions Force) nefes kesen görevlerini konu alan uzun soluklu aksiyon film serisi hangisidir?",
       "options": [
-        "Christopher Nolan",
-        "Steven Spielberg",
-        "James Cameron",
-        "George Lucas",
-        "Peter Jackson"
+        "James Bond",
+        "Bourne Serisi",
+        "Hızlı ve Öfkeli",
+        "Görevimiz Tehlike (Mission: Impossible)",
+        "Indiana Jones"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Disney Channel'ın popüler çizgi dizisi 'Phineas ve Ferb'de, Phineas ve üvey kardeşi Ferb'in her yaz farklı ve abartılı projeler geliştirmesine engel olmaya çalışan ablasının adı nedir?",
+      "options": [
+        "Isabella",
+        "Vanessa",
+        "Candace",
+        "Linda",
+        "Stacy"
       ],
       "correct": 2
     },
     {
-      "question": "Pixar Animation Studios yapımı, duygusal ve macera dolu animasyon filmi \"Yukarı Bak\" (Up) filminde, hayali Güney Amerika seyahatini gerçekleştirmek için evini binlerce balonla uçuran, eşini kaybetmiş yaşlı maceraperestin adı nedir?",
+      "question": "2021 yılında tüm dünyada büyük yankı uyandıran ve Netflix'in en çok izlenen yapımlarından biri haline gelen, hayatta kalma temalı Güney Kore dizisinin adı nedir?",
       "options": [
-        "Carl Fredricksen",
-        "Russell",
-        "Dug",
-        "Kevin",
-        "Charles Muntz"
+        "Crash Landing on You",
+        "Kingdom",
+        "Vincenzo",
+        "Goblin",
+        "Squid Game"
       ],
-      "correct": 0
+      "correct": 4
     },
     {
-      "question": "20. yüzyılın en etkili moda tasarımcılarından biri olan ve kendi adını taşıyan markasıyla \"küçük siyah elbise\" (Little Black Dress) ile tüvit takımları gibi zamansız ve ikonik tasarımlara imza atan Fransız tasarımcı kimdir?",
+      "question": "Cartoon Network'ün sevilen çizgi dizisi 'Adventure Time'da, sihirli bir köpekle birlikte Ooo Diyarı'nda maceralara atılan insan çocuğunun adı nedir?",
       "options": [
-        "Yves Saint Laurent",
-        "Coco Chanel",
-        "Elsa Schiaparelli",
-        "Hubert de Givenchy",
-        "Jeanne Lanvin"
+        "Jake",
+        "Finn",
+        "Gumball",
+        "Mordecai",
+        "Steven"
       ],
       "correct": 1
     },
     {
-      "question": "Gupse Özay'ın yazıp başrolünü üstlendiği, deli dolu ve sakar karakter 'Yeliz'in komik maceralarını anlatan ve büyük gişe başarısı yakalayan Türk komedi filmi serisinin adı nedir?",
+      "question": "Dünyanın en büyük video paylaşım platformu YouTube'a yüklenen ilk videonun adı nedir? (Bu video, platformun kurucularından Jawed Karim'in San Diego Hayvanat Bahçesi'ni ziyaretini içerir.)",
       "options": [
-        "Kocan Kadar Konuş",
-        "Görümce",
-        "Deliha",
-        "Eltilerin Savaşı",
-        "Tatlım Tatlım"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "TikTok platformunda \"nasıl yapıldığını\" gösteren komik ve basit çözümlerle bilinen, neredeyse hiçbir kelime kullanmadan çektiği kısa videolarla dünya çapında ün kazanmış ve en çok takipçisi olan isimlerden biri haline gelmiş fenomen kimdir?",
-      "options": [
-        "Charli D'Amelio",
-        "Addison Rae",
-        "Khaby Lame",
-        "Bella Poarch",
-        "MrBeast"
+        "Charlie Bit My Finger",
+        "Evolution of Dance",
+        "Me at the zoo",
+        "Gangnam Style",
+        "Baby"
       ],
       "correct": 2
     }
