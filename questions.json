@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Ünlü aktör Tom Cruise'un canlandırdığı, bir IMF ajanının (Impossible Missions Force) nefes kesen görevlerini konu alan uzun soluklu aksiyon film serisi hangisidir?",
+      "question": "Altın Kelebek Ödülleri tarihinde \"En İyi Kadın Oyuncu\" kategorisinde birden fazla ödül kazanmış, usta tiyatro ve sinema oyuncusu aşağıdakilerden hangisidir?",
       "options": [
-        "James Bond",
-        "Bourne Serisi",
-        "Hızlı ve Öfkeli",
-        "Görevimiz Tehlike (Mission: Impossible)",
-        "Indiana Jones"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Disney Channel'ın popüler çizgi dizisi 'Phineas ve Ferb'de, Phineas ve üvey kardeşi Ferb'in her yaz farklı ve abartılı projeler geliştirmesine engel olmaya çalışan ablasının adı nedir?",
-      "options": [
-        "Isabella",
-        "Vanessa",
-        "Candace",
-        "Linda",
-        "Stacy"
+        "Tuba Büyüküstün",
+        "Hazal Kaya",
+        "Demet Akbağ",
+        "Bergüzar Korel",
+        "Fahriye Evcen"
       ],
       "correct": 2
     },
     {
-      "question": "2021 yılında tüm dünyada büyük yankı uyandıran ve Netflix'in en çok izlenen yapımlarından biri haline gelen, hayatta kalma temalı Güney Kore dizisinin adı nedir?",
+      "question": "Netflix Türkiye'nin ilk orijinal yerli dizisi olan \"Hakan: Muhafız\"ın başrolünde, 'Son Muhafız' Hakan Demir karakterini canlandıran oyuncu kimdir?",
       "options": [
-        "Crash Landing on You",
-        "Kingdom",
-        "Vincenzo",
-        "Goblin",
-        "Squid Game"
-      ],
-      "correct": 4
-    },
-    {
-      "question": "Cartoon Network'ün sevilen çizgi dizisi 'Adventure Time'da, sihirli bir köpekle birlikte Ooo Diyarı'nda maceralara atılan insan çocuğunun adı nedir?",
-      "options": [
-        "Jake",
-        "Finn",
-        "Gumball",
-        "Mordecai",
-        "Steven"
+        "Engin Akyürek",
+        "Çağatay Ulusoy",
+        "Kıvanç Tatlıtuğ",
+        "Aras Bulut İynemli",
+        "Kerem Bürsin"
       ],
       "correct": 1
     },
     {
-      "question": "Dünyanın en büyük video paylaşım platformu YouTube'a yüklenen ilk videonun adı nedir? (Bu video, platformun kurucularından Jawed Karim'in San Diego Hayvanat Bahçesi'ni ziyaretini içerir.)",
+      "question": "Formula 1 tarihinde yedi dünya şampiyonluğuyla Michael Schumacher ile birlikte 'en çok şampiyonluk rekorunu' elinde bulunduran güncel pilot aşağıdakilerden hangisidir?",
       "options": [
-        "Charlie Bit My Finger",
-        "Evolution of Dance",
-        "Me at the zoo",
-        "Gangnam Style",
-        "Baby"
+        "Max Verstappen",
+        "Fernando Alonso",
+        "Lewis Hamilton",
+        "Sebastian Vettel",
+        "Charles Leclerc"
       ],
       "correct": 2
+    },
+    {
+      "question": "Harry Potter serisinde, Hogwarts Cadılık ve Büyücülük Okulu'nun dört binasından biri olan 'Slytherin'in kurucusu kimdir?",
+      "options": [
+        "Godric Gryffindor",
+        "Helga Hufflepuff",
+        "Albus Dumbledore",
+        "Salazar Slytherin",
+        "Rowena Ravenclaw"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Netflix'in dünya çapında büyük ilgi gören İspanyol soygun dizisi \"La Casa de Papel\"de, soygun planlarını titizlikle yapan ve ekibi yöneten zeka küpü karakterin kod adı nedir?",
+      "options": [
+        "Tokyo",
+        "Berlin",
+        "Rio",
+        "Profesör",
+        "Nairobi"
+      ],
+      "correct": 3
     }
   ]
 }
