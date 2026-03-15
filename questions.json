@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Altın Kelebek Ödülleri tarihinde \"En İyi Kadın Oyuncu\" kategorisinde birden fazla ödül kazanmış, usta tiyatro ve sinema oyuncusu aşağıdakilerden hangisidir?",
+      "question": "FIFA Dünya Kupası tarihinde bir maçta en çok gol atan oyuncu unvanı, 1994 Dünya Kupası'nda Rusya formasıyla Kamerun'a karşı 5 gol atan hangi futbolcuya aittir?",
       "options": [
-        "Tuba Büyüküstün",
-        "Hazal Kaya",
-        "Demet Akbağ",
-        "Bergüzar Korel",
-        "Fahriye Evcen"
+        "Oleg Salenko",
+        "Miroslav Klose",
+        "Just Fontaine",
+        "Gerd Müller",
+        "Pelé"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "Netflix Türkiye'nin ilk orijinal yerli dizisi olan \"Hakan: Muhafız\"ın başrolünde, 'Son Muhafız' Hakan Demir karakterini canlandıran oyuncu kimdir?",
+      "question": "1991 yılında çıkan \"Smells Like Teen Spirit\" adlı ikonik şarkısıyla grunge müziğin dünya çapında tanınmasını sağlayan ve 90'lı yıllara damga vuran grup hangisidir?",
       "options": [
-        "Engin Akyürek",
-        "Çağatay Ulusoy",
-        "Kıvanç Tatlıtuğ",
-        "Aras Bulut İynemli",
-        "Kerem Bürsin"
+        "Pearl Jam",
+        "Soundgarden",
+        "Alice in Chains",
+        "Nirvana",
+        "Stone Temple Pilots"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Soğuk Savaş döneminin gerilimini ve uzay yarışını konu alan, Tom Hanks'in başrolünde oynadığı 1995 yapımı Apollo 13 filmi, NASA'nın başarısızlıkla sonuçlanan ancak mürettebatın kurtarıldığı hangi uzay görevini anlatmaktadır?",
+      "options": [
+        "Apollo 11",
+        "Apollo 13",
+        "Apollo 17",
+        "Gemini 4",
+        "Mercury-Redstone 3"
       ],
       "correct": 1
     },
     {
-      "question": "Formula 1 tarihinde yedi dünya şampiyonluğuyla Michael Schumacher ile birlikte 'en çok şampiyonluk rekorunu' elinde bulunduran güncel pilot aşağıdakilerden hangisidir?",
+      "question": "Milyonlarca abonesi bulunan ve genellikle çılgın deneyler, büyük ödüllü meydan okumalar ve hayır işleriyle tanınan, YouTube'un en popüler içerik üreticilerinden biri olan \"MrBeast\"in gerçek adı nedir?",
       "options": [
-        "Max Verstappen",
-        "Fernando Alonso",
-        "Lewis Hamilton",
-        "Sebastian Vettel",
-        "Charles Leclerc"
+        "Felix Kjellberg",
+        "Jimmy Donaldson",
+        "Markiplier",
+        "Seán McLoughlin",
+        "Tyler Blevins"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
-      "question": "Harry Potter serisinde, Hogwarts Cadılık ve Büyücülük Okulu'nun dört binasından biri olan 'Slytherin'in kurucusu kimdir?",
+      "question": "Türkiye Basketbol Süper Ligi'nde en çok şampiyonluk yaşayan takımlardan biri olan ve EuroLeague'de iki kez zafere ulaşan Anadolu Efes'in eski adı nedir?",
       "options": [
-        "Godric Gryffindor",
-        "Helga Hufflepuff",
-        "Albus Dumbledore",
-        "Salazar Slytherin",
-        "Rowena Ravenclaw"
+        "Eczacıbaşı",
+        "Ülkerspor",
+        "Tofaş",
+        "Karşıyaka",
+        "Efes Pilsen"
       ],
-      "correct": 3
-    },
-    {
-      "question": "Netflix'in dünya çapında büyük ilgi gören İspanyol soygun dizisi \"La Casa de Papel\"de, soygun planlarını titizlikle yapan ve ekibi yöneten zeka küpü karakterin kod adı nedir?",
-      "options": [
-        "Tokyo",
-        "Berlin",
-        "Rio",
-        "Profesör",
-        "Nairobi"
-      ],
-      "correct": 3
+      "correct": 4
     }
   ]
 }
