@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "FIFA Dünya Kupası tarihinde bir maçta en çok gol atan oyuncu unvanı, 1994 Dünya Kupası'nda Rusya formasıyla Kamerun'a karşı 5 gol atan hangi futbolcuya aittir?",
+      "question": "Netflix'in popüler bilim kurgu dizisi Stranger Things'te, Hawkins kasabasında meydana gelen doğaüstü olaylarla mücadele eden ve telekinetik güçlere sahip olan genç kız karakterin adı nedir?",
       "options": [
-        "Oleg Salenko",
-        "Miroslav Klose",
-        "Just Fontaine",
-        "Gerd Müller",
-        "Pelé"
+        "Max",
+        "Nancy",
+        "Eleven",
+        "Robin",
+        "Erica"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "question": "1991 yılında çıkan \"Smells Like Teen Spirit\" adlı ikonik şarkısıyla grunge müziğin dünya çapında tanınmasını sağlayan ve 90'lı yıllara damga vuran grup hangisidir?",
+      "question": "Nickelodeon'un uzun soluklu çizgi dizisi SüngerBob KareŞort'ta, SüngerBob'un en iyi arkadaşı olan, denizyıldızı karakterin adı nedir?",
       "options": [
-        "Pearl Jam",
-        "Soundgarden",
-        "Alice in Chains",
-        "Nirvana",
-        "Stone Temple Pilots"
+        "Squidward",
+        "Mr. Krabs",
+        "Patrick",
+        "Sandy",
+        "Plankton"
       ],
-      "correct": 3
+      "correct": 2
     },
     {
-      "question": "Soğuk Savaş döneminin gerilimini ve uzay yarışını konu alan, Tom Hanks'in başrolünde oynadığı 1995 yapımı Apollo 13 filmi, NASA'nın başarısızlıkla sonuçlanan ancak mürettebatın kurtarıldığı hangi uzay görevini anlatmaktadır?",
+      "question": "DC Genişletilmiş Evreni (DCEU) filmlerinde, 'Superman' karakterini canlandıran ve çelik adam olarak bilinen aktör kimdir?",
       "options": [
-        "Apollo 11",
-        "Apollo 13",
-        "Apollo 17",
-        "Gemini 4",
-        "Mercury-Redstone 3"
+        "Christian Bale",
+        "Ben Affleck",
+        "Henry Cavill",
+        "Robert Pattinson",
+        "Ezra Miller"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "2021 ve 2022 yıllarında üst üste EuroLeague şampiyonluğunu kazanarak Türk basketbol tarihine geçen Anadolu Efes takımının başantrenörü kimdir?",
+      "options": [
+        "Zeljko Obradovic",
+        "Ergin Ataman",
+        "Ufuk Sarıca",
+        "Ozan Bulkaz",
+        "Orhun Ene"
       ],
       "correct": 1
     },
     {
-      "question": "Milyonlarca abonesi bulunan ve genellikle çılgın deneyler, büyük ödüllü meydan okumalar ve hayır işleriyle tanınan, YouTube'un en popüler içerik üreticilerinden biri olan \"MrBeast\"in gerçek adı nedir?",
+      "question": "Türk sinemasının kült yapımlarından Hababam Sınıfı serisinde, genellikle sakar, saf ve komik halleriyle akıllarda yer eden 'İnek Şaban' karakterini canlandıran usta oyuncu kimdir?",
       "options": [
-        "Felix Kjellberg",
-        "Jimmy Donaldson",
-        "Markiplier",
-        "Seán McLoughlin",
-        "Tyler Blevins"
+        "Münir Özkul",
+        "Adile Naşit",
+        "Kemal Sunal",
+        "Halit Akçatepe",
+        "Şener Şen"
       ],
-      "correct": 1
-    },
-    {
-      "question": "Türkiye Basketbol Süper Ligi'nde en çok şampiyonluk yaşayan takımlardan biri olan ve EuroLeague'de iki kez zafere ulaşan Anadolu Efes'in eski adı nedir?",
-      "options": [
-        "Eczacıbaşı",
-        "Ülkerspor",
-        "Tofaş",
-        "Karşıyaka",
-        "Efes Pilsen"
-      ],
-      "correct": 4
+      "correct": 2
     }
   ]
 }
