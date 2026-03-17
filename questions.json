@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Netflix'in popüler bilim kurgu dizisi Stranger Things'te, Hawkins kasabasında meydana gelen doğaüstü olaylarla mücadele eden ve telekinetik güçlere sahip olan genç kız karakterin adı nedir?",
+      "question": "Türkiye'de internet fenomenleri arasında yer alan ve \"Tostumu yedim bekliyorum\" sözleriyle tanınan, aynı zamanda \"dayı\" karakteriyle özdeşleşen isim kimdir?",
       "options": [
-        "Max",
-        "Nancy",
-        "Eleven",
-        "Robin",
-        "Erica"
+        "Halil Söyletmez",
+        "Şahan Gökbakar",
+        "Cem Yılmaz",
+        "Atilla Taş",
+        "Hakan Hepcan"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Recep İvedik serisinin ilk filminde, Recep İvedik hangi olay sonrası İstanbul'dan ayrılarak dedesinin köyüne gider?",
+      "options": [
+        "İşini kaybetmesi",
+        "Sevdiği kadından ayrılması",
+        "Otelde unuttuğu cüzdanı geri götürmek",
+        "Eski bir arkadaşıyla kavga etmesi",
+        "Büyük bir miras kalması"
       ],
       "correct": 2
     },
     {
-      "question": "Nickelodeon'un uzun soluklu çizgi dizisi SüngerBob KareŞort'ta, SüngerBob'un en iyi arkadaşı olan, denizyıldızı karakterin adı nedir?",
+      "question": "2018 yılında vizyona giren ve merhum arabesk sanatçısı Müslüm Gürses'in hayatını konu alan biyografik filmin adı nedir?",
       "options": [
-        "Squidward",
-        "Mr. Krabs",
-        "Patrick",
-        "Sandy",
-        "Plankton"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "DC Genişletilmiş Evreni (DCEU) filmlerinde, 'Superman' karakterini canlandıran ve çelik adam olarak bilinen aktör kimdir?",
-      "options": [
-        "Christian Bale",
-        "Ben Affleck",
-        "Henry Cavill",
-        "Robert Pattinson",
-        "Ezra Miller"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "2021 ve 2022 yıllarında üst üste EuroLeague şampiyonluğunu kazanarak Türk basketbol tarihine geçen Anadolu Efes takımının başantrenörü kimdir?",
-      "options": [
-        "Zeljko Obradovic",
-        "Ergin Ataman",
-        "Ufuk Sarıca",
-        "Ozan Bulkaz",
-        "Orhun Ene"
+        "Arabesk",
+        "Müslüm",
+        "Baba",
+        "Neredesin Firuze",
+        "Benzemez Kimse Sana"
       ],
       "correct": 1
     },
     {
-      "question": "Türk sinemasının kült yapımlarından Hababam Sınıfı serisinde, genellikle sakar, saf ve komik halleriyle akıllarda yer eden 'İnek Şaban' karakterini canlandıran usta oyuncu kimdir?",
+      "question": "Cem Yılmaz'ın senaryosunu yazıp başrolünde oynadığı, uzay maceralarını konu alan ve Arif Işık karakterini merkeze alan bilim kurgu komedi filminin adı nedir?",
       "options": [
-        "Münir Özkul",
-        "Adile Naşit",
-        "Kemal Sunal",
-        "Halit Akçatepe",
-        "Şener Şen"
+        "Gora",
+        "AROG",
+        "Yahşi Batı",
+        "Pek Yakında",
+        "Hokkabaz"
       ],
-      "correct": 2
+      "correct": 0
+    },
+    {
+      "question": "UEFA Şampiyonlar Ligi tarihinde en çok şampiyonluk yaşayan takım hangisidir?",
+      "options": [
+        "AC Milan",
+        "Bayern Münih",
+        "Barcelona",
+        "Liverpool",
+        "Real Madrid"
+      ],
+      "correct": 4
     }
   ]
 }
