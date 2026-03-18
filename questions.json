@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Türkiye'de internet fenomenleri arasında yer alan ve \"Tostumu yedim bekliyorum\" sözleriyle tanınan, aynı zamanda \"dayı\" karakteriyle özdeşleşen isim kimdir?",
+      "question": "Türkiye'de YouTube'dan 10 milyon abone barajını aşarak \"Diamond Play Button\" ödülünü alan ilk kanal hangisidir?",
       "options": [
-        "Halil Söyletmez",
-        "Şahan Gökbakar",
-        "Cem Yılmaz",
-        "Atilla Taş",
-        "Hakan Hepcan"
+        "Enes Batur",
+        "Orkun Işıtmak",
+        "Kafalar",
+        "Reynmen",
+        "Ruhi Çenet"
       ],
       "correct": 0
     },
     {
-      "question": "Recep İvedik serisinin ilk filminde, Recep İvedik hangi olay sonrası İstanbul'dan ayrılarak dedesinin köyüne gider?",
+      "question": "Nazi Almanyası lideri Adolf Hitler'in son günlerini konu alan, Bruno Ganz'ın Hitler'i canlandırdığı ve popüler bir internet meme'ine de ilham veren 2004 yapımı filmin adı nedir?",
       "options": [
-        "İşini kaybetmesi",
-        "Sevdiği kadından ayrılması",
-        "Otelde unuttuğu cüzdanı geri götürmek",
-        "Eski bir arkadaşıyla kavga etmesi",
-        "Büyük bir miras kalması"
+        "Piyanist (The Pianist)",
+        "Hayat Güzeldir (Life Is Beautiful)",
+        "Çöküş (Downfall)",
+        "Er Ryan'ı Kurtarmak (Saving Private Ryan)",
+        "Soysuzlar Çetesi (Inglourious Basterds)"
       ],
       "correct": 2
     },
     {
-      "question": "2018 yılında vizyona giren ve merhum arabesk sanatçısı Müslüm Gürses'in hayatını konu alan biyografik filmin adı nedir?",
+      "question": "Twitch platformunda milyonlarca takipçisi bulunan ve özellikle eğlenceli yayınları ile dikkat çeken \"Pqueen\" lakaplı popüler yayıncının gerçek adı nedir?",
       "options": [
-        "Arabesk",
-        "Müslüm",
-        "Baba",
-        "Neredesin Firuze",
-        "Benzemez Kimse Sana"
+        "Pelin Öztürk",
+        "Selin Deniz",
+        "Pelin Baynazoğlu",
+        "Gizem Sınav",
+        "Büşra Develi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Netflix Türkiye'nin popüler yerli yapımlarından biri olan ve gizemli bir aşk hikayesini konu alırken, başrolünde Çağatay Ulusoy'un bir terzi karakterini canlandırdığı dizinin adı nedir?",
+      "options": [
+        "Kuş Uçuşu",
+        "Atiye",
+        "Terzi",
+        "Zeytin Ağacı",
+        "Kimler Geldi Kimler Geçti"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türkiye'de sosyal medyada, özellikle Twitter'da, Ramazan ayı boyunca iftar ve sahur vakitlerini espriyle duyuran, geri sayımlar yapan ve viral olan popüler akım veya hesap grubu aşağıdakilerden hangisidir?",
+      "options": [
+        "Ramazan Paylaşımları",
+        "İmsakiye Time",
+        "Ramazan Diyetleri",
+        "Son Dakika İftar",
+        "Ramazan Davulcusu"
       ],
       "correct": 1
-    },
-    {
-      "question": "Cem Yılmaz'ın senaryosunu yazıp başrolünde oynadığı, uzay maceralarını konu alan ve Arif Işık karakterini merkeze alan bilim kurgu komedi filminin adı nedir?",
-      "options": [
-        "Gora",
-        "AROG",
-        "Yahşi Batı",
-        "Pek Yakında",
-        "Hokkabaz"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "UEFA Şampiyonlar Ligi tarihinde en çok şampiyonluk yaşayan takım hangisidir?",
-      "options": [
-        "AC Milan",
-        "Bayern Münih",
-        "Barcelona",
-        "Liverpool",
-        "Real Madrid"
-      ],
-      "correct": 4
     }
   ]
 }
