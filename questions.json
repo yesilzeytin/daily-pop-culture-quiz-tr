@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Türkiye'de YouTube'dan 10 milyon abone barajını aşarak \"Diamond Play Button\" ödülünü alan ilk kanal hangisidir?",
+      "question": "Shakira'nın dünya çapında hit olan ve 2010 FIFA Dünya Kupası'nın resmi şarkısı olarak bilinen parçası hangisidir?",
       "options": [
-        "Enes Batur",
-        "Orkun Işıtmak",
-        "Kafalar",
-        "Reynmen",
-        "Ruhi Çenet"
+        "Waka Waka (This Time for Africa)",
+        "Hips Don't Lie",
+        "Whenever, Wherever",
+        "La Tortura",
+        "Chantaje"
       ],
       "correct": 0
     },
     {
-      "question": "Nazi Almanyası lideri Adolf Hitler'in son günlerini konu alan, Bruno Ganz'ın Hitler'i canlandırdığı ve popüler bir internet meme'ine de ilham veren 2004 yapımı filmin adı nedir?",
+      "question": "Taylor Swift'in hangi albümü, 2024 Grammy Ödülleri'nde 'Yılın Albümü' ödülünü kazanarak bu kategoride 4. kez ödül alan tek sanatçı olma unvanını elde etmiştir?",
       "options": [
-        "Piyanist (The Pianist)",
-        "Hayat Güzeldir (Life Is Beautiful)",
-        "Çöküş (Downfall)",
-        "Er Ryan'ı Kurtarmak (Saving Private Ryan)",
-        "Soysuzlar Çetesi (Inglourious Basterds)"
+        "Folklore",
+        "1989 (Taylor's Version)",
+        "Midnights",
+        "Red (Taylor's Version)",
+        "Evermore"
       ],
       "correct": 2
     },
     {
-      "question": "Twitch platformunda milyonlarca takipçisi bulunan ve özellikle eğlenceli yayınları ile dikkat çeken \"Pqueen\" lakaplı popüler yayıncının gerçek adı nedir?",
+      "question": "Netflix'in 80'li yıllarda geçen bilim kurgu ve korku dizisi 'Stranger Things'te, Eleven karakterine güçlerini veren gizli deneylerin yapıldığı hayali kasabanın adı nedir?",
       "options": [
-        "Pelin Öztürk",
-        "Selin Deniz",
-        "Pelin Baynazoğlu",
-        "Gizem Sınav",
-        "Büşra Develi"
+        "Riverdale",
+        "Springfield",
+        "Hawkins",
+        "Beacon Hills",
+        "Sunnydale"
       ],
       "correct": 2
     },
     {
-      "question": "Netflix Türkiye'nin popüler yerli yapımlarından biri olan ve gizemli bir aşk hikayesini konu alırken, başrolünde Çağatay Ulusoy'un bir terzi karakterini canlandırdığı dizinin adı nedir?",
+      "question": "2017 yılında EuroLeague şampiyonluğunu kazanarak Türk basketbol tarihinde bir ilki gerçekleştiren ve bu prestijli kupayı Türkiye'ye getiren ilk Türk takımı hangisidir?",
       "options": [
-        "Kuş Uçuşu",
-        "Atiye",
-        "Terzi",
-        "Zeytin Ağacı",
-        "Kimler Geldi Kimler Geçti"
+        "Anadolu Efes",
+        "Galatasaray Nef",
+        "Fenerbahçe Beko",
+        "Darüşşafaka",
+        "Pınar Karşıyaka"
       ],
       "correct": 2
     },
     {
-      "question": "Türkiye'de sosyal medyada, özellikle Twitter'da, Ramazan ayı boyunca iftar ve sahur vakitlerini espriyle duyuran, geri sayımlar yapan ve viral olan popüler akım veya hesap grubu aşağıdakilerden hangisidir?",
+      "question": "1989 yılında Doğu ve Batı Almanya arasındaki fiziksel ve ideolojik bölünmenin sembolü olan yapının yıkılmasıyla sona eren tarihi olay nedir?",
       "options": [
-        "Ramazan Paylaşımları",
-        "İmsakiye Time",
-        "Ramazan Diyetleri",
-        "Son Dakika İftar",
-        "Ramazan Davulcusu"
+        "Çernobil Faciası",
+        "Soğuk Savaş'ın Resmen Sonu",
+        "Berlin Duvarı'nın Yıkılışı",
+        "Vietnam Savaşı'nın Sonu",
+        "Prag Baharı"
       ],
-      "correct": 1
+      "correct": 2
     }
   ]
 }
