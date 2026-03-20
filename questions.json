@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Shakira'nın dünya çapında hit olan ve 2010 FIFA Dünya Kupası'nın resmi şarkısı olarak bilinen parçası hangisidir?",
+      "question": "Kadir İnanır ve Türkân Şoray'ın başrollerini paylaştığı, aşkı ve fedakarlığı anlatan unutulmaz Yeşilçam filmi \"Selvi Boylum Al Yazmalım\"da, filmde söylenen 'sevgi emektir' felsefesinin sahibi olan karakterin adı nedir?",
       "options": [
-        "Waka Waka (This Time for Africa)",
-        "Hips Don't Lie",
-        "Whenever, Wherever",
-        "La Tortura",
-        "Chantaje"
+        "İlyas",
+        "Cemşit",
+        "Asya",
+        "Ali",
+        "Ayşe"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Grammy Ödülleri'ne aday gösterilen ilk K-Pop grubu olan ve 'Dynamite', 'Butter' gibi İngilizce şarkılarıyla da global listelerde zirveye çıkan erkek grubu hangisidir?",
+      "options": [
+        "EXO",
+        "Stray Kids",
+        "NCT",
+        "BTS",
+        "SEVENTEEN"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "League of Legends Dünya Şampiyonası (LoL Worlds) tarihinde birden fazla kez şampiyonluk kazanan efsanevi Güney Koreli orta koridor oyuncusu kimdir?",
+      "options": [
+        "Faker",
+        "Uzi",
+        "Perkz",
+        "Caps",
+        "Rekkles"
       ],
       "correct": 0
     },
     {
-      "question": "Taylor Swift'in hangi albümü, 2024 Grammy Ödülleri'nde 'Yılın Albümü' ödülünü kazanarak bu kategoride 4. kez ödül alan tek sanatçı olma unvanını elde etmiştir?",
+      "question": "CD Projekt Red tarafından geliştirilen, Geralt of Rivia adlı canavar avcısının maceralarını konu alan ve zengin hikaye anlatımıyla büyük beğeni toplayan popüler RPG oyun serisi hangisidir?",
       "options": [
-        "Folklore",
-        "1989 (Taylor's Version)",
-        "Midnights",
-        "Red (Taylor's Version)",
-        "Evermore"
+        "Elder Scrolls",
+        "Dragon Age",
+        "The Witcher",
+        "Mass Effect",
+        "Fallout"
       ],
       "correct": 2
     },
     {
-      "question": "Netflix'in 80'li yıllarda geçen bilim kurgu ve korku dizisi 'Stranger Things'te, Eleven karakterine güçlerini veren gizli deneylerin yapıldığı hayali kasabanın adı nedir?",
+      "question": "1969 yılında gerçekleşen ve rock müzik tarihinin en ikonik anlarından biri olarak kabul edilen, üç gün süren barış ve müzik festivalinin adı nedir?",
       "options": [
-        "Riverdale",
-        "Springfield",
-        "Hawkins",
-        "Beacon Hills",
-        "Sunnydale"
+        "Live Aid",
+        "Woodstock",
+        "Monterey Pop Festival",
+        "Altamont Free Concert",
+        "Glastonbury Festival"
       ],
-      "correct": 2
-    },
-    {
-      "question": "2017 yılında EuroLeague şampiyonluğunu kazanarak Türk basketbol tarihinde bir ilki gerçekleştiren ve bu prestijli kupayı Türkiye'ye getiren ilk Türk takımı hangisidir?",
-      "options": [
-        "Anadolu Efes",
-        "Galatasaray Nef",
-        "Fenerbahçe Beko",
-        "Darüşşafaka",
-        "Pınar Karşıyaka"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "1989 yılında Doğu ve Batı Almanya arasındaki fiziksel ve ideolojik bölünmenin sembolü olan yapının yıkılmasıyla sona eren tarihi olay nedir?",
-      "options": [
-        "Çernobil Faciası",
-        "Soğuk Savaş'ın Resmen Sonu",
-        "Berlin Duvarı'nın Yıkılışı",
-        "Vietnam Savaşı'nın Sonu",
-        "Prag Baharı"
-      ],
-      "correct": 2
+      "correct": 1
     }
   ]
 }
