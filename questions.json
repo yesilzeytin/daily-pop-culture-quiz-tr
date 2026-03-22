@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Türk sinemasının efsanevi oyuncularından, 'Sultan' lakabıyla tanınan ve Yeşilçam'ın unutulmaz isimlerinden biri olan aktris kimdir?",
+      "question": "Türkiye'de internet caps kültürünün en yaygın ve mizahi unsurlarından biri olan 'Çaycı Hüseyin' karakteri hangi popüler televizyon dizisinden çıkmıştır?",
       "options": [
-        "Hülya Koçyiğit",
-        "Fatma Girik",
-        "Belgin Doruk",
-        "Filiz Akın",
-        "Türkan Şoray"
-      ],
-      "correct": 4
-    },
-    {
-      "question": "HBO'nun dünyaca ünlü fantastik dizisi Game of Thrones'ta, Daenerys Targaryen'in üç ejderhasından en büyüğü ve en vahşisi olanın adı nedir?",
-      "options": [
-        "Rhaegal",
-        "Drogon",
-        "Viserion",
-        "Balerion",
-        "Meraxes"
+        "Seksenler",
+        "Çocuklar Duymasın",
+        "Cennet Mahallesi",
+        "Arka Sokaklar",
+        "Akasya Durağı"
       ],
       "correct": 1
     },
     {
-      "question": "Cem Yılmaz'ın yazıp yönettiği ve içerisinde farklı konulara sahip '2 Arada', 'Kaçamak', 'Deli' gibi kısa filmleri barındıran, tek bir sinematik evrende geçen antoloji film serisinin adı nedir?",
+      "question": "Walt Disney Animation Studios tarafından üretilen ve tüm zamanların en çok gişe yapan animasyon filmlerinden biri olan 'Karlı Ülke' (Frozen) filminin başkahramanı prenses Anna'nın kız kardeşinin adı nedir?",
       "options": [
-        "G.O.R.A.",
-        "A.R.O.G.",
-        "Karakomik Filmler",
-        "Hokkabaz",
-        "Ali Baba ve 7 Cüceler"
+        "Ariel",
+        "Rapunzel",
+        "Elsa",
+        "Merida",
+        "Moana"
       ],
       "correct": 2
     },
     {
-      "question": "1960'lı yılların İngiliz modasının ve pop kültürünün ikonik yüzlerinden biri olan, kısa saç kesimi ve büyük gözleriyle tanınan efsanevi model kimdir?",
+      "question": "NBA tarihinde normal sezon MVP (En Değerli Oyuncu) ödülünü 4 kez kazanmış ve 'Kral' lakabıyla bilinen efsanevi oyuncu kimdir?",
       "options": [
-        "Cindy Crawford",
-        "Naomi Campbell",
-        "Twiggy",
-        "Kate Moss",
-        "Claudia Schiffer"
+        "Michael Jordan",
+        "Kareem Abdul-Jabbar",
+        "LeBron James",
+        "Magic Johnson",
+        "Kobe Bryant"
       ],
       "correct": 2
     },
     {
-      "question": "Soğuk Savaş döneminin önemli olaylarından biri olan uzay yarışında, 1957 yılında Dünya'nın yörüngesine fırlatılan ilk yapay uydu Sputnik 1'i hangi ülke göndermiştir?",
+      "question": "19 Mayıs 1919'da Mustafa Kemal Atatürk'ün karargahıyla birlikte Samsun'a ulaşmasıyla başlayan Milli Mücadele'nin ilk adımı, hangi gemi ile gerçekleşmiştir?",
       "options": [
-        "Amerika Birleşik Devletleri",
-        "Birleşik Krallık",
-        "Sovyetler Birliği",
-        "Çin Halk Cumhuriyeti",
-        "Almanya"
+        "Ertuğrul Fırkateyni",
+        "Bandırma Vapuru",
+        "Nusret Mayın Gemisi",
+        "Yavuz Zırhlısı",
+        "Midilli Gemisi"
       ],
-      "correct": 2
+      "correct": 1
+    },
+    {
+      "question": "Olimpiyat tarihinde halterde üst üste 3 altın madalya kazanarak 'Cep Herkülü' lakabıyla anılan, Türk spor tarihinin en ikonik figürlerinden biri olan sporcu kimdir?",
+      "options": [
+        "Halil Mutlu",
+        "Naim Süleymanoğlu",
+        "Taner Sağır",
+        "Nurcan Taylan",
+        "Daniyar İsmayilov"
+      ],
+      "correct": 1
     }
   ]
 }
