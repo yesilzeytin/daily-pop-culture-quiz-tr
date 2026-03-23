@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Türkiye'de internet caps kültürünün en yaygın ve mizahi unsurlarından biri olan 'Çaycı Hüseyin' karakteri hangi popüler televizyon dizisinden çıkmıştır?",
+      "question": "2017 yılında dünya çapında viral olan ve popüler bir internet meme'ine dönüşen, ünlü şef Nusret Gökçe'nin ikonik hareketine ne ad verilir?",
       "options": [
-        "Seksenler",
-        "Çocuklar Duymasın",
-        "Cennet Mahallesi",
-        "Arka Sokaklar",
-        "Akasya Durağı"
+        "Salt Bae",
+        "Ice Bucket Challenge",
+        "Mannequin Challenge",
+        "Planking",
+        "Harlem Shake"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
-      "question": "Walt Disney Animation Studios tarafından üretilen ve tüm zamanların en çok gişe yapan animasyon filmlerinden biri olan 'Karlı Ülke' (Frozen) filminin başkahramanı prenses Anna'nın kız kardeşinin adı nedir?",
+      "question": "1936 Berlin Olimpiyatları'nda dört altın madalya kazanarak Adolf Hitler'in Ünan ırkının üstünlüğü propagandasına büyük bir darbe vuran, efsanevi Amerikalı atlet kimdir?",
       "options": [
-        "Ariel",
-        "Rapunzel",
-        "Elsa",
-        "Merida",
-        "Moana"
+        "Carl Lewis",
+        "Usain Bolt",
+        "Jesse Owens",
+        "Jackie Robinson",
+        "Michael Johnson"
       ],
       "correct": 2
     },
     {
-      "question": "NBA tarihinde normal sezon MVP (En Değerli Oyuncu) ödülünü 4 kez kazanmış ve 'Kral' lakabıyla bilinen efsanevi oyuncu kimdir?",
+      "question": "1992 yılında \"Yine Sensiz\" albümüyle müzik piyasasına girip, 90'lı yıllara damga vuran \"Şıkıdım\", \"Şımarık\" gibi hitleriyle Türk pop müziğine yön veren, \"Megastar\" lakaplı sanatçı kimdir?",
       "options": [
-        "Michael Jordan",
-        "Kareem Abdul-Jabbar",
-        "LeBron James",
-        "Magic Johnson",
-        "Kobe Bryant"
+        "Mustafa Sandal",
+        "Kenan Doğulu",
+        "Serdar Ortaç",
+        "Tarkan",
+        "Hakan Peker"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "1986 yılında Ukrayna Sovyet Sosyalist Cumhuriyeti'nde meydana gelen, nükleer enerji tarihinin en büyük kazalarından biri olarak bilinen ve geniş bir coğrafyada radyasyon etkilerine yol açan facianın adı nedir?",
+      "options": [
+        "Three Mile Island Kazası",
+        "Fukuşima Daiichi Kazası",
+        "Çernobil Faciası",
+        "Seveso Kazası",
+        "Bhopal Faciası"
       ],
       "correct": 2
     },
     {
-      "question": "19 Mayıs 1919'da Mustafa Kemal Atatürk'ün karargahıyla birlikte Samsun'a ulaşmasıyla başlayan Milli Mücadele'nin ilk adımı, hangi gemi ile gerçekleşmiştir?",
+      "question": "Walt Disney Animation Studios tarafından üretilen ve tüm zamanların ilk uzun metrajlı animasyon filmlerinden biri olarak kabul edilen, 1937 yılında vizyona giren klasik Disney prenses filminin adu nedir?",
       "options": [
-        "Ertuğrul Fırkateyni",
-        "Bandırma Vapuru",
-        "Nusret Mayın Gemisi",
-        "Yavuz Zırhlısı",
-        "Midilli Gemisi"
+        "Sindirella",
+        "Uyuyan Güzel",
+        "Pamuk Prenses ve Yedi Cüceler",
+        "Güzel ve Çirkin",
+        "Küçük Denizkızı"
       ],
-      "correct": 1
-    },
-    {
-      "question": "Olimpiyat tarihinde halterde üst üste 3 altın madalya kazanarak 'Cep Herkülü' lakabıyla anılan, Türk spor tarihinin en ikonik figürlerinden biri olan sporcu kimdir?",
-      "options": [
-        "Halil Mutlu",
-        "Naim Süleymanoğlu",
-        "Taner Sağır",
-        "Nurcan Taylan",
-        "Daniyar İsmayilov"
-      ],
-      "correct": 1
+      "correct": 2
     }
   ]
 }
