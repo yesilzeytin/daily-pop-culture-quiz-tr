@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "2017 yılında dünya çapında viral olan ve popüler bir internet meme'ine dönüşen, ünlü şef Nusret Gökçe'nin ikonik hareketine ne ad verilir?",
+      "question": "HBO'nun popüler dizisi \"The Last of Us\"ta, genç Ellie'yi korumakla görevli ana karakter Joel Miller'ı canlandıran aktör kimdir?",
       "options": [
-        "Salt Bae",
-        "Ice Bucket Challenge",
-        "Mannequin Challenge",
-        "Planking",
-        "Harlem Shake"
+        "Pedro Pascal",
+        "Oscar Isaac",
+        "Mahershala Ali",
+        "Christian Bale",
+        "Tom Hardy"
       ],
       "correct": 0
     },
     {
-      "question": "1936 Berlin Olimpiyatları'nda dört altın madalya kazanarak Adolf Hitler'in Ünan ırkının üstünlüğü propagandasına büyük bir darbe vuran, efsanevi Amerikalı atlet kimdir?",
+      "question": "Pixar Animation Studios yapımı \"Yukarı Bak\" (Up) filminde, yaşlı maceraperest Carl Fredricksen'ın evini balonlarla uçurarak gitmek istediği efsanevi yerin adı nedir?",
       "options": [
-        "Carl Lewis",
-        "Usain Bolt",
-        "Jesse Owens",
-        "Jackie Robinson",
-        "Michael Johnson"
+        "Everest Dağı",
+        "Amazon Ormanları",
+        "Cennet Şelaleleri",
+        "Büyük Kanyon",
+        "Kuzey Kutbu"
       ],
       "correct": 2
     },
     {
-      "question": "1992 yılında \"Yine Sensiz\" albümüyle müzik piyasasına girip, 90'lı yıllara damga vuran \"Şıkıdım\", \"Şımarık\" gibi hitleriyle Türk pop müziğine yön veren, \"Megastar\" lakaplı sanatçı kimdir?",
+      "question": "Türk pop müziğinin en önemli isimlerinden biri olan ve 'Minik Serçe' veya 'Popun Kraliçesi' lakaplarıyla anılan efsanevi sanatçı kimdir?",
       "options": [
-        "Mustafa Sandal",
-        "Kenan Doğulu",
-        "Serdar Ortaç",
-        "Tarkan",
-        "Hakan Peker"
+        "Ajda Pekkan",
+        "Candan Erçetin",
+        "Gülşen",
+        "Sezen Aksu",
+        "Yıldız Tilbe"
       ],
       "correct": 3
     },
     {
-      "question": "1986 yılında Ukrayna Sovyet Sosyalist Cumhuriyeti'nde meydana gelen, nükleer enerji tarihinin en büyük kazalarından biri olarak bilinen ve geniş bir coğrafyada radyasyon etkilerine yol açan facianın adı nedir?",
+      "question": "Edebiyat alanında Nobel Ödülü kazanan ilk ve tek Türk yazar kimdir?",
       "options": [
-        "Three Mile Island Kazası",
-        "Fukuşima Daiichi Kazası",
-        "Çernobil Faciası",
-        "Seveso Kazası",
-        "Bhopal Faciası"
+        "Yaşar Kemal",
+        "Nazım Hikmet",
+        "Orhan Pamuk",
+        "Elif Şafak",
+        "Adalet Ağaoğlu"
       ],
       "correct": 2
     },
     {
-      "question": "Walt Disney Animation Studios tarafından üretilen ve tüm zamanların ilk uzun metrajlı animasyon filmlerinden biri olarak kabul edilen, 1937 yılında vizyona giren klasik Disney prenses filminin adu nedir?",
+      "question": "Yılmaz Erdoğan'ın yazıp yönettiği ve başrolünü üstlendiği, Van'ın bir köyünde geçen ve ilk televizyonun köye gelmesiyle yaşanan komik olayları anlatan Türk komedi filmi aşağıdakilerden hangisidir?",
       "options": [
-        "Sindirella",
-        "Uyuyan Güzel",
-        "Pamuk Prenses ve Yedi Cüceler",
-        "Güzel ve Çirkin",
-        "Küçük Denizkızı"
+        "Organize İşler",
+        "Vizontele",
+        "Patron Mutlu Son İstiyor",
+        "Pek Yakında",
+        "Eyyvah Eyvah"
       ],
-      "correct": 2
+      "correct": 1
     }
   ]
 }
