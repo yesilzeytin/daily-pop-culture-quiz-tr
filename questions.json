@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "HBO'nun popüler dizisi \"The Last of Us\"ta, genç Ellie'yi korumakla görevli ana karakter Joel Miller'ı canlandıran aktör kimdir?",
+      "question": "\"Baba\" lakabıyla tanınan ve \"Paramparça\", \"Tanrı İstemezse\" gibi unutulmaz şarkılarıyla bilinen arabesk müziğin önemli isimlerinden biri kimdir?",
       "options": [
-        "Pedro Pascal",
-        "Oscar Isaac",
-        "Mahershala Ali",
-        "Christian Bale",
-        "Tom Hardy"
+        "Orhan Gencebay",
+        "Müslüm Gürses",
+        "Ferdi Tayfur",
+        "İbrahim Tatlıses",
+        "Hakkı Bulut"
       ],
       "correct": 0
     },
     {
-      "question": "Pixar Animation Studios yapımı \"Yukarı Bak\" (Up) filminde, yaşlı maceraperest Carl Fredricksen'ın evini balonlarla uçurarak gitmek istediği efsanevi yerin adı nedir?",
+      "question": "Disney Channel'ın sevilen çizgi dizisi \"Phineas ve Ferb\"de, Phineas ve Ferb'in gizli ajanlık yapan evcil hayvanı, bir ornitorenk olan karakterin adı nedir?",
       "options": [
-        "Everest Dağı",
-        "Amazon Ormanları",
-        "Cennet Şelaleleri",
-        "Büyük Kanyon",
-        "Kuzey Kutbu"
+        "Agent Q",
+        "Major Monogram",
+        "Perry",
+        "Carl",
+        "Doofenshmirtz"
       ],
       "correct": 2
     },
     {
-      "question": "Türk pop müziğinin en önemli isimlerinden biri olan ve 'Minik Serçe' veya 'Popun Kraliçesi' lakaplarıyla anılan efsanevi sanatçı kimdir?",
+      "question": "Recep İvedik film serisinde, baş karakter Recep İvedik'in en yakın arkadaşı ve maceralarına sıkça eşlik eden, biraz sakar ama iyi niyetli karakterin adı nedir?",
       "options": [
-        "Ajda Pekkan",
-        "Candan Erçetin",
-        "Gülşen",
-        "Sezen Aksu",
-        "Yıldız Tilbe"
+        "Zeynep",
+        "Halil İbrahim",
+        "İsmail",
+        "Nurullah Sağlam",
+        "Salih"
       ],
       "correct": 3
     },
     {
-      "question": "Edebiyat alanında Nobel Ödülü kazanan ilk ve tek Türk yazar kimdir?",
+      "question": "Türkiye'de büyük bir izleyici kitlesine sahip olan \"Survivor\" yarışmasının, ilk bölümünden itibaren yapımcılığını ve sunuculuğunu üstlenen isim kimdir?",
       "options": [
-        "Yaşar Kemal",
-        "Nazım Hikmet",
-        "Orhan Pamuk",
-        "Elif Şafak",
-        "Adalet Ağaoğlu"
+        "Acun Ilıcalı",
+        "Alp Kırşan",
+        "Murat Ceylan",
+        "Hakan Hatipoğlu",
+        "Esat Yontunç"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "Yılmaz Erdoğan'ın yazıp yönettiği ve başrolünü üstlendiği, Van'ın bir köyünde geçen ve ilk televizyonun köye gelmesiyle yaşanan komik olayları anlatan Türk komedi filmi aşağıdakilerden hangisidir?",
+      "question": "Nickelodeon'un popüler çizgi dizisi \"Sihirli Ailem\" (The Fairly OddParents)'de, ana karakter Timmy Turner'ın pembe şapka ve pembe gömleğiyle tanınan peri vaftiz annesinin adı nedir?",
       "options": [
-        "Organize İşler",
-        "Vizontele",
-        "Patron Mutlu Son İstiyor",
-        "Pek Yakında",
-        "Eyyvah Eyvah"
+        "Cosmo",
+        "Vicky",
+        "Tootie",
+        "Jorgen",
+        "Wanda"
       ],
-      "correct": 1
+      "correct": 4
     }
   ]
 }
