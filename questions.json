@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "\"Baba\" lakabıyla tanınan ve \"Paramparça\", \"Tanrı İstemezse\" gibi unutulmaz şarkılarıyla bilinen arabesk müziğin önemli isimlerinden biri kimdir?",
+      "question": "Türkiye'nin en çok aboneye sahip YouTube kanallarından biri olan Enes Batur, kariyerinin ilk dönemlerinde özellikle hangi tür içeriklerle geniş kitlelere ulaşmıştır?",
       "options": [
-        "Orhan Gencebay",
-        "Müslüm Gürses",
-        "Ferdi Tayfur",
-        "İbrahim Tatlıses",
-        "Hakkı Bulut"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Disney Channel'ın sevilen çizgi dizisi \"Phineas ve Ferb\"de, Phineas ve Ferb'in gizli ajanlık yapan evcil hayvanı, bir ornitorenk olan karakterin adı nedir?",
-      "options": [
-        "Agent Q",
-        "Major Monogram",
-        "Perry",
-        "Carl",
-        "Doofenshmirtz"
+        "Makyaj ve güzellik vlogger'lığı",
+        "Yemek tarifleri ve gurme deneyimleri",
+        "Oyun videoları ve eğlenceli parodiler",
+        "Tarihi belgeseller ve analizler",
+        "Egzersiz ve fitness rehberleri"
       ],
       "correct": 2
     },
     {
-      "question": "Recep İvedik film serisinde, baş karakter Recep İvedik'in en yakın arkadaşı ve maceralarına sıkça eşlik eden, biraz sakar ama iyi niyetli karakterin adı nedir?",
+      "question": "Nickelodeon'un efsanevi çizgi dizisi 'Avatar: Son Hava Bükücü'de (Avatar: The Last Airbender), ana karakter Aang, doğuştan hangi elementi bükme yeteneğine sahipti?",
       "options": [
-        "Zeynep",
-        "Halil İbrahim",
-        "İsmail",
-        "Nurullah Sağlam",
-        "Salih"
+        "Su",
+        "Toprak",
+        "Ateş",
+        "Hava",
+        "Metal"
       ],
       "correct": 3
     },
     {
-      "question": "Türkiye'de büyük bir izleyici kitlesine sahip olan \"Survivor\" yarışmasının, ilk bölümünden itibaren yapımcılığını ve sunuculuğunu üstlenen isim kimdir?",
+      "question": "Türkiye'nin en köklü ve prestijli ödül törenlerinden biri olan Altın Kelebek Ödülleri, hangi medya kuruluşu tarafından düzenlenmektedir?",
       "options": [
-        "Acun Ilıcalı",
-        "Alp Kırşan",
-        "Murat Ceylan",
-        "Hakan Hatipoğlu",
-        "Esat Yontunç"
+        "Milliyet Gazetesi",
+        "Sabah Gazetesi",
+        "Cumhuriyet Gazetesi",
+        "Hürriyet Gazetesi",
+        "Posta Gazetesi"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
-      "question": "Nickelodeon'un popüler çizgi dizisi \"Sihirli Ailem\" (The Fairly OddParents)'de, ana karakter Timmy Turner'ın pembe şapka ve pembe gömleğiyle tanınan peri vaftiz annesinin adı nedir?",
+      "question": "İnsanlığın uzay keşfindeki en önemli adımlarından biri olarak kabul edilen, Neil Armstrong'un Ay'a ilk ayak basması hangi yıl gerçekleşmiştir?",
       "options": [
-        "Cosmo",
-        "Vicky",
-        "Tootie",
-        "Jorgen",
-        "Wanda"
+        "1961",
+        "1965",
+        "1969",
+        "1972",
+        "1981"
       ],
-      "correct": 4
+      "correct": 2
+    },
+    {
+      "question": "Tenis dünyasının dört büyük Grand Slam turnuvasından biri olan Fransa Açık (Roland Garros), kort yüzeyi olarak hangi malzemeyi kullanmasıyla ünlüdür?",
+      "options": [
+        "Çim kort",
+        "Sert kort",
+        "Halı kort",
+        "Toprak kort",
+        "Ahşap kort"
+      ],
+      "correct": 3
     }
   ]
 }
