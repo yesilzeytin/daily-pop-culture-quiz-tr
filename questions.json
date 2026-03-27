@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Türkiye'nin en çok aboneye sahip YouTube kanallarından biri olan Enes Batur, kariyerinin ilk dönemlerinde özellikle hangi tür içeriklerle geniş kitlelere ulaşmıştır?",
+      "question": "Birinci Dünya Savaşı sırasında gösterdiği üstün pilotluk yetenekleri ve kızıl renkli uçağıyla 'Kızıl Baron' lakabını alan Alman as pilot kimdir?",
       "options": [
-        "Makyaj ve güzellik vlogger'lığı",
-        "Yemek tarifleri ve gurme deneyimleri",
-        "Oyun videoları ve eğlenceli parodiler",
-        "Tarihi belgeseller ve analizler",
-        "Egzersiz ve fitness rehberleri"
+        "Manfred von Richthofen",
+        "Eddie Rickenbacker",
+        "Georges Guynemer",
+        "Billy Bishop",
+        "Ernst Udet"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Cem Yılmaz'ın senaryosunu yazdığı ve başrolünde oynadığı 'Hokkabaz' filminde, sihirbaz İskender'in yardımcısı ve can dostu olan karakterin adı nedir?",
+      "options": [
+        "Zafer",
+        "Ayzek",
+        "Cabar",
+        "Şener",
+        "Sabit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "UEFA Şampiyonlar Ligi tarihinde, 2005 yılında İstanbul'da oynanan ve 3-0 geriye düşmesine rağmen maçı penaltılarla kazanarak kupayı kaldıran efsanevi finalde hangi iki takım karşı karşıya gelmiştir?",
+      "options": [
+        "Real Madrid - Bayern Münih",
+        "Manchester United - Barcelona",
+        "Liverpool - AC Milan",
+        "Juventus - Ajax",
+        "Inter Milan - Chelsea"
       ],
       "correct": 2
     },
     {
-      "question": "Nickelodeon'un efsanevi çizgi dizisi 'Avatar: Son Hava Bükücü'de (Avatar: The Last Airbender), ana karakter Aang, doğuştan hangi elementi bükme yeteneğine sahipti?",
+      "question": "Modern Olimpiyat Oyunları'nın ilki, 1896 yılında hangi şehirde düzenlenmiştir?",
       "options": [
-        "Su",
-        "Toprak",
-        "Ateş",
-        "Hava",
-        "Metal"
+        "Paris",
+        "Londra",
+        "Roma",
+        "Atina",
+        "Berlin"
       ],
       "correct": 3
     },
     {
-      "question": "Türkiye'nin en köklü ve prestijli ödül törenlerinden biri olan Altın Kelebek Ödülleri, hangi medya kuruluşu tarafından düzenlenmektedir?",
+      "question": "Küresel çapta ünlü bir şarkıcı ve aynı zamanda kendi kozmetik markası Fenty Beauty ile başarılı bir influencer olan Barbadoslu sanatçı kimdir?",
       "options": [
-        "Milliyet Gazetesi",
-        "Sabah Gazetesi",
-        "Cumhuriyet Gazetesi",
-        "Hürriyet Gazetesi",
-        "Posta Gazetesi"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "İnsanlığın uzay keşfindeki en önemli adımlarından biri olarak kabul edilen, Neil Armstrong'un Ay'a ilk ayak basması hangi yıl gerçekleşmiştir?",
-      "options": [
-        "1961",
-        "1965",
-        "1969",
-        "1972",
-        "1981"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Tenis dünyasının dört büyük Grand Slam turnuvasından biri olan Fransa Açık (Roland Garros), kort yüzeyi olarak hangi malzemeyi kullanmasıyla ünlüdür?",
-      "options": [
-        "Çim kort",
-        "Sert kort",
-        "Halı kort",
-        "Toprak kort",
-        "Ahşap kort"
+        "Beyoncé",
+        "Lady Gaga",
+        "Ariana Grande",
+        "Rihanna",
+        "Taylor Swift"
       ],
       "correct": 3
     }
