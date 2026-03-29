@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "90'lı yılların sonunda 'Ateşini Yolla Bana', 'Araba' ve 'Jest Oldu' gibi hit şarkılarıyla Türk pop müziğine damga vuran sanatçı kimdir?",
+      "question": "Mor ve Ötesi grubunun, 2008 Eurovision Şarkı Yarışması'nda Türkiye'yi temsil ettiği ve büyük beğeni toplayan şarkısının adı nedir?",
       "options": [
-        "Tarkan",
-        "Mustafa Sandal",
-        "Kenan Doğulu",
-        "Serdar Ortaç",
-        "Hakan Peker"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "HBO'nun popüler dizisi 'Game of Thrones'ta, Westeros'un Yedi Krallığı'ndan Kuzey'in koruyucusu ve Kışyarı'nın (Winterfell) Lordu olan, Stark ailesinin onurlu reisi kimdir?",
-      "options": [
-        "Jon Snow",
-        "Tyrion Lannister",
-        "Ned Stark",
-        "Jaime Lannister",
-        "Robb Stark"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Britanya tarihinde en uzun süre tahtta kalan hükümdar unvanına sahip olan ve 70 yıl boyunca krallık yapan kraliçe kimdir?",
-      "options": [
-        "Kraliçe Victoria",
-        "Kraliçe Elizabeth I",
-        "Kraliçe Anne",
-        "Kraliçe Elizabeth II",
-        "Kraliçe Mary I"
+        "Yaz Yaz Yaz",
+        "Cambaz",
+        "Deli",
+        "Deli Geçer",
+        "Bir Derdim Var"
       ],
       "correct": 3
     },
     {
-      "question": "Türkiye'nin en tanınmış Twitch yayıncılarından biri olan ve özellikle sohbet yayınları, oyun videoları ve politik yorumlarıyla bilinen 'Jahrein' lakaplı fenomenin gerçek adı nedir?",
+      "question": "Türk basketbolunun gururu Anadolu Efes, EuroLeague tarihinde üst üste iki kez şampiyonluk kazanma başarısını hangi sezonlarda göstermiştir?",
       "options": [
-        "Ferit Karakaya",
-        "Cantuğ Özsoy",
-        "Uğur Yılmaz",
-        "Cem Karakoç",
-        "Gökhan Meriç"
+        "2019-2020 ve 2020-2021",
+        "2020-2021 ve 2021-2022",
+        "2018-2019 ve 2020-2021",
+        "2017-2018 ve 2018-2019",
+        "2021-2022 ve 2022-2023"
       ],
       "correct": 1
     },
     {
-      "question": "Yumurcak TV'de uzun yıllar yayınlanmış olan ve ana karakterin günlük maceralarını, ailesiyle ve arkadaşlarıyla ilişkilerini konu alan, başı kel, meraklı ve hayalperest bir çocuğun hikayesini anlatan çizgi filmin adı nedir?",
+      "question": "Nintendo'nun popüler serisi Pokémon'un animasyonlarında ve oyunlarında, ikonik karakter Pikachu'nun ana eğitmeninin adı nedir?",
       "options": [
-        "Cedric",
-        "Arı Maya",
-        "Şeker Kız Candy",
-        "Heidi",
-        "Caillou"
+        "Brock",
+        "Misty",
+        "Ash Ketchum",
+        "Gary Oak",
+        "Professor Oak"
       ],
-      "correct": 4
+      "correct": 2
+    },
+    {
+      "question": "Netflix'in dünya çapında popüler soygun dizisi \"La Casa de Papel\"de, ekibin lideri \"Profesör\" lakabını kullanırken, diğer ekip üyeleri kendilerine hangi tür isimleri takmıştır?",
+      "options": [
+        "Mitolojik Tanrı İsimleri",
+        "Ünlü Bilim İnsanlarının İsimleri",
+        "Tarihi Şahsiyetlerin İsimleri",
+        "Dünya Şehirlerinin İsimleri",
+        "Hayvan İsimleri"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Türkiye'nin tanınmış Twitch yayıncılarından \"wtcN\" lakaplı Ferit Karakaya, yayıncılık kariyerinden önce profesyonel olarak hangi video oyununu oynamıştır?",
+      "options": [
+        "League of Legends",
+        "Valorant",
+        "Counter-Strike: Global Offensive",
+        "Dota 2",
+        "PUBG: Battlegrounds"
+      ],
+      "correct": 2
     }
   ]
 }
