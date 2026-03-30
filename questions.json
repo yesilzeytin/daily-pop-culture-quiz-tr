@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Mor ve Ötesi grubunun, 2008 Eurovision Şarkı Yarışması'nda Türkiye'yi temsil ettiği ve büyük beğeni toplayan şarkısının adı nedir?",
+      "question": "UEFA Şampiyonlar Ligi tarihinde, en çok kez şampiyonluk kupasını kazanan futbolcu kimdir?",
       "options": [
-        "Yaz Yaz Yaz",
-        "Cambaz",
-        "Deli",
-        "Deli Geçer",
-        "Bir Derdim Var"
+        "Lionel Messi",
+        "Cristiano Ronaldo",
+        "Paco Gento",
+        "Paolo Maldini",
+        "Alfredo Di Stéfano"
       ],
-      "correct": 3
+      "correct": 2
     },
     {
-      "question": "Türk basketbolunun gururu Anadolu Efes, EuroLeague tarihinde üst üste iki kez şampiyonluk kazanma başarısını hangi sezonlarda göstermiştir?",
+      "question": "Türk basketbol tarihinde EuroLeague şampiyonluğunu kazanan ilk ve tek Türk takımı hangisidir?",
       "options": [
-        "2019-2020 ve 2020-2021",
-        "2020-2021 ve 2021-2022",
-        "2018-2019 ve 2020-2021",
-        "2017-2018 ve 2018-2019",
-        "2021-2022 ve 2022-2023"
+        "Anadolu Efes",
+        "Pınar Karşıyaka",
+        "Fenerbahçe Beko",
+        "Beşiktaş",
+        "Galatasaray Odeabank"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "\"Lose Yourself\", \"Stan\" ve \"The Real Slim Shady\" gibi hit parçalarıyla tanınan, Detroit'li efsanevi rapçi kimdir?",
+      "options": [
+        "Jay-Z",
+        "Kendrick Lamar",
+        "Eminem",
+        "Drake",
+        "Kanye West"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Counter-Strike: Global Offensive (CS:GO) tarihinde düzenlenen Major turnuvalarında en çok şampiyonluk kazanan takım hangisidir?",
+      "options": [
+        "Natus Vincere",
+        "Astralis",
+        "FaZe Clan",
+        "Fnatic",
+        "G2 Esports"
       ],
       "correct": 1
     },
     {
-      "question": "Nintendo'nun popüler serisi Pokémon'un animasyonlarında ve oyunlarında, ikonik karakter Pikachu'nun ana eğitmeninin adı nedir?",
+      "question": "1980'li ve 90'lı yıllarda \"Arkadaşım Eşek\", \"Gülpembe\", \"Halil İbrahim Sofrası\" gibi eserleriyle nesillerin sevgisini kazanmış, T.C. Devlet Sanatçısı unvanına sahip efsanevi müzisyen ve televizyon programcısı kimdir?",
       "options": [
-        "Brock",
-        "Misty",
-        "Ash Ketchum",
-        "Gary Oak",
-        "Professor Oak"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Netflix'in dünya çapında popüler soygun dizisi \"La Casa de Papel\"de, ekibin lideri \"Profesör\" lakabını kullanırken, diğer ekip üyeleri kendilerine hangi tür isimleri takmıştır?",
-      "options": [
-        "Mitolojik Tanrı İsimleri",
-        "Ünlü Bilim İnsanlarının İsimleri",
-        "Tarihi Şahsiyetlerin İsimleri",
-        "Dünya Şehirlerinin İsimleri",
-        "Hayvan İsimleri"
+        "Cem Karaca",
+        "Erkin Koray",
+        "Fikret Kızılok",
+        "Barış Manço",
+        "Moğollar"
       ],
       "correct": 3
-    },
-    {
-      "question": "Türkiye'nin tanınmış Twitch yayıncılarından \"wtcN\" lakaplı Ferit Karakaya, yayıncılık kariyerinden önce profesyonel olarak hangi video oyununu oynamıştır?",
-      "options": [
-        "League of Legends",
-        "Valorant",
-        "Counter-Strike: Global Offensive",
-        "Dota 2",
-        "PUBG: Battlegrounds"
-      ],
-      "correct": 2
     }
   ]
 }
