@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "UEFA Şampiyonlar Ligi tarihinde, en çok kez şampiyonluk kupasını kazanan futbolcu kimdir?",
+      "question": "'Gumball'ın Muhteşem Dünyası' (The Amazing World of Gumball) çizgi filminde, Gumball'ın en yakın arkadaşı ve aynı zamanda evlatlık kardeşi olan karakterin türü nedir?",
       "options": [
-        "Lionel Messi",
-        "Cristiano Ronaldo",
-        "Paco Gento",
-        "Paolo Maldini",
-        "Alfredo Di Stéfano"
+        "Altın Balık",
+        "Tavşan",
+        "T-Rex",
+        "Kedi",
+        "Köpek"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "Türk basketbol tarihinde EuroLeague şampiyonluğunu kazanan ilk ve tek Türk takımı hangisidir?",
+      "question": "Netflix'in Türkiye'deki ilk orijinal yapımı olan dizi hangisidir?",
       "options": [
-        "Anadolu Efes",
-        "Pınar Karşıyaka",
-        "Fenerbahçe Beko",
-        "Beşiktaş",
-        "Galatasaray Odeabank"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "\"Lose Yourself\", \"Stan\" ve \"The Real Slim Shady\" gibi hit parçalarıyla tanınan, Detroit'li efsanevi rapçi kimdir?",
-      "options": [
-        "Jay-Z",
-        "Kendrick Lamar",
-        "Eminem",
-        "Drake",
-        "Kanye West"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Counter-Strike: Global Offensive (CS:GO) tarihinde düzenlenen Major turnuvalarında en çok şampiyonluk kazanan takım hangisidir?",
-      "options": [
-        "Natus Vincere",
-        "Astralis",
-        "FaZe Clan",
-        "Fnatic",
-        "G2 Esports"
+        "Aşk 101",
+        "Hakan: Muhafız",
+        "Atiye",
+        "Kulüp",
+        "Terzi"
       ],
       "correct": 1
     },
     {
-      "question": "1980'li ve 90'lı yıllarda \"Arkadaşım Eşek\", \"Gülpembe\", \"Halil İbrahim Sofrası\" gibi eserleriyle nesillerin sevgisini kazanmış, T.C. Devlet Sanatçısı unvanına sahip efsanevi müzisyen ve televizyon programcısı kimdir?",
+      "question": "Cem Yılmaz'ın başrolünde oynadığı 'G.O.R.A.' filminde, baş karakter Arif'in uzay gemisinde karşılaştığı, sürekli tamir etmeye çalıştığı ve \"Kaptan\" diye hitap ettiği robotun adı nedir?",
       "options": [
-        "Cem Karaca",
-        "Erkin Koray",
-        "Fikret Kızılok",
-        "Barış Manço",
-        "Moğollar"
+        "Robocop",
+        "T-800",
+        "216",
+        "Commander",
+        "K.I.T.T."
       ],
-      "correct": 3
+      "correct": 2
+    },
+    {
+      "question": "Türk Milli Futbol Takımı, FIFA Dünya Kupası tarihinde en iyi derecesini hangi yılda elde etmiştir?",
+      "options": [
+        "1998",
+        "2002",
+        "2006",
+        "2010",
+        "2014"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Popüler internet meme'lerinden biri olan ve 'çok şaşmak, çok heyecanlanmak' gibi anlamlara gelen, genellikle bir Shiba Inu köpeğinin farklı ifadelerinin kullanıldığı meme'in adı nedir?",
+      "options": [
+        "Pepe the Frog",
+        "Doge",
+        "Trollface",
+        "Nyan Cat",
+        "Grumpy Cat"
+      ],
+      "correct": 1
     }
   ]
 }
