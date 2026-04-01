@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "'Gumball'ın Muhteşem Dünyası' (The Amazing World of Gumball) çizgi filminde, Gumball'ın en yakın arkadaşı ve aynı zamanda evlatlık kardeşi olan karakterin türü nedir?",
+      "question": "Netflix Türkiye yapımlarından 'Kulüp' dizisi, 1950'li yılların İstanbul'unda geçen bir hikayeyi anlatmaktadır. Bu dizinin ana karakteri Matilda'yı canlandıran başrol oyuncusu kimdir?",
       "options": [
-        "Altın Balık",
-        "Tavşan",
-        "T-Rex",
-        "Kedi",
-        "Köpek"
+        "Gökçe Bahadır",
+        "Demet Evgar",
+        "Hazal Kaya",
+        "Pınar Deniz",
+        "Tuba Büyüküstün"
       ],
       "correct": 0
     },
     {
-      "question": "Netflix'in Türkiye'deki ilk orijinal yapımı olan dizi hangisidir?",
+      "question": "TFF Süper Lig tarihinde en fazla şampiyonluk kazanan futbol kulübü hangisidir?",
       "options": [
-        "Aşk 101",
-        "Hakan: Muhafız",
-        "Atiye",
-        "Kulüp",
-        "Terzi"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Cem Yılmaz'ın başrolünde oynadığı 'G.O.R.A.' filminde, baş karakter Arif'in uzay gemisinde karşılaştığı, sürekli tamir etmeye çalıştığı ve \"Kaptan\" diye hitap ettiği robotun adı nedir?",
-      "options": [
-        "Robocop",
-        "T-800",
-        "216",
-        "Commander",
-        "K.I.T.T."
+        "Fenerbahçe",
+        "Beşiktaş",
+        "Galatasaray",
+        "Trabzonspor",
+        "Bursaspor"
       ],
       "correct": 2
     },
     {
-      "question": "Türk Milli Futbol Takımı, FIFA Dünya Kupası tarihinde en iyi derecesini hangi yılda elde etmiştir?",
+      "question": "Türkiye'deki internet caps kültüründe, genellikle 'Senin yüzünden tüm bunlar' veya 'Yine mi ben?' gibi ifadelerle duygusal anları yansıtan, sürekli başına kötü olaylar gelen ve ağlarken görünen ikonik çizgi film karakteri hangisidir?",
       "options": [
-        "1998",
-        "2002",
-        "2006",
-        "2010",
-        "2014"
+        "Jerry (Tom ve Jerry)",
+        "Tweety (Looney Tunes)",
+        "SüngerBob (SüngerBob KareŞort)",
+        "Tom (Tom ve Jerry)",
+        "Bugs Bunny (Looney Tunes)"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
-      "question": "Popüler internet meme'lerinden biri olan ve 'çok şaşmak, çok heyecanlanmak' gibi anlamlara gelen, genellikle bir Shiba Inu köpeğinin farklı ifadelerinin kullanıldığı meme'in adı nedir?",
+      "question": "Yumurcak TV'de uzun yıllar yayınlanmış popüler çizgi filmlerden 'SüngerBob KareŞort'ta, SüngerBob'un evcil hayvanı olan salyangozunun adı nedir?",
       "options": [
-        "Pepe the Frog",
-        "Doge",
-        "Trollface",
-        "Nyan Cat",
-        "Grumpy Cat"
+        "Patrick",
+        "Squidward",
+        "Gary",
+        "Plankton",
+        "Bay Yengeç"
       ],
-      "correct": 1
+      "correct": 2
+    },
+    {
+      "question": "Formula 1 tarihinde en çok dünya şampiyonluğu kazanan iki pilot kimlerdir?",
+      "options": [
+        "Lewis Hamilton ve Max Verstappen",
+        "Michael Schumacher ve Ayrton Senna",
+        "Juan Manuel Fangio ve Alain Prost",
+        "Lewis Hamilton ve Michael Schumacher",
+        "Sebastian Vettel ve Fernando Alonso"
+      ],
+      "correct": 3
     }
   ]
 }
