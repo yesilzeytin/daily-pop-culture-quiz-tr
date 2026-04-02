@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Netflix Türkiye yapımlarından 'Kulüp' dizisi, 1950'li yılların İstanbul'unda geçen bir hikayeyi anlatmaktadır. Bu dizinin ana karakteri Matilda'yı canlandıran başrol oyuncusu kimdir?",
+      "question": "Taylor Swift'in müzik kariyerinin farklı dönemlerini temsil eden ve dünya çapında büyük ilgi gören turnesinin adı nedir?",
       "options": [
-        "Gökçe Bahadır",
-        "Demet Evgar",
-        "Hazal Kaya",
-        "Pınar Deniz",
-        "Tuba Büyüküstün"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "TFF Süper Lig tarihinde en fazla şampiyonluk kazanan futbol kulübü hangisidir?",
-      "options": [
-        "Fenerbahçe",
-        "Beşiktaş",
-        "Galatasaray",
-        "Trabzonspor",
-        "Bursaspor"
+        "The 1989 World Tour",
+        "The Red Tour",
+        "The Eras Tour",
+        "The Reputation Tour",
+        "The Speak Now Tour"
       ],
       "correct": 2
     },
     {
-      "question": "Türkiye'deki internet caps kültüründe, genellikle 'Senin yüzünden tüm bunlar' veya 'Yine mi ben?' gibi ifadelerle duygusal anları yansıtan, sürekli başına kötü olaylar gelen ve ağlarken görünen ikonik çizgi film karakteri hangisidir?",
+      "question": "Türkiye internet kültüründe, genellikle bir durum karşısında abartılı tepki veren veya gereksiz yere sinirlenen kişileri sakinleştirmek amacıyla kullanılan, popüler bir caps ifadesi aşağıdakilerden hangisidir?",
       "options": [
-        "Jerry (Tom ve Jerry)",
-        "Tweety (Looney Tunes)",
-        "SüngerBob (SüngerBob KareŞort)",
-        "Tom (Tom ve Jerry)",
-        "Bugs Bunny (Looney Tunes)"
+        "Gel de şimdi çık işin içinden.",
+        "Ne bakıyon birader?",
+        "Harbi mi diyon?",
+        "Sakin ol şampiyon.",
+        "Bana ne ya?"
       ],
       "correct": 3
     },
     {
-      "question": "Yumurcak TV'de uzun yıllar yayınlanmış popüler çizgi filmlerden 'SüngerBob KareŞort'ta, SüngerBob'un evcil hayvanı olan salyangozunun adı nedir?",
+      "question": "Cartoon Network'ün popüler çizgi dizisi \"Adventure Time\"da, ana karakter Finn'in en iyi arkadaşı ve aynı zamanda büyülü güçlere sahip, konuşan köpeğin adı nedir?",
       "options": [
-        "Patrick",
-        "Squidward",
-        "Gary",
-        "Plankton",
-        "Bay Yengeç"
+        "Ice King",
+        "Lumpy Space Princess",
+        "Gunter",
+        "BMO",
+        "Jake"
       ],
-      "correct": 2
+      "correct": 4
     },
     {
-      "question": "Formula 1 tarihinde en çok dünya şampiyonluğu kazanan iki pilot kimlerdir?",
+      "question": "Türkiye'de popüler YouTube içerik üreticilerinden Orkun Işıtmak, kariyerinin ilk yıllarında ve sonrasında hangi türde videolarla geniş bir izleyici kitlesine ulaşmıştır?",
       "options": [
-        "Lewis Hamilton ve Max Verstappen",
-        "Michael Schumacher ve Ayrton Senna",
-        "Juan Manuel Fangio ve Alain Prost",
-        "Lewis Hamilton ve Michael Schumacher",
-        "Sebastian Vettel ve Fernando Alonso"
+        "Makyaj ve güzellik tüyoları",
+        "Oyun ve eğlence videoları, deneyler",
+        "Yemek tarifleri ve gurme gezileri",
+        "Politika ve güncel olay yorumları",
+        "Tarihi belgeseller ve analizler"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Walt Disney Animasyon Stüdyoları tarafından üretilen ve 2013 yılında vizyona giren \"Karlar Ülkesi\" (Frozen) filminin ana karakteri olan ve buz güçlerine sahip prensesin adı nedir?",
+      "options": [
+        "Anna",
+        "Moana",
+        "Rapunzel",
+        "Elsa",
+        "Merida"
       ],
       "correct": 3
     }
