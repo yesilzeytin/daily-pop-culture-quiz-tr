@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Taylor Swift'in müzik kariyerinin farklı dönemlerini temsil eden ve dünya çapında büyük ilgi gören turnesinin adı nedir?",
+      "question": "Popüler sosyal medya platformu Twitter'ın ilk zamanlardaki adı neydi?",
       "options": [
-        "The 1989 World Tour",
-        "The Red Tour",
-        "The Eras Tour",
-        "The Reputation Tour",
-        "The Speak Now Tour"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türkiye internet kültüründe, genellikle bir durum karşısında abartılı tepki veren veya gereksiz yere sinirlenen kişileri sakinleştirmek amacıyla kullanılan, popüler bir caps ifadesi aşağıdakilerden hangisidir?",
-      "options": [
-        "Gel de şimdi çık işin içinden.",
-        "Ne bakıyon birader?",
-        "Harbi mi diyon?",
-        "Sakin ol şampiyon.",
-        "Bana ne ya?"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Cartoon Network'ün popüler çizgi dizisi \"Adventure Time\"da, ana karakter Finn'in en iyi arkadaşı ve aynı zamanda büyülü güçlere sahip, konuşan köpeğin adı nedir?",
-      "options": [
-        "Ice King",
-        "Lumpy Space Princess",
-        "Gunter",
-        "BMO",
-        "Jake"
-      ],
-      "correct": 4
-    },
-    {
-      "question": "Türkiye'de popüler YouTube içerik üreticilerinden Orkun Işıtmak, kariyerinin ilk yıllarında ve sonrasında hangi türde videolarla geniş bir izleyici kitlesine ulaşmıştır?",
-      "options": [
-        "Makyaj ve güzellik tüyoları",
-        "Oyun ve eğlence videoları, deneyler",
-        "Yemek tarifleri ve gurme gezileri",
-        "Politika ve güncel olay yorumları",
-        "Tarihi belgeseller ve analizler"
+        "FriendFeed",
+        "Twttr",
+        "MicroBlog",
+        "StatusNet",
+        "BirdyChat"
       ],
       "correct": 1
     },
     {
-      "question": "Walt Disney Animasyon Stüdyoları tarafından üretilen ve 2013 yılında vizyona giren \"Karlar Ülkesi\" (Frozen) filminin ana karakteri olan ve buz güçlerine sahip prensesin adı nedir?",
+      "question": "Türkiye'ye Eurovision Şarkı Yarışması'ndaki ilk ve tek birinciliği getiren Sertab Erener'in 2003 yılında seslendirdiği şarkının adı nedir?",
       "options": [
-        "Anna",
-        "Moana",
-        "Rapunzel",
-        "Elsa",
-        "Merida"
+        "Everyway That I Can",
+        "For Real",
+        "One More Cup of Coffee",
+        "We Are One",
+        "Love Me Back"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Hippie karşı kültürünün simgesi haline gelen ve müzik tarihinde büyük iz bırakan efsanevi Woodstock Festivali hangi yıl düzenlenmiştir?",
+      "options": [
+        "1965",
+        "1971",
+        "1969",
+        "1975",
+        "1967"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Nobel Edebiyat Ödülü'nü kazanan ilk ve tek Türk yazar Orhan Pamuk, bu prestijli ödülü hangi yıl almıştır?",
+      "options": [
+        "2004",
+        "2007",
+        "2003",
+        "2006",
+        "2005"
       ],
       "correct": 3
+    },
+    {
+      "question": "Moda dünyasının devrimci isimlerinden biri olan ve 'küçük siyah elbise' (little black dress) ile Chanel No. 5 parfümünü popülerleştirmesiyle tanınan ikonik Fransız tasarımcı kimdir?",
+      "options": [
+        "Christian Dior",
+        "Coco Chanel",
+        "Yves Saint Laurent",
+        "Elsa Schiaparelli",
+        "Hubert de Givenchy"
+      ],
+      "correct": 1
     }
   ]
 }
