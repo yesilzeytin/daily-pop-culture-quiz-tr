@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Popüler sosyal medya platformu Twitter'ın ilk zamanlardaki adı neydi?",
+      "question": "Marvel Sinematik Evreni'nde ikonik Tony Stark / Iron Man karakterini canlandıran ünlü aktör kimdir?",
       "options": [
-        "FriendFeed",
-        "Twttr",
-        "MicroBlog",
-        "StatusNet",
-        "BirdyChat"
+        "Chris Evans",
+        "Robert Downey Jr.",
+        "Mark Ruffalo",
+        "Chris Hemsworth",
+        "Jeremy Renner"
       ],
       "correct": 1
     },
     {
-      "question": "Türkiye'ye Eurovision Şarkı Yarışması'ndaki ilk ve tek birinciliği getiren Sertab Erener'in 2003 yılında seslendirdiği şarkının adı nedir?",
+      "question": "HBO'nun eleştirmenlerden tam not alan ve büyük ilgi gören dizisi 'The Last of Us'ta, ana karakterlerden Ellie'yi canlandıran genç oyuncu kimdir?",
       "options": [
-        "Everyway That I Can",
-        "For Real",
-        "One More Cup of Coffee",
-        "We Are One",
-        "Love Me Back"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Hippie karşı kültürünün simgesi haline gelen ve müzik tarihinde büyük iz bırakan efsanevi Woodstock Festivali hangi yıl düzenlenmiştir?",
-      "options": [
-        "1965",
-        "1971",
-        "1969",
-        "1975",
-        "1967"
+        "Jenna Ortega",
+        "Millie Bobby Brown",
+        "Bella Ramsey",
+        "Zendaya",
+        "Anya Taylor-Joy"
       ],
       "correct": 2
     },
     {
-      "question": "Nobel Edebiyat Ödülü'nü kazanan ilk ve tek Türk yazar Orhan Pamuk, bu prestijli ödülü hangi yıl almıştır?",
+      "question": "Tüm zamanların en yüksek gişe hasılatı elde eden filmi (enflasyon ayarlı olmadan) hangisidir?",
       "options": [
-        "2004",
-        "2007",
-        "2003",
-        "2006",
-        "2005"
+        "Avatar",
+        "Yenilmezler: Son Oyun (Avengers: Endgame)",
+        "Titanik (Titanic)",
+        "Yıldız Savaşları: Güç Uyanıyor (Star Wars: The Force Awakens)",
+        "Avatar: Suyun Yolu (Avatar: The Way of Water)"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
-      "question": "Moda dünyasının devrimci isimlerinden biri olan ve 'küçük siyah elbise' (little black dress) ile Chanel No. 5 parfümünü popülerleştirmesiyle tanınan ikonik Fransız tasarımcı kimdir?",
+      "question": "FIFA Dünya Kupası tarihinde en çok şampiyonluk kazanan ülke hangisidir?",
       "options": [
-        "Christian Dior",
-        "Coco Chanel",
-        "Yves Saint Laurent",
-        "Elsa Schiaparelli",
-        "Hubert de Givenchy"
+        "Almanya",
+        "İtalya",
+        "Arjantin",
+        "Fransa",
+        "Brezilya"
       ],
-      "correct": 1
+      "correct": 4
+    },
+    {
+      "question": "Türk televizyon tarihinin en popüler yapımlarından biri olan 'Aşk-ı Memnu' dizisinde, 'Bihter Ziyagil' karakterine hayat veren ve performansıyla olay yaratan oyuncu kimdir?",
+      "options": [
+        "Tuba Büyüküstün",
+        "Bergüzar Korel",
+        "Beren Saat",
+        "Hazal Kaya",
+        "Elçin Sangu"
+      ],
+      "correct": 2
     }
   ]
 }
