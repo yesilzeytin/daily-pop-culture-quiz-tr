@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Birinci Dünya Savaşı sırasında, 1914 Noel Arifesi'nde Batı Cephesi'nde gerçekleşen ve düşman askerlerinin kısa süreliğine çatışmayı durdurup bir araya geldiği gayriresmi ateşkesin adı nedir?",
+      "question": "90'lı yılların başlarında 'Vay Be', 'Yaparım Bilirsin' ve 'Hadi Bakalım' gibi hitlerle Türk pop müziğine damga vuran, sahne performanslarıyla da adından söz ettiren sanatçı kimdir?",
       "options": [
-        "Barış Mola",
-        "Noel Ateşkesi",
-        "Cephe Dostluğu",
-        "Sessiz Gece Barışı",
-        "Kardeşlik Anı"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "20. yüzyılın başlarında uzun mesafe koşularındaki üstünlüğü ve kazandığı 9 Olimpiyat altın madalyasıyla 'Uçan Finli' lakabını alan efsanevi atlet kimdir?",
-      "options": [
-        "Lasse Virén",
-        "Hannes Kolehmainen",
-        "Paavo Nurmi",
-        "Ville Ritola",
-        "Volmari Iso-Hollo"
+        "Tarkan",
+        "Sertab Erener",
+        "Kenan Doğulu",
+        "Ajda Pekkan",
+        "Sezen Aksu"
       ],
       "correct": 2
     },
     {
-      "question": "TikTok'tan önce popüler olan ve 6 saniyelik döngüsel videolarıyla birçok internet fenomenini ortaya çıkaran kısa video platformunun adı nedir?",
+      "question": "Avrupa basketbolunun en başarılı koçlarından biri olarak kabul edilen ve Fenerbahçe Beko ile EuroLeague şampiyonluğu yaşayan efsanevi isim kimdir?",
       "options": [
-        "Periscope",
-        "Vine",
-        "Dubsmash",
-        "Musical.ly",
-        "Keek"
+        "Ergin Ataman",
+        "Neven Spahija",
+        "Zeljko Obradović",
+        "David Blatt",
+        "Ettore Messina"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Tüm zamanların en yüksek gişe hasılatı elde eden filmlerinden biri olan 'Avatar'ın hem yönetmenliğini hem de senaristliğini üstlenen ünlü isim kimdir?",
+      "options": [
+        "Steven Spielberg",
+        "Christopher Nolan",
+        "James Cameron",
+        "Peter Jackson",
+        "Denis Villeneuve"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "1990'lı yılların süpermodel kuşağının en tanınmış isimlerinden biri olan ve moda dünyasında uzun yıllar hüküm süren, 'kara panter' lakabıyla da bilinen ikonik model kimdir?",
+      "options": [
+        "Gisele Bündchen",
+        "Naomi Campbell",
+        "Kate Moss",
+        "Cindy Crawford",
+        "Claudia Schiffer"
       ],
       "correct": 1
     },
     {
-      "question": "Ertem Eğilmez'in yönettiği ve bir grup yaramaz lise öğrencisinin maceralarını konu alan, Türk sinemasının kült komedi filmleri arasında yer alan yapım hangisidir?",
+      "question": "TikTok platformunda çektiği komik ve yaratıcı videolarla kısa sürede dünya çapında bir fenomen haline gelen, özellikle 'durgunluk komedisi' tarzıyla bilinen İtalyan sosyal medya ünlüsü kimdir?",
       "options": [
-        "Tosun Paşa",
-        "Neşeli Günler",
-        "Güdük Şaban",
-        "Hababam Sınıfı",
-        "Vizontele"
+        "Khaby Lame",
+        "Charli D'Amelio",
+        "Addison Rae",
+        "Bella Poarch",
+        "Hasbulla Magomedov"
       ],
-      "correct": 3
-    },
-    {
-      "question": "Merve Özkaynak, Türkiye'nin önde gelen YouTube içerik üreticilerinden biri olarak tanınmaktadır. Özellikle hangi tür videolarla izleyici kitlesini genişletmiştir?",
-      "options": [
-        "Oyun ve Canlı Yayınlar",
-        "Tarih ve Belgesel İçerikleri",
-        "Güzellik ve Makyaj Videoları",
-        "Siyaset ve Güncel Yorumlar",
-        "Yemek Tarifleri ve Mutfak Showları"
-      ],
-      "correct": 2
+      "correct": 0
     }
   ]
 }
