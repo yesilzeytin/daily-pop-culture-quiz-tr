@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "90'lı yılların başlarında 'Vay Be', 'Yaparım Bilirsin' ve 'Hadi Bakalım' gibi hitlerle Türk pop müziğine damga vuran, sahne performanslarıyla da adından söz ettiren sanatçı kimdir?",
+      "question": "Fox Kids kanalında yayınlanan ve 'It's Morphin Time!' repliğiyle bilinen, gençlerin özel güçlere sahip kahramanlara dönüştüğü popüler çizgi dizi hangisidir?",
       "options": [
-        "Tarkan",
-        "Sertab Erener",
-        "Kenan Doğulu",
-        "Ajda Pekkan",
-        "Sezen Aksu"
+        "Digimon Adventure",
+        "X-Men: Evolution",
+        "Power Rangers",
+        "Spider-Man: The Animated Series",
+        "Heathcliff"
       ],
       "correct": 2
     },
     {
-      "question": "Avrupa basketbolunun en başarılı koçlarından biri olarak kabul edilen ve Fenerbahçe Beko ile EuroLeague şampiyonluğu yaşayan efsanevi isim kimdir?",
+      "question": "2013 yılında internette viral olan ve birçok kişinin grup halinde, belirli bir müzik eşliğinde absürt dans figürleri sergileyerek videoya çektiği fenomenin adı nedir?",
       "options": [
-        "Ergin Ataman",
-        "Neven Spahija",
-        "Zeljko Obradović",
-        "David Blatt",
-        "Ettore Messina"
+        "Mannequin Challenge",
+        "Ice Bucket Challenge",
+        "Harlem Shake",
+        "Planking",
+        "Bottle Cap Challenge"
       ],
       "correct": 2
     },
     {
-      "question": "Tüm zamanların en yüksek gişe hasılatı elde eden filmlerinden biri olan 'Avatar'ın hem yönetmenliğini hem de senaristliğini üstlenen ünlü isim kimdir?",
+      "question": "Vine platformunda çektiği kısa ve absürt komedi videolarıyla tanınan, özellikle 'Abi, dur daha yeni geldim', 'Bunu ben mi yaptım?' gibi replikleriyle hafızalara kazınan ve daha sonra TikTok'ta da popülerliğini sürdüren Türk fenomen kimdir?",
       "options": [
-        "Steven Spielberg",
-        "Christopher Nolan",
-        "James Cameron",
-        "Peter Jackson",
-        "Denis Villeneuve"
+        "Reynmen",
+        "Enes Batur",
+        "Cem Gelinoğlu",
+        "Aykut Elmas",
+        "Danla Bilic"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Türkiye'yi 2010 Eurovision Şarkı Yarışması'nda 'We Could Be The Same' adlı şarkıyla temsil eden ve ikinci olarak büyük başarı elde eden müzik grubu hangisidir?",
+      "options": [
+        "Athena",
+        "Şebnem Paker",
+        "Can Bonomo",
+        "maNga",
+        "Hadise"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Soğuk Savaş döneminde ortaya çıkan ve ajan filmleriyle dünya çapında popüler olan, kullandığı özel aletler ve kendine has tarzıyla bilinen ikonik İngiliz casus karakteri kimdir?",
+      "options": [
+        "Jason Bourne",
+        "Ethan Hunt",
+        "James Bond",
+        "Jack Ryan",
+        "Austin Powers"
       ],
       "correct": 2
-    },
-    {
-      "question": "1990'lı yılların süpermodel kuşağının en tanınmış isimlerinden biri olan ve moda dünyasında uzun yıllar hüküm süren, 'kara panter' lakabıyla da bilinen ikonik model kimdir?",
-      "options": [
-        "Gisele Bündchen",
-        "Naomi Campbell",
-        "Kate Moss",
-        "Cindy Crawford",
-        "Claudia Schiffer"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "TikTok platformunda çektiği komik ve yaratıcı videolarla kısa sürede dünya çapında bir fenomen haline gelen, özellikle 'durgunluk komedisi' tarzıyla bilinen İtalyan sosyal medya ünlüsü kimdir?",
-      "options": [
-        "Khaby Lame",
-        "Charli D'Amelio",
-        "Addison Rae",
-        "Bella Poarch",
-        "Hasbulla Magomedov"
-      ],
-      "correct": 0
     }
   ]
 }
