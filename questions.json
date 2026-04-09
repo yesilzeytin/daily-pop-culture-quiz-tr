@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Fox Kids kanalında yayınlanan ve 'It's Morphin Time!' repliğiyle bilinen, gençlerin özel güçlere sahip kahramanlara dönüştüğü popüler çizgi dizi hangisidir?",
+      "question": "Disney Channel'ın popüler çizgi filmlerinden \"Phineas ve Ferb\"de, Flynn-Fletcher ailesinin evcil hayvanı olan, aynı zamanda gizli bir ajan kimliğine sahip ornitorenk karakterin adı nedir?",
       "options": [
-        "Digimon Adventure",
-        "X-Men: Evolution",
-        "Power Rangers",
-        "Spider-Man: The Animated Series",
-        "Heathcliff"
+        "Perry",
+        "Ferb",
+        "Platypus",
+        "Candace",
+        "Dr. Doofenshmirtz"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "2013 yılında internette viral olan ve birçok kişinin grup halinde, belirli bir müzik eşliğinde absürt dans figürleri sergileyerek videoya çektiği fenomenin adı nedir?",
+      "question": "Soğuk Savaş döneminde Amerika Birleşik Devletleri ile Sovyetler Birliği arasında yaşanan uzay yarışında, 12 Nisan 1961 tarihinde Vostok 1 uzay aracıyla Dünya yörüngesinde turlayarak uzaya çıkan ilk insan kim olmuştur?",
       "options": [
-        "Mannequin Challenge",
-        "Ice Bucket Challenge",
-        "Harlem Shake",
-        "Planking",
-        "Bottle Cap Challenge"
+        "Neil Armstrong",
+        "Yuri Gagarin",
+        "Buzz Aldrin",
+        "Valentina Tereşkova",
+        "Alan Shepard"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
-      "question": "Vine platformunda çektiği kısa ve absürt komedi videolarıyla tanınan, özellikle 'Abi, dur daha yeni geldim', 'Bunu ben mi yaptım?' gibi replikleriyle hafızalara kazınan ve daha sonra TikTok'ta da popülerliğini sürdüren Türk fenomen kimdir?",
+      "question": "TikTok platformunda ortaya çıkan ve özellikle Z kuşağı tarafından, kendilerinden yaşça büyük nesillerin modası geçmiş veya eleştirel fikirlerine yanıt olarak kullanılan, son yıllarda popülerleşmiş olan alaycı ifade nedir?",
       "options": [
-        "Reynmen",
-        "Enes Batur",
-        "Cem Gelinoğlu",
-        "Aykut Elmas",
-        "Danla Bilic"
+        "Ok Boomer",
+        "No Cap",
+        "Yeet",
+        "Cringe",
+        "Slay"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
-      "question": "Türkiye'yi 2010 Eurovision Şarkı Yarışması'nda 'We Could Be The Same' adlı şarkıyla temsil eden ve ikinci olarak büyük başarı elde eden müzik grubu hangisidir?",
+      "question": "Türkiye'de büyük ilgi gören ve MasterChef formatının ilk yerli uyarlaması olan \"MasterChef Türkiye\"nin 2018 yılında yayınlanan ilk sezonunu şampiyon olarak tamamlayan isim kimdir?",
       "options": [
-        "Athena",
-        "Şebnem Paker",
-        "Can Bonomo",
-        "maNga",
-        "Hadise"
+        "Cemre Uyanık",
+        "Uğur Kardaş",
+        "Serhat Doğramacı",
+        "Eren Kaşıkçı",
+        "Metin Yavuz"
       ],
-      "correct": 3
+      "correct": 1
     },
     {
-      "question": "Soğuk Savaş döneminde ortaya çıkan ve ajan filmleriyle dünya çapında popüler olan, kullandığı özel aletler ve kendine has tarzıyla bilinen ikonik İngiliz casus karakteri kimdir?",
+      "question": "Türkiye'de \"Baba\" lakabıyla anılan, kendine özgü yorumu ve derin sesiyle arabesk müziğe damga vuran efsanevi sanatçı Müslüm Gürses'in tam adı nedir?",
       "options": [
-        "Jason Bourne",
-        "Ethan Hunt",
-        "James Bond",
-        "Jack Ryan",
-        "Austin Powers"
+        "Müslüm Akbaş",
+        "Müslüm Timuçin",
+        "Müslüm Güneş",
+        "Müslüm Bayraktar",
+        "Müslüm Serttaş"
       ],
-      "correct": 2
+      "correct": 0
     }
   ]
 }
