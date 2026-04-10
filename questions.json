@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Disney Channel'ın popüler çizgi filmlerinden \"Phineas ve Ferb\"de, Flynn-Fletcher ailesinin evcil hayvanı olan, aynı zamanda gizli bir ajan kimliğine sahip ornitorenk karakterin adı nedir?",
+      "question": "1982 yılında yayınlanan ve tüm zamanların en çok satan albümlerinden biri olan, 'Beat It', 'Billie Jean' ve 'Thriller' gibi hit şarkıları barındıran, Michael Jackson'ın ikonik albümünün adı nedir?",
       "options": [
-        "Perry",
-        "Ferb",
-        "Platypus",
-        "Candace",
-        "Dr. Doofenshmirtz"
+        "Bad",
+        "Dangerous",
+        "Thriller",
+        "Off the Wall",
+        "History"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "question": "Soğuk Savaş döneminde Amerika Birleşik Devletleri ile Sovyetler Birliği arasında yaşanan uzay yarışında, 12 Nisan 1961 tarihinde Vostok 1 uzay aracıyla Dünya yörüngesinde turlayarak uzaya çıkan ilk insan kim olmuştur?",
+      "question": "1990'lı yılların ortalarında Almanya'da kurulan ve 'Cartel' adlı çıkış şarkılarıyla Türk rap müziğini geniş kitlelere tanıtan, Türk rap müziğinin öncü gruplarından hangisidir?",
       "options": [
-        "Neil Armstrong",
-        "Yuri Gagarin",
-        "Buzz Aldrin",
-        "Valentina Tereşkova",
-        "Alan Shepard"
+        "Nefret",
+        "Karakan",
+        "Cartel",
+        "Makale",
+        "Yener Çevik"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Yeşilçam'ın unutulmaz jönlerinden biri olan ve özellikle sert, vatansever ve aksiyon dolu rolleriyle hafızalara kazınan, 'Malkoçoğlu' karakteriyle özdeşleşen efsanevi oyuncu kimdir?",
+      "options": [
+        "Ayhan Işık",
+        "Tarık Akan",
+        "Cüneyt Arkın",
+        "Kartal Tibet",
+        "Ediz Hun"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Formula 1 tarihinde, 1980'lerin sonu ve 1990'ların başında üç kez dünya şampiyonu olan ve 'Sihirbaz' lakabıyla anılan, pistlerdeki agresif sürüş stiliyle bilinen efsanevi Brezilyalı pilot kimdir?",
+      "options": [
+        "Alain Prost",
+        "Niki Lauda",
+        "Juan Manuel Fangio",
+        "Ayrton Senna",
+        "Jim Clark"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Nintendo'nun popüler video oyunu serisi 'The Legend of Zelda'da, Hyrule Krallığı'nı ve prenses Zelda'yı kötü güçlerden kurtarmak için maceraya atılan ana kahramanın adı nedir?",
+      "options": [
+        "Mario",
+        "Link",
+        "Luigi",
+        "Ganondorf",
+        "Pikachu"
       ],
       "correct": 1
-    },
-    {
-      "question": "TikTok platformunda ortaya çıkan ve özellikle Z kuşağı tarafından, kendilerinden yaşça büyük nesillerin modası geçmiş veya eleştirel fikirlerine yanıt olarak kullanılan, son yıllarda popülerleşmiş olan alaycı ifade nedir?",
-      "options": [
-        "Ok Boomer",
-        "No Cap",
-        "Yeet",
-        "Cringe",
-        "Slay"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Türkiye'de büyük ilgi gören ve MasterChef formatının ilk yerli uyarlaması olan \"MasterChef Türkiye\"nin 2018 yılında yayınlanan ilk sezonunu şampiyon olarak tamamlayan isim kimdir?",
-      "options": [
-        "Cemre Uyanık",
-        "Uğur Kardaş",
-        "Serhat Doğramacı",
-        "Eren Kaşıkçı",
-        "Metin Yavuz"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Türkiye'de \"Baba\" lakabıyla anılan, kendine özgü yorumu ve derin sesiyle arabesk müziğe damga vuran efsanevi sanatçı Müslüm Gürses'in tam adı nedir?",
-      "options": [
-        "Müslüm Akbaş",
-        "Müslüm Timuçin",
-        "Müslüm Güneş",
-        "Müslüm Bayraktar",
-        "Müslüm Serttaş"
-      ],
-      "correct": 0
     }
   ]
 }
