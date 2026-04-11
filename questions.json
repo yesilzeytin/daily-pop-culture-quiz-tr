@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "1982 yılında yayınlanan ve tüm zamanların en çok satan albümlerinden biri olan, 'Beat It', 'Billie Jean' ve 'Thriller' gibi hit şarkıları barındıran, Michael Jackson'ın ikonik albümünün adı nedir?",
+      "question": "Mor ve Ötesi grubunun, Türkiye'yi 2008 Eurovision Şarkı Yarışması'nda temsil ettiği şarkının adı nedir?",
       "options": [
-        "Bad",
-        "Dangerous",
-        "Thriller",
-        "Off the Wall",
-        "History"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "1990'lı yılların ortalarında Almanya'da kurulan ve 'Cartel' adlı çıkış şarkılarıyla Türk rap müziğini geniş kitlelere tanıtan, Türk rap müziğinin öncü gruplarından hangisidir?",
-      "options": [
-        "Nefret",
-        "Karakan",
-        "Cartel",
-        "Makale",
-        "Yener Çevik"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Yeşilçam'ın unutulmaz jönlerinden biri olan ve özellikle sert, vatansever ve aksiyon dolu rolleriyle hafızalara kazınan, 'Malkoçoğlu' karakteriyle özdeşleşen efsanevi oyuncu kimdir?",
-      "options": [
-        "Ayhan Işık",
-        "Tarık Akan",
-        "Cüneyt Arkın",
-        "Kartal Tibet",
-        "Ediz Hun"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Formula 1 tarihinde, 1980'lerin sonu ve 1990'ların başında üç kez dünya şampiyonu olan ve 'Sihirbaz' lakabıyla anılan, pistlerdeki agresif sürüş stiliyle bilinen efsanevi Brezilyalı pilot kimdir?",
-      "options": [
-        "Alain Prost",
-        "Niki Lauda",
-        "Juan Manuel Fangio",
-        "Ayrton Senna",
-        "Jim Clark"
+        "Küçük Sevgilim",
+        "Cambaz",
+        "Bir Derdim Var",
+        "Deli",
+        "Yaz Yaz Yaz"
       ],
       "correct": 3
     },
     {
-      "question": "Nintendo'nun popüler video oyunu serisi 'The Legend of Zelda'da, Hyrule Krallığı'nı ve prenses Zelda'yı kötü güçlerden kurtarmak için maceraya atılan ana kahramanın adı nedir?",
+      "question": "Türkiye'de internetin genele yaygınlaşmasında önemli bir rol oynayan ve 1990'ların sonu ile 2000'lerin başında popülerliğini zirveye taşıyan, genellikle saatlik ücretle hizmet veren mekanlara ne ad verilirdi?",
       "options": [
-        "Mario",
-        "Link",
-        "Luigi",
-        "Ganondorf",
-        "Pikachu"
+        "Bilgisayar Kulübü",
+        "Siber Kafe",
+        "İnternet Kafe",
+        "Oyun Salonu",
+        "Teknoloji Merkezi"
       ],
-      "correct": 1
+      "correct": 2
+    },
+    {
+      "question": "Şahan Gökbakar'ın yaratıp canlandırdığı popüler karakter Recep İvedik'in beyazperdedeki ilk macerası hangi yıl vizyona girmiştir?",
+      "options": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Avrupa futbolunun kulüp düzeyindeki en prestijli turnuvası olan UEFA Şampiyonlar Ligi'ni (eski adıyla Şampiyon Kulüpler Kupası) tarihinde en çok kazanan takım hangisidir?",
+      "options": [
+        "Milan",
+        "Bayern Münih",
+        "Liverpool",
+        "Barcelona",
+        "Real Madrid"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "Netflix'in dünya genelinde izlenme rekorları kıran Güney Kore yapımı \"Squid Game\" dizisi, hangi türde bir hikaye anlatmaktadır?",
+      "options": [
+        "Romantik Komedi",
+        "Tarihi Dram",
+        "Distopik Gerilim",
+        "Bilim Kurgu",
+        "Gençlik Dizisi"
+      ],
+      "correct": 2
     }
   ]
 }
