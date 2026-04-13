@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Britanya tahtının en uzun süre tahtta kalan monarkı olan Kraliçe II. Elizabeth, kaç yıl hüküm sürmüştür?",
+      "question": "Cem Yılmaz'ın senaryosunu yazıp başrolünde oynadığı \"G.O.R.A.\" filminde, karakterlerin uzay yolculuğu sonrasında vardıkları gezegenin adı nedir?",
       "options": [
-        "60",
-        "65",
-        "70",
-        "75",
-        "80"
+        "Jüpiter",
+        "Terra",
+        "G.O.R.A.",
+        "Mars",
+        "Satürn"
       ],
       "correct": 2
     },
     {
-      "question": "Türkiye, Eurovision Şarkı Yarışması'na en son hangi yılda katılmıştır?",
+      "question": "CD Projekt Red tarafından geliştirilen ve daha sonra Netflix tarafından diziye uyarlanan \"The Witcher\" evreninde, ana karakter Geralt'ın sadık atının adı nedir?",
       "options": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014"
+        "Roach",
+        "Shadowfax",
+        "Epona",
+        "Fırtına",
+        "Rüzgar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Ünlü aktör Leonardo DiCaprio, uzun yıllar adaylık almasına rağmen ilk Oscar Ülü'nü hangi filmdeki performansıyla kazanmıştır?",
+      "options": [
+        "Titanik",
+        "Para Avcısı",
+        "Diriliş",
+        "Köstebek",
+        "Başlangıç"
       ],
       "correct": 2
     },
     {
-      "question": "Çocukluğumuzun unutulmaz atıştırmalıklarından Tipitip sakızlarının içinden genellikle hangi popüler çizgi karakterin karikatürleri çıkardı?",
+      "question": "George R. R. Martin'in \"Buz ve Ateşın Şarkısı\" serisinden uyarlanan ve büyük bir hayran kitlesi bulunan \"Game of Thrones\" dizisinde, Kış Diyarı'nın hükümdarı olan Stark Hanesi'nin simgesi hangi hayvandır?",
       "options": [
-        "Temel Reis",
-        "Tom ve Jerry",
-        "Red Kit",
-        "Asteriks",
-        "Betty Boop"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türkiye A Milli Futbol Takımı, FIFA Dünya Kupası tarihindeki en iyi derecesini hangi yılda elde etmiştir?",
-      "options": [
-        "1998",
-        "2002",
-        "2006",
-        "2010",
-        "2014"
+        "Aslan",
+        "Kurt",
+        "Ejderha",
+        "Geyik",
+        "Karga"
       ],
       "correct": 1
     },
     {
-      "question": "İnternet meme kültüründe, genellikle zoraki bir gülümsemeyi ve içsel acıyı ifade eden 'Hide the Pain Harold' meme'iyle tanınan yaşlı adamın gerçek adı nedir?",
+      "question": "Soğuk Savaş'ın sona ermesinin sembollerinden biri olan ve dünya çapında yankı uyandıran Berlin Duvarı'nın yıkılışı hangi yıl gerçekleşmiştir?",
       "options": [
-        "John Smith",
-        "Harold Wilson",
-        "András Arató",
-        "Peter Jones",
-        "Michael Miller"
+        "1979",
+        "1985",
+        "1991",
+        "1989",
+        "2000"
       ],
-      "correct": 2
+      "correct": 3
     }
   ]
 }
