@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Cem Yılmaz'ın senaryosunu yazıp başrolünde oynadığı \"G.O.R.A.\" filminde, karakterlerin uzay yolculuğu sonrasında vardıkları gezegenin adı nedir?",
+      "question": "Nobel Edebiyat Ödülü sahibi Orhan Pamuk, eserlerinde sıkça Doğu-Batı çatışması, kimlik arayışı ve hüzün temalarını ele alırken, bu temaları özellikle hangi şehrin kültürel ve tarihsel dokusu üzerinden işlemiştir?",
       "options": [
-        "Jüpiter",
-        "Terra",
-        "G.O.R.A.",
-        "Mars",
-        "Satürn"
+        "Ankara",
+        "İzmir",
+        "İstanbul",
+        "Venedik",
+        "Paris"
       ],
       "correct": 2
     },
     {
-      "question": "CD Projekt Red tarafından geliştirilen ve daha sonra Netflix tarafından diziye uyarlanan \"The Witcher\" evreninde, ana karakter Geralt'ın sadık atının adı nedir?",
+      "question": "HBO'nun dünya genelinde fenomen haline gelen dizisi \"Game of Thrones\"ta, Braavos'taki Yüzsüz Adamlar loncasının gizemli üyesi ve Arya Stark'ın dövüş sanatları ve kimlik değiştirme konusunda mentoru olan karakter kimdir?",
       "options": [
-        "Roach",
-        "Shadowfax",
-        "Epona",
-        "Fırtına",
-        "Rüzgar"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Ünlü aktör Leonardo DiCaprio, uzun yıllar adaylık almasına rağmen ilk Oscar Ülü'nü hangi filmdeki performansıyla kazanmıştır?",
-      "options": [
-        "Titanik",
-        "Para Avcısı",
-        "Diriliş",
-        "Köstebek",
-        "Başlangıç"
+        "Varys",
+        "Petyr 'Littlefinger' Baelish",
+        "Jaqen H'ghar",
+        "Sandor 'Tazı' Clegane",
+        "Tormund Giantsbane"
       ],
       "correct": 2
     },
     {
-      "question": "George R. R. Martin'in \"Buz ve Ateşın Şarkısı\" serisinden uyarlanan ve büyük bir hayran kitlesi bulunan \"Game of Thrones\" dizisinde, Kış Diyarı'nın hükümdarı olan Stark Hanesi'nin simgesi hangi hayvandır?",
+      "question": "İnsanlık tarihinin en ikonik anlarından biri olarak kabul edilen, Apollo 11 göreviyle Ay'a ilk insanlı inişin gerçekleştiği ve Neil Armstrong'un Ay yüzeyine ilk adımını attığı yıl hangisidir?",
       "options": [
-        "Aslan",
-        "Kurt",
-        "Ejderha",
-        "Geyik",
-        "Karga"
+        "1957",
+        "1961",
+        "1969",
+        "1972",
+        "1980"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
-      "question": "Soğuk Savaş'ın sona ermesinin sembollerinden biri olan ve dünya çapında yankı uyandıran Berlin Duvarı'nın yıkılışı hangi yıl gerçekleşmiştir?",
+      "question": "Türkiye'ye halterde birçok Olimpiyat, Dünya ve Avrupa şampiyonluğu kazandıran, \"Cep Herkülü\" lakabıyla tüm dünyada tanınan ve Olimpiyat tarihinde üç farklı kategoride dünya rekoru kırarak üç altın madalya kazanan efsanevi sporcumuz kimdir?",
       "options": [
-        "1979",
-        "1985",
-        "1991",
-        "1989",
-        "2000"
+        "Nurcan Taylan",
+        "Halil Mutlu",
+        "Naim Süleymanoğlu",
+        "Daniyar İsmayilov",
+        "Mete Gazoz"
       ],
-      "correct": 3
+      "correct": 2
+    },
+    {
+      "question": "MasterChef Türkiye programının sevilen jüri üyelerinden biri olan, özellikle İtalyan mutfağı konusunda uzmanlığıyla tanınan, esprili ve neşeli kişiliğiyle dikkat çeken şef kimdir?",
+      "options": [
+        "Mehmet Yalçınkaya",
+        "Somer Sivrioğlu",
+        "Danilo Zanna",
+        "Ali Baba",
+        "Arda Türkmen"
+      ],
+      "correct": 2
     }
   ]
 }
