@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Nobel Edebiyat Ödülü sahibi Orhan Pamuk, eserlerinde sıkça Doğu-Batı çatışması, kimlik arayışı ve hüzün temalarını ele alırken, bu temaları özellikle hangi şehrin kültürel ve tarihsel dokusu üzerinden işlemiştir?",
+      "question": "Diriliş Ertuğrul dizisinde Ertuğrul Bey’i hangi oyuncu canlandırmıştır?",
       "options": [
-        "Ankara",
-        "İzmir",
-        "İstanbul",
-        "Venedik",
-        "Paris"
+        "Engin Altan Düzyatan",
+        "Burak Özçivit",
+        "Kıvanç Tatlıtuğ",
+        "Kenan İmirzalıoğlu",
+        "Çağatay Ulusoy"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Global pop müziğe damga vuran Güney Koreli erkek grubu BTS'in resmi fandom adı nedir?",
+      "options": [
+        "BLINK",
+        "EXO-L",
+        "STAY",
+        "CARAT",
+        "ARMY"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "2020 yılında \"En İyi Film\" Oscar'ını kazanarak tarihinde bir ilke imza atan ve İngilizce olmayan ilk film olan Güney Kore yapımı hangisidir?",
+      "options": [
+        "Roma",
+        "Minari",
+        "Parazit",
+        "Yaşamın Kıyısında (Coda)",
+        "Green Book"
       ],
       "correct": 2
     },
     {
-      "question": "HBO'nun dünya genelinde fenomen haline gelen dizisi \"Game of Thrones\"ta, Braavos'taki Yüzsüz Adamlar loncasının gizemli üyesi ve Arya Stark'ın dövüş sanatları ve kimlik değiştirme konusunda mentoru olan karakter kimdir?",
+      "question": "Tarihin en cüretkar dolandırıcılıklarından birine imza atarak, 1925 yılında Paris'te Eiffel Kulesi'ni hurda metal olarak iki kez satmaya çalışan dolandırıcı kimdir?",
       "options": [
-        "Varys",
-        "Petyr 'Littlefinger' Baelish",
-        "Jaqen H'ghar",
-        "Sandor 'Tazı' Clegane",
-        "Tormund Giantsbane"
+        "Charles Ponzi",
+        "George C. Parker",
+        "Bernard Madoff",
+        "Frank Abagnale Jr.",
+        "Victor Lustig"
       ],
-      "correct": 2
+      "correct": 4
     },
     {
-      "question": "İnsanlık tarihinin en ikonik anlarından biri olarak kabul edilen, Apollo 11 göreviyle Ay'a ilk insanlı inişin gerçekleştiği ve Neil Armstrong'un Ay yüzeyine ilk adımını attığı yıl hangisidir?",
+      "question": "Soğuk Savaş döneminde, 1957 yılında uzaya fırlatılan ve dünyanın yörüngesine oturan ilk yapay uydu olan Sovyetler Birliği yapımı uydunun adı nedir?",
       "options": [
-        "1957",
-        "1961",
-        "1969",
-        "1972",
-        "1980"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türkiye'ye halterde birçok Olimpiyat, Dünya ve Avrupa şampiyonluğu kazandıran, \"Cep Herkülü\" lakabıyla tüm dünyada tanınan ve Olimpiyat tarihinde üç farklı kategoride dünya rekoru kırarak üç altın madalya kazanan efsanevi sporcumuz kimdir?",
-      "options": [
-        "Nurcan Taylan",
-        "Halil Mutlu",
-        "Naim Süleymanoğlu",
-        "Daniyar İsmayilov",
-        "Mete Gazoz"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "MasterChef Türkiye programının sevilen jüri üyelerinden biri olan, özellikle İtalyan mutfağı konusunda uzmanlığıyla tanınan, esprili ve neşeli kişiliğiyle dikkat çeken şef kimdir?",
-      "options": [
-        "Mehmet Yalçınkaya",
-        "Somer Sivrioğlu",
-        "Danilo Zanna",
-        "Ali Baba",
-        "Arda Türkmen"
+        "Apollo 11",
+        "Voyager 1",
+        "Sputnik 1",
+        "Hubble",
+        "Mir"
       ],
       "correct": 2
     }
