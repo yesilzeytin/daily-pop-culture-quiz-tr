@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Diriliş Ertuğrul dizisinde Ertuğrul Bey’i hangi oyuncu canlandırmıştır?",
+      "question": "Harry Potter serisinde, Lord Voldemort'un Hortkuluklarından biri olan ve sık sık yanında görülen yılanın adı nedir?",
       "options": [
-        "Engin Altan Düzyatan",
-        "Burak Özçivit",
-        "Kıvanç Tatlıtuğ",
-        "Kenan İmirzalıoğlu",
-        "Çağatay Ulusoy"
+        "Nagini",
+        "Basilisk",
+        "Aragog",
+        "Fawkes",
+        "Hedwig"
       ],
       "correct": 0
     },
     {
-      "question": "Global pop müziğe damga vuran Güney Koreli erkek grubu BTS'in resmi fandom adı nedir?",
+      "question": "90'lı yılların sonu ve 2000'lerin başında \"Şıkıdım\", \"Dudu\" gibi hitleriyle Türk pop müziğine damga vuran, Megastar lakaplı sanatçı kimdir?",
       "options": [
-        "BLINK",
-        "EXO-L",
-        "STAY",
-        "CARAT",
-        "ARMY"
+        "Mustafa Sandal",
+        "Kenan Doğulu",
+        "Serdar Ortaç",
+        "Tarkan",
+        "Burak Kut"
       ],
-      "correct": 4
+      "correct": 3
     },
     {
-      "question": "2020 yılında \"En İyi Film\" Oscar'ını kazanarak tarihinde bir ilke imza atan ve İngilizce olmayan ilk film olan Güney Kore yapımı hangisidir?",
+      "question": "\"Aşk-ı Memnu\" dizisinde \"Bihter Ziyagil\" karakterine hayat veren ve daha sonra \"Fatmagül'ün Suçu Ne?\" gibi popüler yapımlarda da başarılı performans sergileyen Türk aktris kimdir?",
       "options": [
-        "Roma",
-        "Minari",
-        "Parazit",
-        "Yaşamın Kıyısında (Coda)",
-        "Green Book"
+        "Hazal Kaya",
+        "Fahriye Evcen",
+        "Beren Saat",
+        "Tuba Büyüküstün",
+        "Demet Özdemir"
       ],
       "correct": 2
     },
     {
-      "question": "Tarihin en cüretkar dolandırıcılıklarından birine imza atarak, 1925 yılında Paris'te Eiffel Kulesi'ni hurda metal olarak iki kez satmaya çalışan dolandırıcı kimdir?",
+      "question": "Pixar yapımı \"Yukarı Bak\" (Up) filminde, hayalini gerçekleştirmek için evini binlerce balonla uçuran yaşlı adamın adı nedir?",
       "options": [
-        "Charles Ponzi",
-        "George C. Parker",
-        "Bernard Madoff",
-        "Frank Abagnale Jr.",
-        "Victor Lustig"
+        "Russell",
+        "Kevin",
+        "Dug",
+        "Carl Fredricksen",
+        "Charles Muntz"
       ],
-      "correct": 4
+      "correct": 3
     },
     {
-      "question": "Soğuk Savaş döneminde, 1957 yılında uzaya fırlatılan ve dünyanın yörüngesine oturan ilk yapay uydu olan Sovyetler Birliği yapımı uydunun adı nedir?",
+      "question": "Akıllı telefonlarda kullanılan, özellikle ekran panellerinin her bir pikselinin kendi ışığını yaydığı, böylece daha canlı renkler ve gerçek siyahlar sunan ekran teknolojisinin kısaltması nedir?",
       "options": [
-        "Apollo 11",
-        "Voyager 1",
-        "Sputnik 1",
-        "Hubble",
-        "Mir"
+        "LCD",
+        "LED",
+        "IPS",
+        "AMOLED",
+        "TFT"
       ],
-      "correct": 2
+      "correct": 3
     }
   ]
 }
