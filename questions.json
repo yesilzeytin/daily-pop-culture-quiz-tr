@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Harry Potter serisinde, Lord Voldemort'un Hortkuluklarından biri olan ve sık sık yanında görülen yılanın adı nedir?",
+      "question": "Disney Channel'ın popüler çizgi dizisi \"Kim Possible\"da, Kim'in en yakın arkadaşı ve maceralarındaki daimi yardımcısı olan karakterin adı nedir?",
       "options": [
-        "Nagini",
-        "Basilisk",
-        "Aragog",
-        "Fawkes",
-        "Hedwig"
+        "Ron Stoppable",
+        "Wade Load",
+        "Dr. Drakken",
+        "Shego",
+        "Rufus"
       ],
       "correct": 0
     },
     {
-      "question": "90'lı yılların sonu ve 2000'lerin başında \"Şıkıdım\", \"Dudu\" gibi hitleriyle Türk pop müziğine damga vuran, Megastar lakaplı sanatçı kimdir?",
+      "question": "Yılmaz Erdoğan'ın yönettiği ve başrolünde oynadığı \"Organize İşler\" film serisinde, Rıza karakteriyle hafızalara kazınan ve Komiser Asım ile olan komik diyaloglarıyla bilinen oyuncu kimdir?",
       "options": [
-        "Mustafa Sandal",
-        "Kenan Doğulu",
-        "Serdar Ortaç",
-        "Tarkan",
-        "Burak Kut"
+        "Tolga Çevik",
+        "Demet Akbağ",
+        "Altan Erkekli",
+        "Okan Bayülgen",
+        "Rıza Kocaoğlu"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
-      "question": "\"Aşk-ı Memnu\" dizisinde \"Bihter Ziyagil\" karakterine hayat veren ve daha sonra \"Fatmagül'ün Suçu Ne?\" gibi popüler yapımlarda da başarılı performans sergileyen Türk aktris kimdir?",
+      "question": "Nintendo'nun popüler video oyunu ve anime serisi \"Pokémon\"da, ana karakter Ash Ketchum'un maceraları boyunca karşısına çıkan, Pikachu'yu çalmaya çalışan ve \"Roket Takımı hazzırlar!\" sloganıyla tanınan kötü ekip hangisidir?",
       "options": [
-        "Hazal Kaya",
-        "Fahriye Evcen",
-        "Beren Saat",
-        "Tuba Büyüküstün",
-        "Demet Özdemir"
+        "Plazma Takımı",
+        "Aqua Takımı",
+        "Roket Takımı",
+        "Galaksi Takımı",
+        "Flare Takımı"
       ],
       "correct": 2
     },
     {
-      "question": "Pixar yapımı \"Yukarı Bak\" (Up) filminde, hayalini gerçekleştirmek için evini binlerce balonla uçuran yaşlı adamın adı nedir?",
+      "question": "Marvel Sinematik Evreni'nin ilk filmlerinden biri olan ve Tony Stark'ın zengin bir sanayiciyken zırhlı bir süper kahramana dönüşme hikayesini anlatan filmin adı nedir?",
       "options": [
-        "Russell",
-        "Kevin",
-        "Dug",
-        "Carl Fredricksen",
-        "Charles Muntz"
+        "Kaptan Amerika: İlk Yenilmez",
+        "Yenilmezler",
+        "Thor",
+        "Iron Man",
+        "Örümcek Adam: Eve Dönüş"
       ],
       "correct": 3
     },
     {
-      "question": "Akıllı telefonlarda kullanılan, özellikle ekran panellerinin her bir pikselinin kendi ışığını yaydığı, böylece daha canlı renkler ve gerçek siyahlar sunan ekran teknolojisinin kısaltması nedir?",
+      "question": "Netflix Türkiye'nin büyük ilgi gören ve 1950'li yılların İstanbul'unda geçen, Matilda ve Raşel'in hikayesini anlatan dram dizisinin adı nedir?",
       "options": [
-        "LCD",
-        "LED",
-        "IPS",
-        "AMOLED",
-        "TFT"
+        "Bir Başkadır",
+        "Hakan: Muhafız",
+        "Kulüp",
+        "Atiye",
+        "Fatma"
       ],
-      "correct": 3
+      "correct": 2
     }
   ]
 }
