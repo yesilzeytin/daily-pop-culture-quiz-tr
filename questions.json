@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Disney Channel'ın popüler çizgi dizisi \"Kim Possible\"da, Kim'in en yakın arkadaşı ve maceralarındaki daimi yardımcısı olan karakterin adı nedir?",
+      "question": "Çocukluğumuzun unutulmaz atıştırmalıklarından biri olan, genelde küçük, plastik bir kapta sunulan ve içinden çıkan minik kaşıkla yenen, kakao veya fındık kreması içeren ürünün popüler adı nedir?",
       "options": [
-        "Ron Stoppable",
-        "Wade Load",
-        "Dr. Drakken",
-        "Shego",
-        "Rufus"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Yılmaz Erdoğan'ın yönettiği ve başrolünde oynadığı \"Organize İşler\" film serisinde, Rıza karakteriyle hafızalara kazınan ve Komiser Asım ile olan komik diyaloglarıyla bilinen oyuncu kimdir?",
-      "options": [
-        "Tolga Çevik",
-        "Demet Akbağ",
-        "Altan Erkekli",
-        "Okan Bayülgen",
-        "Rıza Kocaoğlu"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Nintendo'nun popüler video oyunu ve anime serisi \"Pokémon\"da, ana karakter Ash Ketchum'un maceraları boyunca karşısına çıkan, Pikachu'yu çalmaya çalışan ve \"Roket Takımı hazzırlar!\" sloganıyla tanınan kötü ekip hangisidir?",
-      "options": [
-        "Plazma Takımı",
-        "Aqua Takımı",
-        "Roket Takımı",
-        "Galaksi Takımı",
-        "Flare Takımı"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Marvel Sinematik Evreni'nin ilk filmlerinden biri olan ve Tony Stark'ın zengin bir sanayiciyken zırhlı bir süper kahramana dönüşme hikayesini anlatan filmin adı nedir?",
-      "options": [
-        "Kaptan Amerika: İlk Yenilmez",
-        "Yenilmezler",
-        "Thor",
-        "Iron Man",
-        "Örümcek Adam: Eve Dönüş"
+        "Cino",
+        "Tipitip",
+        "Bonibon",
+        "Şokosoko",
+        "Leblebi Tozu"
       ],
       "correct": 3
     },
     {
-      "question": "Netflix Türkiye'nin büyük ilgi gören ve 1950'li yılların İstanbul'unda geçen, Matilda ve Raşel'in hikayesini anlatan dram dizisinin adı nedir?",
+      "question": "Cartoon Network'ün ikonik çizgi dizilerinden \"Powerpuff Girls\"de, Profesör Utonium'un kazara karışıma eklediği ve kızlara özel güçler veren maddenin adı nedir?",
       "options": [
-        "Bir Başkadır",
-        "Hakan: Muhafız",
-        "Kulüp",
-        "Atiye",
-        "Fatma"
+        "Element Z",
+        "Kimyasal X",
+        "Süper Sıvı Y",
+        "Reaktif K",
+        "Mucize Madde M"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Kral III. Charles'tan sonra Britanya tahtının birincil varisi ve gelecekteki kraliyet unvanının en olası sahibi kimdir?",
+      "options": [
+        "Prens Harry",
+        "Prens Andrew",
+        "Prens William",
+        "Prens Edward",
+        "Prens George"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türk edebiyatının önemli isimlerinden Orhan Pamuk, Nobel Edebiyat Ödülü'nü hangi yıl kazanarak bu prestijli ödüle layık görülen ilk ve tek Türk yazar olmuştur?",
+      "options": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Dünyaca ünlü K-Pop kız grubu BLACKPINK'in, hayranlarının konserlerde kullandığı ve grubun sembolü haline gelen resmi ışık çubuğuna (lightstick) ne ad verilir?",
+      "options": [
+        "Blink Bomb",
+        "Pink Light",
+        "Hammer Bong",
+        "Rosé Glow",
+        "Jennie Flash"
       ],
       "correct": 2
     }
