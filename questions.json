@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Çocukluğumuzun unutulmaz atıştırmalıklarından biri olan, genelde küçük, plastik bir kapta sunulan ve içinden çıkan minik kaşıkla yenen, kakao veya fındık kreması içeren ürünün popüler adı nedir?",
+      "question": "\"Şirinler\" çizgi filminde, kötü büyücü Gargamel'in yardımcısı olan ve Şirinleri yakalamak için ona eşlik eden kedinin adı nedir?",
       "options": [
-        "Cino",
-        "Tipitip",
-        "Bonibon",
-        "Şokosoko",
-        "Leblebi Tozu"
+        "Azman",
+        "Tom",
+        "Sylvester",
+        "Garfield",
+        "Felix"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
-      "question": "Cartoon Network'ün ikonik çizgi dizilerinden \"Powerpuff Girls\"de, Profesör Utonium'un kazara karışıma eklediği ve kızlara özel güçler veren maddenin adı nedir?",
+      "question": "Survivor Türkiye tarihinde, 'All Star' formatında iki kez şampiyon olmayı başaran ilk ve tek yarışmacı kimdir?",
       "options": [
-        "Element Z",
-        "Kimyasal X",
-        "Süper Sıvı Y",
-        "Reaktif K",
-        "Mucize Madde M"
+        "Ogeday Girişken",
+        "Adem Kılıççı",
+        "Turabi Çamkıran",
+        "Nisa Bölükbaşı",
+        "Merve Oflaz"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Star Wars evreninde, Jedi Konseyi'nin bilge ve güçlü üyelerinden biri olan, yeşil derili, küçük boylu, kendine özgü konuşma tarzına sahip karakter kimdir?",
+      "options": [
+        "Obi-Wan Kenobi",
+        "Chewbacca",
+        "Yoda",
+        "Mace Windu",
+        "Qui-Gon Jinn"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türk magazin tarihinde \"Müslüm Gürses ile Muhterem Nur\" gibi birçok ünlü ismin hayat hikayelerinin ele alındığı, Türkiye'nin en uzun soluklu magazin programlarından biri olan televizyon programı hangisidir?",
+      "options": [
+        "Magazin D",
+        "Pazar Keyfi",
+        "Renkli Sayfalar",
+        "Söylemezsem Olmaz",
+        "İkinci Sayfa"
       ],
       "correct": 1
     },
     {
-      "question": "Kral III. Charles'tan sonra Britanya tahtının birincil varisi ve gelecekteki kraliyet unvanının en olası sahibi kimdir?",
+      "question": "Marvel Sinematik Evreni'nin \"Sonsuzluk Destanı\"nı sonlandıran ve gişe rekorları kıran, Avengers ekibinin Thanos'a karşı verdiği son savaşı anlatan filmin adı nedir?",
       "options": [
-        "Prens Harry",
-        "Prens Andrew",
-        "Prens William",
-        "Prens Edward",
-        "Prens George"
+        "Yenilmezler: Ultron Çağı",
+        "Kaptan Amerika: Kahramanların Savaşı",
+        "Yenilmezler: Sonsuzluk Savaşı",
+        "Yenilmezler: Son Oyun",
+        "Yenilmezler"
       ],
-      "correct": 2
-    },
-    {
-      "question": "Türk edebiyatının önemli isimlerinden Orhan Pamuk, Nobel Edebiyat Ödülü'nü hangi yıl kazanarak bu prestijli ödüle layık görülen ilk ve tek Türk yazar olmuştur?",
-      "options": [
-        "2004",
-        "2005",
-        "2006",
-        "2007",
-        "2008"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Dünyaca ünlü K-Pop kız grubu BLACKPINK'in, hayranlarının konserlerde kullandığı ve grubun sembolü haline gelen resmi ışık çubuğuna (lightstick) ne ad verilir?",
-      "options": [
-        "Blink Bomb",
-        "Pink Light",
-        "Hammer Bong",
-        "Rosé Glow",
-        "Jennie Flash"
-      ],
-      "correct": 2
+      "correct": 3
     }
   ]
 }
