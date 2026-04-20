@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "\"Şirinler\" çizgi filminde, kötü büyücü Gargamel'in yardımcısı olan ve Şirinleri yakalamak için ona eşlik eden kedinin adı nedir?",
+      "question": "MasterChef Türkiye'nin 2020 sezonunda şampiyonluğa ulaşan ve yarışma tarihinde genç yaşına rağmen dikkat çeken isim kimdir?",
       "options": [
-        "Azman",
-        "Tom",
-        "Sylvester",
-        "Garfield",
-        "Felix"
+        "Serhat Doğramacı",
+        "Eren Kaşıkçı",
+        "Cemre Uyanık",
+        "Metin Yavuz",
+        "Uğur Kardaş"
       ],
       "correct": 0
     },
     {
-      "question": "Survivor Türkiye tarihinde, 'All Star' formatında iki kez şampiyon olmayı başaran ilk ve tek yarışmacı kimdir?",
+      "question": "\"Fenomen\" adlı şarkısıyla 2019 yılında büyük çıkış yakalayan ve özellikle TikTok'ta viral olan videolarıyla genç kitleler arasında popülerleşen Türk sosyal medya fenomeni ve şarkıcı kimdir?",
       "options": [
-        "Ogeday Girişken",
-        "Adem Kılıççı",
-        "Turabi Çamkıran",
-        "Nisa Bölükbaşı",
-        "Merve Oflaz"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Star Wars evreninde, Jedi Konseyi'nin bilge ve güçlü üyelerinden biri olan, yeşil derili, küçük boylu, kendine özgü konuşma tarzına sahip karakter kimdir?",
-      "options": [
-        "Obi-Wan Kenobi",
-        "Chewbacca",
-        "Yoda",
-        "Mace Windu",
-        "Qui-Gon Jinn"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türk magazin tarihinde \"Müslüm Gürses ile Muhterem Nur\" gibi birçok ünlü ismin hayat hikayelerinin ele alındığı, Türkiye'nin en uzun soluklu magazin programlarından biri olan televizyon programı hangisidir?",
-      "options": [
-        "Magazin D",
-        "Pazar Keyfi",
-        "Renkli Sayfalar",
-        "Söylemezsem Olmaz",
-        "İkinci Sayfa"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Marvel Sinematik Evreni'nin \"Sonsuzluk Destanı\"nı sonlandıran ve gişe rekorları kıran, Avengers ekibinin Thanos'a karşı verdiği son savaşı anlatan filmin adı nedir?",
-      "options": [
-        "Yenilmezler: Ultron Çağı",
-        "Kaptan Amerika: Kahramanların Savaşı",
-        "Yenilmezler: Sonsuzluk Savaşı",
-        "Yenilmezler: Son Oyun",
-        "Yenilmezler"
+        "Ece Seçkin",
+        "Aleyna Tilki",
+        "Derya Uluğ",
+        "Reynmen (Yusuf Aktaş)",
+        "Murda"
       ],
       "correct": 3
+    },
+    {
+      "question": "İlk videosu \"Me at the zoo\" 2005 yılında yayınlanan ve günümüzde dünyanın en büyük video paylaşım platformlarından biri olan internet sitesinin adı nedir?",
+      "options": [
+        "Vimeo",
+        "Dailymotion",
+        "YouTube",
+        "TikTok",
+        "Netflix"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Disney'in 1989 yapımı klasik animasyon filmi \"Küçük Deniz Kızı\"nda, Ariel'in sesini alıp yerine insan bacakları veren deniz cadısının adı nedir?",
+      "options": [
+        "Maleficent",
+        "Cruella de Vil",
+        "Ursula",
+        "Gothel",
+        "Yvette"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türkiye Kadın Milli Voleybol Takımı, 2023 yılında katıldığı hangi turnuvada namağlup şampiyon olarak tarihinde ilk kez altın madalya kazanmıştır?",
+      "options": [
+        "CEV Kadınlar Avrupa Şampiyonası",
+        "FIVB Voleybol Kadınlar Milletler Ligi",
+        "Dünya Şampiyonası",
+        "Olimpiyat Oyunları",
+        "Akdeniz Oyunları"
+      ],
+      "correct": 1
     }
   ]
 }
