@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "MasterChef Türkiye'nin 2020 sezonunda şampiyonluğa ulaşan ve yarışma tarihinde genç yaşına rağmen dikkat çeken isim kimdir?",
+      "question": "Popüler 'Woman Yelling at a Cat' meme'inde masada oturan ve 'Smudge the Cat' olarak bilinen kedinin, bu tiksinmiş yüz ifadesini esasen hangi sebeple verdiğine inanılmaktadır?",
       "options": [
-        "Serhat Doğramacı",
-        "Eren Kaşıkçı",
-        "Cemre Uyanık",
-        "Metin Yavuz",
-        "Uğur Kardaş"
+        "Sahibinin onu kucağına alması",
+        "Bir tabağa konulan sebzeyi reddetmesi",
+        "Diğer kedinin yemeğini yemesi",
+        "Kapalı bir kutuya sokulması",
+        "Veteriner kliniğinde olması"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
-      "question": "\"Fenomen\" adlı şarkısıyla 2019 yılında büyük çıkış yakalayan ve özellikle TikTok'ta viral olan videolarıyla genç kitleler arasında popülerleşen Türk sosyal medya fenomeni ve şarkıcı kimdir?",
+      "question": "Nobel Barış Ödülü'nü 17 yaşındayken kazanarak tarihin en genç Nobel ödülü sahibi olan aktivist kimdir?",
       "options": [
-        "Ece Seçkin",
-        "Aleyna Tilki",
-        "Derya Uluğ",
-        "Reynmen (Yusuf Aktaş)",
-        "Murda"
+        "Greta Thunberg",
+        "Malala Yousafzai",
+        "Kailash Satyarthi",
+        "Martin Luther King Jr.",
+        "Rigoberta Menchú Tum"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Her yıl moda dünyasının en prestijli etkinliklerinden biri olan Met Gala, 2023 yılında hangi ünlü modacının anısına düzenlenmiştir?",
+      "options": [
+        "Gianni Versace",
+        "Coco Chanel",
+        "Christian Dior",
+        "Karl Lagerfeld",
+        "Alexander McQueen"
       ],
       "correct": 3
     },
     {
-      "question": "İlk videosu \"Me at the zoo\" 2005 yılında yayınlanan ve günümüzde dünyanın en büyük video paylaşım platformlarından biri olan internet sitesinin adı nedir?",
+      "question": "Popüler anime serisi Naruto'da, ana karakter Naruto Uzumaki'nin en büyük hayali nedir?",
       "options": [
-        "Vimeo",
-        "Dailymotion",
-        "YouTube",
-        "TikTok",
-        "Netflix"
+        "Hokage olmak",
+        "En güçlü ninja olmak",
+        "Sasuke'yi geri getirmek",
+        "Ninja Savaşını bitirmek",
+        "Kendi köyünü kurmak"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "Disney'in 1989 yapımı klasik animasyon filmi \"Küçük Deniz Kızı\"nda, Ariel'in sesini alıp yerine insan bacakları veren deniz cadısının adı nedir?",
+      "question": "Adıyla anılan ve bir yatırım saadet zinciri olan 'Ponzi şeması'nı kuran, tarihteki en ünlü dolandırıcılardan biri kimdir?",
       "options": [
-        "Maleficent",
-        "Cruella de Vil",
-        "Ursula",
-        "Gothel",
-        "Yvette"
+        "Bernie Madoff",
+        "Frank Abagnale Jr.",
+        "Charles Ponzi",
+        "Victor Lustig",
+        "George C. Parker"
       ],
       "correct": 2
-    },
-    {
-      "question": "Türkiye Kadın Milli Voleybol Takımı, 2023 yılında katıldığı hangi turnuvada namağlup şampiyon olarak tarihinde ilk kez altın madalya kazanmıştır?",
-      "options": [
-        "CEV Kadınlar Avrupa Şampiyonası",
-        "FIVB Voleybol Kadınlar Milletler Ligi",
-        "Dünya Şampiyonası",
-        "Olimpiyat Oyunları",
-        "Akdeniz Oyunları"
-      ],
-      "correct": 1
     }
   ]
 }
