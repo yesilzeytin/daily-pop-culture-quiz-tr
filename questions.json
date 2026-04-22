@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Popüler 'Woman Yelling at a Cat' meme'inde masada oturan ve 'Smudge the Cat' olarak bilinen kedinin, bu tiksinmiş yüz ifadesini esasen hangi sebeple verdiğine inanılmaktadır?",
+      "question": "Attack on Titan (Shingeki no Kyojin) animesinde, devlerle savaşmak için surların dışına çıkan ve keşif görevleri yapan askeri birliğin adı nedir?",
       "options": [
-        "Sahibinin onu kucağına alması",
-        "Bir tabağa konulan sebzeyi reddetmesi",
-        "Diğer kedinin yemeğini yemesi",
-        "Kapalı bir kutuya sokulması",
-        "Veteriner kliniğinde olması"
+        "Garnizon Birliği",
+        "Askeri Polis Birliği",
+        "Keşif Birliği",
+        "İç Güvenlik Birliği",
+        "Muhafız Alayı"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
-      "question": "Nobel Barış Ödülü'nü 17 yaşındayken kazanarak tarihin en genç Nobel ödülü sahibi olan aktivist kimdir?",
+      "question": "Soğuk Savaş döneminde, Sovyetler Birliği ve Doğu Bloku ülkeleri tarafından NATO'ya karşı kurulan askeri ittifakın adı nedir?",
       "options": [
-        "Greta Thunberg",
-        "Malala Yousafzai",
-        "Kailash Satyarthi",
-        "Martin Luther King Jr.",
-        "Rigoberta Menchú Tum"
+        "Bağlantısızlar Hareketi",
+        "Seato Paktı",
+        "Varşova Paktı",
+        "CENTO",
+        "COMECON"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
-      "question": "Her yıl moda dünyasının en prestijli etkinliklerinden biri olan Met Gala, 2023 yılında hangi ünlü modacının anısına düzenlenmiştir?",
+      "question": "Türk arabesk müziğinin \"Baba\" lakaplı önemli temsilcilerinden biri olan, özellikle güçlü sahne performansları ve \"Hangimiz Sevmedik\", \"Paramparça\" gibi unutulmaz şarkılarıyla bilinen sanatçı kimdir?",
       "options": [
-        "Gianni Versace",
-        "Coco Chanel",
-        "Christian Dior",
-        "Karl Lagerfeld",
-        "Alexander McQueen"
+        "Ferdi Tayfur",
+        "İbrahim Tatlıses",
+        "Zeki Müren",
+        "Müslüm Gürses",
+        "Orhan Gencebay"
       ],
       "correct": 3
     },
     {
-      "question": "Popüler anime serisi Naruto'da, ana karakter Naruto Uzumaki'nin en büyük hayali nedir?",
+      "question": "Türkiye'nin en popüler Twitch yayıncılarından biri olan ve özellikle sohbet yayınları, oyun videoları ve çeşitli sosyal medya yorumlarıyla tanınan, \"Jahrein\" takma adını kullanan isim kimdir?",
       "options": [
-        "Hokage olmak",
-        "En güçlü ninja olmak",
-        "Sasuke'yi geri getirmek",
-        "Ninja Savaşını bitirmek",
-        "Kendi köyünü kurmak"
+        "Pelin Baynazoğlu",
+        "Tuğkan Gönültaş",
+        "Ferit Karakaya",
+        "Ahmet Sonuç",
+        "Berke Demir"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
-      "question": "Adıyla anılan ve bir yatırım saadet zinciri olan 'Ponzi şeması'nı kuran, tarihteki en ünlü dolandırıcılardan biri kimdir?",
+      "question": "Türk rock müziğinin önde gelen gruplarından biri olan ve 2010 yılında \"We Could Be The Same\" şarkısıyla Eurovision Şarkı Yarışması'nda Türkiye'yi temsil ederek ikinci olan grup hangisidir?",
       "options": [
-        "Bernie Madoff",
-        "Frank Abagnale Jr.",
-        "Charles Ponzi",
-        "Victor Lustig",
-        "George C. Parker"
+        "Duman",
+        "Mor ve Ötesi",
+        "Şebnem Ferah",
+        "Athena",
+        "maNga"
       ],
-      "correct": 2
+      "correct": 4
     }
   ]
 }
