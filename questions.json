@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Attack on Titan (Shingeki no Kyojin) animesinde, devlerle savaşmak için surların dışına çıkan ve keşif görevleri yapan askeri birliğin adı nedir?",
+      "question": "Hangi popüler animasyon filminde, Türkçe seslendirmesini Okan Yalabık'ın yaptığı, çizmeli bir kedinin maceraları anlatılır?",
       "options": [
-        "Garnizon Birliği",
-        "Askeri Polis Birliği",
-        "Keşif Birliği",
-        "İç Güvenlik Birliği",
-        "Muhafız Alayı"
+        "Çizmeli Kedi",
+        "Madagaskar",
+        "Buz Devri",
+        "Kung Fu Panda",
+        "Ejderhanı Nasıl Eğitirsin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Netflix'in dünya genelinde büyük yankı uyandıran İspanyol yapımı dizisi \"La Casa de Papel\"de, ekibin lideri ve beyni olarak bilinen karakterin lakabı nedir?",
+      "options": [
+        "Tokyo",
+        "Berlin",
+        "Profesör",
+        "Denver",
+        "Rio"
       ],
       "correct": 2
     },
     {
-      "question": "Soğuk Savaş döneminde, Sovyetler Birliği ve Doğu Bloku ülkeleri tarafından NATO'ya karşı kurulan askeri ittifakın adı nedir?",
+      "question": "Türkiye'de Vine uygulaması döneminde \"Oha Çok İyi\" repliği ve kendine has mimikleriyle popüler olan sosyal medya fenomeni kimdir?",
       "options": [
-        "Bağlantısızlar Hareketi",
-        "Seato Paktı",
-        "Varşova Paktı",
-        "CENTO",
-        "COMECON"
+        "Cem Gelinoğlu",
+        "Halil Söyletmez",
+        "Hakan Hepcan",
+        "Kaan Sekban",
+        "Mesut Can Tomay"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "2015 yılında kimya alanında Nobel Ödülü'nü hücrelerin hasar görmüş DNA'yı nasıl onardığına dair çalışmalarıyla kazanarak Türkiye'ye bu prestijli ödülü getiren bilim insanımız kimdir?",
+      "options": [
+        "Canan Dağdeviren",
+        "Oktay Sinanoğlu",
+        "Bilge Demirköz",
+        "Aziz Sancar",
+        "Feryal Özel"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Netflix'in Türkiye'deki ilk orijinal dizisi olan ve fantastik ögelerle dolu, sıradan bir gencin gizli bir görevle İstanbul'u korumaya çalışmasını konu alan yapımın adı nedir?",
+      "options": [
+        "Atiye",
+        "Aşk 101",
+        "Hakan: Muhafız",
+        "Fatma",
+        "Kuş Uçuşu"
       ],
       "correct": 2
-    },
-    {
-      "question": "Türk arabesk müziğinin \"Baba\" lakaplı önemli temsilcilerinden biri olan, özellikle güçlü sahne performansları ve \"Hangimiz Sevmedik\", \"Paramparça\" gibi unutulmaz şarkılarıyla bilinen sanatçı kimdir?",
-      "options": [
-        "Ferdi Tayfur",
-        "İbrahim Tatlıses",
-        "Zeki Müren",
-        "Müslüm Gürses",
-        "Orhan Gencebay"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Türkiye'nin en popüler Twitch yayıncılarından biri olan ve özellikle sohbet yayınları, oyun videoları ve çeşitli sosyal medya yorumlarıyla tanınan, \"Jahrein\" takma adını kullanan isim kimdir?",
-      "options": [
-        "Pelin Baynazoğlu",
-        "Tuğkan Gönültaş",
-        "Ferit Karakaya",
-        "Ahmet Sonuç",
-        "Berke Demir"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Türk rock müziğinin önde gelen gruplarından biri olan ve 2010 yılında \"We Could Be The Same\" şarkısıyla Eurovision Şarkı Yarışması'nda Türkiye'yi temsil ederek ikinci olan grup hangisidir?",
-      "options": [
-        "Duman",
-        "Mor ve Ötesi",
-        "Şebnem Ferah",
-        "Athena",
-        "maNga"
-      ],
-      "correct": 4
     }
   ]
 }
