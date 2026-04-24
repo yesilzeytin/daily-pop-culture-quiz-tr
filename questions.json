@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Hangi popüler animasyon filminde, Türkçe seslendirmesini Okan Yalabık'ın yaptığı, çizmeli bir kedinin maceraları anlatılır?",
+      "question": "HBO'nun popüler dizisi \"The Last of Us\"ta, genç ve asi Ellie karakterini canlandıran oyuncu kimdir?",
       "options": [
-        "Çizmeli Kedi",
-        "Madagaskar",
-        "Buz Devri",
-        "Kung Fu Panda",
-        "Ejderhanı Nasıl Eğitirsin"
+        "Bella Ramsey",
+        "Millie Bobby Brown",
+        "Jenna Ortega",
+        "Sadie Sink",
+        "Zendaya"
       ],
       "correct": 0
     },
     {
-      "question": "Netflix'in dünya genelinde büyük yankı uyandıran İspanyol yapımı dizisi \"La Casa de Papel\"de, ekibin lideri ve beyni olarak bilinen karakterin lakabı nedir?",
+      "question": "Global pop müziğin en büyük isimlerinden Taylor Swift'in 2023 yılında vizyona giren ve dünya genelinde gişe rekorları kıran konser filminin adı nedir?",
       "options": [
-        "Tokyo",
-        "Berlin",
-        "Profesör",
-        "Denver",
-        "Rio"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türkiye'de Vine uygulaması döneminde \"Oha Çok İyi\" repliği ve kendine has mimikleriyle popüler olan sosyal medya fenomeni kimdir?",
-      "options": [
-        "Cem Gelinoğlu",
-        "Halil Söyletmez",
-        "Hakan Hepcan",
-        "Kaan Sekban",
-        "Mesut Can Tomay"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "2015 yılında kimya alanında Nobel Ödülü'nü hücrelerin hasar görmüş DNA'yı nasıl onardığına dair çalışmalarıyla kazanarak Türkiye'ye bu prestijli ödülü getiren bilim insanımız kimdir?",
-      "options": [
-        "Canan Dağdeviren",
-        "Oktay Sinanoğlu",
-        "Bilge Demirköz",
-        "Aziz Sancar",
-        "Feryal Özel"
+        "Folklore: The Long Pond Studio Sessions",
+        "Reputation Stadium Tour",
+        "Speak Now World Tour Live",
+        "Taylor Swift: The Eras Tour",
+        "1989 World Tour Live"
       ],
       "correct": 3
     },
     {
-      "question": "Netflix'in Türkiye'deki ilk orijinal dizisi olan ve fantastik ögelerle dolu, sıradan bir gencin gizli bir görevle İstanbul'u korumaya çalışmasını konu alan yapımın adı nedir?",
+      "question": "Türkiye'de sosyal medya ve caps kültüründe, özellikle bir durumu küçümseme, alay etme veya umursamama ifadesi olarak kullanılan ve bir kişinin parmağını şıklatarak söylediği \"Ee yani?\" repliğiyle özdeşleşen moda ikonu ve televizyon figürü kimdir?",
       "options": [
-        "Atiye",
-        "Aşk 101",
-        "Hakan: Muhafız",
-        "Fatma",
-        "Kuş Uçuşu"
+        "Cem Yılmaz",
+        "Acun Ilıcalı",
+        "Gülse Birsel",
+        "Nur Yerlitaş",
+        "Şafak Sezer"
       ],
-      "correct": 2
+      "correct": 3
+    },
+    {
+      "question": "Türkiye'nin en popüler Twitch yayıncılarından biri olan ve özellikle League of Legends oyunculuğu ve eğlenceli sohbetleriyle tanınan, \"wtcN\" takma adını kullanan isim kimdir?",
+      "options": [
+        "Ferit Karakaya",
+        "Pelin Baynazoğlu",
+        "Tuğkan Gönültaş",
+        "Cem Karakoç",
+        "Cantuğ Özsoy"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "Türkiye'nin en çok aboneye sahip YouTuber'larından biri olan Enes Batur'un, kendi hayat hikayesini ve YouTuber'lık kariyerinin dönüm noktalarını konu alan sinema filminin adı nedir?",
+      "options": [
+        "Enes Batur: Yolculuk",
+        "Enes Batur: YouTuber Olmak",
+        "Enes Batur: Benim Dünyam",
+        "Enes Batur: Hayal mi Gerçek mi?",
+        "Enes Batur: Yeni Bir Başlangıç"
+      ],
+      "correct": 3
     }
   ]
 }
