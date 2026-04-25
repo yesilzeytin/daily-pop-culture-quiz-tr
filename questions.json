@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "HBO'nun popüler dizisi \"The Last of Us\"ta, genç ve asi Ellie karakterini canlandıran oyuncu kimdir?",
+      "question": "Popüler Kore dizisi 'Squid Game'de, yarışmacıların oynadığı ilk ölümcül oyun hangisidir?",
       "options": [
-        "Bella Ramsey",
-        "Millie Bobby Brown",
-        "Jenna Ortega",
-        "Sadie Sink",
-        "Zendaya"
+        "Kırmızı Işık, Yeşil Işık",
+        "Ddakji",
+        "Cam Köprü",
+        "Halat Çekme",
+        "Misket Oyunu"
       ],
       "correct": 0
     },
     {
-      "question": "Global pop müziğin en büyük isimlerinden Taylor Swift'in 2023 yılında vizyona giren ve dünya genelinde gişe rekorları kıran konser filminin adı nedir?",
+      "question": "Çocukluğumuzun ikonik atıştırmalıklarından 'Tipitip' sakızlarının genellikle içinden çıkan sürpriz nedir?",
       "options": [
-        "Folklore: The Long Pond Studio Sessions",
-        "Reputation Stadium Tour",
-        "Speak Now World Tour Live",
-        "Taylor Swift: The Eras Tour",
-        "1989 World Tour Live"
+        "Küçük oyuncak figürler",
+        "Renkli çıkartmalar",
+        "Geçici dövmeler",
+        "Mini çizgi romanlar",
+        "Anahtarlıklar"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Pixar yapımı 'Ters Yüz' (Inside Out) filminde, ana karakter Riley'nin zihnindeki beş temel duygu karakterinden biri olmayan hangisidir?",
+      "options": [
+        "Neşe",
+        "Üzüntü",
+        "Öfke",
+        "Merak",
+        "Korku"
       ],
       "correct": 3
     },
     {
-      "question": "Türkiye'de sosyal medya ve caps kültüründe, özellikle bir durumu küçümseme, alay etme veya umursamama ifadesi olarak kullanılan ve bir kişinin parmağını şıklatarak söylediği \"Ee yani?\" repliğiyle özdeşleşen moda ikonu ve televizyon figürü kimdir?",
+      "question": "Survivor Türkiye 2022 All Star sezonunun kadın şampiyonu kim olmuştur?",
       "options": [
-        "Cem Yılmaz",
-        "Acun Ilıcalı",
-        "Gülse Birsel",
-        "Nur Yerlitaş",
-        "Şafak Sezer"
+        "Nagihan Karadere",
+        "Berna Keklikler",
+        "Seda Ocak",
+        "Nisa Bölükbaşı",
+        "Ayşe Yüksel"
       ],
       "correct": 3
     },
     {
-      "question": "Türkiye'nin en popüler Twitch yayıncılarından biri olan ve özellikle League of Legends oyunculuğu ve eğlenceli sohbetleriyle tanınan, \"wtcN\" takma adını kullanan isim kimdir?",
+      "question": "Disney'in popüler animasyon filmi 'Karlar Ülkesi' (Frozen) serisinde, buz güçlerine sahip olan ve 'Let It Go' şarkısıyla tanınan prensesin adı nedir?",
       "options": [
-        "Ferit Karakaya",
-        "Pelin Baynazoğlu",
-        "Tuğkan Gönültaş",
-        "Cem Karakoç",
-        "Cantuğ Özsoy"
+        "Anna",
+        "Rapunzel",
+        "Moana",
+        "Merida",
+        "Elsa"
       ],
       "correct": 4
-    },
-    {
-      "question": "Türkiye'nin en çok aboneye sahip YouTuber'larından biri olan Enes Batur'un, kendi hayat hikayesini ve YouTuber'lık kariyerinin dönüm noktalarını konu alan sinema filminin adı nedir?",
-      "options": [
-        "Enes Batur: Yolculuk",
-        "Enes Batur: YouTuber Olmak",
-        "Enes Batur: Benim Dünyam",
-        "Enes Batur: Hayal mi Gerçek mi?",
-        "Enes Batur: Yeni Bir Başlangıç"
-      ],
-      "correct": 3
     }
   ]
 }
