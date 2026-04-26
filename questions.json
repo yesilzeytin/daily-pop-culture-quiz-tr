@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Popüler Kore dizisi 'Squid Game'de, yarışmacıların oynadığı ilk ölümcül oyun hangisidir?",
+      "question": "Sertab Erener, 2003 yılında \"Everyway That I Can\" şarkısıyla Türkiye'ye Eurovision Şarkı Yarışması'ndaki ilk ve tek birinciliği getirmiştir. Bu başarıya imza atılan yarışma hangi şehirde düzenlenmiştir?",
       "options": [
-        "Kırmızı Işık, Yeşil Işık",
-        "Ddakji",
-        "Cam Köprü",
-        "Halat Çekme",
-        "Misket Oyunu"
+        "Riga",
+        "Tallinn",
+        "Kiev",
+        "Helsinki",
+        "İstanbul"
       ],
       "correct": 0
     },
     {
-      "question": "Çocukluğumuzun ikonik atıştırmalıklarından 'Tipitip' sakızlarının genellikle içinden çıkan sürpriz nedir?",
+      "question": "Nintendo'nun ikonik karakteri Mario'nun, ilk kez göründüğü \"Donkey Kong\" oyunundaki orijinal mesleği nedir?",
       "options": [
-        "Küçük oyuncak figürler",
-        "Renkli çıkartmalar",
-        "Geçici dövmeler",
-        "Mini çizgi romanlar",
-        "Anahtarlıklar"
+        "Tesisatçı",
+        "Marangoz",
+        "İtfaiyeci",
+        "Aşçı",
+        "Bahçıvan"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Yeşilçam'ın unutulmaz filmlerinden \"Hababam Sınıfı\" serisinde, okulun disiplinli ancak öğrenciler tarafından \"Kel Mahmut\" olarak anılan müdür yardımcısı karakterinin gerçek adı nedir?",
+      "options": [
+        "Akil Hoca",
+        "Paşa Nuri",
+        "Badi Ekrem",
+        "Mahmut Hoca",
+        "Güdük Necmi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Fizik alanında 1921 Nobel Ödülü'nü \"fotoelektrik etki yasasının keşfi\" ve teorik fiziğe yaptığı diğer katkılardan dolayı kazanan ünlü bilim insanı kimdir?",
+      "options": [
+        "Niels Bohr",
+        "Max Planck",
+        "Albert Einstein",
+        "Marie Curie",
+        "Werner Heisenberg"
       ],
       "correct": 2
     },
     {
-      "question": "Pixar yapımı 'Ters Yüz' (Inside Out) filminde, ana karakter Riley'nin zihnindeki beş temel duygu karakterinden biri olmayan hangisidir?",
+      "question": "Avrupa futbolunun en prestijli turnuvası olan UEFA Şampiyonlar Ligi'ni (eski adıyla Şampiyon Kulüpler Kupası) tarihinde en çok kez kazanan kulüp hangisidir?",
       "options": [
-        "Neşe",
-        "Üzüntü",
-        "Öfke",
-        "Merak",
-        "Korku"
+        "FC Barcelona",
+        "AC Milan",
+        "Liverpool FC",
+        "Real Madrid CF",
+        "FC Bayern Münih"
       ],
       "correct": 3
-    },
-    {
-      "question": "Survivor Türkiye 2022 All Star sezonunun kadın şampiyonu kim olmuştur?",
-      "options": [
-        "Nagihan Karadere",
-        "Berna Keklikler",
-        "Seda Ocak",
-        "Nisa Bölükbaşı",
-        "Ayşe Yüksel"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Disney'in popüler animasyon filmi 'Karlar Ülkesi' (Frozen) serisinde, buz güçlerine sahip olan ve 'Let It Go' şarkısıyla tanınan prensesin adı nedir?",
-      "options": [
-        "Anna",
-        "Rapunzel",
-        "Moana",
-        "Merida",
-        "Elsa"
-      ],
-      "correct": 4
     }
   ]
 }
