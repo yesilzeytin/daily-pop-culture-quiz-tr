@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Sertab Erener, 2003 yılında \"Everyway That I Can\" şarkısıyla Türkiye'ye Eurovision Şarkı Yarışması'ndaki ilk ve tek birinciliği getirmiştir. Bu başarıya imza atılan yarışma hangi şehirde düzenlenmiştir?",
+      "question": "\"Yüzüklerin Efendisi\" serisinde, Hobbitlerin yaşadığı ve huzurlu bir bölge olan yerin adı nedir?",
       "options": [
-        "Riga",
-        "Tallinn",
-        "Kiev",
-        "Helsinki",
-        "İstanbul"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Nintendo'nun ikonik karakteri Mario'nun, ilk kez göründüğü \"Donkey Kong\" oyunundaki orijinal mesleği nedir?",
-      "options": [
-        "Tesisatçı",
-        "Marangoz",
-        "İtfaiyeci",
-        "Aşçı",
-        "Bahçıvan"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Yeşilçam'ın unutulmaz filmlerinden \"Hababam Sınıfı\" serisinde, okulun disiplinli ancak öğrenciler tarafından \"Kel Mahmut\" olarak anılan müdür yardımcısı karakterinin gerçek adı nedir?",
-      "options": [
-        "Akil Hoca",
-        "Paşa Nuri",
-        "Badi Ekrem",
-        "Mahmut Hoca",
-        "Güdük Necmi"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Fizik alanında 1921 Nobel Ödülü'nü \"fotoelektrik etki yasasının keşfi\" ve teorik fiziğe yaptığı diğer katkılardan dolayı kazanan ünlü bilim insanı kimdir?",
-      "options": [
-        "Niels Bohr",
-        "Max Planck",
-        "Albert Einstein",
-        "Marie Curie",
-        "Werner Heisenberg"
+        "Gondor",
+        "Mordor",
+        "Shire (Hobbiton)",
+        "Rivendell",
+        "Isengard"
       ],
       "correct": 2
     },
     {
-      "question": "Avrupa futbolunun en prestijli turnuvası olan UEFA Şampiyonlar Ligi'ni (eski adıyla Şampiyon Kulüpler Kupası) tarihinde en çok kez kazanan kulüp hangisidir?",
+      "question": "Türk rock grubu Mor ve Ötesi, 2008 Eurovision Şarkı Yarışması'nda Türkiye'yi hangi şarkıyla temsil etmiştir?",
       "options": [
-        "FC Barcelona",
-        "AC Milan",
-        "Liverpool FC",
-        "Real Madrid CF",
-        "FC Bayern Münih"
+        "Deli",
+        "Cambaz",
+        "Bir Derdim Var",
+        "Küçük Sevgilim",
+        "Aşk Yalan Söyler"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Basketbol tarihinin en ikonik oyuncularından biri olan Michael Jordan, NBA kariyerinin büyük bir kısmını hangi takımda geçirmiştir?",
+      "options": [
+        "Los Angeles Lakers",
+        "Boston Celtics",
+        "Chicago Bulls",
+        "Miami Heat",
+        "Cleveland Cavaliers"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "World Wide Web (WWW) kavramını ortaya atan ve ilk web tarayıcısını (WorldWideWeb) geliştiren bilgisayar bilimcisi kimdir?",
+      "options": [
+        "Bill Gates",
+        "Steve Jobs",
+        "Mark Zuckerberg",
+        "Tim Berners-Lee",
+        "Larry Page"
       ],
       "correct": 3
+    },
+    {
+      "question": "Türkiye'nin Eurovision Şarkı Yarışması'na katıldığı son yıl hangi yıldır?",
+      "options": [
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "correct": 1
     }
   ]
 }
