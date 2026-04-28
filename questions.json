@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "\"Yüzüklerin Efendisi\" serisinde, Hobbitlerin yaşadığı ve huzurlu bir bölge olan yerin adı nedir?",
+      "question": "Fox Kids'te yayınlanan popüler çizgi dizilerden Digimon Adventure'da, Taichi Yagami'nin ortağı olan Digimon'un ilk formu (Çaylak seviyesi) nedir?",
       "options": [
-        "Gondor",
-        "Mordor",
-        "Shire (Hobbiton)",
-        "Rivendell",
-        "Isengard"
+        "Gabumon",
+        "Patamon",
+        "Agumon",
+        "Gomamon",
+        "Biyomon"
       ],
       "correct": 2
     },
     {
-      "question": "Türk rock grubu Mor ve Ötesi, 2008 Eurovision Şarkı Yarışması'nda Türkiye'yi hangi şarkıyla temsil etmiştir?",
+      "question": "Harry Potter evreninde, Hogwarts Cadılık ve Büyücülük Okulu'nda dört binadan biri olan Gryffindor'un kurucusu kimdir?",
       "options": [
-        "Deli",
-        "Cambaz",
-        "Bir Derdim Var",
-        "Küçük Sevgilim",
-        "Aşk Yalan Söyler"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Basketbol tarihinin en ikonik oyuncularından biri olan Michael Jordan, NBA kariyerinin büyük bir kısmını hangi takımda geçirmiştir?",
-      "options": [
-        "Los Angeles Lakers",
-        "Boston Celtics",
-        "Chicago Bulls",
-        "Miami Heat",
-        "Cleveland Cavaliers"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "World Wide Web (WWW) kavramını ortaya atan ve ilk web tarayıcısını (WorldWideWeb) geliştiren bilgisayar bilimcisi kimdir?",
-      "options": [
-        "Bill Gates",
-        "Steve Jobs",
-        "Mark Zuckerberg",
-        "Tim Berners-Lee",
-        "Larry Page"
+        "Salazar Slytherin",
+        "Helga Hufflepuff",
+        "Rowena Ravenclaw",
+        "Godric Gryffindor",
+        "Albus Dumbledore"
       ],
       "correct": 3
     },
     {
-      "question": "Türkiye'nin Eurovision Şarkı Yarışması'na katıldığı son yıl hangi yıldır?",
+      "question": "\"Thriller\", \"Billie Jean\" ve \"Beat It\" gibi ölümsüz şarkılara imza atan ve \"Pop'un Kralı\" olarak bilinen dünyaca ünlü sanatçı kimdir?",
       "options": [
-        "2010",
-        "2012",
-        "2014",
-        "2016",
-        "2018"
+        "Prince",
+        "Madonna",
+        "Elton John",
+        "Michael Jackson",
+        "Stevie Wonder"
       ],
-      "correct": 1
+      "correct": 3
+    },
+    {
+      "question": "NBA tarihinin en skorer oyuncusu unvanını elde eden ve \"King James\" lakabıyla tanınan aktif basketbolcu kimdir?",
+      "options": [
+        "Stephen Curry",
+        "Kevin Durant",
+        "LeBron James",
+        "Nikola Jokic",
+        "Giannis Antetokounmpo"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Popüler anime serisi One Piece'te, ana karakter Monkey D. Luffy'nin nihai hedefi nedir?",
+      "options": [
+        "Dünya'nın en zengin korsanı olmak",
+        "Tüm denizleri birleştirmek",
+        "Korsanlar Kralı olmak ve One Piece hazinesini bulmak",
+        "Marineler'e katılmak",
+        "Eski bir antik silahı bulmak"
+      ],
+      "correct": 2
     }
   ]
 }
