@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Fox Kids'te yayınlanan popüler çizgi dizilerden Digimon Adventure'da, Taichi Yagami'nin ortağı olan Digimon'un ilk formu (Çaylak seviyesi) nedir?",
+      "question": "Pixar yapımı \"Ters Yüz\" (Inside Out) filminde, ana karakter Riley'nin zihnindeki duygulardan biri olan \"Neşe\" karakterini orijinal İngilizce seslendiren aktris kimdir?",
       "options": [
-        "Gabumon",
-        "Patamon",
-        "Agumon",
-        "Gomamon",
-        "Biyomon"
+        "Amy Poehler",
+        "Tina Fey",
+        "Kristen Wiig",
+        "Melissa McCarthy",
+        "Sarah Silverman"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "2023 CEV Avrupa Şampiyonası'nda ve FIVB Voleybol Kadınlar Milletler Ligi'nde şampiyon olan \"Filenin Sultanları\" lakaplı Türk Kadın Voleybol Milli Takımı'nın başantrenörü kimdir?",
+      "options": [
+        "Giovanni Guidetti",
+        "Daniele Santarelli",
+        "Marco Aurelio Motta",
+        "Ferhat Akbaş",
+        "Mustafa Doğuş Özdemir"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "\"Waka Waka (This Time for Africa)\", \"Hips Don't Lie\" ve \"Whenever, Wherever\" gibi dünya çapında hit olmuş şarkılarıyla tanınan, Kolombiyalı ünlü pop yıldızı kimdir?",
+      "options": [
+        "Jennifer Lopez",
+        "Camila Cabello",
+        "Shakira",
+        "Karol G",
+        "Selena Gomez"
       ],
       "correct": 2
     },
     {
-      "question": "Harry Potter evreninde, Hogwarts Cadılık ve Büyücülük Okulu'nda dört binadan biri olan Gryffindor'un kurucusu kimdir?",
+      "question": "DC Comics evreninde, Gotham şehrinin koruyucusu olarak bilinen ve \"Kara Şövalye\" lakabıyla da anılan süper kahraman kimdir?",
       "options": [
-        "Salazar Slytherin",
-        "Helga Hufflepuff",
-        "Rowena Ravenclaw",
-        "Godric Gryffindor",
-        "Albus Dumbledore"
+        "Superman",
+        "The Flash",
+        "Aquaman",
+        "Batman",
+        "Green Lantern"
       ],
       "correct": 3
     },
     {
-      "question": "\"Thriller\", \"Billie Jean\" ve \"Beat It\" gibi ölümsüz şarkılara imza atan ve \"Pop'un Kralı\" olarak bilinen dünyaca ünlü sanatçı kimdir?",
+      "question": "Marvel Sinematik Evreni'nde (MCU) yer alan \"Kara Panter\" (Black Panther) filmlerinde, T'Challa'nın Wakanda'daki kız kardeşi ve teknoloji dahisi olan karakterin adı nedir?",
       "options": [
-        "Prince",
-        "Madonna",
-        "Elton John",
-        "Michael Jackson",
-        "Stevie Wonder"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "NBA tarihinin en skorer oyuncusu unvanını elde eden ve \"King James\" lakabıyla tanınan aktif basketbolcu kimdir?",
-      "options": [
-        "Stephen Curry",
-        "Kevin Durant",
-        "LeBron James",
-        "Nikola Jokic",
-        "Giannis Antetokounmpo"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Popüler anime serisi One Piece'te, ana karakter Monkey D. Luffy'nin nihai hedefi nedir?",
-      "options": [
-        "Dünya'nın en zengin korsanı olmak",
-        "Tüm denizleri birleştirmek",
-        "Korsanlar Kralı olmak ve One Piece hazinesini bulmak",
-        "Marineler'e katılmak",
-        "Eski bir antik silahı bulmak"
+        "Nakia",
+        "Okoye",
+        "Shuri",
+        "Ramonda",
+        "Ayo"
       ],
       "correct": 2
     }
