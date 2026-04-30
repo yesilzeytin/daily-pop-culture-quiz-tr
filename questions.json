@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Pixar yapımı \"Ters Yüz\" (Inside Out) filminde, ana karakter Riley'nin zihnindeki duygulardan biri olan \"Neşe\" karakterini orijinal İngilizce seslendiren aktris kimdir?",
+      "question": "PlayStation'ın popüler oyunu God of War'da, Kratos'un İskandinav mitolojisine geçişiyle edindiği ve ana silahlarından biri olan büyülü baltanın adı nedir?",
       "options": [
-        "Amy Poehler",
-        "Tina Fey",
-        "Kristen Wiig",
-        "Melissa McCarthy",
-        "Sarah Silverman"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "2023 CEV Avrupa Şampiyonası'nda ve FIVB Voleybol Kadınlar Milletler Ligi'nde şampiyon olan \"Filenin Sultanları\" lakaplı Türk Kadın Voleybol Milli Takımı'nın başantrenörü kimdir?",
-      "options": [
-        "Giovanni Guidetti",
-        "Daniele Santarelli",
-        "Marco Aurelio Motta",
-        "Ferhat Akbaş",
-        "Mustafa Doğuş Özdemir"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "\"Waka Waka (This Time for Africa)\", \"Hips Don't Lie\" ve \"Whenever, Wherever\" gibi dünya çapında hit olmuş şarkılarıyla tanınan, Kolombiyalı ünlü pop yıldızı kimdir?",
-      "options": [
-        "Jennifer Lopez",
-        "Camila Cabello",
-        "Shakira",
-        "Karol G",
-        "Selena Gomez"
+        "Mjolnir",
+        "Stormbreaker",
+        "Leviathan Baltası",
+        "Axe of Chaos",
+        "Dragonslayer"
       ],
       "correct": 2
     },
     {
-      "question": "DC Comics evreninde, Gotham şehrinin koruyucusu olarak bilinen ve \"Kara Şövalye\" lakabıyla da anılan süper kahraman kimdir?",
+      "question": "Cartoon Network'te yayınlanan 'Ben 10' çizgi filminde, ana karakter Ben Tennyson'ın farklı uzaylı formlarına dönüşmesini sağlayan teknolojik saatin adı nedir?",
       "options": [
-        "Superman",
-        "The Flash",
-        "Aquaman",
-        "Batman",
-        "Green Lantern"
+        "Omnitrix",
+        "Galactrix",
+        "Alien Watch",
+        "Cosmic Dialer",
+        "Dimension Shifter"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
-      "question": "Marvel Sinematik Evreni'nde (MCU) yer alan \"Kara Panter\" (Black Panther) filmlerinde, T'Challa'nın Wakanda'daki kız kardeşi ve teknoloji dahisi olan karakterin adı nedir?",
+      "question": "Kolombiyalı dünyaca ünlü pop yıldızı Shakira, 2010 FIFA Dünya Kupası'nın resmi şarkısı olarak hangi parçasını seslendirmiştir?",
       "options": [
-        "Nakia",
-        "Okoye",
-        "Shuri",
-        "Ramonda",
-        "Ayo"
+        "La Tortura",
+        "Hips Don't Lie",
+        "Waka Waka (This Time for Africa)",
+        "Whenever, Wherever",
+        "Chantaje"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Birinci Dünya Savaşı, resmen hangi yıl başlamıştır?",
+      "options": [
+        "1912",
+        "1914",
+        "1916",
+        "1918",
+        "1920"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "90'lı yılların başında 'Abone' şarkısıyla büyük çıkış yakalayan ve Türk pop müziğinde önemli bir yere sahip olan, danslarıyla da bilinen kadın sanatçı kimdir?",
+      "options": [
+        "Sezen Aksu",
+        "Ajda Pekkan",
+        "Yonca Evcimik",
+        "Nazan Öncel",
+        "Demet Akalın"
       ],
       "correct": 2
     }
