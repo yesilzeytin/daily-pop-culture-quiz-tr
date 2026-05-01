@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "PlayStation'ın popüler oyunu God of War'da, Kratos'un İskandinav mitolojisine geçişiyle edindiği ve ana silahlarından biri olan büyülü baltanın adı nedir?",
+      "question": "Güney Koreli dünyaca ünlü K-Pop grubu BTS'in resmi hayran kitlesinin adı nedir?",
       "options": [
-        "Mjolnir",
-        "Stormbreaker",
-        "Leviathan Baltası",
-        "Axe of Chaos",
-        "Dragonslayer"
+        "EXO-L",
+        "BLINK",
+        "ARMY",
+        "MOA",
+        "STAY"
       ],
       "correct": 2
     },
     {
-      "question": "Cartoon Network'te yayınlanan 'Ben 10' çizgi filminde, ana karakter Ben Tennyson'ın farklı uzaylı formlarına dönüşmesini sağlayan teknolojik saatin adı nedir?",
+      "question": "Netflix'in popüler dizisi Stranger Things'te, kahramanların yaşadığı kurgusal kasabanın adı nedir?",
       "options": [
-        "Omnitrix",
-        "Galactrix",
-        "Alien Watch",
-        "Cosmic Dialer",
-        "Dimension Shifter"
+        "Riverdale",
+        "Blue Valley",
+        "Sunnydale",
+        "Hawkins",
+        "Mystic Falls"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
-      "question": "Kolombiyalı dünyaca ünlü pop yıldızı Shakira, 2010 FIFA Dünya Kupası'nın resmi şarkısı olarak hangi parçasını seslendirmiştir?",
+      "question": "İngiltere Kraliçesi II. Elizabeth, tahtta kaç yıl kalarak Britanya tarihinde en uzun süre hüküm süren monark olmuştur?",
       "options": [
-        "La Tortura",
-        "Hips Don't Lie",
-        "Waka Waka (This Time for Africa)",
-        "Whenever, Wherever",
-        "Chantaje"
+        "50 yıl",
+        "60 yıl",
+        "70 yıl",
+        "75 yıl",
+        "80 yıl"
       ],
       "correct": 2
     },
     {
-      "question": "Birinci Dünya Savaşı, resmen hangi yıl başlamıştır?",
+      "question": "Disney Channel'ın sevilen çizgi dizisi Phineas ve Ferb'de, ikiz kardeşlerin evcil hayvanı olan ornitorenkin adı nedir?",
       "options": [
-        "1912",
-        "1914",
-        "1916",
-        "1918",
-        "1920"
+        "Platy",
+        "Perry",
+        "Doofenshmirtz",
+        "Jeremy",
+        "Isabella"
       ],
       "correct": 1
     },
     {
-      "question": "90'lı yılların başında 'Abone' şarkısıyla büyük çıkış yakalayan ve Türk pop müziğinde önemli bir yere sahip olan, danslarıyla da bilinen kadın sanatçı kimdir?",
+      "question": "İstanbul'u fethederek Bizans İmparatorluğu'na son veren Osmanlı Padişahı kimdir?",
       "options": [
-        "Sezen Aksu",
-        "Ajda Pekkan",
-        "Yonca Evcimik",
-        "Nazan Öncel",
-        "Demet Akalın"
+        "Kanuni Sultan Süleyman",
+        "Yavuz Sultan Selim",
+        "Fatih Sultan Mehmet",
+        "Yıldırım Bayezid",
+        "II. Murad"
       ],
       "correct": 2
     }
