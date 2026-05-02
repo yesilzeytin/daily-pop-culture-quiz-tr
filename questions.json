@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Güney Koreli dünyaca ünlü K-Pop grubu BTS'in resmi hayran kitlesinin adı nedir?",
+      "question": "Dünya çapında büyük ilgi gören 'Crash Landing on You' (Aşkın Konuşlanışı) dizisinde, Kuzey Koreli bir subay ile Güney Koreli bir iş kadınının hikayesini canlandıran başrol erkek oyuncu kimdir?",
       "options": [
-        "EXO-L",
-        "BLINK",
-        "ARMY",
-        "MOA",
-        "STAY"
+        "Hyun Bin",
+        "Lee Min-ho",
+        "Gong Yoo",
+        "Park Seo-joon",
+        "Song Joong-ki"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "Netflix'in popüler dizisi Stranger Things'te, kahramanların yaşadığı kurgusal kasabanın adı nedir?",
+      "question": "Studio Ghibli yapımı 'Ruhların Kaçışı' (Spirited Away) filminde, ailesi domuza dönüştükten sonra ruhlar aleminde hayatta kalmaya çalışan genç kızın adı nedir?",
       "options": [
-        "Riverdale",
-        "Blue Valley",
-        "Sunnydale",
-        "Hawkins",
-        "Mystic Falls"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "İngiltere Kraliçesi II. Elizabeth, tahtta kaç yıl kalarak Britanya tarihinde en uzun süre hüküm süren monark olmuştur?",
-      "options": [
-        "50 yıl",
-        "60 yıl",
-        "70 yıl",
-        "75 yıl",
-        "80 yıl"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Disney Channel'ın sevilen çizgi dizisi Phineas ve Ferb'de, ikiz kardeşlerin evcil hayvanı olan ornitorenkin adı nedir?",
-      "options": [
-        "Platy",
-        "Perry",
-        "Doofenshmirtz",
-        "Jeremy",
-        "Isabella"
+        "San",
+        "Chihiro",
+        "Kiki",
+        "Nausicaä",
+        "Sophie"
       ],
       "correct": 1
     },
     {
-      "question": "İstanbul'u fethederek Bizans İmparatorluğu'na son veren Osmanlı Padişahı kimdir?",
+      "question": "2020 yılında En İyi Film Oscar'ını kazanan ve tarihinde ilk kez İngilizce olmayan bir filmin bu ödülü almasını sağlayan yapım hangisidir?",
       "options": [
-        "Kanuni Sultan Süleyman",
-        "Yavuz Sultan Selim",
-        "Fatih Sultan Mehmet",
-        "Yıldırım Bayezid",
-        "II. Murad"
+        "Roma",
+        "Minari",
+        "Parasite (Parazit)",
+        "Drive My Car",
+        "Everything Everywhere All at Once"
       ],
       "correct": 2
+    },
+    {
+      "question": "Çocukluğumuzun vazgeçilmez lezzetlerinden olan 'Cino', genellikle hangi ek malzemeyle birlikte satılırdı?",
+      "options": [
+        "Küçük bir oyuncak",
+        "Çıkartma",
+        "Mini bir kaşık",
+        "Fıkra kartı",
+        "Yapboz parçası"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Futbol tarihinin en önemli anlarından biri olan 'Tanrı'nın Eli' golü, 1986 FIFA Dünya Kupası çeyrek finalinde Arjantinli efsanevi futbolcu Diego Maradona tarafından hangi takıma karşı atılmıştır?",
+      "options": [
+        "Brezilya",
+        "Batı Almanya",
+        "İtalya",
+        "İngiltere",
+        "Fransa"
+      ],
+      "correct": 3
     }
   ]
 }
