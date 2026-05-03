@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Dünya çapında büyük ilgi gören 'Crash Landing on You' (Aşkın Konuşlanışı) dizisinde, Kuzey Koreli bir subay ile Güney Koreli bir iş kadınının hikayesini canlandıran başrol erkek oyuncu kimdir?",
+      "question": "Popüler strateji oyunu StarCraft serisi hangi şirket tarafından geliştirilmiştir?",
       "options": [
-        "Hyun Bin",
-        "Lee Min-ho",
-        "Gong Yoo",
-        "Park Seo-joon",
-        "Song Joong-ki"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Studio Ghibli yapımı 'Ruhların Kaçışı' (Spirited Away) filminde, ailesi domuza dönüştükten sonra ruhlar aleminde hayatta kalmaya çalışan genç kızın adı nedir?",
-      "options": [
-        "San",
-        "Chihiro",
-        "Kiki",
-        "Nausicaä",
-        "Sophie"
+        "Valve Corporation",
+        "Blizzard Entertainment",
+        "Electronic Arts",
+        "Ubisoft",
+        "CD Projekt Red"
       ],
       "correct": 1
     },
     {
-      "question": "2020 yılında En İyi Film Oscar'ını kazanan ve tarihinde ilk kez İngilizce olmayan bir filmin bu ödülü almasını sağlayan yapım hangisidir?",
+      "question": "2019 yapımı \"Joker\" filminde ana karakter Arthur Fleck'i canlandıran aktör kimdir?",
       "options": [
-        "Roma",
-        "Minari",
-        "Parasite (Parazit)",
-        "Drive My Car",
-        "Everything Everywhere All at Once"
+        "Christian Bale",
+        "Robert Pattinson",
+        "Joaquin Phoenix",
+        "Ben Affleck",
+        "Heath Ledger"
       ],
       "correct": 2
     },
     {
-      "question": "Çocukluğumuzun vazgeçilmez lezzetlerinden olan 'Cino', genellikle hangi ek malzemeyle birlikte satılırdı?",
+      "question": "Soğuk Savaş'ın simgelerinden biri olan Berlin Duvarı hangi yıl yıkılmıştır?",
       "options": [
-        "Küçük bir oyuncak",
-        "Çıkartma",
-        "Mini bir kaşık",
-        "Fıkra kartı",
-        "Yapboz parçası"
+        "1985",
+        "1991",
+        "1989",
+        "1990",
+        "1993"
       ],
       "correct": 2
     },
     {
-      "question": "Futbol tarihinin en önemli anlarından biri olan 'Tanrı'nın Eli' golü, 1986 FIFA Dünya Kupası çeyrek finalinde Arjantinli efsanevi futbolcu Diego Maradona tarafından hangi takıma karşı atılmıştır?",
+      "question": "Survivor Türkiye tarihinde \"Avatar\" lakabıyla bilinen ve fiziksel performansıyla dikkat çeken ünlü yarışmacı kimdir?",
       "options": [
-        "Brezilya",
-        "Batı Almanya",
-        "İtalya",
-        "İngiltere",
-        "Fransa"
+        "Ogeday Girişken",
+        "Adem Kılıççı",
+        "Merve Aydın",
+        "Çağan Atakan Arslan",
+        "Hilmi Cem İntepe"
       ],
       "correct": 3
+    },
+    {
+      "question": "Türkiye'nin en prestijli medya ve sanat ödüllerinden biri olan Altın Kelebek Ödülleri, hangi medya kuruluşu tarafından düzenlenmektedir?",
+      "options": [
+        "Sabah Gazetesi",
+        "Milliyet Gazetesi",
+        "Hürriyet Gazetesi",
+        "TRT",
+        "CNN Türk"
+      ],
+      "correct": 2
     }
   ]
 }
