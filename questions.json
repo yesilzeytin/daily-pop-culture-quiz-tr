@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Popüler strateji oyunu StarCraft serisi hangi şirket tarafından geliştirilmiştir?",
+      "question": "Türk pop müziğinin önde gelen isimlerinden Kenan Doğulu, 2007 Eurovision Şarkı Yarışması'nda Türkiye'yi hangi şarkıyla temsil etmiştir?",
       "options": [
-        "Valve Corporation",
-        "Blizzard Entertainment",
-        "Electronic Arts",
-        "Ubisoft",
-        "CD Projekt Red"
+        "Oyalama Beni",
+        "Shake It Up Şekerim",
+        "Aşkım Aşkım",
+        "Çakkıdı",
+        "Baş Harfi Ben"
       ],
       "correct": 1
     },
     {
-      "question": "2019 yapımı \"Joker\" filminde ana karakter Arthur Fleck'i canlandıran aktör kimdir?",
+      "question": "Latin trap ve reggaeton müziğin öncülerinden biri olarak kabul edilen ve sahne adıyla Bad Bunny olarak bilinen Porto Rikolu sanatçının gerçek adı nedir?",
       "options": [
-        "Christian Bale",
-        "Robert Pattinson",
-        "Joaquin Phoenix",
-        "Ben Affleck",
-        "Heath Ledger"
+        "Juan Luis Londoño Arias",
+        "Benito Antonio Martínez Ocasio",
+        "Carlos Efrén Reyes Rosado",
+        "José Álvaro Osorio Balvín",
+        "Luis Fonsi"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
-      "question": "Soğuk Savaş'ın simgelerinden biri olan Berlin Duvarı hangi yıl yıkılmıştır?",
+      "question": "Nickelodeon'un dünya çapında popüler çizgi dizisi \"SüngerBob KareŞort\"ta (SpongeBob SquarePants) SüngerBob'un en yakın arkadaşı olan pembe yıldızın adı nedir?",
       "options": [
-        "1985",
-        "1991",
-        "1989",
-        "1990",
-        "1993"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Survivor Türkiye tarihinde \"Avatar\" lakabıyla bilinen ve fiziksel performansıyla dikkat çeken ünlü yarışmacı kimdir?",
-      "options": [
-        "Ogeday Girişken",
-        "Adem Kılıççı",
-        "Merve Aydın",
-        "Çağan Atakan Arslan",
-        "Hilmi Cem İntepe"
+        "Plankton",
+        "Eugene H. Krabs",
+        "Squidward Tentacles",
+        "Patrick Star",
+        "Sandy Cheeks"
       ],
       "correct": 3
     },
     {
-      "question": "Türkiye'nin en prestijli medya ve sanat ödüllerinden biri olan Altın Kelebek Ödülleri, hangi medya kuruluşu tarafından düzenlenmektedir?",
+      "question": "PlayStation'ın efsanevi oyunu \"God of War\" (2018) ve devamı olan \"God of War Ragnarök\"te, Kratos'un İskandinav mitolojisindeki oğlu kimdir?",
       "options": [
-        "Sabah Gazetesi",
-        "Milliyet Gazetesi",
-        "Hürriyet Gazetesi",
-        "TRT",
-        "CNN Türk"
+        "Deimos",
+        "Hercules",
+        "Atreus",
+        "Zeus",
+        "Thor"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türk edebiyatının önemli isimlerinden Orhan Pamuk, 2006 yılında Nobel Edebiyat Ödülü'nü kazanarak bu prestijli ödüle layık görülen ilk Türk olmuştur. Pamuk'un ödülü almasında etkili olan, İstanbul'un melankolik ruhunu ve kültürel çatışmaları ele aldığı eserlerinden biri aşağıdakilerden hangisidir?",
+      "options": [
+        "Sessiz Ev",
+        "Yeni Hayat",
+        "Benim Adım Kırmızı",
+        "Kara Kitap",
+        "Cevdet Bey ve Oğulları"
       ],
       "correct": 2
     }
