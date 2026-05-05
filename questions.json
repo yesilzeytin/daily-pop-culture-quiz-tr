@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Türk pop müziğinin önde gelen isimlerinden Kenan Doğulu, 2007 Eurovision Şarkı Yarışması'nda Türkiye'yi hangi şarkıyla temsil etmiştir?",
+      "question": "Şahan Gökbakar'ın yarattığı ve sinema filmlerine taşınmadan önce bir televizyon skeç karakteri olarak tanınan 'Recep İvedik', ilk olarak hangi programda izleyiciyle buluşmuştur?",
       "options": [
-        "Oyalama Beni",
-        "Shake It Up Şekerim",
-        "Aşkım Aşkım",
-        "Çakkıdı",
-        "Baş Harfi Ben"
+        "Dikkat Şahan Çıkabilir",
+        "Şahan Show",
+        "Beyaz Show",
+        "Zaga",
+        "Okan Bayülgen'le Gecekondu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Türk rock grubu maNga, 2010 yılında 'We Could Be The Same' adlı şarkısıyla Türkiye'yi temsil ettiği Eurovision Şarkı Yarışması'nda kaçıncı olmuştur?",
+      "options": [
+        "1.",
+        "2.",
+        "3.",
+        "4.",
+        "5."
       ],
       "correct": 1
     },
     {
-      "question": "Latin trap ve reggaeton müziğin öncülerinden biri olarak kabul edilen ve sahne adıyla Bad Bunny olarak bilinen Porto Rikolu sanatçının gerçek adı nedir?",
+      "question": "Netflix'in dünya genelinde popüler olan dizisi 'Stranger Things'te, özel psişik güçlere sahip olan ve '011' lakabıyla da bilinen ana karakter Eleven, hangi tesiste büyütülmüş ve deneylere maruz kalmıştır?",
       "options": [
-        "Juan Luis Londoño Arias",
-        "Benito Antonio Martínez Ocasio",
-        "Carlos Efrén Reyes Rosado",
-        "José Álvaro Osorio Balvín",
-        "Luis Fonsi"
+        "Starcourt Alışveriş Merkezi",
+        "Hawkins Lisesi",
+        "Hawkins Ulusal Laboratuvarı",
+        "Melvald's General Store",
+        "Pennhurst Akıl Hastanesi"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
-      "question": "Nickelodeon'un dünya çapında popüler çizgi dizisi \"SüngerBob KareŞort\"ta (SpongeBob SquarePants) SüngerBob'un en yakın arkadaşı olan pembe yıldızın adı nedir?",
+      "question": "Çanakkale Savaşı'nda, 'Ben size taarruzu emretmiyorum, ölmeyi emrediyorum!' emrini veren ve kahramanlıklarıyla tanınan komutan kimdir?",
       "options": [
-        "Plankton",
-        "Eugene H. Krabs",
-        "Squidward Tentacles",
-        "Patrick Star",
-        "Sandy Cheeks"
+        "Mustafa Kemal Atatürk",
+        "Fevzi Çakmak",
+        "Kazım Karabekir",
+        "İsmet İnönü",
+        "Enver Paşa"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Yeşilçam'ın kült komedi filmlerinden 'Tosun Paşa'da, Tellioğulları ile Seferoğulları arasında büyük bir rekabetin yaşandığı, aynı zamanda Şaban'ın Tosun Paşa kılığında aşık olduğu kızın adı nedir?",
+      "options": [
+        "Suna",
+        "Ayşe",
+        "Zeliha",
+        "Leyla",
+        "Fatma"
       ],
       "correct": 3
-    },
-    {
-      "question": "PlayStation'ın efsanevi oyunu \"God of War\" (2018) ve devamı olan \"God of War Ragnarök\"te, Kratos'un İskandinav mitolojisindeki oğlu kimdir?",
-      "options": [
-        "Deimos",
-        "Hercules",
-        "Atreus",
-        "Zeus",
-        "Thor"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türk edebiyatının önemli isimlerinden Orhan Pamuk, 2006 yılında Nobel Edebiyat Ödülü'nü kazanarak bu prestijli ödüle layık görülen ilk Türk olmuştur. Pamuk'un ödülü almasında etkili olan, İstanbul'un melankolik ruhunu ve kültürel çatışmaları ele aldığı eserlerinden biri aşağıdakilerden hangisidir?",
-      "options": [
-        "Sessiz Ev",
-        "Yeni Hayat",
-        "Benim Adım Kırmızı",
-        "Kara Kitap",
-        "Cevdet Bey ve Oğulları"
-      ],
-      "correct": 2
     }
   ]
 }
