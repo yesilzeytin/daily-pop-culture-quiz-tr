@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Şahan Gökbakar'ın yarattığı ve sinema filmlerine taşınmadan önce bir televizyon skeç karakteri olarak tanınan 'Recep İvedik', ilk olarak hangi programda izleyiciyle buluşmuştur?",
+      "question": "Harry Potter evreninde, cisimleri havaya kaldırmak veya yüzdürmek için kullanılan ünlü büyü nedir?",
       "options": [
-        "Dikkat Şahan Çıkabilir",
-        "Şahan Show",
-        "Beyaz Show",
-        "Zaga",
-        "Okan Bayülgen'le Gecekondu"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Türk rock grubu maNga, 2010 yılında 'We Could Be The Same' adlı şarkısıyla Türkiye'yi temsil ettiği Eurovision Şarkı Yarışması'nda kaçıncı olmuştur?",
-      "options": [
-        "1.",
-        "2.",
-        "3.",
-        "4.",
-        "5."
+        "Expelliarmus",
+        "Wingardium Leviosa",
+        "Lumos",
+        "Alohomora",
+        "Stupefy"
       ],
       "correct": 1
     },
     {
-      "question": "Netflix'in dünya genelinde popüler olan dizisi 'Stranger Things'te, özel psişik güçlere sahip olan ve '011' lakabıyla da bilinen ana karakter Eleven, hangi tesiste büyütülmüş ve deneylere maruz kalmıştır?",
+      "question": "Süper Lig tarihinde, üst üste 4 kez şampiyonluk yaşayarak eşine az rastlanır bir başarıya imza atan tek takım hangisidir?",
       "options": [
-        "Starcourt Alışveriş Merkezi",
-        "Hawkins Lisesi",
-        "Hawkins Ulusal Laboratuvarı",
-        "Melvald's General Store",
-        "Pennhurst Akıl Hastanesi"
+        "Fenerbahçe",
+        "Beşiktaş",
+        "Galatasaray",
+        "Trabzonspor",
+        "Bursaspor"
       ],
       "correct": 2
     },
     {
-      "question": "Çanakkale Savaşı'nda, 'Ben size taarruzu emretmiyorum, ölmeyi emrediyorum!' emrini veren ve kahramanlıklarıyla tanınan komutan kimdir?",
+      "question": "The Witcher evreninin ana karakteri Geralt of Rivia, ne tür bir mesleğe sahiptir ve geçimini nasıl sağlar?",
       "options": [
-        "Mustafa Kemal Atatürk",
-        "Fevzi Çakmak",
-        "Kazım Karabekir",
-        "İsmet İnönü",
-        "Enver Paşa"
+        "Krallık muhafızı",
+        "Tüccar",
+        "Canavar avcısı",
+        "Büyücü",
+        "Şifacı"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "question": "Yeşilçam'ın kült komedi filmlerinden 'Tosun Paşa'da, Tellioğulları ile Seferoğulları arasında büyük bir rekabetin yaşandığı, aynı zamanda Şaban'ın Tosun Paşa kılığında aşık olduğu kızın adı nedir?",
+      "question": "Maluma'nın, dünya çapında büyük ilgi gören ve özellikle Madonna ile birlikte seslendirdiği hit şarkısı hangisidir?",
       "options": [
-        "Suna",
-        "Ayşe",
-        "Zeliha",
-        "Leyla",
-        "Fatma"
+        "Hawái",
+        "Felices los 4",
+        "Medellín",
+        "Chantaje",
+        "El Perdedor"
       ],
-      "correct": 3
+      "correct": 2
+    },
+    {
+      "question": "Tarkan'ın dünya çapında tanınmasını sağlayan ve özellikle 'Şıkıdım' ile 'Şımarık' gibi hitleri barındıran, 1997 tarihli ünlü albümünün adı nedir?",
+      "options": [
+        "Karma",
+        "Aacayipsin",
+        "Ölürüm Sana",
+        "Kuzu Kuzu",
+        "Metamorfoz"
+      ],
+      "correct": 2
     }
   ]
 }
