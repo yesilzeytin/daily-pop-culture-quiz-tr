@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Harry Potter evreninde, cisimleri havaya kaldırmak veya yüzdürmek için kullanılan ünlü büyü nedir?",
+      "question": "YouTube Türkiye'nin önde gelen isimlerinden biri olarak kabul edilen, ilk milyonlara ulaşan ve genellikle vlogger kimliğiyle tanınan YouTuber kimdir?",
       "options": [
-        "Expelliarmus",
-        "Wingardium Leviosa",
-        "Lumos",
-        "Alohomora",
-        "Stupefy"
+        "Orkun Işıtmak",
+        "Barış Özcan",
+        "Reynmen",
+        "Enes Batur",
+        "Ruhi Çenet"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Marvel Sinematik Evreni'nde (MCU), Thanos'un tüm sonsuzluk taşlarını toplayarak evrendeki yaşamın yarısını bir parmak şıklatmasıyla yok etmesini sağlayan güçlü eser nedir?",
+      "options": [
+        "Mjolnir",
+        "Sonsuzluk Eldiveni",
+        "Asgard Kılıcı",
+        "Kara Düzen Zırhı",
+        "Vibranyum Kalkanı"
       ],
       "correct": 1
     },
     {
-      "question": "Süper Lig tarihinde, üst üste 4 kez şampiyonluk yaşayarak eşine az rastlanır bir başarıya imza atan tek takım hangisidir?",
+      "question": "Tarihteki en ünlü dolandırıcılardan biri olan Victor Lustig, hangi ikonik yapıyı iki kez 'satma' girişimiyle büyük ün kazanmıştır?",
       "options": [
-        "Fenerbahçe",
-        "Beşiktaş",
-        "Galatasaray",
-        "Trabzonspor",
-        "Bursaspor"
+        "Big Ben",
+        "Eyfel Kulesi",
+        "Özgürlük Anıtı",
+        "Kolezyum",
+        "Tac Mahal"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Dünyanın en çok abonesi olan ve genellikle yüksek bütçeli meydan okumalar, büyük ödüller ve hayırseverlik faaliyetleriyle tanınan YouTuber kimdir?",
+      "options": [
+        "PewDiePie",
+        "Markiplier",
+        "MrBeast",
+        "KSI",
+        "Dude Perfect"
       ],
       "correct": 2
     },
     {
-      "question": "The Witcher evreninin ana karakteri Geralt of Rivia, ne tür bir mesleğe sahiptir ve geçimini nasıl sağlar?",
+      "question": "2000'li yılların sonlarına doğru internette viral hale gelen, insanları şaka amaçlı Rick Astley'nin 'Never Gonna Give You Up' şarkısının videosuna yönlendirme eylemine verilen ad nedir?",
       "options": [
-        "Krallık muhafızı",
-        "Tüccar",
-        "Canavar avcısı",
-        "Büyücü",
-        "Şifacı"
+        "Trollleme",
+        "Spamming",
+        "Flashmob",
+        "Rickroll",
+        "Deepfake"
       ],
-      "correct": 2
-    },
-    {
-      "question": "Maluma'nın, dünya çapında büyük ilgi gören ve özellikle Madonna ile birlikte seslendirdiği hit şarkısı hangisidir?",
-      "options": [
-        "Hawái",
-        "Felices los 4",
-        "Medellín",
-        "Chantaje",
-        "El Perdedor"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Tarkan'ın dünya çapında tanınmasını sağlayan ve özellikle 'Şıkıdım' ile 'Şımarık' gibi hitleri barındıran, 1997 tarihli ünlü albümünün adı nedir?",
-      "options": [
-        "Karma",
-        "Aacayipsin",
-        "Ölürüm Sana",
-        "Kuzu Kuzu",
-        "Metamorfoz"
-      ],
-      "correct": 2
+      "correct": 3
     }
   ]
 }
