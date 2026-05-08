@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "YouTube Türkiye'nin önde gelen isimlerinden biri olarak kabul edilen, ilk milyonlara ulaşan ve genellikle vlogger kimliğiyle tanınan YouTuber kimdir?",
+      "question": "\"Filenin Sultanları\"nın önemli oyuncularından Melissa Vargas, takımdaki performansıyla ve özellikle güçlü smaçlarıyla tanınmaktadır. Taraftarlar arasında yaygın olarak bilinen lakabı aşağıdakilerden hangisidir?",
       "options": [
-        "Orkun Işıtmak",
-        "Barış Özcan",
-        "Reynmen",
-        "Enes Batur",
-        "Ruhi Çenet"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Marvel Sinematik Evreni'nde (MCU), Thanos'un tüm sonsuzluk taşlarını toplayarak evrendeki yaşamın yarısını bir parmak şıklatmasıyla yok etmesini sağlayan güçlü eser nedir?",
-      "options": [
-        "Mjolnir",
-        "Sonsuzluk Eldiveni",
-        "Asgard Kılıcı",
-        "Kara Düzen Zırhı",
-        "Vibranyum Kalkanı"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Tarihteki en ünlü dolandırıcılardan biri olan Victor Lustig, hangi ikonik yapıyı iki kez 'satma' girişimiyle büyük ün kazanmıştır?",
-      "options": [
-        "Big Ben",
-        "Eyfel Kulesi",
-        "Özgürlük Anıtı",
-        "Kolezyum",
-        "Tac Mahal"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Dünyanın en çok abonesi olan ve genellikle yüksek bütçeli meydan okumalar, büyük ödüller ve hayırseverlik faaliyetleriyle tanınan YouTuber kimdir?",
-      "options": [
-        "PewDiePie",
-        "Markiplier",
-        "MrBeast",
-        "KSI",
-        "Dude Perfect"
+        "Ateş Topu",
+        "Yıldırım",
+        "Füze",
+        "Panter",
+        "Dev"
       ],
       "correct": 2
     },
     {
-      "question": "2000'li yılların sonlarına doğru internette viral hale gelen, insanları şaka amaçlı Rick Astley'nin 'Never Gonna Give You Up' şarkısının videosuna yönlendirme eylemine verilen ad nedir?",
+      "question": "Apple tarafından geliştirilen ve iPhone, iPad gibi cihazlarda kullanılan, kullanıcıların sesli komutlarla etkileşim kurmasını sağlayan yapay zeka tabanlı sanal asistanın adı nedir?",
       "options": [
-        "Trollleme",
-        "Spamming",
-        "Flashmob",
-        "Rickroll",
-        "Deepfake"
+        "Cortana",
+        "Alexa",
+        "Siri",
+        "Google Assistant",
+        "Bixby"
       ],
-      "correct": 3
+      "correct": 2
+    },
+    {
+      "question": "Türkiye'de Yumurcak TV'de yayınlanan ve çocuklar arasında çok sevilen \"Cedric\" çizgi filminde, ana karakter Cedric'in platonik olarak aşık olduğu ve her bölümde peşinden koştuğu sınıf arkadaşı kızın adı nedir?",
+      "options": [
+        "Chen",
+        "Sarah",
+        "Laura",
+        "Jessica",
+        "Chloe"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Netflix Türkiye'nin ilk orijinal Türk yapımı dizisi olan, modern İstanbul'da geçen ve ana karakterin gizemli bir kadim gücü keşfederek şehri kurtarma mücadelesini konu alan fantastik serinin adı nedir?",
+      "options": [
+        "Atiye",
+        "Hakan: Muhafız",
+        "Aşk 101",
+        "Şahmaran",
+        "Fatma"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Her yıl New York'ta düzenlenen ve dünyanın en büyük moda etkinliklerinden biri olarak kabul edilen Met Gala'nın bilet satışlarından elde edilen gelirler, aşağıdaki kurumlardan hangisinin Kostüm Enstitüsü'nü desteklemek için kullanılmaktadır?",
+      "options": [
+        "Solomon R. Guggenheim Müzesi",
+        "Modern Sanat Müzesi (MoMA)",
+        "Metropolitan Sanat Müzesi",
+        "Whitney Amerikan Sanatı Müzesi",
+        "Brooklyn Müzesi"
+      ],
+      "correct": 2
     }
   ]
 }
