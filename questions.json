@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "\"Filenin Sultanları\"nın önemli oyuncularından Melissa Vargas, takımdaki performansıyla ve özellikle güçlü smaçlarıyla tanınmaktadır. Taraftarlar arasında yaygın olarak bilinen lakabı aşağıdakilerden hangisidir?",
+      "question": "Yüzüklerin Efendisi serisinde, Frodo Baggins'in Tek Yüzük'ü yok etme yolculuğunda ona sadakatle eşlik eden bahçıvanı ve en yakın yol arkadaşının adı nedir?",
       "options": [
-        "Ateş Topu",
-        "Yıldırım",
-        "Füze",
-        "Panter",
-        "Dev"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Apple tarafından geliştirilen ve iPhone, iPad gibi cihazlarda kullanılan, kullanıcıların sesli komutlarla etkileşim kurmasını sağlayan yapay zeka tabanlı sanal asistanın adı nedir?",
-      "options": [
-        "Cortana",
-        "Alexa",
-        "Siri",
-        "Google Assistant",
-        "Bixby"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türkiye'de Yumurcak TV'de yayınlanan ve çocuklar arasında çok sevilen \"Cedric\" çizgi filminde, ana karakter Cedric'in platonik olarak aşık olduğu ve her bölümde peşinden koştuğu sınıf arkadaşı kızın adı nedir?",
-      "options": [
-        "Chen",
-        "Sarah",
-        "Laura",
-        "Jessica",
-        "Chloe"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Netflix Türkiye'nin ilk orijinal Türk yapımı dizisi olan, modern İstanbul'da geçen ve ana karakterin gizemli bir kadim gücü keşfederek şehri kurtarma mücadelesini konu alan fantastik serinin adı nedir?",
-      "options": [
-        "Atiye",
-        "Hakan: Muhafız",
-        "Aşk 101",
-        "Şahmaran",
-        "Fatma"
+        "Legolas",
+        "Samwise Gamgee",
+        "Gimli",
+        "Pippin Took",
+        "Merry Brandybuck"
       ],
       "correct": 1
     },
     {
-      "question": "Her yıl New York'ta düzenlenen ve dünyanın en büyük moda etkinliklerinden biri olarak kabul edilen Met Gala'nın bilet satışlarından elde edilen gelirler, aşağıdaki kurumlardan hangisinin Kostüm Enstitüsü'nü desteklemek için kullanılmaktadır?",
+      "question": "MasterChef Türkiye'nin 2020 sezonunda şampiyonluğa ulaşan ve kendine özgü aksanıyla, yarışma boyunca 'şampiyon olacağım' sözleriyle akıllarda kalan yarışmacı kimdir?",
       "options": [
-        "Solomon R. Guggenheim Müzesi",
-        "Modern Sanat Müzesi (MoMA)",
-        "Metropolitan Sanat Müzesi",
-        "Whitney Amerikan Sanatı Müzesi",
-        "Brooklyn Müzesi"
+        "Cemre Uyanık",
+        "Serhat Doğramacı",
+        "Eren Kaşıkçı",
+        "Metin Yavuz",
+        "Hasan Biltekin"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Dünyanın en çok abone olunan YouTuber'larından biri olmadan önce Felix Kjellberg (PewDiePie), erken dönem kariyerinde hangi video oyunu türünü oynayıp yorumlamasıyla tanınmıştır?",
+      "options": [
+        "RPG (Rol Yapma Oyunları)",
+        "FPS (Birinci Şahıs Nişancı Oyunları)",
+        "Horror (Korku Oyunları)",
+        "Strategy (Strateji Oyunları)",
+        "Sports (Spor Oyunları)"
       ],
       "correct": 2
+    },
+    {
+      "question": "\"Türk Sinemasının Sultanı\" olarak anılan, oyunculuğunun yanı sıra ses sanatçılığı da yapmış ve oyuncu Cihan Ünal ile yaşadığı evlilikle magazin gündeminde geniş yer bulan efsanevi aktris kimdir?",
+      "options": [
+        "Filiz Akın",
+        "Hülya Koçyiğit",
+        "Türkan Şoray",
+        "Fatma Girik",
+        "Nevra Serezli"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "\"Küçük Siyah Elbise\"yi popülerleştiren ve Chanel No. 5 parfümü de dahil olmak üzere zamansız zarafet ve devrimci tasarımlarla eş anlamlı hale gelen markasını kuran ikonik Fransız moda tasarımcısı kimdir?",
+      "options": [
+        "Donatella Versace",
+        "Coco Chanel",
+        "Christian Dior",
+        "Yves Saint Laurent",
+        "Giorgio Armani"
+      ],
+      "correct": 1
     }
   ]
 }
