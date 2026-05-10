@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Yüzüklerin Efendisi serisinde, Frodo Baggins'in Tek Yüzük'ü yok etme yolculuğunda ona sadakatle eşlik eden bahçıvanı ve en yakın yol arkadaşının adı nedir?",
+      "question": "NBA efsanesi Michael Jordan, Chicago Bulls formasıyla ilk şampiyonluğunu hangi yıl kazanmıştır?",
       "options": [
-        "Legolas",
-        "Samwise Gamgee",
-        "Gimli",
-        "Pippin Took",
-        "Merry Brandybuck"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "MasterChef Türkiye'nin 2020 sezonunda şampiyonluğa ulaşan ve kendine özgü aksanıyla, yarışma boyunca 'şampiyon olacağım' sözleriyle akıllarda kalan yarışmacı kimdir?",
-      "options": [
-        "Cemre Uyanık",
-        "Serhat Doğramacı",
-        "Eren Kaşıkçı",
-        "Metin Yavuz",
-        "Hasan Biltekin"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Dünyanın en çok abone olunan YouTuber'larından biri olmadan önce Felix Kjellberg (PewDiePie), erken dönem kariyerinde hangi video oyunu türünü oynayıp yorumlamasıyla tanınmıştır?",
-      "options": [
-        "RPG (Rol Yapma Oyunları)",
-        "FPS (Birinci Şahıs Nişancı Oyunları)",
-        "Horror (Korku Oyunları)",
-        "Strategy (Strateji Oyunları)",
-        "Sports (Spor Oyunları)"
+        "1989",
+        "1990",
+        "1991",
+        "1992",
+        "1993"
       ],
       "correct": 2
     },
     {
-      "question": "\"Türk Sinemasının Sultanı\" olarak anılan, oyunculuğunun yanı sıra ses sanatçılığı da yapmış ve oyuncu Cihan Ünal ile yaşadığı evlilikle magazin gündeminde geniş yer bulan efsanevi aktris kimdir?",
+      "question": "Türkiye'nin önde gelen YouTuber'larından Orkun Işıtmak, özellikle hangi türdeki videolarıyla geniş bir izleyici kitlesine ulaşmıştır?",
       "options": [
-        "Filiz Akın",
-        "Hülya Koçyiğit",
-        "Türkan Şoray",
-        "Fatma Girik",
-        "Nevra Serezli"
+        "Tarihi belgeseller",
+        "Makyaj ve güzellik tüyoları",
+        "Eğlenceli challenge'lar ve vloglar",
+        "Yemek tarifleri",
+        "Politika yorumları"
       ],
       "correct": 2
     },
     {
-      "question": "\"Küçük Siyah Elbise\"yi popülerleştiren ve Chanel No. 5 parfümü de dahil olmak üzere zamansız zarafet ve devrimci tasarımlarla eş anlamlı hale gelen markasını kuran ikonik Fransız moda tasarımcısı kimdir?",
+      "question": "Grammy Ödülleri'nde 'En İyi Rap Albümü' dalında rekor sayıda aday gösterilen ve 'Take Care', 'Views' gibi albümleriyle tanınan Kanadalı rapçi kimdir?",
       "options": [
-        "Donatella Versace",
-        "Coco Chanel",
-        "Christian Dior",
-        "Yves Saint Laurent",
-        "Giorgio Armani"
+        "Eminem",
+        "Kanye West",
+        "Kendrick Lamar",
+        "Drake",
+        "Jay-Z"
       ],
-      "correct": 1
+      "correct": 3
+    },
+    {
+      "question": "'Her Şeyi Yak', 'Senden Daha Güzel' ve 'Dibine Kadar' gibi şarkılarıyla bilinen, Türk rock müziğinin en köklü ve sevilen gruplarından biri olan topluluk hangisidir?",
+      "options": [
+        "Athena",
+        "Mor ve Ötesi",
+        "Duman",
+        "Şebnem Ferah",
+        "Teoman"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Disney Channel'ın sevilen çizgi dizilerinden biri olan 'Esrarengiz Kasaba'nın (Gravity Falls) ana karakterleri olan ikiz kardeşlerin isimleri nelerdir?",
+      "options": [
+        "Finn ve Jake",
+        "Mordecai ve Rigby",
+        "Dipper ve Mabel",
+        "Gumball ve Darwin",
+        "Phineas ve Ferb"
+      ],
+      "correct": 2
     }
   ]
 }
