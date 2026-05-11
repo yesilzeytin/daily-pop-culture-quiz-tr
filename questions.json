@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "NBA efsanesi Michael Jordan, Chicago Bulls formasıyla ilk şampiyonluğunu hangi yıl kazanmıştır?",
+      "question": "Yeşilçam'ın kült komedi serilerinden 'Hababam Sınıfı'nda, 'Güdük Necmi' karakterini canlandıran usta oyuncu kimdir?",
       "options": [
-        "1989",
-        "1990",
-        "1991",
-        "1992",
-        "1993"
+        "Kemal Sunal",
+        "Tarık Akan",
+        "Halit Akçatepe",
+        "Münir Özkul",
+        "Şener Şen"
       ],
       "correct": 2
     },
     {
-      "question": "Türkiye'nin önde gelen YouTuber'larından Orkun Işıtmak, özellikle hangi türdeki videolarıyla geniş bir izleyici kitlesine ulaşmıştır?",
+      "question": "Türk televizyon tarihinin en çok izlenen dizilerinden biri olan 'Ezel'de, dizinin kilit karakterlerinden ve Ömer/Ezel'in akıl hocası olan Ramiz Karaeski'ye hayat veren oyuncu kimdir?",
       "options": [
-        "Tarihi belgeseller",
-        "Makyaj ve güzellik tüyoları",
-        "Eğlenceli challenge'lar ve vloglar",
-        "Yemek tarifleri",
-        "Politika yorumları"
+        "Tuncel Kurtiz",
+        "Haluk Bilginer",
+        "Kenan İmirzalıoğlu",
+        "Yiğit Özşener",
+        "Sarp Akkaya"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "Grammy Ödülleri'nde 'En İyi Rap Albümü' dalında rekor sayıda aday gösterilen ve 'Take Care', 'Views' gibi albümleriyle tanınan Kanadalı rapçi kimdir?",
+      "question": "Türkiye'de büyük ilgiyle takip edilen 'Survivor Türkiye' yarışma tarihinde, iki farklı sezonda şampiyonluk ipini göğüsleyerek bu başarıya ulaşan ilk ve tek yarışmacı kimdir?",
       "options": [
-        "Eminem",
-        "Kanye West",
-        "Kendrick Lamar",
-        "Drake",
-        "Jay-Z"
+        "Adem Kılıççı",
+        "Turabi Çamkıran",
+        "Cemal Can Canseven",
+        "Ogeday Girişken",
+        "İsmail Balaban"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Steven Spielberg'in yönetmenliğini yaptığı ve 1994 yılında En İyi Film Oscar'ını kazanan, İkinci Dünya Savaşı sırasında Yahudi Soykırımı'nı konu alan ve büyük beğeni toplayan dram filmi hangisidir?",
+      "options": [
+        "Er Ryan'ı Kurtarmak",
+        "Piyanist",
+        "Hayat Güzeldir",
+        "Schindler'in Listesi",
+        "Dunkirk"
       ],
       "correct": 3
     },
     {
-      "question": "'Her Şeyi Yak', 'Senden Daha Güzel' ve 'Dibine Kadar' gibi şarkılarıyla bilinen, Türk rock müziğinin en köklü ve sevilen gruplarından biri olan topluluk hangisidir?",
+      "question": "1997 yapımı olup, 1998 yılında En İyi Film, En İyi Yönetmen ve En İyi Kadın Oyuncu dahil olmak üzere 11 dalda Oscar kazanarak büyük bir başarıya imza atan, ikonik bir gemi felaketinde geçen aşk hikayesini konu alan film hangisidir?",
       "options": [
-        "Athena",
-        "Mor ve Ötesi",
-        "Duman",
-        "Şebnem Ferah",
-        "Teoman"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Disney Channel'ın sevilen çizgi dizilerinden biri olan 'Esrarengiz Kasaba'nın (Gravity Falls) ana karakterleri olan ikiz kardeşlerin isimleri nelerdir?",
-      "options": [
-        "Finn ve Jake",
-        "Mordecai ve Rigby",
-        "Dipper ve Mabel",
-        "Gumball ve Darwin",
-        "Phineas ve Ferb"
+        "Cesur Yürek",
+        "Forrest Gump",
+        "Titanik",
+        "Gladyatör",
+        "Yüzüklerin Efendisi: Kralın Dönüşü"
       ],
       "correct": 2
     }
