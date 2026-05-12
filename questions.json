@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Yeşilçam'ın kült komedi serilerinden 'Hababam Sınıfı'nda, 'Güdük Necmi' karakterini canlandıran usta oyuncu kimdir?",
+      "question": "Cem Yılmaz'ın 'G.O.R.A.' filminde, baş karakter Arif'in uzay gemisine kaçırıldığı ve hikayenin çoğunun geçtiği gezegenin adı nedir?",
       "options": [
-        "Kemal Sunal",
-        "Tarık Akan",
-        "Halit Akçatepe",
-        "Münir Özkul",
-        "Şener Şen"
+        "Dünya",
+        "Mars",
+        "G.O.R.A.",
+        "A.R.O.G.",
+        "Alpha Centauri"
       ],
       "correct": 2
     },
     {
-      "question": "Türk televizyon tarihinin en çok izlenen dizilerinden biri olan 'Ezel'de, dizinin kilit karakterlerinden ve Ömer/Ezel'in akıl hocası olan Ramiz Karaeski'ye hayat veren oyuncu kimdir?",
+      "question": "1979 yılında Nobel Barış Ödülü'nü kazanan ve tüm yaşamını yoksullara, hastalara ve terk edilmişlere adamış Katolik misyoner kimdir?",
       "options": [
-        "Tuncel Kurtiz",
-        "Haluk Bilginer",
-        "Kenan İmirzalıoğlu",
-        "Yiğit Özşener",
-        "Sarp Akkaya"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Türkiye'de büyük ilgiyle takip edilen 'Survivor Türkiye' yarışma tarihinde, iki farklı sezonda şampiyonluk ipini göğüsleyerek bu başarıya ulaşan ilk ve tek yarışmacı kimdir?",
-      "options": [
-        "Adem Kılıççı",
-        "Turabi Çamkıran",
-        "Cemal Can Canseven",
-        "Ogeday Girişken",
-        "İsmail Balaban"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Steven Spielberg'in yönetmenliğini yaptığı ve 1994 yılında En İyi Film Oscar'ını kazanan, İkinci Dünya Savaşı sırasında Yahudi Soykırımı'nı konu alan ve büyük beğeni toplayan dram filmi hangisidir?",
-      "options": [
-        "Er Ryan'ı Kurtarmak",
-        "Piyanist",
-        "Hayat Güzeldir",
-        "Schindler'in Listesi",
-        "Dunkirk"
+        "Nelson Mandela",
+        "Martin Luther King Jr.",
+        "Albert Schweitzer",
+        "Rahibe Teresa",
+        "Desmond Tutu"
       ],
       "correct": 3
     },
     {
-      "question": "1997 yapımı olup, 1998 yılında En İyi Film, En İyi Yönetmen ve En İyi Kadın Oyuncu dahil olmak üzere 11 dalda Oscar kazanarak büyük bir başarıya imza atan, ikonik bir gemi felaketinde geçen aşk hikayesini konu alan film hangisidir?",
+      "question": "Pixar'ın sevilen animasyon filmi 'Yukarı Bak' (Up) filminde, Carl Fredricksen'ın evini binlerce balonla uçurarak ulaşmayı hedeflediği, Güney Amerika'daki efsanevi şelalenin adı nedir?",
       "options": [
-        "Cesur Yürek",
-        "Forrest Gump",
-        "Titanik",
-        "Gladyatör",
-        "Yüzüklerin Efendisi: Kralın Dönüşü"
+        "Angel Şelalesi",
+        "Iguazu Şelalesi",
+        "Niagara Şelalesi",
+        "Cennet Şelalesi (Paradise Falls)",
+        "Victoria Şelalesi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Yeşilçam'ın unutulmaz filmlerinden 'Mavi Boncuk'ta, ünlü gazino sanatçısı Emel Sayın'ı kaçırıp alıkoyan ve fidye isteyen 'Mavi Boncuk' ekibinin lideri olan ve Münir Özkul tarafından canlandırılan karakterin adı nedir?",
+      "options": [
+        "Yaşar Usta",
+        "Badi Ekrem",
+        "Kamil",
+        "Rıfat Efendi",
+        "Gariban Necmi"
       ],
       "correct": 2
+    },
+    {
+      "question": "Her yıl mayıs ayının ilk pazartesi günü düzenlenen ve moda dünyasının en büyük gecelerinden biri olarak kabul edilen Met Gala, hangi şehrin Metropolitan Sanat Müzesi'nde gerçekleşmektedir?",
+      "options": [
+        "Paris",
+        "Los Angeles",
+        "Londra",
+        "Milano",
+        "New York"
+      ],
+      "correct": 4
     }
   ]
 }
