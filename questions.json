@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Cem Yılmaz'ın 'G.O.R.A.' filminde, baş karakter Arif'in uzay gemisine kaçırıldığı ve hikayenin çoğunun geçtiği gezegenin adı nedir?",
+      "question": "Popüler internet meme'i \"Doge\"un ikonik yüzü olan köpeğin cinsi nedir?",
       "options": [
-        "Dünya",
-        "Mars",
-        "G.O.R.A.",
-        "A.R.O.G.",
-        "Alpha Centauri"
+        "Pomeranian",
+        "Golden Retriever",
+        "Shiba Inu",
+        "Beagle",
+        "Pug"
       ],
       "correct": 2
     },
     {
-      "question": "1979 yılında Nobel Barış Ödülü'nü kazanan ve tüm yaşamını yoksullara, hastalara ve terk edilmişlere adamış Katolik misyoner kimdir?",
+      "question": "Studio Ghibli'nin kurucularından biri olan ve \"Ruhların Kaçışı\" (Spirited Away) gibi başyapıtların yönetmenliğini üstlenen efsanevi isim kimdir?",
       "options": [
-        "Nelson Mandela",
-        "Martin Luther King Jr.",
-        "Albert Schweitzer",
-        "Rahibe Teresa",
-        "Desmond Tutu"
+        "Makoto Shinkai",
+        "Isao Takahata",
+        "Mamoru Hosoda",
+        "Hayao Miyazaki",
+        "Satoshi Kon"
       ],
       "correct": 3
     },
     {
-      "question": "Pixar'ın sevilen animasyon filmi 'Yukarı Bak' (Up) filminde, Carl Fredricksen'ın evini binlerce balonla uçurarak ulaşmayı hedeflediği, Güney Amerika'daki efsanevi şelalenin adı nedir?",
+      "question": "HBO yapımı \"Game of Thrones\" dizisinde, Westeros'taki en soylu ailelerden biri olan Stark Hanesi'nin mottosu nedir?",
       "options": [
-        "Angel Şelalesi",
-        "Iguazu Şelalesi",
-        "Niagara Şelalesi",
-        "Cennet Şelalesi (Paradise Falls)",
-        "Victoria Şelalesi"
+        "Ateş ve Kan",
+        "Kış Geliyor",
+        "Büyüyoruz Güçleniyoruz",
+        "Duymayan Kalmasın",
+        "Lehimizden Başka Kimse Yok"
       ],
-      "correct": 3
+      "correct": 1
     },
     {
-      "question": "Yeşilçam'ın unutulmaz filmlerinden 'Mavi Boncuk'ta, ünlü gazino sanatçısı Emel Sayın'ı kaçırıp alıkoyan ve fidye isteyen 'Mavi Boncuk' ekibinin lideri olan ve Münir Özkul tarafından canlandırılan karakterin adı nedir?",
+      "question": "Türk Kadın Voleybol Milli Takımı \"Filenin Sultanları\", 2023 CEV Avrupa Şampiyonası finalinde hangi ülkenin milli takımını yenerek tarihinde ilk kez şampiyon olmuştur?",
       "options": [
-        "Yaşar Usta",
-        "Badi Ekrem",
-        "Kamil",
-        "Rıfat Efendi",
-        "Gariban Necmi"
+        "İtalya",
+        "Polonya",
+        "Sırbistan",
+        "Hollanda",
+        "Fransa"
       ],
       "correct": 2
     },
     {
-      "question": "Her yıl mayıs ayının ilk pazartesi günü düzenlenen ve moda dünyasının en büyük gecelerinden biri olarak kabul edilen Met Gala, hangi şehrin Metropolitan Sanat Müzesi'nde gerçekleşmektedir?",
+      "question": "Türkiye'de medya ve sanat dünyasının en prestijli ödüllerinden biri olan Altın Kelebek Ödülleri, ilk kez hangi yılda düzenlenmiştir?",
       "options": [
-        "Paris",
-        "Los Angeles",
-        "Londra",
-        "Milano",
-        "New York"
+        "1980",
+        "1990",
+        "2000",
+        "1968",
+        "1972"
       ],
       "correct": 4
     }
