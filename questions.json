@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Popüler internet meme'i \"Doge\"un ikonik yüzü olan köpeğin cinsi nedir?",
+      "question": "The Witcher video oyunu serisinin ve popüler Netflix dizisinin temelini oluşturan \"Cadı Avcısı\" kitaplarının yazarı kimdir?",
       "options": [
-        "Pomeranian",
-        "Golden Retriever",
-        "Shiba Inu",
-        "Beagle",
-        "Pug"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Studio Ghibli'nin kurucularından biri olan ve \"Ruhların Kaçışı\" (Spirited Away) gibi başyapıtların yönetmenliğini üstlenen efsanevi isim kimdir?",
-      "options": [
-        "Makoto Shinkai",
-        "Isao Takahata",
-        "Mamoru Hosoda",
-        "Hayao Miyazaki",
-        "Satoshi Kon"
+        "George R.R. Martin",
+        "J.R.R. Tolkien",
+        "Robert Jordan",
+        "Andrzej Sapkowski",
+        "Terry Pratchett"
       ],
       "correct": 3
     },
     {
-      "question": "HBO yapımı \"Game of Thrones\" dizisinde, Westeros'taki en soylu ailelerden biri olan Stark Hanesi'nin mottosu nedir?",
+      "question": "Türkiye'nin tanınmış sosyal medya fenomenlerinden Danla Bilic, genellikle hangi platformlarda çektiği makyaj ve vlog videolarıyla geniş bir kitleye ulaşmıştır?",
       "options": [
-        "Ateş ve Kan",
-        "Kış Geliyor",
-        "Büyüyoruz Güçleniyoruz",
-        "Duymayan Kalmasın",
-        "Lehimizden Başka Kimse Yok"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Türk Kadın Voleybol Milli Takımı \"Filenin Sultanları\", 2023 CEV Avrupa Şampiyonası finalinde hangi ülkenin milli takımını yenerek tarihinde ilk kez şampiyon olmuştur?",
-      "options": [
-        "İtalya",
-        "Polonya",
-        "Sırbistan",
-        "Hollanda",
-        "Fransa"
+        "TikTok ve Snapchat",
+        "Twitter ve Facebook",
+        "Instagram ve YouTube",
+        "Twitch ve Discord",
+        "Pinterest ve Tumblr"
       ],
       "correct": 2
     },
     {
-      "question": "Türkiye'de medya ve sanat dünyasının en prestijli ödüllerinden biri olan Altın Kelebek Ödülleri, ilk kez hangi yılda düzenlenmiştir?",
+      "question": "1982 Nobel Edebiyat Ödülü'nü kazanan ve büyülü gerçekçilik akımının önemli temsilcilerinden biri olan Gabriel García Márquez'in en bilinen eserlerinden biri aşağıdakilerden hangisidir?",
       "options": [
-        "1980",
-        "1990",
-        "2000",
-        "1968",
-        "1972"
+        "Fareler ve İnsanlar",
+        "Yüzyıllık Yalnızlık",
+        "Suç ve Ceza",
+        "Savaş ve Barış",
+        "1984"
       ],
-      "correct": 4
+      "correct": 1
+    },
+    {
+      "question": "\"Filenin Sultanları\" lakaplı Türk Kadın Voleybol Milli Takımı'nın 2023 Avrupa Şampiyonası ve 2023 FIVB Milletler Ligi zaferlerinde takımın baş antrenörü olarak görev yapan isim kimdir?",
+      "options": [
+        "Giovanni Guidetti",
+        "Marco Aurelio Motta",
+        "Alessandro Chiappini",
+        "Daniele Santarelli",
+        "Ferhat Akbaş"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Twitch Türkiye platformunun en popüler yayıncılarından biri olan, \"Elraenn\" sahne adıyla bilinen fenomenin gerçek adı nedir?",
+      "options": [
+        "Ferit Karakaya",
+        "Ahmet Sonuç",
+        "Tuğkan Gönültaş",
+        "Cem Karaca",
+        "Hasan Karaca"
+      ],
+      "correct": 2
     }
   ]
 }
