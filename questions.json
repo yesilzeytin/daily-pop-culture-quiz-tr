@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "The Witcher video oyunu serisinin ve popüler Netflix dizisinin temelini oluşturan \"Cadı Avcısı\" kitaplarının yazarı kimdir?",
+      "question": "Netflix'in 1950'li yılların İstanbul'unda geçen ve Gökçe Bahadır'ın canlandırdığı Matilda karakterinin Pera'daki bir gece kulübünde çalışarak geçmişiyle yüzleşmesini konu alan popüler dizisi hangisidir?",
       "options": [
-        "George R.R. Martin",
-        "J.R.R. Tolkien",
-        "Robert Jordan",
-        "Andrzej Sapkowski",
-        "Terry Pratchett"
+        "Zeytin Ağacı",
+        "Hakan: Muhafız",
+        "Bir Başkadır",
+        "Kulüp",
+        "Atiye"
       ],
       "correct": 3
     },
     {
-      "question": "Türkiye'nin tanınmış sosyal medya fenomenlerinden Danla Bilic, genellikle hangi platformlarda çektiği makyaj ve vlog videolarıyla geniş bir kitleye ulaşmıştır?",
+      "question": "Türkiye'nin en çok takip edilen YouTuber'larından Enes Batur, video içeriğine ağırlık vermeden önce YouTube kariyerine hangi tür videolarla başlamıştır?",
       "options": [
-        "TikTok ve Snapchat",
-        "Twitter ve Facebook",
-        "Instagram ve YouTube",
-        "Twitch ve Discord",
-        "Pinterest ve Tumblr"
+        "Makyaj ve güzellik tüyoları",
+        "Tarihi belgeseller",
+        "Oyun videoları (Let's Play)",
+        "Yemek tarifleri",
+        "Seyahat vlogları"
       ],
       "correct": 2
     },
     {
-      "question": "1982 Nobel Edebiyat Ödülü'nü kazanan ve büyülü gerçekçilik akımının önemli temsilcilerinden biri olan Gabriel García Márquez'in en bilinen eserlerinden biri aşağıdakilerden hangisidir?",
+      "question": "\"Sıkıysa Yakala\" (Catch Me If You Can) filmine konu olan ve genç yaşta pilot, doktor, avukat gibi kimliklere bürünerek milyonlarca dolarlık dolandırıcılık yapan, ancak daha sonra FBI'a danışmanlık yapan gerçek hayattaki dolandırıcı kimdir?",
       "options": [
-        "Fareler ve İnsanlar",
-        "Yüzyıllık Yalnızlık",
-        "Suç ve Ceza",
-        "Savaş ve Barış",
-        "1984"
+        "Bernie Madoff",
+        "Charles Ponzi",
+        "Frank Abagnale Jr.",
+        "Anna Delvey",
+        "Victor Lustig"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
-      "question": "\"Filenin Sultanları\" lakaplı Türk Kadın Voleybol Milli Takımı'nın 2023 Avrupa Şampiyonası ve 2023 FIVB Milletler Ligi zaferlerinde takımın baş antrenörü olarak görev yapan isim kimdir?",
+      "question": "Christopher Nolan'ın yönettiği \"Kara Şövalye\" (The Dark Knight) üçlemesinde Batman / Bruce Wayne karakterini canlandıran ve bu rolüyle büyük beğeni toplayan aktör kimdir?",
       "options": [
-        "Giovanni Guidetti",
-        "Marco Aurelio Motta",
-        "Alessandro Chiappini",
-        "Daniele Santarelli",
-        "Ferhat Akbaş"
+        "Ben Affleck",
+        "George Clooney",
+        "Christian Bale",
+        "Michael Keaton",
+        "Robert Pattinson"
       ],
-      "correct": 3
+      "correct": 2
     },
     {
-      "question": "Twitch Türkiye platformunun en popüler yayıncılarından biri olan, \"Elraenn\" sahne adıyla bilinen fenomenin gerçek adı nedir?",
+      "question": "\"Tiffany'de Kahvaltı\" (Breakfast at Tiffany's) ve \"Sabrina\" gibi filmlerde Audrey Hepburn'ün ikonik stilini yaratan ve uzun yıllar boyunca onun kişisel tasarımcısı olan ünlü moda evi ve tasarımcısı kimdir?",
       "options": [
-        "Ferit Karakaya",
-        "Ahmet Sonuç",
-        "Tuğkan Gönültaş",
-        "Cem Karaca",
-        "Hasan Karaca"
+        "Chanel (Coco Chanel)",
+        "Dior (Christian Dior)",
+        "Givenchy (Hubert de Givenchy)",
+        "Versace (Gianni Versace)",
+        "Gucci (Guccio Gucci)"
       ],
       "correct": 2
     }
