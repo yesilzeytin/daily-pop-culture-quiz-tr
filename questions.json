@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Netflix'in 1950'li yılların İstanbul'unda geçen ve Gökçe Bahadır'ın canlandırdığı Matilda karakterinin Pera'daki bir gece kulübünde çalışarak geçmişiyle yüzleşmesini konu alan popüler dizisi hangisidir?",
+      "question": "Amerikalı rapçi Eminem'in yarı otobiyografik filmi olan ve 'Lose Yourself' gibi hit şarkılarıyla hafızalara kazınan yapımın adı nedir?",
       "options": [
-        "Zeytin Ağacı",
-        "Hakan: Muhafız",
-        "Bir Başkadır",
-        "Kulüp",
-        "Atiye"
+        "8 Mile",
+        "Straight Outta Compton",
+        "Notorious",
+        "Get Rich or Die Tryin'",
+        "Hustle & Flow"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
-      "question": "Türkiye'nin en çok takip edilen YouTuber'larından Enes Batur, video içeriğine ağırlık vermeden önce YouTube kariyerine hangi tür videolarla başlamıştır?",
+      "question": "Netflix'in dünya genelinde büyük yankı uyandıran İspanyol dizisi 'La Casa de Papel'de (Money Heist), Profesör'ün planladığı ilk büyük soygun hangi kurumun hedef alınmasıyla gerçekleşmiştir?",
       "options": [
-        "Makyaj ve güzellik tüyoları",
-        "Tarihi belgeseller",
-        "Oyun videoları (Let's Play)",
-        "Yemek tarifleri",
-        "Seyahat vlogları"
+        "İspanya Merkez Bankası",
+        "İspanya Kraliyet Darphanesi",
+        "İspanya Ulusal Müzesi",
+        "İspanya Yüksek Mahkemesi",
+        "İspanya Hazine Bakanlığı"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Cem Yılmaz'ın kült filmi 'G.O.R.A.'da, Arif'in âşık olduğu ve film boyunca kurtarmaya çalıştığı prensesin adı nedir?",
+      "options": [
+        "Ceku",
+        "Zeki",
+        "Neko",
+        "Meko",
+        "Tansu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Çocukluğumuzun vazgeçilmez sakızlarından biri olan Tipitip sakızlarının içinde genellikle hangi ek içerik bulunurdu?",
+      "options": [
+        "Küçük bir oyuncak",
+        "Bir adet sticker",
+        "Çizgi roman şeridi",
+        "Şanslı numara",
+        "Mini bilmece kartı"
       ],
       "correct": 2
     },
     {
-      "question": "\"Sıkıysa Yakala\" (Catch Me If You Can) filmine konu olan ve genç yaşta pilot, doktor, avukat gibi kimliklere bürünerek milyonlarca dolarlık dolandırıcılık yapan, ancak daha sonra FBI'a danışmanlık yapan gerçek hayattaki dolandırıcı kimdir?",
+      "question": "Tarihteki en ünlü dolandırıcılık yöntemlerinden birine adını veren Charles Ponzi, bu düzeni kurarken temel olarak hangi yatırım aracını kullanmıştır?",
       "options": [
-        "Bernie Madoff",
-        "Charles Ponzi",
-        "Frank Abagnale Jr.",
-        "Anna Delvey",
-        "Victor Lustig"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Christopher Nolan'ın yönettiği \"Kara Şövalye\" (The Dark Knight) üçlemesinde Batman / Bruce Wayne karakterini canlandıran ve bu rolüyle büyük beğeni toplayan aktör kimdir?",
-      "options": [
-        "Ben Affleck",
-        "George Clooney",
-        "Christian Bale",
-        "Michael Keaton",
-        "Robert Pattinson"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "\"Tiffany'de Kahvaltı\" (Breakfast at Tiffany's) ve \"Sabrina\" gibi filmlerde Audrey Hepburn'ün ikonik stilini yaratan ve uzun yıllar boyunca onun kişisel tasarımcısı olan ünlü moda evi ve tasarımcısı kimdir?",
-      "options": [
-        "Chanel (Coco Chanel)",
-        "Dior (Christian Dior)",
-        "Givenchy (Hubert de Givenchy)",
-        "Versace (Gianni Versace)",
-        "Gucci (Guccio Gucci)"
+        "Emlak piyasası",
+        "Hisse senetleri",
+        "Uluslararası posta kuponları",
+        "Kripto paralar",
+        "Değerli metaller"
       ],
       "correct": 2
     }
