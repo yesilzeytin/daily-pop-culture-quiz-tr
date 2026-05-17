@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Amerikalı rapçi Eminem'in yarı otobiyografik filmi olan ve 'Lose Yourself' gibi hit şarkılarıyla hafızalara kazınan yapımın adı nedir?",
+      "question": "Türk rap müziğinin öncülerinden biri olan ve \"Ceza\" sahne adıyla bilinen ünlü rapçinin gerçek adı nedir?",
       "options": [
-        "8 Mile",
-        "Straight Outta Compton",
-        "Notorious",
-        "Get Rich or Die Tryin'",
-        "Hustle & Flow"
+        "Bilgin Özçalkan",
+        "Emrah Karaca",
+        "Burak İnce",
+        "Mert Güngör",
+        "Ahmet Can"
       ],
       "correct": 0
     },
     {
-      "question": "Netflix'in dünya genelinde büyük yankı uyandıran İspanyol dizisi 'La Casa de Papel'de (Money Heist), Profesör'ün planladığı ilk büyük soygun hangi kurumun hedef alınmasıyla gerçekleşmiştir?",
+      "question": "İnternet tarihinde, 1990'lı yılların başında grafik tabanlı arayüze sahip ilk popüler web tarayıcısı aşağıdakilerden hangisidir?",
       "options": [
-        "İspanya Merkez Bankası",
-        "İspanya Kraliyet Darphanesi",
-        "İspanya Ulusal Müzesi",
-        "İspanya Yüksek Mahkemesi",
-        "İspanya Hazine Bakanlığı"
+        "Netscape Navigator",
+        "Internet Explorer",
+        "Mosaic",
+        "Google Chrome",
+        "Mozilla Firefox"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Dünya genelinde büyük yankı uyandıran Güney Kore yapımı \"Squid Game\" dizisinde, katılımcıların büyük para ödülü için yarıştığı ilk ve en ikonik oyunun adı nedir?",
+      "options": [
+        "Cam Köprü",
+        "Dalgona Şekeri",
+        "Kırmızı Işık, Yeşil Işık",
+        "Misket Oyunu",
+        "Halat Çekme"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Harry Potter evreninde, Hogwarts Cadılık ve Büyücülük Okulu'nda Gryffindor binasının ortak salonuna girebilmek için söylenmesi gereken şifre genellikle kim tarafından korunur?",
+      "options": [
+        "Şişman Kadın Portresi",
+        "Albus Dumbledore",
+        "Hermione Granger",
+        "Minerva McGonagall",
+        "Peeves"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "\"Filenin Sultanları\" lakaplı Türk Kadın Voleybol Milli Takımı'nın uzun yıllardır kaptanlığını yapan ve takımın sembol isimlerinden biri haline gelen tecrübeli oyuncu kimdir?",
+      "options": [
+        "Melissa Vargas",
+        "Eda Erdem Dündar",
+        "Hande Baladın",
+        "Zehra Güneş",
+        "Cansu Özbay"
       ],
       "correct": 1
-    },
-    {
-      "question": "Cem Yılmaz'ın kült filmi 'G.O.R.A.'da, Arif'in âşık olduğu ve film boyunca kurtarmaya çalıştığı prensesin adı nedir?",
-      "options": [
-        "Ceku",
-        "Zeki",
-        "Neko",
-        "Meko",
-        "Tansu"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Çocukluğumuzun vazgeçilmez sakızlarından biri olan Tipitip sakızlarının içinde genellikle hangi ek içerik bulunurdu?",
-      "options": [
-        "Küçük bir oyuncak",
-        "Bir adet sticker",
-        "Çizgi roman şeridi",
-        "Şanslı numara",
-        "Mini bilmece kartı"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Tarihteki en ünlü dolandırıcılık yöntemlerinden birine adını veren Charles Ponzi, bu düzeni kurarken temel olarak hangi yatırım aracını kullanmıştır?",
-      "options": [
-        "Emlak piyasası",
-        "Hisse senetleri",
-        "Uluslararası posta kuponları",
-        "Kripto paralar",
-        "Değerli metaller"
-      ],
-      "correct": 2
     }
   ]
 }
