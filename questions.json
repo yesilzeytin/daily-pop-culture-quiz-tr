@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Türk rap müziğinin öncülerinden biri olan ve \"Ceza\" sahne adıyla bilinen ünlü rapçinin gerçek adı nedir?",
+      "question": "Instagram'da en fazla takipçiye sahip ünlülerden biri olan, futbol kariyerinin yanı sıra moda ve yaşam tarzıyla da öne çıkan Portekizli futbolcu kimdir?",
       "options": [
-        "Bilgin Özçalkan",
-        "Emrah Karaca",
-        "Burak İnce",
-        "Mert Güngör",
-        "Ahmet Can"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "İnternet tarihinde, 1990'lı yılların başında grafik tabanlı arayüze sahip ilk popüler web tarayıcısı aşağıdakilerden hangisidir?",
-      "options": [
-        "Netscape Navigator",
-        "Internet Explorer",
-        "Mosaic",
-        "Google Chrome",
-        "Mozilla Firefox"
+        "Lionel Messi",
+        "Neymar Jr.",
+        "Cristiano Ronaldo",
+        "Kylian Mbappé",
+        "David Beckham"
       ],
       "correct": 2
     },
     {
-      "question": "Dünya genelinde büyük yankı uyandıran Güney Kore yapımı \"Squid Game\" dizisinde, katılımcıların büyük para ödülü için yarıştığı ilk ve en ikonik oyunun adı nedir?",
+      "question": "Soğuk Savaş döneminde, uzay yarışının sembolik olaylarından biri olan ve 1957 yılında uzaya fırlatılan ilk yapay uydu Sputnik 1'i hangi ülke göndermiştir?",
       "options": [
-        "Cam Köprü",
-        "Dalgona Şekeri",
-        "Kırmızı Işık, Yeşil Işık",
-        "Misket Oyunu",
-        "Halat Çekme"
+        "Amerika Birleşik Devletleri",
+        "Çin Halk Cumhuriyeti",
+        "Büyük Britanya",
+        "Sovyet Sosyalist Cumhuriyetler Birliği",
+        "Almanya Federal Cumhuriyeti"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Disney Channel'ın sevilen çizgi dizilerinden 'Kim Possible'da, ana karakter Kim'in en iyi arkadaşı ve sadık yardımcısı olan sakar ama iyi kalpli karakterin adı nedir?",
+      "options": [
+        "Dr. Drakken",
+        "Shego",
+        "Rufus",
+        "Ron Stoppable",
+        "Wade Load"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Kanadalı rapçi Drake'in 2016 yılında çıkardığı, 'One Dance' ve 'Hotline Bling' gibi dünya çapında hit olan şarkıları içeren ve ticari olarak büyük başarı elde eden stüdyo albümünün adı nedir?",
+      "options": [
+        "Scorpion",
+        "Take Care",
+        "Views",
+        "Nothing Was the Same",
+        "Certified Lover Boy"
       ],
       "correct": 2
     },
     {
-      "question": "Harry Potter evreninde, Hogwarts Cadılık ve Büyücülük Okulu'nda Gryffindor binasının ortak salonuna girebilmek için söylenmesi gereken şifre genellikle kim tarafından korunur?",
+      "question": "The Witcher evreninde, Geralt'ın her zaman bindiği ve farklı atlar olsa da her birine aynı ismi verdiği sadık atının adı nedir?",
       "options": [
-        "Şişman Kadın Portresi",
-        "Albus Dumbledore",
-        "Hermione Granger",
-        "Minerva McGonagall",
-        "Peeves"
+        "Shadowfax",
+        "Bucephalus",
+        "Roach",
+        "Epona",
+        "Agro"
       ],
-      "correct": 0
-    },
-    {
-      "question": "\"Filenin Sultanları\" lakaplı Türk Kadın Voleybol Milli Takımı'nın uzun yıllardır kaptanlığını yapan ve takımın sembol isimlerinden biri haline gelen tecrübeli oyuncu kimdir?",
-      "options": [
-        "Melissa Vargas",
-        "Eda Erdem Dündar",
-        "Hande Baladın",
-        "Zehra Güneş",
-        "Cansu Özbay"
-      ],
-      "correct": 1
+      "correct": 2
     }
   ]
 }
