@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Instagram'da en fazla takipçiye sahip ünlülerden biri olan, futbol kariyerinin yanı sıra moda ve yaşam tarzıyla da öne çıkan Portekizli futbolcu kimdir?",
+      "question": "Yüzüklerin Efendisi evreninde, Elf kralı Elrond'un ikamet ettiği ve Frodo'nun iyileştiği vadi şehrinin adı nedir?",
       "options": [
-        "Lionel Messi",
-        "Neymar Jr.",
-        "Cristiano Ronaldo",
-        "Kylian Mbappé",
-        "David Beckham"
+        "Ayrıkvadi",
+        "Lothlórien",
+        "Mirkwood",
+        "Gondolin",
+        "Dale"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "TikTok platformunda dans videolarıyla büyük bir takipçi kitlesi edinerek küresel çapta ün kazanan ve platformun en popüler isimlerinden biri haline gelen Amerikalı influencer kimdir?",
+      "options": [
+        "Addison Rae",
+        "Charli D'Amelio",
+        "Bella Poarch",
+        "Khaby Lame",
+        "Dixie D'Amelio"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "2002 FIFA Dünya Kupası'nda üçüncülük elde eden Türkiye Millî Futbol Takımı'nın turnuvadaki en golcü oyuncusu kimdir?",
+      "options": [
+        "Ümit Davala",
+        "Hasan Şaş",
+        "İlhan Mansız",
+        "Emre Belözoğlu",
+        "Hakan Şükür"
       ],
       "correct": 2
     },
     {
-      "question": "Soğuk Savaş döneminde, uzay yarışının sembolik olaylarından biri olan ve 1957 yılında uzaya fırlatılan ilk yapay uydu Sputnik 1'i hangi ülke göndermiştir?",
+      "question": "1991 yılında çıkardığı 'Gülümse' albümüyle Türk pop müziğinde çığır açan, 'Dert Faslı', 'Gülümse' gibi şarkılarıyla ikonikleşen ve kendine özgü sahne tarzıyla tanınan kadın sanatçı kimdir?",
       "options": [
-        "Amerika Birleşik Devletleri",
-        "Çin Halk Cumhuriyeti",
-        "Büyük Britanya",
-        "Sovyet Sosyalist Cumhuriyetler Birliği",
-        "Almanya Federal Cumhuriyeti"
+        "Sezen Aksu",
+        "Ajda Pekkan",
+        "Nil Karaibrahimgil",
+        "Sertab Erener",
+        "Hande Yener"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
-      "question": "Disney Channel'ın sevilen çizgi dizilerinden 'Kim Possible'da, ana karakter Kim'in en iyi arkadaşı ve sadık yardımcısı olan sakar ama iyi kalpli karakterin adı nedir?",
+      "question": "Galler Prensesi Diana'nın, 1997 yılında hayatını kaybettiği trajik kaza hangi şehirde gerçekleşmiştir?",
       "options": [
-        "Dr. Drakken",
-        "Shego",
-        "Rufus",
-        "Ron Stoppable",
-        "Wade Load"
+        "Londra",
+        "Paris",
+        "Roma",
+        "Monako",
+        "Madrid"
       ],
-      "correct": 3
-    },
-    {
-      "question": "Kanadalı rapçi Drake'in 2016 yılında çıkardığı, 'One Dance' ve 'Hotline Bling' gibi dünya çapında hit olan şarkıları içeren ve ticari olarak büyük başarı elde eden stüdyo albümünün adı nedir?",
-      "options": [
-        "Scorpion",
-        "Take Care",
-        "Views",
-        "Nothing Was the Same",
-        "Certified Lover Boy"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "The Witcher evreninde, Geralt'ın her zaman bindiği ve farklı atlar olsa da her birine aynı ismi verdiği sadık atının adı nedir?",
-      "options": [
-        "Shadowfax",
-        "Bucephalus",
-        "Roach",
-        "Epona",
-        "Agro"
-      ],
-      "correct": 2
+      "correct": 1
     }
   ]
 }
