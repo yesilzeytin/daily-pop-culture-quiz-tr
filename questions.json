@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Yüzüklerin Efendisi evreninde, Elf kralı Elrond'un ikamet ettiği ve Frodo'nun iyileştiği vadi şehrinin adı nedir?",
+      "question": "K-Pop grubu Blackpink'in üyelerinden hangisi, solo müzik kariyerinin yanı sıra lüks moda markaları için yaptığı işbirlikleriyle de sıkça gündeme gelmektedir?",
       "options": [
-        "Ayrıkvadi",
-        "Lothlórien",
-        "Mirkwood",
-        "Gondolin",
-        "Dale"
+        "Jisoo",
+        "Jennie",
+        "Rosé",
+        "Lisa",
+        "Mina"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
-      "question": "TikTok platformunda dans videolarıyla büyük bir takipçi kitlesi edinerek küresel çapta ün kazanan ve platformun en popüler isimlerinden biri haline gelen Amerikalı influencer kimdir?",
+      "question": "Hangi Disney animasyon filminde, ana karakterin en yakın dostlarından biri olan ve 'Hakuna Matata' felsefesini benimseyen bir mirket (Timon) ve bir yaban domuzu (Pumbaa) ikilisi yer almaktadır?",
       "options": [
-        "Addison Rae",
-        "Charli D'Amelio",
-        "Bella Poarch",
-        "Khaby Lame",
-        "Dixie D'Amelio"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "2002 FIFA Dünya Kupası'nda üçüncülük elde eden Türkiye Millî Futbol Takımı'nın turnuvadaki en golcü oyuncusu kimdir?",
-      "options": [
-        "Ümit Davala",
-        "Hasan Şaş",
-        "İlhan Mansız",
-        "Emre Belözoğlu",
-        "Hakan Şükür"
+        "Küçük Deniz Kızı",
+        "Güzel ve Çirkin",
+        "Aslan Kral",
+        "Aladdin",
+        "Tarzan"
       ],
       "correct": 2
     },
     {
-      "question": "1991 yılında çıkardığı 'Gülümse' albümüyle Türk pop müziğinde çığır açan, 'Dert Faslı', 'Gülümse' gibi şarkılarıyla ikonikleşen ve kendine özgü sahne tarzıyla tanınan kadın sanatçı kimdir?",
+      "question": "Türkiye'den çıkan ve devasa porsiyonlarda yemek hazırlamasıyla tanınan, videolarında genellikle gülümseyen ifadesiyle dikkat çeken dünyaca ünlü şef ve sosyal medya fenomeni kimdir?",
       "options": [
-        "Sezen Aksu",
-        "Ajda Pekkan",
-        "Nil Karaibrahimgil",
-        "Sertab Erener",
-        "Hande Yener"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Galler Prensesi Diana'nın, 1997 yılında hayatını kaybettiği trajik kaza hangi şehirde gerçekleşmiştir?",
-      "options": [
-        "Londra",
-        "Paris",
-        "Roma",
-        "Monako",
-        "Madrid"
+        "Nusret Gökçe",
+        "Czn Burak (Burak Özdemir)",
+        "Arda Türkmen",
+        "Mehmet Yalçınkaya",
+        "Refika Birgül"
       ],
       "correct": 1
+    },
+    {
+      "question": "Türkiye'nin en prestijli medya ve sanat ödüllerinden biri olan Altın Kelebek Ödülleri'ni düzenleyen ve dağıtan medya grubu aşağıdakilerden hangisidir?",
+      "options": [
+        "Acun Medya",
+        "Doğuş Grubu",
+        "Ciner Medya Grubu",
+        "Demirören Medya Grubu",
+        "Turkuvaz Medya Grubu"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Birinci Dünya Savaşı'nın fitilini ateşleyen olay olarak kabul edilen ve Avusturya-Macaristan Arşidükü Franz Ferdinand'ın öldürülmesiyle sonuçlanan suikast hangi şehirde gerçekleşmiştir?",
+      "options": [
+        "Viyana",
+        "Budapeşte",
+        "Saraybosna",
+        "Berlin",
+        "Belgrad"
+      ],
+      "correct": 2
     }
   ]
 }
