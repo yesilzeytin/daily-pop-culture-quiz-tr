@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "K-Pop grubu Blackpink'in üyelerinden hangisi, solo müzik kariyerinin yanı sıra lüks moda markaları için yaptığı işbirlikleriyle de sıkça gündeme gelmektedir?",
+      "question": "Türk dizilerinden 'Leyla ile Mecnun'da, Mecnun'un platonik aşkı olan 'Leyla' karakterini canlandıran oyuncu kimdir?",
       "options": [
-        "Jisoo",
-        "Jennie",
-        "Rosé",
-        "Lisa",
-        "Mina"
+        "Ezgi Asaroğlu",
+        "Cansu Tosun",
+        "Deniz Çakır",
+        "Elçin Sangu",
+        "Burcu Biricik"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
-      "question": "Hangi Disney animasyon filminde, ana karakterin en yakın dostlarından biri olan ve 'Hakuna Matata' felsefesini benimseyen bir mirket (Timon) ve bir yaban domuzu (Pumbaa) ikilisi yer almaktadır?",
+      "question": "Popüler Amerikan dizisi 'Breaking Bad'de, ana karakter Walter White'ın uyuşturucu üretimi için kullandığı ve zamanla bir marka haline gelen takma ismi nedir?",
       "options": [
-        "Küçük Deniz Kızı",
-        "Güzel ve Çirkin",
-        "Aslan Kral",
-        "Aladdin",
-        "Tarzan"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türkiye'den çıkan ve devasa porsiyonlarda yemek hazırlamasıyla tanınan, videolarında genellikle gülümseyen ifadesiyle dikkat çeken dünyaca ünlü şef ve sosyal medya fenomeni kimdir?",
-      "options": [
-        "Nusret Gökçe",
-        "Czn Burak (Burak Özdemir)",
-        "Arda Türkmen",
-        "Mehmet Yalçınkaya",
-        "Refika Birgül"
+        "The Professor",
+        "Heisenberg",
+        "El Chapo",
+        "Scarface",
+        "Doc Brown"
       ],
       "correct": 1
     },
     {
-      "question": "Türkiye'nin en prestijli medya ve sanat ödüllerinden biri olan Altın Kelebek Ödülleri'ni düzenleyen ve dağıtan medya grubu aşağıdakilerden hangisidir?",
+      "question": "'The Witcher' evreninde, Ciri'nin büyülü yeteneklerini geliştirdiği ve Geralt'ın da eğitim aldığı, eskiden witcher'ların ana eğitim merkezi olan kale neresidir?",
       "options": [
-        "Acun Medya",
-        "Doğuş Grubu",
-        "Ciner Medya Grubu",
-        "Demirören Medya Grubu",
-        "Turkuvaz Medya Grubu"
+        "Kaer Trolde",
+        "Vizima Kalesi",
+        "Cintra Kalesi",
+        "Kaer Morhen",
+        "Oxenfurt Akademisi"
       ],
       "correct": 3
     },
     {
-      "question": "Birinci Dünya Savaşı'nın fitilini ateşleyen olay olarak kabul edilen ve Avusturya-Macaristan Arşidükü Franz Ferdinand'ın öldürülmesiyle sonuçlanan suikast hangi şehirde gerçekleşmiştir?",
+      "question": "Popüler 'Rickroll' internet şakası, kurbanlara link olarak gönderildiğinde hangi sanatçının 'Never Gonna Give You Up' şarkısının klibini izletir?",
       "options": [
-        "Viyana",
-        "Budapeşte",
-        "Saraybosna",
-        "Berlin",
-        "Belgrad"
+        "Michael Jackson",
+        "George Michael",
+        "Rick Astley",
+        "Phil Collins",
+        "Bryan Adams"
       ],
       "correct": 2
+    },
+    {
+      "question": "Star Wars evreninde, Jedi Konseyi'nin en bilge ve güçlü üyelerinden biri olan, küçük yeşil tenli, ters cümle yapısıyla bilinen Jedi Üstadı kimdir?",
+      "options": [
+        "Mace Windu",
+        "Obi-Wan Kenobi",
+        "Qui-Gon Jinn",
+        "Yoda",
+        "Plo Koon"
+      ],
+      "correct": 3
     }
   ]
 }
