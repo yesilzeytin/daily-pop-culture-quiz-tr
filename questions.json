@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Türk dizilerinden 'Leyla ile Mecnun'da, Mecnun'un platonik aşkı olan 'Leyla' karakterini canlandıran oyuncu kimdir?",
+      "question": "Popüler Kore dizisi \"Crash Landing on You\"da, Güney Koreli iş kadını Yoon Se-ri'nin paraşütle yanlışlıkla indiği ülke neresidir?",
       "options": [
-        "Ezgi Asaroğlu",
-        "Cansu Tosun",
-        "Deniz Çakır",
-        "Elçin Sangu",
-        "Burcu Biricik"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Popüler Amerikan dizisi 'Breaking Bad'de, ana karakter Walter White'ın uyuşturucu üretimi için kullandığı ve zamanla bir marka haline gelen takma ismi nedir?",
-      "options": [
-        "The Professor",
-        "Heisenberg",
-        "El Chapo",
-        "Scarface",
-        "Doc Brown"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "'The Witcher' evreninde, Ciri'nin büyülü yeteneklerini geliştirdiği ve Geralt'ın da eğitim aldığı, eskiden witcher'ların ana eğitim merkezi olan kale neresidir?",
-      "options": [
-        "Kaer Trolde",
-        "Vizima Kalesi",
-        "Cintra Kalesi",
-        "Kaer Morhen",
-        "Oxenfurt Akademisi"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Popüler 'Rickroll' internet şakası, kurbanlara link olarak gönderildiğinde hangi sanatçının 'Never Gonna Give You Up' şarkısının klibini izletir?",
-      "options": [
-        "Michael Jackson",
-        "George Michael",
-        "Rick Astley",
-        "Phil Collins",
-        "Bryan Adams"
+        "Japonya",
+        "Çin",
+        "Kuzey Kore",
+        "Rusya",
+        "Tayland"
       ],
       "correct": 2
     },
     {
-      "question": "Star Wars evreninde, Jedi Konseyi'nin en bilge ve güçlü üyelerinden biri olan, küçük yeşil tenli, ters cümle yapısıyla bilinen Jedi Üstadı kimdir?",
+      "question": "2000 yılında UEFA Kupası'nı ve ardından UEFA Süper Kupası'nı kazanarak Türk futbol tarihinde bir ilke imza atan kulüp hangisidir?",
       "options": [
-        "Mace Windu",
-        "Obi-Wan Kenobi",
-        "Qui-Gon Jinn",
-        "Yoda",
-        "Plo Koon"
+        "Fenerbahçe",
+        "Beşiktaş",
+        "Galatasaray",
+        "Trabzonspor",
+        "Başakşehir"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Christopher Nolan'ın \"Kara Şövalye\" (The Dark Knight) filminde, Joker karakterini canlandırarak En İyi Yardımcı Erkek Oyuncu Oscar'ını ölümünden sonra kazanan aktör kimdir?",
+      "options": [
+        "Joaquin Phoenix",
+        "Jared Leto",
+        "Jack Nicholson",
+        "Heath Ledger",
+        "Mark Hamill"
       ],
       "correct": 3
+    },
+    {
+      "question": "1912 yılında ilk seferini yaparken bir buzdağına çarparak batmasıyla tüm dünyayı şoka uğratan lüks yolcu gemisinin adı nedir?",
+      "options": [
+        "Queen Mary",
+        "Britannic",
+        "Lusitania",
+        "Titanic",
+        "Andrea Doria"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Netflix'in popüler dizisi \"Stranger Things\"de, baş karakterlerin doğaüstü olaylarla mücadele ederken sıkça oynadıkları ve bazen dizi olaylarını kehanet eder gibi yansıtan masa oyunu hangisidir?",
+      "options": [
+        "Monopoly",
+        "Satranç",
+        "Dungeons & Dragons",
+        "Kızma Birader",
+        "Risk"
+      ],
+      "correct": 2
     }
   ]
 }
