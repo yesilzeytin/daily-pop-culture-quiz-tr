@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Popüler Kore dizisi \"Crash Landing on You\"da, Güney Koreli iş kadını Yoon Se-ri'nin paraşütle yanlışlıkla indiği ülke neresidir?",
+      "question": "UEFA Şampiyonlar Ligi tarihinde kupayı en çok kazanan futbol kulübü aşağıdakilerden hangisidir?",
       "options": [
-        "Japonya",
-        "Çin",
-        "Kuzey Kore",
-        "Rusya",
-        "Tayland"
+        "Real Madrid",
+        "AC Milan",
+        "Bayern Münih",
+        "Liverpool",
+        "Barcelona"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "2000 yılında UEFA Kupası'nı ve ardından UEFA Süper Kupası'nı kazanarak Türk futbol tarihinde bir ilke imza atan kulüp hangisidir?",
+      "question": "Kanye West'in 2010 yılında yayımlanan ve eleştirmenlerce büyük beğeni toplayan, genellikle en iyi albümlerinden biri olarak kabul edilen stüdyo albümünün adı nedir?",
       "options": [
-        "Fenerbahçe",
-        "Beşiktaş",
-        "Galatasaray",
-        "Trabzonspor",
-        "Başakşehir"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Christopher Nolan'ın \"Kara Şövalye\" (The Dark Knight) filminde, Joker karakterini canlandırarak En İyi Yardımcı Erkek Oyuncu Oscar'ını ölümünden sonra kazanan aktör kimdir?",
-      "options": [
-        "Joaquin Phoenix",
-        "Jared Leto",
-        "Jack Nicholson",
-        "Heath Ledger",
-        "Mark Hamill"
+        "The College Dropout",
+        "Late Registration",
+        "Graduation",
+        "My Beautiful Dark Twisted Fantasy",
+        "Yeezus"
       ],
       "correct": 3
     },
     {
-      "question": "1912 yılında ilk seferini yaparken bir buzdağına çarparak batmasıyla tüm dünyayı şoka uğratan lüks yolcu gemisinin adı nedir?",
+      "question": "Netflix'in dünya çapında popüler olan ve İngiltere Kraliyet Ailesi'nin tarihini konu alan drama dizisinin adı nedir?",
       "options": [
-        "Queen Mary",
-        "Britannic",
-        "Lusitania",
-        "Titanic",
-        "Andrea Doria"
+        "Bridgerton",
+        "Downton Abbey",
+        "The Crown",
+        "Peaky Blinders",
+        "Versailles"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Soğuk Savaş döneminin önemli sembollerinden biri olan, Berlin'i ikiye bölen ve 1961'den 1989'a kadar varlığını sürdüren yapının adı nedir?",
+      "options": [
+        "Demir Perde",
+        "Brandenburg Kapısı",
+        "Çek Duvarı",
+        "Berlin Duvarı",
+        "Greenwich Hattı"
       ],
       "correct": 3
     },
     {
-      "question": "Netflix'in popüler dizisi \"Stranger Things\"de, baş karakterlerin doğaüstü olaylarla mücadele ederken sıkça oynadıkları ve bazen dizi olaylarını kehanet eder gibi yansıtan masa oyunu hangisidir?",
+      "question": "Türk popüler kültüründe Instagram üzerinde özellikle makyaj ve güzellik içerikleriyle tanınan, aynı zamanda bir kozmetik markası kuran ünlü fenomen kimdir?",
       "options": [
-        "Monopoly",
-        "Satranç",
-        "Dungeons & Dragons",
-        "Kızma Birader",
-        "Risk"
+        "Şeyma Subaşı",
+        "Ece Seçkin",
+        "Selin Yağcıoğlu",
+        "Duygu Özaslan",
+        "Merve Boluğur"
       ],
-      "correct": 2
+      "correct": 3
     }
   ]
 }
