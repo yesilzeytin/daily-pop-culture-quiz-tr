@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "UEFA Şampiyonlar Ligi tarihinde kupayı en çok kazanan futbol kulübü aşağıdakilerden hangisidir?",
+      "question": "Hangi Osmanlı padişahı, popüler Türk tarihi dizisi \"Muhteşem Yüzyıl\"da Halit Ergenç tarafından canlandırılan ana karakter olarak geniş kitlelere tanıtılmıştır?",
       "options": [
-        "Real Madrid",
-        "AC Milan",
-        "Bayern Münih",
-        "Liverpool",
-        "Barcelona"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Kanye West'in 2010 yılında yayımlanan ve eleştirmenlerce büyük beğeni toplayan, genellikle en iyi albümlerinden biri olarak kabul edilen stüdyo albümünün adı nedir?",
-      "options": [
-        "The College Dropout",
-        "Late Registration",
-        "Graduation",
-        "My Beautiful Dark Twisted Fantasy",
-        "Yeezus"
+        "Fatih Sultan Mehmet",
+        "II. Osman",
+        "Yavuz Sultan Selim",
+        "Kanuni Sultan Süleyman",
+        "Orhan Gazi"
       ],
       "correct": 3
     },
     {
-      "question": "Netflix'in dünya çapında popüler olan ve İngiltere Kraliyet Ailesi'nin tarihini konu alan drama dizisinin adı nedir?",
+      "question": "1986 FIFA Dünya Kupası çeyrek finalinde İngiltere'ye karşı attığı \"Tanrı'nın Eli\" golüyle futbol tarihine geçen efsanevi Arjantinli futbolcu kimdir?",
       "options": [
-        "Bridgerton",
-        "Downton Abbey",
-        "The Crown",
-        "Peaky Blinders",
-        "Versailles"
+        "Pelé",
+        "Franz Beckenbauer",
+        "Diego Maradona",
+        "Johan Cruyff",
+        "Garrincha"
       ],
       "correct": 2
     },
     {
-      "question": "Soğuk Savaş döneminin önemli sembollerinden biri olan, Berlin'i ikiye bölen ve 1961'den 1989'a kadar varlığını sürdüren yapının adı nedir?",
+      "question": "Türkiye Millî Futbol Takımı'nın tarihinde en çok gol atan oyuncu unvanına sahip futbolcu kimdir?",
       "options": [
-        "Demir Perde",
-        "Brandenburg Kapısı",
-        "Çek Duvarı",
-        "Berlin Duvarı",
-        "Greenwich Hattı"
+        "Nihat Kahveci",
+        "Arda Turan",
+        "Burak Yılmaz",
+        "Tuncay Şanlı",
+        "Hakan Şükür"
       ],
-      "correct": 3
+      "correct": 4
     },
     {
-      "question": "Türk popüler kültüründe Instagram üzerinde özellikle makyaj ve güzellik içerikleriyle tanınan, aynı zamanda bir kozmetik markası kuran ünlü fenomen kimdir?",
+      "question": "Türkiye'nin tanınmış YouTube içerik üreticilerinden Barış Özcan, genellikle hangi tür konularda videolar hazırlamasıyla bilinir?",
       "options": [
-        "Şeyma Subaşı",
-        "Ece Seçkin",
-        "Selin Yağcıoğlu",
-        "Duygu Özaslan",
-        "Merve Boluğur"
+        "Makyaj ve güzellik tüyoları",
+        "Komedi skeçleri ve parodiler",
+        "Bilim, sanat ve teknoloji üzerine bilgilendirici içerikler",
+        "Yemek tarifleri ve gurme deneyimleri",
+        "Oyun videoları ve canlı yayınlar"
       ],
-      "correct": 3
+      "correct": 2
+    },
+    {
+      "question": "J.R.R. Tolkien'in \"Yüzüklerin Efendisi\" serisinde, Karanlık Lord Sauron'un tüm yüzükleri yönetmek ve Orta Dünya'yı ele geçirmek için özel olarak dövdüğü gücün sembolü olan yüzüğün adı nedir?",
+      "options": [
+        "Nenya",
+        "Tek Yüzük",
+        "Vilya",
+        "Narya",
+        "Cüce Yüzüğü"
+      ],
+      "correct": 1
     }
   ]
 }
