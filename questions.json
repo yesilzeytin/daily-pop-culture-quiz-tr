@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Hangi Osmanlı padişahı, popüler Türk tarihi dizisi \"Muhteşem Yüzyıl\"da Halit Ergenç tarafından canlandırılan ana karakter olarak geniş kitlelere tanıtılmıştır?",
+      "question": "İnternet mizahının en tanınmış yüzlerinden biri olan ve 2000'li yılların sonlarında popülerleşen \"Troll Face\" memesinin karakteristik özelliği nedir?",
       "options": [
-        "Fatih Sultan Mehmet",
-        "II. Osman",
-        "Yavuz Sultan Selim",
-        "Kanuni Sultan Süleyman",
-        "Orhan Gazi"
+        "Sürekli gülen ve muzip bir yüz ifadesi",
+        "Kızgın ve öfkeli bir ifade",
+        "Şaşkın ve anlamsız bakışlar",
+        "Ağlayan ve üzgün bir surat",
+        "Uykulu ve yorgun bir ifade"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
-      "question": "1986 FIFA Dünya Kupası çeyrek finalinde İngiltere'ye karşı attığı \"Tanrı'nın Eli\" golüyle futbol tarihine geçen efsanevi Arjantinli futbolcu kimdir?",
+      "question": "Türk basketbol kulübü Anadolu Efes, 2021 ve 2022 yıllarında üst üste EuroLeague şampiyonluğunu kazanarak Türk spor tarihine geçti. Bu iki şampiyonlukta da takımın başantrenörü olan ve aynı zamanda kariyerinde en çok EuroLeague kupası kazanan koçlardan biri olan isim kimdir?",
       "options": [
-        "Pelé",
-        "Franz Beckenbauer",
-        "Diego Maradona",
-        "Johan Cruyff",
-        "Garrincha"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türkiye Millî Futbol Takımı'nın tarihinde en çok gol atan oyuncu unvanına sahip futbolcu kimdir?",
-      "options": [
-        "Nihat Kahveci",
-        "Arda Turan",
-        "Burak Yılmaz",
-        "Tuncay Şanlı",
-        "Hakan Şükür"
-      ],
-      "correct": 4
-    },
-    {
-      "question": "Türkiye'nin tanınmış YouTube içerik üreticilerinden Barış Özcan, genellikle hangi tür konularda videolar hazırlamasıyla bilinir?",
-      "options": [
-        "Makyaj ve güzellik tüyoları",
-        "Komedi skeçleri ve parodiler",
-        "Bilim, sanat ve teknoloji üzerine bilgilendirici içerikler",
-        "Yemek tarifleri ve gurme deneyimleri",
-        "Oyun videoları ve canlı yayınlar"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "J.R.R. Tolkien'in \"Yüzüklerin Efendisi\" serisinde, Karanlık Lord Sauron'un tüm yüzükleri yönetmek ve Orta Dünya'yı ele geçirmek için özel olarak dövdüğü gücün sembolü olan yüzüğün adı nedir?",
-      "options": [
-        "Nenya",
-        "Tek Yüzük",
-        "Vilya",
-        "Narya",
-        "Cüce Yüzüğü"
+        "Zeljko Obradovic",
+        "Ergin Ataman",
+        "Orhun Ene",
+        "David Blatt",
+        "Ufuk Sarıca"
       ],
       "correct": 1
+    },
+    {
+      "question": "2020'li yılların başlarında Twitter Türkiye'de popüler hale gelen ve genellikle kişilerin kendi günlük rutinlerini veya sıradan anlarını mizahi bir dille ifade ettiği, \"Ben de mi ______?\" kalıbıyla başlayan tweet akımının boş bırakılan kısmına hangi fiil gelir?",
+      "options": [
+        "Çatlasam",
+        "Gülesem",
+        "Ağlasam",
+        "Uyusam",
+        "Susadım"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Survivor Türkiye tarihinin en ikonik yarışmacılarından biri olan ve \"Turbo Turabi\" lakabıyla tanınan Turabi Çamkıran, birden fazla kez katıldığı programda kaç defa şampiyonluk yaşamıştır?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "1990'ların sonu ve 2000'li yılların başında Türkiye'de Fox Kids kanalında yayınlanan ve doğaüstü güçlere sahip beş gencin kötüleri yenmek için bir araya geldiği, renkli kostümleri ve robotlarıyla tanınan aksiyon çizgi dizisinin adı nedir?",
+      "options": [
+        "Digimon Adventure",
+        "Pokémon",
+        "Spider-Man",
+        "Power Rangers",
+        "X-Men"
+      ],
+      "correct": 3
     }
   ]
 }
