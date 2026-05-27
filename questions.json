@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "YouTube platformuna yüklenen ilk video aşağıdakilerden hangisidir?",
+      "question": "İngiltere Kraliyet Ailesi'nin en tanınan üyelerinden biri olan ve özellikle giyim tarzıyla dünya çapında bir moda ikonu haline gelen, 1997 yılında trajik bir şekilde hayatını kaybeden prenses kimdir?",
       "options": [
-        "Charlie Bit My Finger",
-        "Evolution of Dance",
-        "Me at the zoo",
-        "Gangnam Style",
-        "Numa Numa Dance"
+        "Kraliçe II. Elizabeth",
+        "Prenses Margaret",
+        "Galler Prensesi Diana",
+        "Düşes Kate Middleton",
+        "Meghan Markle"
       ],
       "correct": 2
     },
     {
-      "question": "Yumurcak TV gibi kanallarda popüler olan ve spinning top (dönen topaç) oyuncaklarıyla dünya çapında bir fenomen haline gelen animasyon serisi aşağıdakilerden hangisidir?",
+      "question": "Türk rap müziğinin en önemli albümlerinden biri olarak kabul edilen, Sagopa Kajmer'in \"Bir Pesimistin Gözyaşları\" isimli albümü hangi yıl yayımlanmıştır?",
       "options": [
-        "Bakugan",
-        "Digimon",
-        "Yu-Gi-Oh!",
-        "Beyblade",
-        "Pokemon"
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005"
       ],
       "correct": 3
     },
     {
-      "question": "Netflix Türkiye'nin büyük beğeni toplayan dönem dizisi \"Kulüp\"te, ana karakter Matilda'yı canlandıran ve performansıyla dikkat çeken ünlü oyuncu kimdir?",
+      "question": "\"Filenin Sultanları\" lakaplı Türk Kadın Voleybol Milli Takımı, 2023 yılında tarihinin ilk Avrupa Şampiyonluğu'nu kazanırken takımın başantrenörlüğünü hangi isim yapmıştır?",
       "options": [
-        "Tuba Büyüküstün",
-        "Demet Evgar",
-        "Gökçe Bahadır",
-        "Hazar Ergüçlü",
-        "Beren Saat"
+        "Giovanni Guidetti",
+        "Daniele Santarelli",
+        "Marco Aurélio Motta",
+        "Ferhat Akbaş",
+        "Massimo Barbolini"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Türk sinema ve dizi dünyasının başarılı oyuncularından olup, aynı zamanda birçok uluslararası lüks markanın Türkiye'deki reklam yüzü ve marka elçisi olarak tanınan moda ikonu kimdir?",
+      "options": [
+        "Hande Erçel",
+        "Demet Özdemir",
+        "Serenay Sarıkaya",
+        "Neslihan Atagül",
+        "Fahriye Evcen"
       ],
       "correct": 2
     },
     {
-      "question": "Türkiye'den Nobel Edebiyat Ödülü kazanan tek yazar olan Orhan Pamuk, bu prestijli ödülü hangi yılda almıştır?",
+      "question": "Türkiye A Millî Futbol Takımı'nın 2024 Avrupa Futbol Şampiyonası (EURO 2024) finallerine katılmaya hak kazanmasında büyük payı olan güncel teknik direktörü kimdir?",
       "options": [
-        "2004",
-        "2005",
-        "2006",
-        "2007",
-        "2008"
+        "Şenol Güneş",
+        "Fatih Terim",
+        "Mustafa Denizli",
+        "Vincenzo Montella",
+        "Mircea Lucescu"
       ],
-      "correct": 2
-    },
-    {
-      "question": "Bilim dünyasında öncü çalışmalarıyla tanınan Marie Curie, Nobel Ödülü'nü iki farklı bilim dalında kazanan ilk ve tek kadın bilim insanıdır. Bu iki bilim dalı aşağıdakilerden hangisidir?",
-      "options": [
-        "Fizik ve Tıp",
-        "Kimya ve Biyoloji",
-        "Fizik ve Kimya",
-        "Tıp ve Edebiyat",
-        "Kimya ve Barış"
-      ],
-      "correct": 2
+      "correct": 3
     }
   ]
 }
