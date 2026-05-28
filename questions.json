@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "İngiltere Kraliyet Ailesi'nin en tanınan üyelerinden biri olan ve özellikle giyim tarzıyla dünya çapında bir moda ikonu haline gelen, 1997 yılında trajik bir şekilde hayatını kaybeden prenses kimdir?",
+      "question": "YouTube platformunda en fazla aboneye sahip bireysel içerik üreticisi unvanını uzun süre elinde tutan ve özellikle ilk dönemlerinde \"Let's Play\" tarzı korku oyunları videolarıyla tanınan İsveçli YouTuber kimdir?",
       "options": [
-        "Kraliçe II. Elizabeth",
-        "Prenses Margaret",
-        "Galler Prensesi Diana",
-        "Düşes Kate Middleton",
-        "Meghan Markle"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türk rap müziğinin en önemli albümlerinden biri olarak kabul edilen, Sagopa Kajmer'in \"Bir Pesimistin Gözyaşları\" isimli albümü hangi yıl yayımlanmıştır?",
-      "options": [
-        "2001",
-        "2002",
-        "2003",
-        "2004",
-        "2005"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "\"Filenin Sultanları\" lakaplı Türk Kadın Voleybol Milli Takımı, 2023 yılında tarihinin ilk Avrupa Şampiyonluğu'nu kazanırken takımın başantrenörlüğünü hangi isim yapmıştır?",
-      "options": [
-        "Giovanni Guidetti",
-        "Daniele Santarelli",
-        "Marco Aurélio Motta",
-        "Ferhat Akbaş",
-        "Massimo Barbolini"
+        "MrBeast",
+        "PewDiePie",
+        "Markiplier",
+        "Jacksepticeye",
+        "Dude Perfect"
       ],
       "correct": 1
     },
     {
-      "question": "Türk sinema ve dizi dünyasının başarılı oyuncularından olup, aynı zamanda birçok uluslararası lüks markanın Türkiye'deki reklam yüzü ve marka elçisi olarak tanınan moda ikonu kimdir?",
+      "question": "Queen grubunun efsanevi solisti Freddie Mercury'yi canlandırdığı \"Bohemian Rhapsody\" filmiyle 2019 yılında En İyi Erkek Oyuncu Oscar'ını kazanan Hollywood aktörü kimdir?",
       "options": [
-        "Hande Erçel",
-        "Demet Özdemir",
-        "Serenay Sarıkaya",
-        "Neslihan Atagül",
-        "Fahriye Evcen"
+        "Bradley Cooper",
+        "Christian Bale",
+        "Viggo Mortensen",
+        "Rami Malek",
+        "Leonardo DiCaprio"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "\"Survivor Türkiye\" programının önemli isimlerinden biri olan ve iki farklı sezonda şampiyonluk yaşayan Nagihan Karadere, profesyonel olarak hangi spor dalında milli sporcudur?",
+      "options": [
+        "Basketbol",
+        "Voleybol",
+        "Atletizm",
+        "Yüzme",
+        "Tekvando"
       ],
       "correct": 2
     },
     {
-      "question": "Türkiye A Millî Futbol Takımı'nın 2024 Avrupa Futbol Şampiyonası (EURO 2024) finallerine katılmaya hak kazanmasında büyük payı olan güncel teknik direktörü kimdir?",
+      "question": "Kemal Sunal, Halit Akçatepe, Münir Özkul gibi usta oyuncuların rol aldığı \"Hababam Sınıfı\", \"Neşeli Günler\", \"Tosun Paşa\" gibi Türk sinemasının klasikleri arasında yer alan filmlerin çoğunun yönetmenliğini yapan isim kimdir?",
       "options": [
-        "Şenol Güneş",
-        "Fatih Terim",
-        "Mustafa Denizli",
-        "Vincenzo Montella",
-        "Mircea Lucescu"
+        "Atıf Yılmaz",
+        "Metin Erksan",
+        "Ertem Eğilmez",
+        "Yılmaz Güney",
+        "Nuri Bilge Ceylan"
       ],
-      "correct": 3
+      "correct": 2
+    },
+    {
+      "question": "Japon animesi \"Attack on Titan\" (Shingeki no Kyojin) evreninde, insanlığı devlerden korumak için inşa edilen ve hikayenin büyük bir kısmına ev sahipliği yapan üç büyük duvarın doğru sıralaması (en dıştakinden en içtekine) aşağıdakilerden hangisidir?",
+      "options": [
+        "Sina, Rose, Maria",
+        "Maria, Rose, Sina",
+        "Rose, Sina, Maria",
+        "Maria, Sina, Rose",
+        "Sina, Maria, Rose"
+      ],
+      "correct": 1
     }
   ]
 }
