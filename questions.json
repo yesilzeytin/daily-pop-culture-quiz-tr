@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "YouTube platformunda en fazla aboneye sahip bireysel içerik üreticisi unvanını uzun süre elinde tutan ve özellikle ilk dönemlerinde \"Let's Play\" tarzı korku oyunları videolarıyla tanınan İsveçli YouTuber kimdir?",
+      "question": "Milyonlarca dolarlık devasa meydan okumaları ve hayırseverlik projeleriyle tanınan Amerikalı YouTuber MrBeast'in gerçek adı nedir?",
       "options": [
-        "MrBeast",
-        "PewDiePie",
-        "Markiplier",
-        "Jacksepticeye",
-        "Dude Perfect"
+        "Jimmy Donaldson",
+        "Felix Kjellberg",
+        "Mark Fischbach",
+        "David Dobrik",
+        "Logan Paul"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Popüler 'The Witcher' oyun ve dizi serisine ilham veren, canavar avcısı Geralt of Rivia'nın maceralarını anlatan kitap serisinin yazarı kimdir?",
+      "options": [
+        "J.R.R. Tolkien",
+        "George R.R. Martin",
+        "Andrzej Sapkowski",
+        "Ursula K. Le Guin",
+        "Robert Jordan"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "1972 yılında piyasaya sürülen ve ticari olarak büyük başarı elde eden, tarihteki ilk ev video oyun konsolu olarak kabul edilen sistem hangisidir?",
+      "options": [
+        "Atari 2600",
+        "Magnavox Odyssey",
+        "Nintendo Entertainment System (NES)",
+        "PlayStation 1",
+        "Sega Master System"
       ],
       "correct": 1
     },
     {
-      "question": "Queen grubunun efsanevi solisti Freddie Mercury'yi canlandırdığı \"Bohemian Rhapsody\" filmiyle 2019 yılında En İyi Erkek Oyuncu Oscar'ını kazanan Hollywood aktörü kimdir?",
+      "question": "İnsanlığın Ay'a ilk ayak basışı hangi yıl ve hangi uzay göreviyle gerçekleşmiştir?",
       "options": [
-        "Bradley Cooper",
-        "Christian Bale",
-        "Viggo Mortensen",
-        "Rami Malek",
-        "Leonardo DiCaprio"
+        "1965, Gemini 7",
+        "1969, Apollo 11",
+        "1971, Apollo 14",
+        "1981, Columbia Uzay Mekiği",
+        "1957, Sputnik 1"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "FIFA Dünya Kupası tarihinde en çok şampiyonluk kazanan ülke hangisidir?",
+      "options": [
+        "Almanya",
+        "İtalya",
+        "Arjantin",
+        "Brezilya",
+        "Fransa"
       ],
       "correct": 3
-    },
-    {
-      "question": "\"Survivor Türkiye\" programının önemli isimlerinden biri olan ve iki farklı sezonda şampiyonluk yaşayan Nagihan Karadere, profesyonel olarak hangi spor dalında milli sporcudur?",
-      "options": [
-        "Basketbol",
-        "Voleybol",
-        "Atletizm",
-        "Yüzme",
-        "Tekvando"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Kemal Sunal, Halit Akçatepe, Münir Özkul gibi usta oyuncuların rol aldığı \"Hababam Sınıfı\", \"Neşeli Günler\", \"Tosun Paşa\" gibi Türk sinemasının klasikleri arasında yer alan filmlerin çoğunun yönetmenliğini yapan isim kimdir?",
-      "options": [
-        "Atıf Yılmaz",
-        "Metin Erksan",
-        "Ertem Eğilmez",
-        "Yılmaz Güney",
-        "Nuri Bilge Ceylan"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Japon animesi \"Attack on Titan\" (Shingeki no Kyojin) evreninde, insanlığı devlerden korumak için inşa edilen ve hikayenin büyük bir kısmına ev sahipliği yapan üç büyük duvarın doğru sıralaması (en dıştakinden en içtekine) aşağıdakilerden hangisidir?",
-      "options": [
-        "Sina, Rose, Maria",
-        "Maria, Rose, Sina",
-        "Rose, Sina, Maria",
-        "Maria, Sina, Rose",
-        "Sina, Maria, Rose"
-      ],
-      "correct": 1
     }
   ]
 }
