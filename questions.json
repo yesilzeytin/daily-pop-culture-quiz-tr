@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Milyonlarca dolarlık devasa meydan okumaları ve hayırseverlik projeleriyle tanınan Amerikalı YouTuber MrBeast'in gerçek adı nedir?",
+      "question": "Star Wars evreninde, Skywalker ailesinin köken aldığı, çöl gezegeni olarak bilinen ve iki güneşiyle meşhur olan gezegenin adı nedir?",
       "options": [
-        "Jimmy Donaldson",
-        "Felix Kjellberg",
-        "Mark Fischbach",
-        "David Dobrik",
-        "Logan Paul"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Popüler 'The Witcher' oyun ve dizi serisine ilham veren, canavar avcısı Geralt of Rivia'nın maceralarını anlatan kitap serisinin yazarı kimdir?",
-      "options": [
-        "J.R.R. Tolkien",
-        "George R.R. Martin",
-        "Andrzej Sapkowski",
-        "Ursula K. Le Guin",
-        "Robert Jordan"
+        "Coruscant",
+        "Hoth",
+        "Tatooine",
+        "Endor",
+        "Naboo"
       ],
       "correct": 2
     },
     {
-      "question": "1972 yılında piyasaya sürülen ve ticari olarak büyük başarı elde eden, tarihteki ilk ev video oyun konsolu olarak kabul edilen sistem hangisidir?",
+      "question": "Türk Arabesk müziğinin efsanevi isimlerinden biri olan ve 'Müslüm Baba' lakabıyla anılan, derin ve hüzünlü yorumuyla milyonların kalbine taht kurmuş sanatçı kimdir?",
       "options": [
-        "Atari 2600",
-        "Magnavox Odyssey",
-        "Nintendo Entertainment System (NES)",
-        "PlayStation 1",
-        "Sega Master System"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "İnsanlığın Ay'a ilk ayak basışı hangi yıl ve hangi uzay göreviyle gerçekleşmiştir?",
-      "options": [
-        "1965, Gemini 7",
-        "1969, Apollo 11",
-        "1971, Apollo 14",
-        "1981, Columbia Uzay Mekiği",
-        "1957, Sputnik 1"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "FIFA Dünya Kupası tarihinde en çok şampiyonluk kazanan ülke hangisidir?",
-      "options": [
-        "Almanya",
-        "İtalya",
-        "Arjantin",
-        "Brezilya",
-        "Fransa"
+        "Ferdi Tayfur",
+        "Orhan Gencebay",
+        "İbrahim Tatlıses",
+        "Müslüm Gürses",
+        "Hakkı Bulut"
       ],
       "correct": 3
+    },
+    {
+      "question": "PlayStation'ın ikonik oyun serilerinden God of War'ın 'Savaş Tanrısı' olarak bilinen, acımasız ve intikam peşindeki ana karakterinin adı nedir?",
+      "options": [
+        "Nathan Drake",
+        "Kratos",
+        "Aloy",
+        "Joel Miller",
+        "Jin Sakai"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Türkiye Millî Futbol Takımı, tarihinde katıldığı FIFA Dünya Kupası'nda en iyi derecesini (üçüncülük) hangi yılda elde etmiştir?",
+      "options": [
+        "1954",
+        "1998",
+        "2002",
+        "2006",
+        "2010"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "İkinci Dünya Savaşı sırasında geçen ve Hollywood sinemasının klasiklerinden biri haline gelen, Fas'ın Kazablanka şehrindeki bir gece kulübünde geçen aşk ve fedakarlık hikayesini anlatan ünlü filmin adı nedir?",
+      "options": [
+        "Schindler'in Listesi",
+        "Er Ryan'ı Kurtarmak",
+        "Casablanca",
+        "Piyano",
+        "Dunkirk"
+      ],
+      "correct": 2
     }
   ]
 }
