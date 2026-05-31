@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Star Wars evreninde, Skywalker ailesinin köken aldığı, çöl gezegeni olarak bilinen ve iki güneşiyle meşhur olan gezegenin adı nedir?",
+      "question": "2020 yılında yayınlanan Survivor Türkiye'de şampiyonluk unvanını kazanan isim kimdir?",
       "options": [
-        "Coruscant",
-        "Hoth",
-        "Tatooine",
-        "Endor",
-        "Naboo"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türk Arabesk müziğinin efsanevi isimlerinden biri olan ve 'Müslüm Baba' lakabıyla anılan, derin ve hüzünlü yorumuyla milyonların kalbine taht kurmuş sanatçı kimdir?",
-      "options": [
-        "Ferdi Tayfur",
-        "Orhan Gencebay",
-        "İbrahim Tatlıses",
-        "Müslüm Gürses",
-        "Hakkı Bulut"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "PlayStation'ın ikonik oyun serilerinden God of War'ın 'Savaş Tanrısı' olarak bilinen, acımasız ve intikam peşindeki ana karakterinin adı nedir?",
-      "options": [
-        "Nathan Drake",
-        "Kratos",
-        "Aloy",
-        "Joel Miller",
-        "Jin Sakai"
+        "Barış Özbek",
+        "Cemal Can Canseven",
+        "Berkan Karabulut",
+        "Yasin Obuz",
+        "Nisa Bölükbaşı"
       ],
       "correct": 1
     },
     {
-      "question": "Türkiye Millî Futbol Takımı, tarihinde katıldığı FIFA Dünya Kupası'nda en iyi derecesini (üçüncülük) hangi yılda elde etmiştir?",
+      "question": "Netflix'in dünya çapında büyük ilgi gören dizisi Squid Game'de, ana karakter Seong Gi-hun'un yarıştığı oyunlarda kullandığı oyuncu numarası kaçtır?",
       "options": [
-        "1954",
-        "1998",
-        "2002",
-        "2006",
-        "2010"
+        "001",
+        "218",
+        "456",
+        "067",
+        "199"
       ],
       "correct": 2
     },
     {
-      "question": "İkinci Dünya Savaşı sırasında geçen ve Hollywood sinemasının klasiklerinden biri haline gelen, Fas'ın Kazablanka şehrindeki bir gece kulübünde geçen aşk ve fedakarlık hikayesini anlatan ünlü filmin adı nedir?",
+      "question": "1990'lı yıllarda Fox Kids kanalında yayınlanan ve başlangıcında teknolojik eklentilerle donatılmış bir müfettişin maceralarını konu alan popüler çizgi filmin adı nedir?",
       "options": [
-        "Schindler'in Listesi",
-        "Er Ryan'ı Kurtarmak",
-        "Casablanca",
-        "Piyano",
-        "Dunkirk"
+        "Müfettiş Gadget",
+        "Cedric",
+        "Beetleborgs",
+        "Mega Man",
+        "Şirinler"
       ],
-      "correct": 2
+      "correct": 0
+    },
+    {
+      "question": "Global rap müziğinin en önemli isimlerinden biri olan Eminem'in, kariyerinin en başarılı ve eleştirel açıdan beğeni toplayan albümlerinden biri olan, 2000 yılında yayımlanan albümünün adı nedir?",
+      "options": [
+        "The Slim Shady LP",
+        "The Eminem Show",
+        "Relapse",
+        "Encore",
+        "The Marshall Mathers LP"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "Disney Channel'ın sevilen çizgi dizilerinden Phineas ve Ferb'de, bu iki kardeşin evcil hayvanı olan ve gizli bir ajan olarak görev yapan ornitorenk karakterinin adı nedir?",
+      "options": [
+        "Dr. Doofenshmirtz",
+        "Perry",
+        "Major Monogram",
+        "Isabella",
+        "Candace"
+      ],
+      "correct": 1
     }
   ]
 }
