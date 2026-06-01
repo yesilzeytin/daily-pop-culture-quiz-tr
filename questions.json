@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "2020 yılında yayınlanan Survivor Türkiye'de şampiyonluk unvanını kazanan isim kimdir?",
+      "question": "DC Genişletilmiş Evreni (DCEU) içinde yer alan \"Wonder Woman\" filminde Diana Prince karakterini canlandıran oyuncu kimdir?",
       "options": [
-        "Barış Özbek",
-        "Cemal Can Canseven",
-        "Berkan Karabulut",
-        "Yasin Obuz",
-        "Nisa Bölükbaşı"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Netflix'in dünya çapında büyük ilgi gören dizisi Squid Game'de, ana karakter Seong Gi-hun'un yarıştığı oyunlarda kullandığı oyuncu numarası kaçtır?",
-      "options": [
-        "001",
-        "218",
-        "456",
-        "067",
-        "199"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "1990'lı yıllarda Fox Kids kanalında yayınlanan ve başlangıcında teknolojik eklentilerle donatılmış bir müfettişin maceralarını konu alan popüler çizgi filmin adı nedir?",
-      "options": [
-        "Müfettiş Gadget",
-        "Cedric",
-        "Beetleborgs",
-        "Mega Man",
-        "Şirinler"
+        "Gal Gadot",
+        "Brie Larson",
+        "Scarlett Johansson",
+        "Emilia Clarke",
+        "Natalie Portman"
       ],
       "correct": 0
     },
     {
-      "question": "Global rap müziğinin en önemli isimlerinden biri olan Eminem'in, kariyerinin en başarılı ve eleştirel açıdan beğeni toplayan albümlerinden biri olan, 2000 yılında yayımlanan albümünün adı nedir?",
+      "question": "Osmanlı İmparatorluğu'nun en parlak dönemlerinden birini yaşatan ve İstanbul'u fethederek \"Fatih\" unvanını alan padişah kimdir?",
       "options": [
-        "The Slim Shady LP",
-        "The Eminem Show",
-        "Relapse",
-        "Encore",
-        "The Marshall Mathers LP"
+        "Yavuz Sultan Selim",
+        "Kanuni Sultan Süleyman",
+        "Fatih Sultan Mehmet",
+        "I. Murad",
+        "Orhan Gazi"
       ],
-      "correct": 4
+      "correct": 2
     },
     {
-      "question": "Disney Channel'ın sevilen çizgi dizilerinden Phineas ve Ferb'de, bu iki kardeşin evcil hayvanı olan ve gizli bir ajan olarak görev yapan ornitorenk karakterinin adı nedir?",
+      "question": "20. yüzyılın başlarında adını verdiği 'Ponzi Şeması' ile binlerce kişiyi dolandıran ve modern finans dolandırıcılığının sembolü haline gelen İtalyan asıllı Amerikalı dolandırıcı kimdir?",
       "options": [
-        "Dr. Doofenshmirtz",
-        "Perry",
-        "Major Monogram",
-        "Isabella",
-        "Candace"
+        "Frank Abagnale Jr.",
+        "Bernie Madoff",
+        "Charles Ponzi",
+        "Victor Lustig",
+        "Anna Sorokin"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türkiye Millî Futbol Takımı, tarihinde ilk kez Avrupa Futbol Şampiyonası'na (EURO) hangi yılda katılma başarısı göstermiştir?",
+      "options": [
+        "1992",
+        "1996",
+        "2000",
+        "2004",
+        "2008"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "\"Rolling in the Deep\", \"Someone Like You\" ve \"Hello\" gibi hit şarkılarıyla tanınan, kariyerinde birden fazla Grammy Ödülü kazanmış İngiliz şarkıcı kimdir?",
+      "options": [
+        "Ed Sheeran",
+        "Adele",
+        "Dua Lipa",
+        "Sam Smith",
+        "Harry Styles"
       ],
       "correct": 1
     }
