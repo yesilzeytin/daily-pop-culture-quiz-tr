@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "DC Genişletilmiş Evreni (DCEU) içinde yer alan \"Wonder Woman\" filminde Diana Prince karakterini canlandıran oyuncu kimdir?",
+      "question": "Tenis tarihinde erkekler Grand Slam tekler şampiyonluğunu en çok kazanan oyuncu kimdir?",
       "options": [
-        "Gal Gadot",
-        "Brie Larson",
-        "Scarlett Johansson",
-        "Emilia Clarke",
-        "Natalie Portman"
+        "Novak Djokovic",
+        "Rafael Nadal",
+        "Roger Federer",
+        "Pete Sampras",
+        "Andy Murray"
       ],
       "correct": 0
     },
     {
-      "question": "Osmanlı İmparatorluğu'nun en parlak dönemlerinden birini yaşatan ve İstanbul'u fethederek \"Fatih\" unvanını alan padişah kimdir?",
+      "question": "2013 yılında Japon Shiba Inu cinsi bir köpeğin fotoğrafıyla popülerleşen ve kendine özgü 'bozuk İngilizce' başlıklarıyla tanınan internet mizahı fenomeni aşağıdakilerden hangisidir?",
       "options": [
-        "Yavuz Sultan Selim",
-        "Kanuni Sultan Süleyman",
-        "Fatih Sultan Mehmet",
-        "I. Murad",
-        "Orhan Gazi"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "20. yüzyılın başlarında adını verdiği 'Ponzi Şeması' ile binlerce kişiyi dolandıran ve modern finans dolandırıcılığının sembolü haline gelen İtalyan asıllı Amerikalı dolandırıcı kimdir?",
-      "options": [
-        "Frank Abagnale Jr.",
-        "Bernie Madoff",
-        "Charles Ponzi",
-        "Victor Lustig",
-        "Anna Sorokin"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türkiye Millî Futbol Takımı, tarihinde ilk kez Avrupa Futbol Şampiyonası'na (EURO) hangi yılda katılma başarısı göstermiştir?",
-      "options": [
-        "1992",
-        "1996",
-        "2000",
-        "2004",
-        "2008"
+        "Grumpy Cat",
+        "Doge",
+        "Distracted Boyfriend",
+        "Salt Bae",
+        "Success Kid"
       ],
       "correct": 1
     },
     {
-      "question": "\"Rolling in the Deep\", \"Someone Like You\" ve \"Hello\" gibi hit şarkılarıyla tanınan, kariyerinde birden fazla Grammy Ödülü kazanmış İngiliz şarkıcı kimdir?",
+      "question": "Cem Yılmaz'ın hem senaryosunu yazdığı hem de başrolünde oynadığı, robotların ve uzaylıların yer aldığı, bilim kurgu temalı popüler Türk komedi filminin adı nedir?",
       "options": [
-        "Ed Sheeran",
-        "Adele",
-        "Dua Lipa",
-        "Sam Smith",
-        "Harry Styles"
+        "Vizontele",
+        "G.O.R.A.",
+        "A.R.O.G.",
+        "Organize İşler Sazan Sarmalı",
+        "Yahşi Batı"
       ],
       "correct": 1
+    },
+    {
+      "question": "FIFA Dünya Kupası tarihinde düzenlenen ilk turnuvayı (1930) hangi ülke kazanmıştır?",
+      "options": [
+        "Brezilya",
+        "İtalya",
+        "Arjantin",
+        "Uruguay",
+        "Almanya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Fenomen Türk dizisi 'Leyla ile Mecnun'da, 'Benim de sevgilimden mi ayrılasım geldi, sen böyle konuşunca?' repliğiyle hafızalara kazınan ve bakkal dükkanı işleten 'Erdal Bakkal' karakterini canlandıran oyuncu kimdir?",
+      "options": [
+        "Serkan Keskin",
+        "Ali Atay",
+        "Osman Sonant",
+        "Cengiz Bozkurt",
+        "Köksal Engür"
+      ],
+      "correct": 3
     }
   ]
 }
