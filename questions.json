@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Tenis tarihinde erkekler Grand Slam tekler şampiyonluğunu en çok kazanan oyuncu kimdir?",
+      "question": "One Piece animesinde, Monkey D. Luffy'nin vücudunun lastik gibi esnek olmasını sağlayan ve ona özel güçler veren meyvenin adı nedir?",
       "options": [
-        "Novak Djokovic",
-        "Rafael Nadal",
-        "Roger Federer",
-        "Pete Sampras",
-        "Andy Murray"
+        "Gomu Gomu no Mi",
+        "Mera Mera no Mi",
+        "Hie Hie no Mi",
+        "Ope Ope no Mi",
+        "Yami Yami no Mi"
       ],
       "correct": 0
     },
     {
-      "question": "2013 yılında Japon Shiba Inu cinsi bir köpeğin fotoğrafıyla popülerleşen ve kendine özgü 'bozuk İngilizce' başlıklarıyla tanınan internet mizahı fenomeni aşağıdakilerden hangisidir?",
+      "question": "Tarkan'ın uluslararası alanda büyük başarı yakalayan ve Avrupa'da listelere giren, \"Şıkıdım\" şarkısının da yer aldığı 1997 tarihli albümünün adı nedir?",
       "options": [
-        "Grumpy Cat",
-        "Doge",
-        "Distracted Boyfriend",
-        "Salt Bae",
-        "Success Kid"
+        "Karma",
+        "Ölürüm Sana",
+        "Kuzu Kuzu",
+        "Aacayipsin",
+        "Adımı Kalbine Yaz"
       ],
       "correct": 1
     },
     {
-      "question": "Cem Yılmaz'ın hem senaryosunu yazdığı hem de başrolünde oynadığı, robotların ve uzaylıların yer aldığı, bilim kurgu temalı popüler Türk komedi filminin adı nedir?",
+      "question": "\"Hotline Bling\", \"God's Plan\" ve \"One Dance\" gibi dünya çapında hit olmuş şarkılara imza atan, Kanadalı Grammy ödüllü rap sanatçısı kimdir?",
       "options": [
-        "Vizontele",
-        "G.O.R.A.",
-        "A.R.O.G.",
-        "Organize İşler Sazan Sarmalı",
-        "Yahşi Batı"
+        "Drake",
+        "Kendrick Lamar",
+        "J. Cole",
+        "Travis Scott",
+        "Post Malone"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Her yıl Hürriyet gazetesi ve Kanal D tarafından organize edilen, Türkiye'nin önde gelen müzik ve televizyon ödül töreni hangi isimle anılır?",
+      "options": [
+        "Kristal Fare Ödülleri",
+        "Altın Palmiye Ödülleri",
+        "Altın Kelebek Ödülleri",
+        "Antalya Altın Portakal Film Festivali",
+        "Sadri Alışık Tiyatro ve Sinema Oyuncu Ödülleri"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Kısa video platformu Vine'da popülerlik kazandıktan sonra TikTok'ta da videolar çekmeye devam eden ve özellikle komedi içerikleriyle bilinen Türk sosyal medya fenomeni kimdir?",
+      "options": [
+        "Cem Yılmaz",
+        "Berkcan Güven",
+        "Danla Bilic",
+        "Enes Batur",
+        "Reynmen"
       ],
       "correct": 1
-    },
-    {
-      "question": "FIFA Dünya Kupası tarihinde düzenlenen ilk turnuvayı (1930) hangi ülke kazanmıştır?",
-      "options": [
-        "Brezilya",
-        "İtalya",
-        "Arjantin",
-        "Uruguay",
-        "Almanya"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Fenomen Türk dizisi 'Leyla ile Mecnun'da, 'Benim de sevgilimden mi ayrılasım geldi, sen böyle konuşunca?' repliğiyle hafızalara kazınan ve bakkal dükkanı işleten 'Erdal Bakkal' karakterini canlandıran oyuncu kimdir?",
-      "options": [
-        "Serkan Keskin",
-        "Ali Atay",
-        "Osman Sonant",
-        "Cengiz Bozkurt",
-        "Köksal Engür"
-      ],
-      "correct": 3
     }
   ]
 }
