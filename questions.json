@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Twitter Türkiye'de bir durumun beklenmedik veya şaşırtıcı bir şekilde gelişmesi üzerine sıkça kullanılan, şaşkınlık ve hayret ifadesi barındıran internet fenomeni kalıp aşağıdakilerden hangisidir?",
+      "question": "Aşağıdaki filmlerden hangisi, Marvel Sinematik Evreni (MCU) içerisinde yer alan bir yapım değildir?",
       "options": [
-        "Aman Tanrım!",
-        "Bu da mı gol değil?",
-        "Yok artık Lebron James!",
-        "Nasıl yani?",
-        "Gündemden düştü mü?"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Güney Koreli erkek grubu BTS'in dünya çapındaki hayran kitlesi kendilerini hangi isimle tanımlamaktadır?",
-      "options": [
-        "Blinks",
-        "Moas",
-        "Stays",
-        "Army",
-        "Engenes"
+        "Avengers: Endgame",
+        "Guardians of the Galaxy",
+        "Spider-Man: Far From Home",
+        "The Dark Knight",
+        "Black Panther"
       ],
       "correct": 3
     },
     {
-      "question": "UEFA Şampiyonlar Ligi (eski adıyla Şampiyon Kulüpler Kupası) tarihinde en çok şampiyonluk kazanan takım hangisidir?",
+      "question": "90'lı ve 2000'li yılların çocukluk atıştırmalıklarından olan ve küçük, renkli plastik bir kaşıkla yenilen çikolatalı fındık kreması ürünü aşağıdakilerden hangisidir?",
       "options": [
-        "AC Milan",
-        "Bayern Münih",
-        "Liverpool",
-        "Barcelona",
-        "Real Madrid"
+        "Cino",
+        "Tipitip",
+        "Çizi",
+        "Toto",
+        "Çokomel"
       ],
-      "correct": 4
+      "correct": 3
     },
     {
-      "question": "Star Wars evreninin en ikonik uzay gemilerinden biri olan ve Han Solo ile Chewbacca'nın kullandığı, Corellian YT-1300 hafif kargo gemisinin adı nedir?",
+      "question": "Türk rap müziğinin son dönemde öne çıkan isimlerinden olan ve \"Geceler\", \"Kazıdık Tırnaklarla\", \"Felaket\" gibi hit şarkılarıyla tanınan sanatçı aşağıdakilerden hangisidir?",
       "options": [
-        "Slave I",
-        "X-Wing",
-        "Millennium Falcon",
-        "Star Destroyer",
-        "Razor Crest"
+        "Sagopa Kajmer",
+        "Sansar Salvo",
+        "Ezhel",
+        "Ben Fero",
+        "Khontkar"
       ],
       "correct": 2
     },
     {
-      "question": "Harry Potter evreninde Hogwarts Cadılık ve Büyücülük Okulu'nun dört binasından biri olan, cesaret, cüret ve şövalyelik özellikleriyle bilinen binanın adı nedir?",
+      "question": "2023 yılında \"Survivor 2023\" yarışmasında şampiyonluk unvanını kazanarak kupayı kaldıran isim aşağıdakilerden hangisidir?",
       "options": [
-        "Slytherin",
-        "Hufflepuff",
-        "Ravenclaw",
-        "Gryffindor",
-        "Beauxbatons"
+        "Özgür Tetik",
+        "Nefise Karatay",
+        "Yusuf Karakaya",
+        "Mert Öcal",
+        "Batuhan Karacakaya"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Türk televizyon tarihinin en çok izlenen dizilerinden biri olan \"Aşk-ı Memnu\"da \"Bihter Ziyagil\" karakterini canlandıran ünlü oyuncu kimdir?",
+      "options": [
+        "Hazal Kaya",
+        "Nebahat Çehre",
+        "Selçuk Yöntem",
+        "Beren Saat",
+        "Nur Fettahoğlu"
       ],
       "correct": 3
     }
