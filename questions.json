@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Aşağıdaki filmlerden hangisi, Marvel Sinematik Evreni (MCU) içerisinde yer alan bir yapım değildir?",
+      "question": "Türkiye A Milli Futbol Takımı'nın gelmiş geçmiş en çok gol atan oyuncusu kimdir?",
       "options": [
-        "Avengers: Endgame",
-        "Guardians of the Galaxy",
-        "Spider-Man: Far From Home",
-        "The Dark Knight",
-        "Black Panther"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "90'lı ve 2000'li yılların çocukluk atıştırmalıklarından olan ve küçük, renkli plastik bir kaşıkla yenilen çikolatalı fındık kreması ürünü aşağıdakilerden hangisidir?",
-      "options": [
-        "Cino",
-        "Tipitip",
-        "Çizi",
-        "Toto",
-        "Çokomel"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Türk rap müziğinin son dönemde öne çıkan isimlerinden olan ve \"Geceler\", \"Kazıdık Tırnaklarla\", \"Felaket\" gibi hit şarkılarıyla tanınan sanatçı aşağıdakilerden hangisidir?",
-      "options": [
-        "Sagopa Kajmer",
-        "Sansar Salvo",
-        "Ezhel",
-        "Ben Fero",
-        "Khontkar"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "2023 yılında \"Survivor 2023\" yarışmasında şampiyonluk unvanını kazanarak kupayı kaldıran isim aşağıdakilerden hangisidir?",
-      "options": [
-        "Özgür Tetik",
-        "Nefise Karatay",
-        "Yusuf Karakaya",
-        "Mert Öcal",
-        "Batuhan Karacakaya"
+        "Burak Yılmaz",
+        "Hakan Şükür",
+        "Arda Turan",
+        "Lefter Küçükandonyadis",
+        "Metin Oktay"
       ],
       "correct": 1
     },
     {
-      "question": "Türk televizyon tarihinin en çok izlenen dizilerinden biri olan \"Aşk-ı Memnu\"da \"Bihter Ziyagil\" karakterini canlandıran ünlü oyuncu kimdir?",
+      "question": "NBA tarihinde 'The King' lakabıyla bilinen ve birçok rekoru elinde bulunduran efsanevi basketbolcu kimdir?",
       "options": [
-        "Hazal Kaya",
-        "Nebahat Çehre",
-        "Selçuk Yöntem",
-        "Beren Saat",
-        "Nur Fettahoğlu"
+        "Michael Jordan",
+        "Magic Johnson",
+        "Kareem Abdul-Jabbar",
+        "LeBron James",
+        "Stephen Curry"
       ],
       "correct": 3
+    },
+    {
+      "question": "Formula 1 tarihinde en çok Dünya Şampiyonluğu kazanan iki pilot, yedişer şampiyonlukla hangi isimlerdir?",
+      "options": [
+        "Ayrton Senna ve Alain Prost",
+        "Sebastian Vettel ve Juan Manuel Fangio",
+        "Max Verstappen ve Fernando Alonso",
+        "Niki Lauda ve Jim Clark",
+        "Michael Schumacher ve Lewis Hamilton"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "\"Survivor Türkiye\" programının ikonik sunucusu ve yapımcısı olan, aynı zamanda birçok farklı televizyon programıyla da tanınan isim kimdir?",
+      "options": [
+        "Murat Ceylan",
+        "Esra Erol",
+        "Acun Ilıcalı",
+        "Ali Koç",
+        "Fatih Portakal"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Yeşilçam'ın unutulmaz filmlerinden \"Selvi Boylum Al Yazmalım\"da Kadir İnanır ile başrolü paylaşan ve \"Asya\" karakterini canlandıran usta oyuncu kimdir?",
+      "options": [
+        "Fatma Girik",
+        "Filiz Akın",
+        "Türkân Şoray",
+        "Hülya Koçyiğit",
+        "Emel Sayın"
+      ],
+      "correct": 2
     }
   ]
 }
