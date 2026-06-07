@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Türkiye A Milli Futbol Takımı'nın gelmiş geçmiş en çok gol atan oyuncusu kimdir?",
+      "question": "FIFA Dünya Kupası tarihinde en çok gol atan futbolcu rekoru hangi isme aittir?",
       "options": [
-        "Burak Yılmaz",
-        "Hakan Şükür",
-        "Arda Turan",
-        "Lefter Küçükandonyadis",
-        "Metin Oktay"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "NBA tarihinde 'The King' lakabıyla bilinen ve birçok rekoru elinde bulunduran efsanevi basketbolcu kimdir?",
-      "options": [
-        "Michael Jordan",
-        "Magic Johnson",
-        "Kareem Abdul-Jabbar",
-        "LeBron James",
-        "Stephen Curry"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Formula 1 tarihinde en çok Dünya Şampiyonluğu kazanan iki pilot, yedişer şampiyonlukla hangi isimlerdir?",
-      "options": [
-        "Ayrton Senna ve Alain Prost",
-        "Sebastian Vettel ve Juan Manuel Fangio",
-        "Max Verstappen ve Fernando Alonso",
-        "Niki Lauda ve Jim Clark",
-        "Michael Schumacher ve Lewis Hamilton"
-      ],
-      "correct": 4
-    },
-    {
-      "question": "\"Survivor Türkiye\" programının ikonik sunucusu ve yapımcısı olan, aynı zamanda birçok farklı televizyon programıyla da tanınan isim kimdir?",
-      "options": [
-        "Murat Ceylan",
-        "Esra Erol",
-        "Acun Ilıcalı",
-        "Ali Koç",
-        "Fatih Portakal"
+        "Lionel Messi",
+        "Pelé",
+        "Miroslav Klose",
+        "Ronaldo Nazário",
+        "Gerd Müller"
       ],
       "correct": 2
     },
     {
-      "question": "Yeşilçam'ın unutulmaz filmlerinden \"Selvi Boylum Al Yazmalım\"da Kadir İnanır ile başrolü paylaşan ve \"Asya\" karakterini canlandıran usta oyuncu kimdir?",
+      "question": "Bir erkeğin başını başka bir kadına döndürüp arkasından bakması ve yanındaki kız arkadaşının tepkisiyle bilinen, internetin en popüler meme'lerinden biri olan stok fotoğraf aşağıdakilerden hangisi olarak bilinir?",
       "options": [
-        "Fatma Girik",
-        "Filiz Akın",
-        "Türkân Şoray",
-        "Hülya Koçyiğit",
-        "Emel Sayın"
+        "Woman Yelling at a Cat",
+        "Distracted Boyfriend",
+        "Side-Eyeing Chloe",
+        "Drake Hotline Bling",
+        "Grumpy Cat"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Kadınlar tenisinin efsane isimlerinden Serena Williams, kariyerinde toplam kaç Grand Slam tekler şampiyonluğu kazanarak Açık Dönem'de en çok Grand Slam kazanan tenisçi unvanını elde etmiştir?",
+      "options": [
+        "20",
+        "22",
+        "23",
+        "24",
+        "25"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Netflix'in Türkiye'deki ilk orijinal yapımı olan ve çıktığı dönemde büyük ses getiren dizi aşağıdakilerden hangisidir?",
+      "options": [
+        "Bir Başkadır",
+        "Kuş Uçuşu",
+        "Hakan: Muhafız",
+        "Atiye",
+        "Aşk 101"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türkiye'deki sosyal medya platformlarında, özellikle Twitter'da, ünlü bir erkek figürün yanındaki kadın için sıkça ve bazen mizahi bir bağlamda kullanılan, ilişki durumuna işaret eden popüler tabir aşağıdakilerden hangisidir?",
+      "options": [
+        "Bayan Menajer",
+        "Abla",
+        "Yenge",
+        "Hanımefendi",
+        "Partner"
       ],
       "correct": 2
     }
