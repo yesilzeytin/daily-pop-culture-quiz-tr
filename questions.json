@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "FIFA Dünya Kupası tarihinde en çok gol atan futbolcu rekoru hangi isme aittir?",
+      "question": "Global pop müziğin en büyük yıldızlarından Taylor Swift, müziğinin haklarını geri almak amacıyla eski albümlerini yeniden kaydederek hayranlarına 'Taylor's Version' adı altında sunmaktadır. Bu seride yayınladığı ilk yeniden kaydedilmiş albüm hangisidir?",
       "options": [
-        "Lionel Messi",
-        "Pelé",
-        "Miroslav Klose",
-        "Ronaldo Nazário",
-        "Gerd Müller"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Bir erkeğin başını başka bir kadına döndürüp arkasından bakması ve yanındaki kız arkadaşının tepkisiyle bilinen, internetin en popüler meme'lerinden biri olan stok fotoğraf aşağıdakilerden hangisi olarak bilinir?",
-      "options": [
-        "Woman Yelling at a Cat",
-        "Distracted Boyfriend",
-        "Side-Eyeing Chloe",
-        "Drake Hotline Bling",
-        "Grumpy Cat"
+        "Red (Taylor's Version)",
+        "Fearless (Taylor's Version)",
+        "1989 (Taylor's Version)",
+        "Speak Now (Taylor's Version)",
+        "Reputation (Taylor's Version)"
       ],
       "correct": 1
     },
     {
-      "question": "Kadınlar tenisinin efsane isimlerinden Serena Williams, kariyerinde toplam kaç Grand Slam tekler şampiyonluğu kazanarak Açık Dönem'de en çok Grand Slam kazanan tenisçi unvanını elde etmiştir?",
+      "question": "Star Wars evreninde, Güç'ün aydınlık tarafının temsilcileri olan Jedi Şövalyeleri tarafından kullanılan ve en ikonik kabul edilen ışın kılıcı renklerinden biri aşağıdakilerden hangisidir?",
       "options": [
-        "20",
-        "22",
-        "23",
-        "24",
-        "25"
+        "Kırmızı",
+        "Mor",
+        "Sarı",
+        "Yeşil",
+        "Mavi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "Türk sinemasının gişe rekorları kıran ve milyonlarca izleyiciye ulaşan 'Recep İvedik' film serisinin senaristi ve başrol oyuncusu kimdir?",
+      "options": [
+        "Ata Demirer",
+        "Cem Yılmaz",
+        "Şahan Gökbakar",
+        "Gupse Özay",
+        "Tolga Çevik"
       ],
       "correct": 2
     },
     {
-      "question": "Netflix'in Türkiye'deki ilk orijinal yapımı olan ve çıktığı dönemde büyük ses getiren dizi aşağıdakilerden hangisidir?",
+      "question": "İkinci Dünya Savaşı sırasında, Müttefik Devletlerin Batı Cephesi'ni açmak amacıyla Fransa'nın Normandiya kıyılarına büyük bir çıkarma yaparak gerçekleştirdiği, tarihin en büyük amfibi harekâtı olarak bilinen operasyonun kod adı nedir?",
       "options": [
-        "Bir Başkadır",
-        "Kuş Uçuşu",
-        "Hakan: Muhafız",
-        "Atiye",
-        "Aşk 101"
+        "Barbarossa Harekâtı",
+        "Deniz Aslanı Harekâtı",
+        "Overlord Operasyonu",
+        "Çöl Tilkisi Operasyonu",
+        "Kartal Operasyonu"
       ],
       "correct": 2
     },
     {
-      "question": "Türkiye'deki sosyal medya platformlarında, özellikle Twitter'da, ünlü bir erkek figürün yanındaki kadın için sıkça ve bazen mizahi bir bağlamda kullanılan, ilişki durumuna işaret eden popüler tabir aşağıdakilerden hangisidir?",
+      "question": "Global rap ve moda dünyasının önemli figürlerinden Kanye West, özellikle ayakkabı tasarımlarıyla dünya çapında büyük bir trend yarattığı ve 'Yeezy' serisini piyasaya sürdüğü spor giyim markasıyla uzun soluklu bir iş birliği yapmıştır. Bu marka hangisidir?",
       "options": [
-        "Bayan Menajer",
-        "Abla",
-        "Yenge",
-        "Hanımefendi",
-        "Partner"
+        "Nike",
+        "Puma",
+        "Adidas",
+        "Reebok",
+        "Under Armour"
       ],
       "correct": 2
     }
