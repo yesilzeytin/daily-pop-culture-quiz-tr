@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Global pop müziğin en büyük yıldızlarından Taylor Swift, müziğinin haklarını geri almak amacıyla eski albümlerini yeniden kaydederek hayranlarına 'Taylor's Version' adı altında sunmaktadır. Bu seride yayınladığı ilk yeniden kaydedilmiş albüm hangisidir?",
+      "question": "“Küçük siyah elbise”yi (little black dress) moda dünyasına kazandırması ve kadın modasında devrim yaratmasıyla tanınan Fransız moda tasarımcısı kimdir?",
       "options": [
-        "Red (Taylor's Version)",
-        "Fearless (Taylor's Version)",
-        "1989 (Taylor's Version)",
-        "Speak Now (Taylor's Version)",
-        "Reputation (Taylor's Version)"
+        "Coco Chanel",
+        "Christian Dior",
+        "Yves Saint Laurent",
+        "Gianni Versace",
+        "Giorgio Armani"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Genç bir aslan yavrusu olan Simba'nın, Gurur Toprakları'nın hükümdarı olma yolculuğunu ve kötü kalpli amcası Scar'la olan mücadelesini konu alan Disney animasyon filmi hangisidir?",
+      "options": [
+        "Buz Devri",
+        "Şrek",
+        "Aslan Kral",
+        "Kayıp Balık Nemo",
+        "Oyuncak Hikayesi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Arabesk müziğin efsane isimlerinden Orhan Gencebay, hayranları tarafından genellikle hangi lakapla anılmaktadır?",
+      "options": [
+        "İmparator",
+        "Orhan Baba",
+        "Kral",
+        "Üstat",
+        "Şef"
       ],
       "correct": 1
     },
     {
-      "question": "Star Wars evreninde, Güç'ün aydınlık tarafının temsilcileri olan Jedi Şövalyeleri tarafından kullanılan ve en ikonik kabul edilen ışın kılıcı renklerinden biri aşağıdakilerden hangisidir?",
+      "question": "Fox Kids kanalında yayınlanan ve sekiz çocuğun kendilerini \"Dijital Dünya\"da bulup, oradaki canavarlar Digimon'larla arkadaş olarak iki dünyayı da kurtarmaya çalıştığı popüler çizgi film serisi hangisidir?",
       "options": [
-        "Kırmızı",
-        "Mor",
-        "Sarı",
-        "Yeşil",
-        "Mavi"
-      ],
-      "correct": 4
-    },
-    {
-      "question": "Türk sinemasının gişe rekorları kıran ve milyonlarca izleyiciye ulaşan 'Recep İvedik' film serisinin senaristi ve başrol oyuncusu kimdir?",
-      "options": [
-        "Ata Demirer",
-        "Cem Yılmaz",
-        "Şahan Gökbakar",
-        "Gupse Özay",
-        "Tolga Çevik"
+        "Pokemon",
+        "Yu-Gi-Oh!",
+        "Digimon Adventure",
+        "Beyblade",
+        "Transformers"
       ],
       "correct": 2
     },
     {
-      "question": "İkinci Dünya Savaşı sırasında, Müttefik Devletlerin Batı Cephesi'ni açmak amacıyla Fransa'nın Normandiya kıyılarına büyük bir çıkarma yaparak gerçekleştirdiği, tarihin en büyük amfibi harekâtı olarak bilinen operasyonun kod adı nedir?",
+      "question": "\"DDU-DU DDU-DU\" ve \"Kill This Love\" gibi global hit şarkılarla tanınan, Jennie, Lisa, Jisoo ve Rosé üyelerinden oluşan Güney Koreli kız grubu hangisidir?",
       "options": [
-        "Barbarossa Harekâtı",
-        "Deniz Aslanı Harekâtı",
-        "Overlord Operasyonu",
-        "Çöl Tilkisi Operasyonu",
-        "Kartal Operasyonu"
+        "Red Velvet",
+        "TWICE",
+        "ITZY",
+        "BLACKPINK",
+        "(G)I-DLE"
       ],
-      "correct": 2
-    },
-    {
-      "question": "Global rap ve moda dünyasının önemli figürlerinden Kanye West, özellikle ayakkabı tasarımlarıyla dünya çapında büyük bir trend yarattığı ve 'Yeezy' serisini piyasaya sürdüğü spor giyim markasıyla uzun soluklu bir iş birliği yapmıştır. Bu marka hangisidir?",
-      "options": [
-        "Nike",
-        "Puma",
-        "Adidas",
-        "Reebok",
-        "Under Armour"
-      ],
-      "correct": 2
+      "correct": 3
     }
   ]
 }
