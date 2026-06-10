@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "“Küçük siyah elbise”yi (little black dress) moda dünyasına kazandırması ve kadın modasında devrim yaratmasıyla tanınan Fransız moda tasarımcısı kimdir?",
+      "question": "Met Gala'nın her yıl ev sahipliğini yapan ve moda dünyasının en etkili isimlerinden biri olarak kabul edilen Vogue dergisi editörü kimdir?",
       "options": [
-        "Coco Chanel",
-        "Christian Dior",
-        "Yves Saint Laurent",
-        "Gianni Versace",
-        "Giorgio Armani"
+        "Anna Wintour",
+        "Carine Roitfeld",
+        "Emmanuelle Alt",
+        "Edward Enninful",
+        "Alexandra Shulman"
       ],
       "correct": 0
     },
     {
-      "question": "Genç bir aslan yavrusu olan Simba'nın, Gurur Toprakları'nın hükümdarı olma yolculuğunu ve kötü kalpli amcası Scar'la olan mücadelesini konu alan Disney animasyon filmi hangisidir?",
+      "question": "Netflix Türkiye'nin popüler dizilerinden biri olan 'Bir Başkadır'ın hem yönetmeni hem de senaristi kimdir?",
       "options": [
-        "Buz Devri",
-        "Şrek",
-        "Aslan Kral",
-        "Kayıp Balık Nemo",
-        "Oyuncak Hikayesi"
+        "Çağan Irmak",
+        "Nuri Bilge Ceylan",
+        "Berkun Oya",
+        "Zeki Demirkubuz",
+        "Yılmaz Erdoğan"
       ],
       "correct": 2
     },
     {
-      "question": "Arabesk müziğin efsane isimlerinden Orhan Gencebay, hayranları tarafından genellikle hangi lakapla anılmaktadır?",
+      "question": "Sony tarafından üretilen ve oyun konsolları pazarında dünya çapında büyük bir paya sahip olan popüler konsol serisinin adı nedir?",
       "options": [
-        "İmparator",
-        "Orhan Baba",
-        "Kral",
-        "Üstat",
-        "Şef"
+        "Xbox",
+        "Nintendo Switch",
+        "PlayStation",
+        "Sega Genesis",
+        "Atari"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türkiye Millî Futbol Takımı'nın, 2002 FIFA Dünya Kupası'nda elde ettiği tarihî üçüncülük başarısında teknik direktörlük görevini üstlenen isim kimdir?",
+      "options": [
+        "Fatih Terim",
+        "Şenol Güneş",
+        "Mustafa Denizli",
+        "Mircea Lucescu",
+        "Abdullah Avcı"
       ],
       "correct": 1
     },
     {
-      "question": "Fox Kids kanalında yayınlanan ve sekiz çocuğun kendilerini \"Dijital Dünya\"da bulup, oradaki canavarlar Digimon'larla arkadaş olarak iki dünyayı da kurtarmaya çalıştığı popüler çizgi film serisi hangisidir?",
+      "question": "Tüm zamanların en çok gişe hasılatı yapan filmlerinden biri olan 'Avatar'ın yönetmeni kimdir?",
       "options": [
-        "Pokemon",
-        "Yu-Gi-Oh!",
-        "Digimon Adventure",
-        "Beyblade",
-        "Transformers"
+        "Steven Spielberg",
+        "Christopher Nolan",
+        "James Cameron",
+        "Peter Jackson",
+        "George Lucas"
       ],
       "correct": 2
-    },
-    {
-      "question": "\"DDU-DU DDU-DU\" ve \"Kill This Love\" gibi global hit şarkılarla tanınan, Jennie, Lisa, Jisoo ve Rosé üyelerinden oluşan Güney Koreli kız grubu hangisidir?",
-      "options": [
-        "Red Velvet",
-        "TWICE",
-        "ITZY",
-        "BLACKPINK",
-        "(G)I-DLE"
-      ],
-      "correct": 3
     }
   ]
 }
