@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Met Gala'nın her yıl ev sahipliğini yapan ve moda dünyasının en etkili isimlerinden biri olarak kabul edilen Vogue dergisi editörü kimdir?",
+      "question": "MasterChef Türkiye'nin 2020 sezonunda şampiyonluğa ulaşan ve yarışma sonrası sosyal medya fenomeni haline gelen isim kimdir?",
       "options": [
-        "Anna Wintour",
-        "Carine Roitfeld",
-        "Emmanuelle Alt",
-        "Edward Enninful",
-        "Alexandra Shulman"
+        "Serhat Doğramacı",
+        "Barbaros Yoloğlu",
+        "Emir Elidemir",
+        "Tanya Kilitkayalı",
+        "Uğur Kardaş"
       ],
       "correct": 0
     },
     {
-      "question": "Netflix Türkiye'nin popüler dizilerinden biri olan 'Bir Başkadır'ın hem yönetmeni hem de senaristi kimdir?",
+      "question": "2010 Eurovision Şarkı Yarışması'nda Türkiye'yi temsil eden ve \"We Could Be The Same\" adlı şarkısıyla ikincilik elde eden rock grubu hangisidir?",
       "options": [
-        "Çağan Irmak",
-        "Nuri Bilge Ceylan",
-        "Berkun Oya",
-        "Zeki Demirkubuz",
-        "Yılmaz Erdoğan"
+        "Duman",
+        "Mor ve Ötesi",
+        "Şebnem Ferah",
+        "maNga",
+        "Athena"
       ],
-      "correct": 2
+      "correct": 3
     },
     {
-      "question": "Sony tarafından üretilen ve oyun konsolları pazarında dünya çapında büyük bir paya sahip olan popüler konsol serisinin adı nedir?",
+      "question": "Türk Kadın Voleybol Milli Takımı'nın (Filenin Sultanları) yıldız oyuncularından biri olan ve oyunculuğuyla 'Demir Lady' lakabıyla anılan deneyimli orta oyuncu kimdir?",
       "options": [
-        "Xbox",
-        "Nintendo Switch",
-        "PlayStation",
-        "Sega Genesis",
-        "Atari"
+        "Eda Erdem Dündar",
+        "Hande Baladın",
+        "Zehra Güneş",
+        "Melissa Vargas",
+        "Gizem Örge"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "Türkiye Millî Futbol Takımı'nın, 2002 FIFA Dünya Kupası'nda elde ettiği tarihî üçüncülük başarısında teknik direktörlük görevini üstlenen isim kimdir?",
+      "question": "Çukur dizisindeki Yamaç Koçovalı karakteriyle geniş kitlelerce tanınan ve aynı zamanda şarkıcılık da yapan ünlü oyuncu kimdir?",
       "options": [
-        "Fatih Terim",
-        "Şenol Güneş",
-        "Mustafa Denizli",
-        "Mircea Lucescu",
-        "Abdullah Avcı"
+        "Aras Bulut İynemli",
+        "Tolga Sarıtaş",
+        "Kerem Bürsin",
+        "Çağatay Ulusoy",
+        "Barış Arduç"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
-      "question": "Tüm zamanların en çok gişe hasılatı yapan filmlerinden biri olan 'Avatar'ın yönetmeni kimdir?",
+      "question": "Türkiye'ye Olimpiyat Oyunları tarihinde güreş dışındaki ilk altın madalyayı getiren ve 1996 Atlanta Olimpiyatları'nda halterde zafere ulaşan efsanevi sporcu kimdir?",
       "options": [
-        "Steven Spielberg",
-        "Christopher Nolan",
-        "James Cameron",
-        "Peter Jackson",
-        "George Lucas"
+        "Naim Süleymanoğlu",
+        "Halil Mutlu",
+        "Hamza Yerlikaya",
+        "Yasemin Adar",
+        "Daniyar İsmayilov"
       ],
-      "correct": 2
+      "correct": 0
     }
   ]
 }
