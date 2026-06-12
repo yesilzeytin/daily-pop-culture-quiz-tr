@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "MasterChef Türkiye'nin 2020 sezonunda şampiyonluğa ulaşan ve yarışma sonrası sosyal medya fenomeni haline gelen isim kimdir?",
+      "question": "Enes Batur, Türkiye'de milyonlarca aboneye sahip popüler bir YouTuber'dır. Kendisi, YouTube kariyerinin ardından beyaz perdeye adım atarak hangi isimle sinema filmi çekmiştir?",
       "options": [
-        "Serhat Doğramacı",
-        "Barbaros Yoloğlu",
-        "Emir Elidemir",
-        "Tanya Kilitkayalı",
-        "Uğur Kardaş"
+        "Enes Batur: Hayal mi Gerçek mi?",
+        "Enes Batur: Görüntülü Arama",
+        "Enes Batur: Filmin Devamı",
+        "Enes Batur: YouTuber Olmak",
+        "Enes Batur: Sanal Dünya"
       ],
       "correct": 0
     },
     {
-      "question": "2010 Eurovision Şarkı Yarışması'nda Türkiye'yi temsil eden ve \"We Could Be The Same\" adlı şarkısıyla ikincilik elde eden rock grubu hangisidir?",
+      "question": "The Witcher evrenindeki canavar avcısı Geralt'ın mensubu olduğu 'Kurt Okulu'nun sembolü olan hayvan figürü nedir?",
       "options": [
-        "Duman",
-        "Mor ve Ötesi",
-        "Şebnem Ferah",
-        "maNga",
-        "Athena"
+        "Kurt",
+        "Ayı",
+        "Kedi",
+        "Grifon",
+        "Yılan"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "FIFA Dünya Kupası tarihinde tek bir turnuvada 13 gol atarak bu rekoru elinde bulunduran efsanevi futbolcu kimdir?",
+      "options": [
+        "Pelé",
+        "Miroslav Klose",
+        "Just Fontaine",
+        "Gerd Müller",
+        "Ronaldo (Nazário)"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Her yıl moda ve sanat dünyasını bir araya getiren Met Gala'nın düzenlenmesinden ve elde edilen gelirin aktarıldığı kurum aşağıdakilerden hangisidir?",
+      "options": [
+        "Vogue Dergisi",
+        "New York Moda Haftası Komitesi",
+        "Metropolitan Sanat Müzesi Kostüm Enstitüsü",
+        "CFDA (Amerika Moda Tasarımcıları Konseyi)",
+        "Amerikan Film Akademisi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "İlk ticari MP3 çaları (MPMan) 1998 yılında piyasaya süren ve dijital müzik çalarların yaygınlaşmasında öncü rol oynayan Kore merkezli teknoloji şirketi hangisidir?",
+      "options": [
+        "Apple",
+        "Samsung",
+        "LG",
+        "SaeHan Information Systems",
+        "Creative Labs"
       ],
       "correct": 3
-    },
-    {
-      "question": "Türk Kadın Voleybol Milli Takımı'nın (Filenin Sultanları) yıldız oyuncularından biri olan ve oyunculuğuyla 'Demir Lady' lakabıyla anılan deneyimli orta oyuncu kimdir?",
-      "options": [
-        "Eda Erdem Dündar",
-        "Hande Baladın",
-        "Zehra Güneş",
-        "Melissa Vargas",
-        "Gizem Örge"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Çukur dizisindeki Yamaç Koçovalı karakteriyle geniş kitlelerce tanınan ve aynı zamanda şarkıcılık da yapan ünlü oyuncu kimdir?",
-      "options": [
-        "Aras Bulut İynemli",
-        "Tolga Sarıtaş",
-        "Kerem Bürsin",
-        "Çağatay Ulusoy",
-        "Barış Arduç"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Türkiye'ye Olimpiyat Oyunları tarihinde güreş dışındaki ilk altın madalyayı getiren ve 1996 Atlanta Olimpiyatları'nda halterde zafere ulaşan efsanevi sporcu kimdir?",
-      "options": [
-        "Naim Süleymanoğlu",
-        "Halil Mutlu",
-        "Hamza Yerlikaya",
-        "Yasemin Adar",
-        "Daniyar İsmayilov"
-      ],
-      "correct": 0
     }
   ]
 }
