@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Enes Batur, Türkiye'de milyonlarca aboneye sahip popüler bir YouTuber'dır. Kendisi, YouTube kariyerinin ardından beyaz perdeye adım atarak hangi isimle sinema filmi çekmiştir?",
+      "question": "Ünlü rapçi Eminem'in başrolünde oynadığı ve hayatından kesitler sunan yarı otobiyografik filmin adı nedir?",
       "options": [
-        "Enes Batur: Hayal mi Gerçek mi?",
-        "Enes Batur: Görüntülü Arama",
-        "Enes Batur: Filmin Devamı",
-        "Enes Batur: YouTuber Olmak",
-        "Enes Batur: Sanal Dünya"
+        "8 Mile",
+        "Get Rich or Die Tryin'",
+        "Straight Outta Compton",
+        "Notorious",
+        "Hustle & Flow"
       ],
       "correct": 0
     },
     {
-      "question": "The Witcher evrenindeki canavar avcısı Geralt'ın mensubu olduğu 'Kurt Okulu'nun sembolü olan hayvan figürü nedir?",
+      "question": "Türkiye Millî Futbol Takımı, 2002 FIFA Dünya Kupası'ndaki üçüncülüğünün ardından katıldığı ilk büyük uluslararası turnuva aşağıdakilerden hangisidir?",
       "options": [
-        "Kurt",
-        "Ayı",
-        "Kedi",
-        "Grifon",
-        "Yılan"
+        "2004 Avrupa Futbol Şampiyonası",
+        "2006 FIFA Dünya Kupası",
+        "2008 Avrupa Futbol Şampiyonası",
+        "2010 FIFA Dünya Kupası",
+        "2012 Avrupa Futbol Şampiyonası"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Tüm zamanların en yüksek gişe hasılatı elde eden ikinci filmi (Avatar'ın ardından) olan, Marvel Sinematik Evreni'nin epik final filmi aşağıdakilerden hangisidir?",
+      "options": [
+        "Avengers: Sonsuzluk Savaşı (Avengers: Infinity War)",
+        "Avatar: Suyun Yolu (Avatar: The Way of Water)",
+        "Yenilmezler: Son Oyun (Avengers: Endgame)",
+        "Örümcek-Adam: Eve Dönüş Yok (Spider-Man: No Way Home)",
+        "Star Wars: Güç Uyanıyor (Star Wars: The Force Awakens)"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Eyfel Kulesi'ni iki kez hurda demir olarak satmaya çalışmasıyla ünlenen, Avusturya asıllı dolandırıcı kimdir?",
+      "options": [
+        "Frank Abagnale Jr.",
+        "Charles Ponzi",
+        "Victor Lustig",
+        "Bernie Madoff",
+        "Anna Sorokin (Anna Delvey)"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "İkinci Dünya Savaşı sırasında Nazi işgali altındaki Hollanda'da bir tavan arasında saklanırken yazdığı günlüğüyle tüm dünyada tanınan genç kız kimdir?",
+      "options": [
+        "Anne Frank",
+        "Sophie Scholl",
+        "Corrie ten Boom",
+        "Edith Stein",
+        "Margot Frank"
       ],
       "correct": 0
-    },
-    {
-      "question": "FIFA Dünya Kupası tarihinde tek bir turnuvada 13 gol atarak bu rekoru elinde bulunduran efsanevi futbolcu kimdir?",
-      "options": [
-        "Pelé",
-        "Miroslav Klose",
-        "Just Fontaine",
-        "Gerd Müller",
-        "Ronaldo (Nazário)"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Her yıl moda ve sanat dünyasını bir araya getiren Met Gala'nın düzenlenmesinden ve elde edilen gelirin aktarıldığı kurum aşağıdakilerden hangisidir?",
-      "options": [
-        "Vogue Dergisi",
-        "New York Moda Haftası Komitesi",
-        "Metropolitan Sanat Müzesi Kostüm Enstitüsü",
-        "CFDA (Amerika Moda Tasarımcıları Konseyi)",
-        "Amerikan Film Akademisi"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "İlk ticari MP3 çaları (MPMan) 1998 yılında piyasaya süren ve dijital müzik çalarların yaygınlaşmasında öncü rol oynayan Kore merkezli teknoloji şirketi hangisidir?",
-      "options": [
-        "Apple",
-        "Samsung",
-        "LG",
-        "SaeHan Information Systems",
-        "Creative Labs"
-      ],
-      "correct": 3
     }
   ]
 }
