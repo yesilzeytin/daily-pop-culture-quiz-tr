@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Ünlü rapçi Eminem'in başrolünde oynadığı ve hayatından kesitler sunan yarı otobiyografik filmin adı nedir?",
+      "question": "Türkiye Millî Futbol Takımı'nın tarihinde en çok millî maça çıkan oyuncusu kimdir?",
       "options": [
-        "8 Mile",
-        "Get Rich or Die Tryin'",
-        "Straight Outta Compton",
-        "Notorious",
-        "Hustle & Flow"
+        "Rüştü Reçber",
+        "Hakan Şükür",
+        "Emre Belözoğlu",
+        "Arda Turan",
+        "Burak Yılmaz"
       ],
       "correct": 0
     },
     {
-      "question": "Türkiye Millî Futbol Takımı, 2002 FIFA Dünya Kupası'ndaki üçüncülüğünün ardından katıldığı ilk büyük uluslararası turnuva aşağıdakilerden hangisidir?",
+      "question": "\"Bad Guy\", \"Ocean Eyes\" ve \"What Was I Made For?\" gibi hit şarkılarıyla tanınan, genellikle kendine özgü karanlık ve melankolik tarzıyla bilinen genç pop yıldızı kimdir?",
       "options": [
-        "2004 Avrupa Futbol Şampiyonası",
-        "2006 FIFA Dünya Kupası",
-        "2008 Avrupa Futbol Şampiyonası",
-        "2010 FIFA Dünya Kupası",
-        "2012 Avrupa Futbol Şampiyonası"
+        "Olivia Rodrigo",
+        "Dua Lipa",
+        "Billie Eilish",
+        "Ariana Grande",
+        "Halsey"
       ],
       "correct": 2
     },
     {
-      "question": "Tüm zamanların en yüksek gişe hasılatı elde eden ikinci filmi (Avatar'ın ardından) olan, Marvel Sinematik Evreni'nin epik final filmi aşağıdakilerden hangisidir?",
+      "question": "J.R.R. Tolkien'in \"Yüzüklerin Efendisi\" serisinde, Shire'dan gelen ve Tek Yüzük'ü yok etmekle görevlendirilen hobbit karakterinin adı nedir?",
       "options": [
-        "Avengers: Sonsuzluk Savaşı (Avengers: Infinity War)",
-        "Avatar: Suyun Yolu (Avatar: The Way of Water)",
-        "Yenilmezler: Son Oyun (Avengers: Endgame)",
-        "Örümcek-Adam: Eve Dönüş Yok (Spider-Man: No Way Home)",
-        "Star Wars: Güç Uyanıyor (Star Wars: The Force Awakens)"
+        "Samwise Gamgee",
+        "Merry Brandybuck",
+        "Frodo Baggins",
+        "Pippin Took",
+        "Bilbo Baggins"
       ],
       "correct": 2
     },
     {
-      "question": "Eyfel Kulesi'ni iki kez hurda demir olarak satmaya çalışmasıyla ünlenen, Avusturya asıllı dolandırıcı kimdir?",
+      "question": "\"Hips Don't Lie\", \"Waka Waka (This Time for Africa)\" ve \"Whenever, Wherever\" gibi dünya çapında bilinen hit şarkılarıyla tanınan, Kolombiyalı süperstar şarkıcı kimdir?",
       "options": [
-        "Frank Abagnale Jr.",
-        "Charles Ponzi",
-        "Victor Lustig",
-        "Bernie Madoff",
-        "Anna Sorokin (Anna Delvey)"
+        "Jennifer Lopez",
+        "Camila Cabello",
+        "Shakira",
+        "Natti Natasha",
+        "Karol G"
       ],
       "correct": 2
     },
     {
-      "question": "İkinci Dünya Savaşı sırasında Nazi işgali altındaki Hollanda'da bir tavan arasında saklanırken yazdığı günlüğüyle tüm dünyada tanınan genç kız kimdir?",
+      "question": "Pixar'ın \"Ters Yüz\" (Inside Out) animasyon filminde, genç Riley'nin zihnindeki ana duygulardan biri olan ve her zaman pozitif kalmaya çalışan neşeli karakterin adı nedir?",
       "options": [
-        "Anne Frank",
-        "Sophie Scholl",
-        "Corrie ten Boom",
-        "Edith Stein",
-        "Margot Frank"
+        "Üzüntü",
+        "Korku",
+        "Tiksinti",
+        "Neşe",
+        "Öfke"
       ],
-      "correct": 0
+      "correct": 3
     }
   ]
 }
