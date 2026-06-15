@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Türkiye Millî Futbol Takımı'nın tarihinde en çok millî maça çıkan oyuncusu kimdir?",
+      "question": "Türk Kadın Voleybol Milli Takımı, 2023 yılında tarihindeki ilk Milletler Ligi (VNL) şampiyonluğunu kazanarak büyük bir başarıya imza attı. Finalde hangi takımı yenerek bu unvanı elde etmişlerdir?",
       "options": [
-        "Rüştü Reçber",
-        "Hakan Şükür",
-        "Emre Belözoğlu",
-        "Arda Turan",
-        "Burak Yılmaz"
+        "Brezilya",
+        "İtalya",
+        "Sırbistan",
+        "Çin",
+        "Amerika Birleşik Devletleri"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "2013 yapımı 'Karlar Ülkesi' (Frozen) animasyon filminde, 'Let It Go' şarkısını söyleyen ve buz güçlerine sahip prenses karakteri kimdir?",
+      "options": [
+        "Anna",
+        "Merida",
+        "Elsa",
+        "Moana",
+        "Rapunzel"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "TikTok ve Instagram gibi platformlarda 'CZN Burak' olarak tanınan ve dev porsiyonlarda yemek hazırlayarak popüler olan Türk sosyal medya fenomeni ve şefin gerçek adı nedir?",
+      "options": [
+        "Burak Özdemir",
+        "Burak Çevik",
+        "Burak Yılmaz",
+        "Burak Denizer",
+        "Burak Can"
       ],
       "correct": 0
     },
     {
-      "question": "\"Bad Guy\", \"Ocean Eyes\" ve \"What Was I Made For?\" gibi hit şarkılarıyla tanınan, genellikle kendine özgü karanlık ve melankolik tarzıyla bilinen genç pop yıldızı kimdir?",
+      "question": "Türk futbol tarihinin en önemli başarılarından biri olan 2008 Avrupa Futbol Şampiyonası'nda (Euro 2008), Türkiye Millî Futbol Takımı yarı finalde hangi ülkeye elenmiştir?",
       "options": [
-        "Olivia Rodrigo",
-        "Dua Lipa",
-        "Billie Eilish",
-        "Ariana Grande",
-        "Halsey"
+        "Almanya",
+        "İspanya",
+        "Hollanda",
+        "Portekiz",
+        "Hırvatistan"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "J.R.R. Tolkien'in \"Yüzüklerin Efendisi\" serisinde, Shire'dan gelen ve Tek Yüzük'ü yok etmekle görevlendirilen hobbit karakterinin adı nedir?",
+      "question": "Modern Olimpiyat Oyunları tarihinde üst üste beş farklı Olimpiyat'ta (1984, 1988, 1992, 1996, 2000) altın madalya kazanma başarısı gösteren, İngiliz kürekçi efsanesi kimdir?",
       "options": [
-        "Samwise Gamgee",
-        "Merry Brandybuck",
-        "Frodo Baggins",
-        "Pippin Took",
-        "Bilbo Baggins"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "\"Hips Don't Lie\", \"Waka Waka (This Time for Africa)\" ve \"Whenever, Wherever\" gibi dünya çapında bilinen hit şarkılarıyla tanınan, Kolombiyalı süperstar şarkıcı kimdir?",
-      "options": [
-        "Jennifer Lopez",
-        "Camila Cabello",
-        "Shakira",
-        "Natti Natasha",
-        "Karol G"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Pixar'ın \"Ters Yüz\" (Inside Out) animasyon filminde, genç Riley'nin zihnindeki ana duygulardan biri olan ve her zaman pozitif kalmaya çalışan neşeli karakterin adı nedir?",
-      "options": [
-        "Üzüntü",
-        "Korku",
-        "Tiksinti",
-        "Neşe",
-        "Öfke"
+        "Michael Phelps",
+        "Usain Bolt",
+        "Carl Lewis",
+        "Steve Redgrave",
+        "Paavo Nurmi"
       ],
       "correct": 3
     }
