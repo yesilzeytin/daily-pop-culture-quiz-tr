@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Netflix'in popüler Türk yapımı \"Atiye\" dizisinde başrol karakteri Atiye'yi canlandıran oyuncu kimdir?",
+      "question": "\"Kış Geliyor\" (Winter is Coming) sloganıyla bilinen ve dizi boyunca önemli bir rol oynayan HBO yapımı Game of Thrones'taki hanedanlık aşağıdakilerden hangisidir?",
       "options": [
-        "Beren Saat",
-        "Tuba Büyüküstün",
-        "Farah Zeynep Abdullah",
-        "Serenay Sarıkaya",
-        "Demet Evgar"
+        "Lannister",
+        "Stark",
+        "Targaryen",
+        "Baratheon",
+        "Greyjoy"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
-      "question": "Türkiye'de büyük ilgi gören yemek yarışması \"MasterChef Türkiye\"nin 2018 sezonunda şampiyon olan isim kimdir?",
+      "question": "Netflix'in dünya çapında popüler Güney Kore dizisi Squid Game'de yarışmacıların uğruna mücadele ettiği büyük ödülün miktarı nedir?",
       "options": [
-        "Cemre Uyanık",
-        "Alican Sabunsoy",
-        "Metin Yavuz",
-        "Uğur Kardaş",
-        "Eren Kaşıkçı"
+        "4.56 milyon Won",
+        "45.6 milyar Won",
+        "4.56 milyar Dolar",
+        "456 milyon Won",
+        "45.6 milyon Euro"
       ],
-      "correct": 3
+      "correct": 1
     },
     {
-      "question": "Soğuk Savaş döneminde, uzay yarışının en önemli sembollerinden biri olan ve Sovyetler Birliği tarafından uzaya gönderilen ilk yapay uydu hangisidir?",
+      "question": "Nintendo'nun ikonik karakteri Mario'nun çoğu oyununda ona eşlik eden, genellikle yeşil şapkalı ve bıyıklı küçük kardeşi kimdir?",
       "options": [
-        "Apollo 11",
-        "Hubble",
-        "Soyuz",
-        "Sputnik 1",
-        "Vostok 1"
+        "Wario",
+        "Luigi",
+        "Yoshi",
+        "Toad",
+        "Bowser Jr."
       ],
-      "correct": 3
+      "correct": 1
     },
     {
-      "question": "Birinci Dünya Savaşı'nın siper savaşlarını tek bir kesintisiz çekim gibi gösteren etkileyici sinematografisiyle öne çıkan, Sam Mendes'in yönettiği Oscar ödüllü film hangisidir?",
+      "question": "PlayStation'ın efsanevi oyunu God of War'ın (2018) devam oyunlarında Kratos'un oğlu olan ve ona maceralarında eşlik eden, ok kullanma yeteneğiyle öne çıkan karakterin adı nedir?",
       "options": [
-        "Er Ryan'ı Kurtarmak",
-        "Piyanist",
-        "Dunkirk",
-        "1917",
-        "Cesur Yürek"
+        "Deimos",
+        "Zeus",
+        "Atreus",
+        "Thor",
+        "Baldur"
       ],
-      "correct": 3
+      "correct": 2
     },
     {
-      "question": "\"Yüzyıllık Yalnızlık\" ve \"Kolera Günlerinde Aşk\" gibi başyapıtlarıyla tanınan, 1982 yılında Edebiyat alanında Nobel Ödülü kazanan Kolombiyalı yazar kimdir?",
+      "question": "Birinci Dünya Savaşı'nı konu alan ve siper savaşları, gaz saldırıları ve dönemin teknolojilerini gerçekçi bir şekilde yansıtan popüler video oyunu serisi aşağıdakilerden hangisidir?",
       "options": [
-        "Pablo Neruda",
-        "Jorge Luis Borges",
-        "Mario Vargas Llosa",
-        "Gabriel García Márquez",
-        "Isabel Allende"
+        "Call of Duty",
+        "Medal of Honor",
+        "Battlefield",
+        "Company of Heroes",
+        "Assassin's Creed"
       ],
-      "correct": 3
+      "correct": 2
     }
   ]
 }
