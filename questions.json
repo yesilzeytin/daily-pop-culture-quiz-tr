@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "\"Kış Geliyor\" (Winter is Coming) sloganıyla bilinen ve dizi boyunca önemli bir rol oynayan HBO yapımı Game of Thrones'taki hanedanlık aşağıdakilerden hangisidir?",
+      "question": "Yüzüklerin Efendisi serisinde, Mordor'a giden yolda Frodo ve Sam'e rehberlik eden, daha önce Yüzük'ün esiri olmuş yaratığın adı nedir?",
       "options": [
-        "Lannister",
-        "Stark",
-        "Targaryen",
-        "Baratheon",
-        "Greyjoy"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Netflix'in dünya çapında popüler Güney Kore dizisi Squid Game'de yarışmacıların uğruna mücadele ettiği büyük ödülün miktarı nedir?",
-      "options": [
-        "4.56 milyon Won",
-        "45.6 milyar Won",
-        "4.56 milyar Dolar",
-        "456 milyon Won",
-        "45.6 milyon Euro"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Nintendo'nun ikonik karakteri Mario'nun çoğu oyununda ona eşlik eden, genellikle yeşil şapkalı ve bıyıklı küçük kardeşi kimdir?",
-      "options": [
-        "Wario",
-        "Luigi",
-        "Yoshi",
-        "Toad",
-        "Bowser Jr."
-      ],
-      "correct": 1
-    },
-    {
-      "question": "PlayStation'ın efsanevi oyunu God of War'ın (2018) devam oyunlarında Kratos'un oğlu olan ve ona maceralarında eşlik eden, ok kullanma yeteneğiyle öne çıkan karakterin adı nedir?",
-      "options": [
-        "Deimos",
-        "Zeus",
-        "Atreus",
-        "Thor",
-        "Baldur"
+        "Legolas",
+        "Gimli",
+        "Gollum",
+        "Saruman",
+        "Denethor"
       ],
       "correct": 2
     },
     {
-      "question": "Birinci Dünya Savaşı'nı konu alan ve siper savaşları, gaz saldırıları ve dönemin teknolojilerini gerçekçi bir şekilde yansıtan popüler video oyunu serisi aşağıdakilerden hangisidir?",
+      "question": "Fox Kids'te yayınlanan ve mutant süper kahramanların maceralarını konu alan popüler çizgi film serisi hangisidir?",
       "options": [
-        "Call of Duty",
-        "Medal of Honor",
-        "Battlefield",
-        "Company of Heroes",
-        "Assassin's Creed"
+        "Pokémon",
+        "Beyblade",
+        "X-Men",
+        "Batman: The Animated Series",
+        "Transformers"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "İkinci Dünya Savaşı sırasında Büyük Britanya'nın başbakanlığını yaparak ülkesini zafere taşıyan ve 'Kan, Ter ve Gözyaşı' konuşmasıyla hafızalara kazınan lider kimdir?",
+      "options": [
+        "Franklin D. Roosevelt",
+        "Joseph Stalin",
+        "Adolf Hitler",
+        "Winston Churchill",
+        "Charles de Gaulle"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Yumurcak TV'de yayınlanan ve ana karakter Yugi Muto'nun 'Düello Canavarları' (Duel Monsters) oyunu aracılığıyla eski bir Mısır firavunuyla bağlantı kurarak dünyayı kurtarmaya çalıştığı çizgi film serisi hangisidir?",
+      "options": [
+        "Bakugan",
+        "Winx Club",
+        "Beyblade",
+        "Yu-Gi-Oh!",
+        "Tsubasa"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Türkiye'de özellikle şaşkınlık ve durumu kabullenememe anlarını ifade etmek için kullanılan ve bir dönem internette çok popüler olan 'Çokomel' fotoğrafındaki şaşkın çocuğun ağzındaki yiyecek nedir?",
+      "options": [
+        "Metro",
+        "Biskrem",
+        "Çokomel",
+        "Albeni",
+        "Eti Puf"
       ],
       "correct": 2
     }
