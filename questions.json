@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Yüzüklerin Efendisi serisinde, Mordor'a giden yolda Frodo ve Sam'e rehberlik eden, daha önce Yüzük'ün esiri olmuş yaratığın adı nedir?",
+      "question": "2019 yapımı \"Joker\" filmindeki başrol performansıyla En İyi Erkek Oyuncu Oscar'ını kazanan aktör kimdir?",
       "options": [
-        "Legolas",
-        "Gimli",
-        "Gollum",
-        "Saruman",
-        "Denethor"
+        "Christian Bale",
+        "Robert Pattinson",
+        "Joaquin Phoenix",
+        "Heath Ledger",
+        "Ben Affleck"
       ],
       "correct": 2
     },
     {
-      "question": "Fox Kids'te yayınlanan ve mutant süper kahramanların maceralarını konu alan popüler çizgi film serisi hangisidir?",
+      "question": "Güney Koreli global fenomen K-Pop grubu BTS'in üye sayısı kaçtır?",
       "options": [
-        "Pokémon",
-        "Beyblade",
-        "X-Men",
-        "Batman: The Animated Series",
-        "Transformers"
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
       ],
       "correct": 2
     },
     {
-      "question": "İkinci Dünya Savaşı sırasında Büyük Britanya'nın başbakanlığını yaparak ülkesini zafere taşıyan ve 'Kan, Ter ve Gözyaşı' konuşmasıyla hafızalara kazınan lider kimdir?",
+      "question": "Rihanna, 2015 Met Gala'da \"China: Through the Looking Glass\" temasına uygun giydiği, Çinli tasarımcı Guo Pei imzalı ikonik sarı peleriniyle büyük yankı uyandırmıştı. Bu pelerinin kuyruğunun uzunluğu nedeniyle sosyal medyada en çok hangi yiyeceğe benzetilmiştir?",
       "options": [
-        "Franklin D. Roosevelt",
-        "Joseph Stalin",
-        "Adolf Hitler",
-        "Winston Churchill",
-        "Charles de Gaulle"
+        "Omlet",
+        "Pizza",
+        "Mantı",
+        "Sosisli",
+        "Krep"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Erkekler tenis tarihinde, Roland Garros'ta (Fransa Açık) en çok şampiyonluk kazanan ve \"Toprak Kortun Kralı\" lakabıyla bilinen efsanevi tenisçi kimdir?",
+      "options": [
+        "Roger Federer",
+        "Novak Djokovic",
+        "Andy Murray",
+        "Rafael Nadal",
+        "Pete Sampras"
       ],
       "correct": 3
     },
     {
-      "question": "Yumurcak TV'de yayınlanan ve ana karakter Yugi Muto'nun 'Düello Canavarları' (Duel Monsters) oyunu aracılığıyla eski bir Mısır firavunuyla bağlantı kurarak dünyayı kurtarmaya çalıştığı çizgi film serisi hangisidir?",
+      "question": "Netflix'in dünya çapında popüler İspanyol dizisi \"La Casa de Papel\"de, ekibin soygun planlarını yapan ve zekasıyla öne çıkan lider karakterin lakabı nedir?",
       "options": [
-        "Bakugan",
-        "Winx Club",
-        "Beyblade",
-        "Yu-Gi-Oh!",
-        "Tsubasa"
+        "Berlin",
+        "Profesör",
+        "Tokyo",
+        "Denver",
+        "Rio"
       ],
-      "correct": 3
-    },
-    {
-      "question": "Türkiye'de özellikle şaşkınlık ve durumu kabullenememe anlarını ifade etmek için kullanılan ve bir dönem internette çok popüler olan 'Çokomel' fotoğrafındaki şaşkın çocuğun ağzındaki yiyecek nedir?",
-      "options": [
-        "Metro",
-        "Biskrem",
-        "Çokomel",
-        "Albeni",
-        "Eti Puf"
-      ],
-      "correct": 2
+      "correct": 1
     }
   ]
 }
