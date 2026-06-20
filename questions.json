@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "2019 yapımı \"Joker\" filmindeki başrol performansıyla En İyi Erkek Oyuncu Oscar'ını kazanan aktör kimdir?",
+      "question": "80'ler ve 90'lar boyunca 'Popun Kraliçesi' lakabıyla anılan, 'Like a Prayer', 'Vogue' ve 'Material Girl' gibi sayısız hite imza atmış efsanevi Amerikalı şarkıcı kimdir?",
       "options": [
-        "Christian Bale",
-        "Robert Pattinson",
-        "Joaquin Phoenix",
-        "Heath Ledger",
-        "Ben Affleck"
+        "Mariah Carey",
+        "Whitney Houston",
+        "Janet Jackson",
+        "Celine Dion",
+        "Madonna"
       ],
-      "correct": 2
+      "correct": 4
     },
     {
-      "question": "Güney Koreli global fenomen K-Pop grubu BTS'in üye sayısı kaçtır?",
+      "question": "Türkiye'de özellikle Ramazan ayında sahur vaktinde atılan tweet'lerle popüler hale gelen ve uzun süre Twitter gündemini meşgul eden akım, genellikle ne yenmesi üzerine esprili fikirler sunulmasıyla bilinir?",
       "options": [
-        "5",
-        "6",
-        "7",
-        "8",
-        "9"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Rihanna, 2015 Met Gala'da \"China: Through the Looking Glass\" temasına uygun giydiği, Çinli tasarımcı Guo Pei imzalı ikonik sarı peleriniyle büyük yankı uyandırmıştı. Bu pelerinin kuyruğunun uzunluğu nedeniyle sosyal medyada en çok hangi yiyeceğe benzetilmiştir?",
-      "options": [
-        "Omlet",
-        "Pizza",
-        "Mantı",
-        "Sosisli",
-        "Krep"
+        "Sahurda ne yesem?",
+        "Sahur klasiği",
+        "Sahurda yediğim",
+        "Ramazan menüsü",
+        "Sahur vaktidir"
       ],
       "correct": 0
     },
     {
-      "question": "Erkekler tenis tarihinde, Roland Garros'ta (Fransa Açık) en çok şampiyonluk kazanan ve \"Toprak Kortun Kralı\" lakabıyla bilinen efsanevi tenisçi kimdir?",
+      "question": "'Recep İvedik' serisiyle Türkiye'nin en çok izlenen komedi filmlerine imza atan, aynı zamanda 'Celal ile Ceren' ve 'Osman Pazarlama' gibi yapımlarda da rol alan ünlü komedyen ve oyuncu kimdir?",
       "options": [
-        "Roger Federer",
-        "Novak Djokovic",
-        "Andy Murray",
-        "Rafael Nadal",
-        "Pete Sampras"
+        "Cem Yılmaz",
+        "Ata Demirer",
+        "Tolga Çevik",
+        "Şahan Gökbakar",
+        "Yılmaz Erdoğan"
       ],
       "correct": 3
     },
     {
-      "question": "Netflix'in dünya çapında popüler İspanyol dizisi \"La Casa de Papel\"de, ekibin soygun planlarını yapan ve zekasıyla öne çıkan lider karakterin lakabı nedir?",
+      "question": "Instagram'da makyaj, güzellik ve yaşam tarzı içerikleriyle popüler olan, aynı zamanda mizahi videoları ve kendine özgü tavrıyla tanınan Türk fenomeni kimdir?",
       "options": [
-        "Berlin",
-        "Profesör",
-        "Tokyo",
-        "Denver",
-        "Rio"
+        "Merve Boluğur",
+        "Duygu Özaslan",
+        "Rachel Araz Kiresepi",
+        "Ezgi Fındık",
+        "Danla Bilic"
       ],
-      "correct": 1
+      "correct": 4
+    },
+    {
+      "question": "'Despacito' adlı şarkısıyla dünya çapında rekorlar kırarak Latin müziğini global listelerin zirvesine taşıyan ve popülerleşmesinde büyük rol oynayan Porto Rikolu şarkıcı kimdir?",
+      "options": [
+        "Ricky Martin",
+        "Enrique Iglesias",
+        "Maluma",
+        "Bad Bunny",
+        "Luis Fonsi"
+      ],
+      "correct": 4
     }
   ]
 }
