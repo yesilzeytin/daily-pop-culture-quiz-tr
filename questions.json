@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "80'ler ve 90'lar boyunca 'Popun Kraliçesi' lakabıyla anılan, 'Like a Prayer', 'Vogue' ve 'Material Girl' gibi sayısız hite imza atmış efsanevi Amerikalı şarkıcı kimdir?",
+      "question": "Türk pop müziğinin megastarı Tarkan'ın, uluslararası alanda büyük yankı uyandıran ve pek çok dile çevrilen ikonik şarkısı aşağıdakilerden hangisidir?",
       "options": [
-        "Mariah Carey",
-        "Whitney Houston",
-        "Janet Jackson",
-        "Celine Dion",
-        "Madonna"
-      ],
-      "correct": 4
-    },
-    {
-      "question": "Türkiye'de özellikle Ramazan ayında sahur vaktinde atılan tweet'lerle popüler hale gelen ve uzun süre Twitter gündemini meşgul eden akım, genellikle ne yenmesi üzerine esprili fikirler sunulmasıyla bilinir?",
-      "options": [
-        "Sahurda ne yesem?",
-        "Sahur klasiği",
-        "Sahurda yediğim",
-        "Ramazan menüsü",
-        "Sahur vaktidir"
+        "Şıkıdım",
+        "Kuzu Kuzu",
+        "Dudu",
+        "Ölürüm Sana",
+        "Gül Döktüm Yollarına"
       ],
       "correct": 0
     },
     {
-      "question": "'Recep İvedik' serisiyle Türkiye'nin en çok izlenen komedi filmlerine imza atan, aynı zamanda 'Celal ile Ceren' ve 'Osman Pazarlama' gibi yapımlarda da rol alan ünlü komedyen ve oyuncu kimdir?",
+      "question": "Sinema dünyasının en prestijli ödüllerinden Oscar (Akademi Ödülleri) töreni, her yıl hangi salonda düzenlenmektedir?",
       "options": [
-        "Cem Yılmaz",
-        "Ata Demirer",
-        "Tolga Çevik",
-        "Şahan Gökbakar",
-        "Yılmaz Erdoğan"
+        "Radio City Music Hall",
+        "Royal Albert Hall",
+        "Dolby Theatre",
+        "Carnegie Hall",
+        "The O2 Arena"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "2002 FIFA Dünya Kupası'nda üçüncülük elde ederek Türk futbol tarihinin en büyük başarılarından birine imza atan Türkiye Millî Futbol Takımı'nın teknik direktörlüğünü kim yapmıştır?",
+      "options": [
+        "Fatih Terim",
+        "Şenol Güneş",
+        "Mustafa Denizli",
+        "Mircea Lucescu",
+        "Ersun Yanal"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Amerikalı pop yıldızı Taylor Swift, eski albümlerinin haklarını geri almak ve hayranlarına kendi yorumunu sunmak amacıyla başlattığı yeniden kayıt projesini hangi isimle duyurmuştur?",
+      "options": [
+        "The Revival Collection",
+        "Redone Originals",
+        "Taylor's Version",
+        "From The Vault",
+        "The Unreleased Tapes"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "2022 yılında 96 yaşında hayatını kaybeden Birleşik Krallık Kraliçesi II. Elizabeth, tahtta kaldığı kaç yılla Britanya tarihinin en uzun hüküm süren monarkı olmuştur?",
+      "options": [
+        "55 yıl",
+        "60 yıl",
+        "65 yıl",
+        "70 yıl",
+        "75 yıl"
       ],
       "correct": 3
-    },
-    {
-      "question": "Instagram'da makyaj, güzellik ve yaşam tarzı içerikleriyle popüler olan, aynı zamanda mizahi videoları ve kendine özgü tavrıyla tanınan Türk fenomeni kimdir?",
-      "options": [
-        "Merve Boluğur",
-        "Duygu Özaslan",
-        "Rachel Araz Kiresepi",
-        "Ezgi Fındık",
-        "Danla Bilic"
-      ],
-      "correct": 4
-    },
-    {
-      "question": "'Despacito' adlı şarkısıyla dünya çapında rekorlar kırarak Latin müziğini global listelerin zirvesine taşıyan ve popülerleşmesinde büyük rol oynayan Porto Rikolu şarkıcı kimdir?",
-      "options": [
-        "Ricky Martin",
-        "Enrique Iglesias",
-        "Maluma",
-        "Bad Bunny",
-        "Luis Fonsi"
-      ],
-      "correct": 4
     }
   ]
 }
