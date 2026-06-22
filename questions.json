@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Türk pop müziğinin megastarı Tarkan'ın, uluslararası alanda büyük yankı uyandıran ve pek çok dile çevrilen ikonik şarkısı aşağıdakilerden hangisidir?",
+      "question": "K-Pop grubu Blackpink'in üyelerinden biri olan ve 2021 yılında \"LALISA\" adlı single albümüyle solo çıkış yapan sanatçı kimdir?",
       "options": [
-        "Şıkıdım",
-        "Kuzu Kuzu",
-        "Dudu",
-        "Ölürüm Sana",
-        "Gül Döktüm Yollarına"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Sinema dünyasının en prestijli ödüllerinden Oscar (Akademi Ödülleri) töreni, her yıl hangi salonda düzenlenmektedir?",
-      "options": [
-        "Radio City Music Hall",
-        "Royal Albert Hall",
-        "Dolby Theatre",
-        "Carnegie Hall",
-        "The O2 Arena"
+        "Jennie",
+        "Rosé",
+        "Lisa",
+        "Jisoo",
+        "Dahyun"
       ],
       "correct": 2
     },
     {
-      "question": "2002 FIFA Dünya Kupası'nda üçüncülük elde ederek Türk futbol tarihinin en büyük başarılarından birine imza atan Türkiye Millî Futbol Takımı'nın teknik direktörlüğünü kim yapmıştır?",
+      "question": "Türk spor tarihinde ilk Olimpiyat altın madalyasını kazanan sporcumuz Yaşar Erkan, 1936 Berlin Olimpiyatları'nda hangi güreş stili ve sıkletinde şampiyon olmuştur?",
       "options": [
-        "Fatih Terim",
-        "Şenol Güneş",
-        "Mustafa Denizli",
-        "Mircea Lucescu",
-        "Ersun Yanal"
+        "Serbest Güreş - Tüy Sıklet",
+        "Grekoromen Güreş - Hafif Sıklet",
+        "Grekoromen Güreş - Tüy Sıklet",
+        "Serbest Güreş - Horoz Sıklet",
+        "Grekoromen Güreş - Ağır Sıklet"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Milyonlarca takipçisi olan ve genellikle \"MrBeast\" adıyla tanınan, büyük çaplı para ödüllü meydan okumalar ve hayır işleriyle bilinen Amerikalı YouTuber'ın gerçek adı nedir?",
+      "options": [
+        "Felix Kjellberg",
+        "Mark Fischbach",
+        "Jimmy Donaldson",
+        "Ryan Kaji",
+        "David Dobrik"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türk edebiyatının dünyaca ünlü yazarlarından Orhan Pamuk, Nobel Edebiyat Ödülü'nü hangi yıl kazanmıştır?",
+      "options": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "İngiliz Kraliyet Ailesi üyelerinden Prens Harry, Meghan Markle ile evlendiğinde kendisine ve eşine verilen resmi unvan çifti aşağıdakilerden hangisidir?",
+      "options": [
+        "Cambridge Dükü ve Düşesi",
+        "Sussex Dükü ve Düşesi",
+        "York Dükü ve Düşesi",
+        "Wessex Kontu ve Kontesi",
+        "Gloucester Dükü ve Düşesi"
       ],
       "correct": 1
-    },
-    {
-      "question": "Amerikalı pop yıldızı Taylor Swift, eski albümlerinin haklarını geri almak ve hayranlarına kendi yorumunu sunmak amacıyla başlattığı yeniden kayıt projesini hangi isimle duyurmuştur?",
-      "options": [
-        "The Revival Collection",
-        "Redone Originals",
-        "Taylor's Version",
-        "From The Vault",
-        "The Unreleased Tapes"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "2022 yılında 96 yaşında hayatını kaybeden Birleşik Krallık Kraliçesi II. Elizabeth, tahtta kaldığı kaç yılla Britanya tarihinin en uzun hüküm süren monarkı olmuştur?",
-      "options": [
-        "55 yıl",
-        "60 yıl",
-        "65 yıl",
-        "70 yıl",
-        "75 yıl"
-      ],
-      "correct": 3
     }
   ]
 }
