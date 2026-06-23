@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "K-Pop grubu Blackpink'in üyelerinden biri olan ve 2021 yılında \"LALISA\" adlı single albümüyle solo çıkış yapan sanatçı kimdir?",
+      "question": "\"Aslan Kral\" (The Lion King) animasyon filminde, Simba'nın en yakın arkadaşı olan mizahi ve sadık domuz karakterinin adı nedir?",
       "options": [
-        "Jennie",
-        "Rosé",
-        "Lisa",
-        "Jisoo",
-        "Dahyun"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türk spor tarihinde ilk Olimpiyat altın madalyasını kazanan sporcumuz Yaşar Erkan, 1936 Berlin Olimpiyatları'nda hangi güreş stili ve sıkletinde şampiyon olmuştur?",
-      "options": [
-        "Serbest Güreş - Tüy Sıklet",
-        "Grekoromen Güreş - Hafif Sıklet",
-        "Grekoromen Güreş - Tüy Sıklet",
-        "Serbest Güreş - Horoz Sıklet",
-        "Grekoromen Güreş - Ağır Sıklet"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Milyonlarca takipçisi olan ve genellikle \"MrBeast\" adıyla tanınan, büyük çaplı para ödüllü meydan okumalar ve hayır işleriyle bilinen Amerikalı YouTuber'ın gerçek adı nedir?",
-      "options": [
-        "Felix Kjellberg",
-        "Mark Fischbach",
-        "Jimmy Donaldson",
-        "Ryan Kaji",
-        "David Dobrik"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türk edebiyatının dünyaca ünlü yazarlarından Orhan Pamuk, Nobel Edebiyat Ödülü'nü hangi yıl kazanmıştır?",
-      "options": [
-        "2004",
-        "2005",
-        "2006",
-        "2007",
-        "2008"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "İngiliz Kraliyet Ailesi üyelerinden Prens Harry, Meghan Markle ile evlendiğinde kendisine ve eşine verilen resmi unvan çifti aşağıdakilerden hangisidir?",
-      "options": [
-        "Cambridge Dükü ve Düşesi",
-        "Sussex Dükü ve Düşesi",
-        "York Dükü ve Düşesi",
-        "Wessex Kontu ve Kontesi",
-        "Gloucester Dükü ve Düşesi"
+        "Timon",
+        "Pumbaa",
+        "Zazu",
+        "Rafiki",
+        "Scar"
       ],
       "correct": 1
+    },
+    {
+      "question": "1960 Roma Olimpiyatları'nda serbest güreşte altın madalya kazanarak Türk spor tarihine adını yazdıran efsanevi güreşçimiz kimdir?",
+      "options": [
+        "Hamza Yerlikaya",
+        "Mithat Bayrak",
+        "Yaşar Doğu",
+        "Mustafa Dağıstanlı",
+        "Mahmut Demir"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "DC Comics evreninin ikonik kötü karakterlerinden \"Harley Quinn\", ilk kez hangi live-action filmde sinema perdesine yansımıştır?",
+      "options": [
+        "Wonder Woman",
+        "Aquaman",
+        "Suicide Squad",
+        "Justice League",
+        "Birds of Prey"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Popüler anime serisi \"Naruto\"da, ana karakter Naruto Uzumaki'nin vücudunda mühürlenmiş olan güçlü kuyruklu canavarın adı nedir?",
+      "options": [
+        "Shukaku",
+        "Matatabi",
+        "Kurama",
+        "Gyuki",
+        "Son Goku"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "1990'ların başında \"Sultanım\", \"Vur Yüreğim\", \"Hovarda\" gibi şarkılarla büyük çıkış yakalayan ve Türk pop müziğine damga vuran kadın sanatçı kimdir?",
+      "options": [
+        "Sezen Aksu",
+        "Ajda Pekkan",
+        "Hande Yener",
+        "Sertab Erener",
+        "Gülşen"
+      ],
+      "correct": 3
     }
   ]
 }
