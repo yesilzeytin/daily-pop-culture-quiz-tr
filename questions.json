@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "\"Aslan Kral\" (The Lion King) animasyon filminde, Simba'nın en yakın arkadaşı olan mizahi ve sadık domuz karakterinin adı nedir?",
+      "question": "Soğuk Savaş döneminde, Doğu ve Batı Berlin'i ayıran ve 1961'de inşa edilip 1989'da yıkılan ikonik yapı nedir?",
       "options": [
-        "Timon",
-        "Pumbaa",
-        "Zazu",
-        "Rafiki",
-        "Scar"
+        "Brandenburg Kapısı",
+        "Kremlin Duvarı",
+        "Berlin Duvarı",
+        "Demir Perde",
+        "Checkpoint Charlie"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "J.R.R. Tolkien'in Yüzüklerin Efendisi evreninde, Cüce ırkının en büyük ve eski şehirlerinden biri olan, ancak Balrog tarafından istila edildikten sonra terk edilen yerin adı nedir?",
+      "options": [
+        "Erebor (Yalnız Dağ)",
+        "Iron Hills (Demir Tepeler)",
+        "Khazad-dûm (Moria)",
+        "Helm's Deep (Miğfer Dibi)",
+        "Dale"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türk rap müziğinin önde gelen isimlerinden biri olan ve \"Neyim Var Ki\" ve \"Bir Pesimistin Gözyaşları\" gibi şarkılarıyla tanınan sanatçı kimdir?",
+      "options": [
+        "Ezhel",
+        "Ceza",
+        "Sagopa Kajmer",
+        "Killa Hakan",
+        "Fuat Ergin"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Pixar Animasyon Stüdyoları'nın ilk uzun metrajlı filmi olan ve oyuncakların gizli yaşamını konu alan yapım hangisidir?",
+      "options": [
+        "Yukarı Bak (Up)",
+        "Wall-E",
+        "Oyuncak Hikayesi (Toy Story)",
+        "Sevimli Canavarlar (Monsters, Inc.)",
+        "Arabalar (Cars)"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türkiye, Eurovision Şarkı Yarışması'ndaki ilk ve tek birinciliğini 2003 yılında Sertab Erener'in seslendirdiği hangi şarkıyla kazanmıştır?",
+      "options": [
+        "Düm Tek Tek",
+        "Everyway That I Can",
+        "Deli",
+        "For Real",
+        "Dinle"
       ],
       "correct": 1
-    },
-    {
-      "question": "1960 Roma Olimpiyatları'nda serbest güreşte altın madalya kazanarak Türk spor tarihine adını yazdıran efsanevi güreşçimiz kimdir?",
-      "options": [
-        "Hamza Yerlikaya",
-        "Mithat Bayrak",
-        "Yaşar Doğu",
-        "Mustafa Dağıstanlı",
-        "Mahmut Demir"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "DC Comics evreninin ikonik kötü karakterlerinden \"Harley Quinn\", ilk kez hangi live-action filmde sinema perdesine yansımıştır?",
-      "options": [
-        "Wonder Woman",
-        "Aquaman",
-        "Suicide Squad",
-        "Justice League",
-        "Birds of Prey"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Popüler anime serisi \"Naruto\"da, ana karakter Naruto Uzumaki'nin vücudunda mühürlenmiş olan güçlü kuyruklu canavarın adı nedir?",
-      "options": [
-        "Shukaku",
-        "Matatabi",
-        "Kurama",
-        "Gyuki",
-        "Son Goku"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "1990'ların başında \"Sultanım\", \"Vur Yüreğim\", \"Hovarda\" gibi şarkılarla büyük çıkış yakalayan ve Türk pop müziğine damga vuran kadın sanatçı kimdir?",
-      "options": [
-        "Sezen Aksu",
-        "Ajda Pekkan",
-        "Hande Yener",
-        "Sertab Erener",
-        "Gülşen"
-      ],
-      "correct": 3
     }
   ]
 }
