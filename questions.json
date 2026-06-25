@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Soğuk Savaş döneminde, Doğu ve Batı Berlin'i ayıran ve 1961'de inşa edilip 1989'da yıkılan ikonik yapı nedir?",
+      "question": "Cartoon Network'ün popüler çizgi dizisi \"Ben 10\"da, Ben Tennyson'ın farklı uzaylılara dönüşmesini sağlayan bilekliğinin adı nedir?",
       "options": [
-        "Brandenburg Kapısı",
-        "Kremlin Duvarı",
-        "Berlin Duvarı",
-        "Demir Perde",
-        "Checkpoint Charlie"
+        "Omnitrix",
+        "Alienator",
+        "Metamorphix",
+        "Galaxius",
+        "Transformix"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "J.R.R. Tolkien'in Yüzüklerin Efendisi evreninde, Cüce ırkının en büyük ve eski şehirlerinden biri olan, ancak Balrog tarafından istila edildikten sonra terk edilen yerin adı nedir?",
+      "question": "Türkiye'de \"Müslüm Baba\" lakabıyla tanınan, arabesk müziğin efsanevi isimlerinden biri olan sanatçı kimdir?",
       "options": [
-        "Erebor (Yalnız Dağ)",
-        "Iron Hills (Demir Tepeler)",
-        "Khazad-dûm (Moria)",
-        "Helm's Deep (Miğfer Dibi)",
-        "Dale"
+        "Orhan Gencebay",
+        "İbrahim Tatlıses",
+        "Ferdi Tayfur",
+        "Müslüm Gürses",
+        "Hakkı Bulut"
       ],
-      "correct": 2
+      "correct": 3
     },
     {
-      "question": "Türk rap müziğinin önde gelen isimlerinden biri olan ve \"Neyim Var Ki\" ve \"Bir Pesimistin Gözyaşları\" gibi şarkılarıyla tanınan sanatçı kimdir?",
+      "question": "Yılmaz Erdoğan'ın senaryosunu yazdığı ve yönettiği, ayrıca başrollerinden birini oynadığı, 2001 yapımı \"Vizontele\" filmindeki belediye başkanı \"Deli Emin\" karakterini kim canlandırmıştır?",
       "options": [
-        "Ezhel",
-        "Ceza",
-        "Sagopa Kajmer",
-        "Killa Hakan",
-        "Fuat Ergin"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Pixar Animasyon Stüdyoları'nın ilk uzun metrajlı filmi olan ve oyuncakların gizli yaşamını konu alan yapım hangisidir?",
-      "options": [
-        "Yukarı Bak (Up)",
-        "Wall-E",
-        "Oyuncak Hikayesi (Toy Story)",
-        "Sevimli Canavarlar (Monsters, Inc.)",
-        "Arabalar (Cars)"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türkiye, Eurovision Şarkı Yarışması'ndaki ilk ve tek birinciliğini 2003 yılında Sertab Erener'in seslendirdiği hangi şarkıyla kazanmıştır?",
-      "options": [
-        "Düm Tek Tek",
-        "Everyway That I Can",
-        "Deli",
-        "For Real",
-        "Dinle"
+        "Demet Akbağ",
+        "Altan Erkekli",
+        "Cem Yılmaz",
+        "Şener Şen",
+        "Yılmaz Erdoğan"
       ],
       "correct": 1
+    },
+    {
+      "question": "Twitch platformunda \"Jahrein\" adıyla tanınan, uzun yıllardır yayıncılık yapan ve genellikle siyaset, sosyal konular ve oyunlar hakkında içerik üreten Türk fenomenin gerçek adı nedir?",
+      "options": [
+        "Pqueen",
+        "Berkcan Güven",
+        "Ahmet Sonuç",
+        "Kendine Müzisyen",
+        "Efe Aydal"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Marvel Sinematik Evreni'nde (MCU) \"Yenilmezler\" (Avengers) ekibinin kurucu üyelerinden biri olan ve güçlü demir zırhıyla tanınan karakter kimdir?",
+      "options": [
+        "Kaptan Amerika",
+        "Thor",
+        "Iron Man",
+        "Hulk",
+        "Kara Dul"
+      ],
+      "correct": 2
     }
   ]
 }
