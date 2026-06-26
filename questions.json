@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Cartoon Network'ün popüler çizgi dizisi \"Ben 10\"da, Ben Tennyson'ın farklı uzaylılara dönüşmesini sağlayan bilekliğinin adı nedir?",
+      "question": "Yumurcak TV'de yayınlanan popüler Japon animesi \"Ay Savaşçısı\"nda (Sailor Moon), ana karakter Usagi Tsukino'nun dönüştüğü süper kahramanın adı nedir?",
       "options": [
-        "Omnitrix",
-        "Alienator",
-        "Metamorphix",
-        "Galaxius",
-        "Transformix"
+        "Ay Savaşçısı",
+        "Mars Savaşçısı",
+        "Venüs Savaşçısı",
+        "Merkür Savaşçısı",
+        "Jüpiter Savaşçısı"
       ],
       "correct": 0
     },
     {
-      "question": "Türkiye'de \"Müslüm Baba\" lakabıyla tanınan, arabesk müziğin efsanevi isimlerinden biri olan sanatçı kimdir?",
+      "question": "Fox Kids kanalında izleyiciyle buluşan \"Mighty Morphin Power Rangers\" serisinde, Power Rangers ekibinin orijinal kırmızı renkli lideri kimdi?",
       "options": [
-        "Orhan Gencebay",
-        "İbrahim Tatlıses",
-        "Ferdi Tayfur",
-        "Müslüm Gürses",
-        "Hakkı Bulut"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Yılmaz Erdoğan'ın senaryosunu yazdığı ve yönettiği, ayrıca başrollerinden birini oynadığı, 2001 yapımı \"Vizontele\" filmindeki belediye başkanı \"Deli Emin\" karakterini kim canlandırmıştır?",
-      "options": [
-        "Demet Akbağ",
-        "Altan Erkekli",
-        "Cem Yılmaz",
-        "Şener Şen",
-        "Yılmaz Erdoğan"
+        "Tommy Oliver",
+        "Jason Lee Scott",
+        "Billy Cranston",
+        "Zack Taylor",
+        "Trini Kwan"
       ],
       "correct": 1
     },
     {
-      "question": "Twitch platformunda \"Jahrein\" adıyla tanınan, uzun yıllardır yayıncılık yapan ve genellikle siyaset, sosyal konular ve oyunlar hakkında içerik üreten Türk fenomenin gerçek adı nedir?",
+      "question": "90'lı yılların ikonik grunge grubu Nirvana'nın \"Nevermind\" albümünde yer alan ve grubun dünya çapında ün kazanmasını sağlayan hit parça hangisidir?",
       "options": [
-        "Pqueen",
-        "Berkcan Güven",
-        "Ahmet Sonuç",
-        "Kendine Müzisyen",
-        "Efe Aydal"
+        "Lithium",
+        "Come As You Are",
+        "Smells Like Teen Spirit",
+        "In Bloom",
+        "Heart-Shaped Box"
       ],
       "correct": 2
     },
     {
-      "question": "Marvel Sinematik Evreni'nde (MCU) \"Yenilmezler\" (Avengers) ekibinin kurucu üyelerinden biri olan ve güçlü demir zırhıyla tanınan karakter kimdir?",
+      "question": "PlayStation'ın sevilen aksiyon-macera serisi Uncharted'da, ana karakter Nathan Drake'in uzun süredir devam eden akıl hocası ve güvenilir ortağı olan, espri anlayışıyla tanınan karakterin adı nedir?",
       "options": [
-        "Kaptan Amerika",
-        "Thor",
-        "Iron Man",
-        "Hulk",
-        "Kara Dul"
+        "Sam Drake",
+        "Harry Flynn",
+        "Rafe Adler",
+        "Victor Sullivan",
+        "Charlie Cutter"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "YouTube Türkiye'nin önde gelen isimlerinden Enes Batur, kariyerinin ilk dönemlerinde özellikle hangi türde çektiği videolarla büyük bir takipçi kitlesi edinmiştir?",
+      "options": [
+        "Güzellik ve Makyaj Videoları",
+        "Yemek ve Mutfak İçerikleri",
+        "Oyun ve Eğlence Videoları",
+        "Bilim ve Teknoloji Belgeselleri",
+        "Tarihi ve Kültürel Gezi Videoları"
       ],
       "correct": 2
     }
