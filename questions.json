@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Yumurcak TV'de yayınlanan popüler Japon animesi \"Ay Savaşçısı\"nda (Sailor Moon), ana karakter Usagi Tsukino'nun dönüştüğü süper kahramanın adı nedir?",
+      "question": "Türkiye'nin en popüler Twitch yayıncılarından biri olan ve 'Kendine Müzisyen' lakabıyla da bilinen sanatçının gerçek adı nedir?",
       "options": [
-        "Ay Savaşçısı",
-        "Mars Savaşçısı",
-        "Venüs Savaşçısı",
-        "Merkür Savaşçısı",
-        "Jüpiter Savaşçısı"
+        "Kemal Can Parlak",
+        "Ferit Karakaya",
+        "Tuna Akşen",
+        "Cantuğ Özsoy",
+        "Gürkan Akçay"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "question": "Fox Kids kanalında izleyiciyle buluşan \"Mighty Morphin Power Rangers\" serisinde, Power Rangers ekibinin orijinal kırmızı renkli lideri kimdi?",
+      "question": "1990'lı yılların sonlarında piyasaya sürülen ve strateji oyunları arasında bir klasik haline gelen, farklı uygarlıklar seçerek şehirler kurup ordular yönettiğimiz popüler PC oyunu serisi hangisidir?",
       "options": [
-        "Tommy Oliver",
-        "Jason Lee Scott",
-        "Billy Cranston",
-        "Zack Taylor",
-        "Trini Kwan"
+        "StarCraft",
+        "Warcraft",
+        "Age of Empires",
+        "Command & Conquer",
+        "Civilization"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "80'ler ve 90'lar boyunca Türk müziğine damga vurmuş, 'Lambaya Püf De', 'Gülpembe', 'Arkadaşım Eşek' gibi unutulmaz şarkılara imza atmış efsanevi sanatçı kimdir?",
+      "options": [
+        "Cem Karaca",
+        "Barış Manço",
+        "Erkin Koray",
+        "Fikret Kızılok",
+        "Moğollar"
       ],
       "correct": 1
     },
     {
-      "question": "90'lı yılların ikonik grunge grubu Nirvana'nın \"Nevermind\" albümünde yer alan ve grubun dünya çapında ün kazanmasını sağlayan hit parça hangisidir?",
+      "question": "Türk pop müziğinin 'Megastar'ı olarak bilinen Tarkan'ın, 1997 yılında çıkardığı ve 'Şıkıdım', 'Kuzu Kuzu', 'Salina Salina' gibi popüler şarkıları içeren albümünün adı nedir?",
       "options": [
-        "Lithium",
-        "Come As You Are",
-        "Smells Like Teen Spirit",
-        "In Bloom",
-        "Heart-Shaped Box"
+        "Karma",
+        "Aacayipsin",
+        "Ölürüm Sana",
+        "Adımı Kalbine Yaz",
+        "Dudu"
       ],
       "correct": 2
     },
     {
-      "question": "PlayStation'ın sevilen aksiyon-macera serisi Uncharted'da, ana karakter Nathan Drake'in uzun süredir devam eden akıl hocası ve güvenilir ortağı olan, espri anlayışıyla tanınan karakterin adı nedir?",
+      "question": "Formula 1 tarihinin en efsanevi pilotlarından Michael Schumacher, yedi dünya şampiyonluğunun beşini hangi takımla kazanmıştır?",
       "options": [
-        "Sam Drake",
-        "Harry Flynn",
-        "Rafe Adler",
-        "Victor Sullivan",
-        "Charlie Cutter"
+        "Mercedes",
+        "McLaren",
+        "Red Bull Racing",
+        "Ferrari",
+        "Williams"
       ],
       "correct": 3
-    },
-    {
-      "question": "YouTube Türkiye'nin önde gelen isimlerinden Enes Batur, kariyerinin ilk dönemlerinde özellikle hangi türde çektiği videolarla büyük bir takipçi kitlesi edinmiştir?",
-      "options": [
-        "Güzellik ve Makyaj Videoları",
-        "Yemek ve Mutfak İçerikleri",
-        "Oyun ve Eğlence Videoları",
-        "Bilim ve Teknoloji Belgeselleri",
-        "Tarihi ve Kültürel Gezi Videoları"
-      ],
-      "correct": 2
     }
   ]
 }
