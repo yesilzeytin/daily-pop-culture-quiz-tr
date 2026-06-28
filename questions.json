@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Türkiye'nin en popüler Twitch yayıncılarından biri olan ve 'Kendine Müzisyen' lakabıyla da bilinen sanatçının gerçek adı nedir?",
+      "question": "Netflix'in popüler dizisi \"Stranger Things\"de, telekinetik güçlere sahip olan ve Upside Down (Ters Dünya) ile bağlantılı olan genç kız karakterinin adı nedir?",
       "options": [
-        "Kemal Can Parlak",
-        "Ferit Karakaya",
-        "Tuna Akşen",
-        "Cantuğ Özsoy",
-        "Gürkan Akçay"
+        "Max Mayfield",
+        "Nancy Wheeler",
+        "Eleven (Onbir)",
+        "Robin Buckley",
+        "Erica Sinclair"
       ],
       "correct": 2
     },
     {
-      "question": "1990'lı yılların sonlarında piyasaya sürülen ve strateji oyunları arasında bir klasik haline gelen, farklı uygarlıklar seçerek şehirler kurup ordular yönettiğimiz popüler PC oyunu serisi hangisidir?",
+      "question": "Pixar yapımı \"Coco\" filminde, müziğe olan tutkusunu ailesinden gizleyen ve Ölüler Diyarı'na geçerek büyük dedesiyle tanışan genç çocuğun adı nedir?",
       "options": [
-        "StarCraft",
-        "Warcraft",
-        "Age of Empires",
-        "Command & Conquer",
-        "Civilization"
+        "Miguel Rivera",
+        "Hector Rivera",
+        "Ernesto de la Cruz",
+        "Dante",
+        "Mama Imelda"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "80'ler ve 90'lar boyunca Türk müziğine damga vurmuş, 'Lambaya Püf De', 'Gülpembe', 'Arkadaşım Eşek' gibi unutulmaz şarkılara imza atmış efsanevi sanatçı kimdir?",
+      "question": "\"Cevapsız Çınlama\", \"Diva Yorgun\" ve \"Prenses\" gibi şarkılarıyla tanınan, aynı zamanda uzun yıllar \"O Ses Türkiye\" yarışmasında jüri üyeliği yapmış ünlü Türk pop şarkıcısı kimdir?",
       "options": [
-        "Cem Karaca",
-        "Barış Manço",
-        "Erkin Koray",
-        "Fikret Kızılok",
-        "Moğollar"
+        "Hande Yener",
+        "Hadise",
+        "Demet Akalın",
+        "Gülşen",
+        "Sıla"
       ],
       "correct": 1
     },
     {
-      "question": "Türk pop müziğinin 'Megastar'ı olarak bilinen Tarkan'ın, 1997 yılında çıkardığı ve 'Şıkıdım', 'Kuzu Kuzu', 'Salina Salina' gibi popüler şarkıları içeren albümünün adı nedir?",
+      "question": "Popüler anime serisi \"Attack on Titan\" (Shingeki no Kyojin) evreninde, insanları yiyen devlere karşı savaşan ve Survey Corps'un (Keşif Birliği) karizmatik komutanı olarak bilinen karakter kimdir?",
       "options": [
-        "Karma",
-        "Aacayipsin",
-        "Ölürüm Sana",
-        "Adımı Kalbine Yaz",
-        "Dudu"
+        "Eren Jaeger",
+        "Levi Ackerman",
+        "Mikasa Ackerman",
+        "Armin Arlert",
+        "Erwin Smith"
       ],
-      "correct": 2
+      "correct": 4
     },
     {
-      "question": "Formula 1 tarihinin en efsanevi pilotlarından Michael Schumacher, yedi dünya şampiyonluğunun beşini hangi takımla kazanmıştır?",
+      "question": "Animasyon sinemasının sevilen serilerinden \"Şrek\" (Shrek) filmlerinde, ana karakter Şrek'i Türkçe olarak seslendiren ünlü komedyen ve oyuncu kimdir?",
       "options": [
-        "Mercedes",
-        "McLaren",
-        "Red Bull Racing",
-        "Ferrari",
-        "Williams"
+        "Yılmaz Erdoğan",
+        "Ata Demirer",
+        "Cem Yılmaz",
+        "Şahan Gökbakar",
+        "Okan Bayülgen"
       ],
-      "correct": 3
+      "correct": 4
     }
   ]
 }
