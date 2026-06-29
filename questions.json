@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Netflix'in popüler dizisi \"Stranger Things\"de, telekinetik güçlere sahip olan ve Upside Down (Ters Dünya) ile bağlantılı olan genç kız karakterinin adı nedir?",
+      "question": "Amerikalı aktör Tom Hanks, sinema dünyasında pek çok unutulmaz karaktere hayat vermiştir. \"Forrest Gump\", \"Er Ryan'ı Kurtarmak\" gibi filmlerle tanınan Hanks, \"Oyuncak Hikayesi\" (Toy Story) animasyon serisinde hangi ikonik karaktere sesiyle hayat vermiştir?",
       "options": [
-        "Max Mayfield",
-        "Nancy Wheeler",
-        "Eleven (Onbir)",
-        "Robin Buckley",
-        "Erica Sinclair"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Pixar yapımı \"Coco\" filminde, müziğe olan tutkusunu ailesinden gizleyen ve Ölüler Diyarı'na geçerek büyük dedesiyle tanışan genç çocuğun adı nedir?",
-      "options": [
-        "Miguel Rivera",
-        "Hector Rivera",
-        "Ernesto de la Cruz",
-        "Dante",
-        "Mama Imelda"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "\"Cevapsız Çınlama\", \"Diva Yorgun\" ve \"Prenses\" gibi şarkılarıyla tanınan, aynı zamanda uzun yıllar \"O Ses Türkiye\" yarışmasında jüri üyeliği yapmış ünlü Türk pop şarkıcısı kimdir?",
-      "options": [
-        "Hande Yener",
-        "Hadise",
-        "Demet Akalın",
-        "Gülşen",
-        "Sıla"
+        "Buzz Lightyear",
+        "Woody",
+        "Mr. Potato Head",
+        "Rex",
+        "Slinky Dog"
       ],
       "correct": 1
     },
     {
-      "question": "Popüler anime serisi \"Attack on Titan\" (Shingeki no Kyojin) evreninde, insanları yiyen devlere karşı savaşan ve Survey Corps'un (Keşif Birliği) karizmatik komutanı olarak bilinen karakter kimdir?",
+      "question": "Türk atletizm tarihinin en başarılı isimlerinden biri olan ve 2004 Atina Olimpiyatları'nda kadınlar 5000 metrede gümüş madalya kazanarak Türkiye'ye atletizmdeki ilk Olimpiyat madalyasını getiren sporcumuz kimdir?",
       "options": [
-        "Eren Jaeger",
-        "Levi Ackerman",
-        "Mikasa Ackerman",
-        "Armin Arlert",
-        "Erwin Smith"
+        "Elvan Abeylegesse",
+        "Süreyya Ayhan Kop",
+        "Nevin Yanıt",
+        "Karin Öcal",
+        "Meryem Akdağ"
       ],
-      "correct": 4
+      "correct": 0
     },
     {
-      "question": "Animasyon sinemasının sevilen serilerinden \"Şrek\" (Shrek) filmlerinde, ana karakter Şrek'i Türkçe olarak seslendiren ünlü komedyen ve oyuncu kimdir?",
+      "question": "Andrzej Sapkowski'nin kitap serisinden uyarlanan ve dünya çapında popüler olan \"The Witcher\" dünyasında, ana karakter Geralt of Rivia'nın temel uğraşı ve lakabı nedir?",
       "options": [
-        "Yılmaz Erdoğan",
-        "Ata Demirer",
-        "Cem Yılmaz",
-        "Şahan Gökbakar",
-        "Okan Bayülgen"
+        "Sihirbaz",
+        "Hırsız",
+        "Avcı",
+        "Cadı (Canavar Avcısı)",
+        "Şövalye"
       ],
-      "correct": 4
+      "correct": 3
+    },
+    {
+      "question": "1990'ların sonunda Fox Kids kanalında yayınlanan ve çocukların dünyasında büyük bir fenomen haline gelen \"Digimon Adventure\" animasyon serisinde, ana karakter Tai Kamiya'nın en sadık Digimon ortağı kimdir?",
+      "options": [
+        "Gabumon",
+        "Biyomon",
+        "Agumon",
+        "Tentomon",
+        "Gomamon"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türk Kadın Voleybol Milli Takımı'mız \"Filenin Sultanları\"nın son dönemdeki başarılarında büyük pay sahibi olan, Küba asıllı pasör çaprazı oyuncumuz kimdir?",
+      "options": [
+        "Ebrar Karakurt",
+        "Zehra Güneş",
+        "Hande Baladın",
+        "Melissa Vargas",
+        "Gizem Örge"
+      ],
+      "correct": 3
     }
   ]
 }
