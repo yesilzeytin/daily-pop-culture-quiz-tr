@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Amerikalı aktör Tom Hanks, sinema dünyasında pek çok unutulmaz karaktere hayat vermiştir. \"Forrest Gump\", \"Er Ryan'ı Kurtarmak\" gibi filmlerle tanınan Hanks, \"Oyuncak Hikayesi\" (Toy Story) animasyon serisinde hangi ikonik karaktere sesiyle hayat vermiştir?",
+      "question": "Netflix dizisi The Witcher'da, canavar avcısı Geralt of Rivia karakterini canlandıran ünlü aktör kimdir?",
       "options": [
-        "Buzz Lightyear",
-        "Woody",
-        "Mr. Potato Head",
-        "Rex",
-        "Slinky Dog"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Türk atletizm tarihinin en başarılı isimlerinden biri olan ve 2004 Atina Olimpiyatları'nda kadınlar 5000 metrede gümüş madalya kazanarak Türkiye'ye atletizmdeki ilk Olimpiyat madalyasını getiren sporcumuz kimdir?",
-      "options": [
-        "Elvan Abeylegesse",
-        "Süreyya Ayhan Kop",
-        "Nevin Yanıt",
-        "Karin Öcal",
-        "Meryem Akdağ"
+        "Henry Cavill",
+        "Liam Hemsworth",
+        "Christian Bale",
+        "Tom Hardy",
+        "Benedict Cumberbatch"
       ],
       "correct": 0
     },
     {
-      "question": "Andrzej Sapkowski'nin kitap serisinden uyarlanan ve dünya çapında popüler olan \"The Witcher\" dünyasında, ana karakter Geralt of Rivia'nın temel uğraşı ve lakabı nedir?",
+      "question": "Süper Lig tarihinde en çok şampiyonluk kupasını müzesine götüren futbol kulübü hangisidir?",
       "options": [
-        "Sihirbaz",
-        "Hırsız",
-        "Avcı",
-        "Cadı (Canavar Avcısı)",
-        "Şövalye"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "1990'ların sonunda Fox Kids kanalında yayınlanan ve çocukların dünyasında büyük bir fenomen haline gelen \"Digimon Adventure\" animasyon serisinde, ana karakter Tai Kamiya'nın en sadık Digimon ortağı kimdir?",
-      "options": [
-        "Gabumon",
-        "Biyomon",
-        "Agumon",
-        "Tentomon",
-        "Gomamon"
+        "Fenerbahçe",
+        "Beşiktaş",
+        "Galatasaray",
+        "Trabzonspor",
+        "Bursaspor"
       ],
       "correct": 2
     },
     {
-      "question": "Türk Kadın Voleybol Milli Takımı'mız \"Filenin Sultanları\"nın son dönemdeki başarılarında büyük pay sahibi olan, Küba asıllı pasör çaprazı oyuncumuz kimdir?",
+      "question": "MasterChef Türkiye yarışmasının güncel jüri üyeleri arasında aşağıdakilerden hangisi yer almaz?",
       "options": [
-        "Ebrar Karakurt",
-        "Zehra Güneş",
-        "Hande Baladın",
-        "Melissa Vargas",
-        "Gizem Örge"
+        "Mehmet Yalçınkaya",
+        "Danilo Zanna",
+        "Somer Sivrioğlu",
+        "Arda Türkmen",
+        "Yılmaz Öztürk"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "League of Legends Dünya Şampiyonası (Worlds) tarihinde en çok şampiyonluk kazanan takım hangisidir?",
+      "options": [
+        "G2 Esports",
+        "Fnatic",
+        "T1 (eski adıyla SKT T1)",
+        "Royal Never Give Up",
+        "Damwon Gaming"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "2010'lu yılların başlarında ortaya çıkan ve genellikle bir Shiba Inu cinsi köpeğin esprili iç monologlarıyla karakterize edilen popüler internet fenomeni (meme) hangisidir?",
+      "options": [
+        "Grumpy Cat",
+        "Success Kid",
+        "Salt Bae",
+        "Doge",
+        "Distracted Boyfriend"
       ],
       "correct": 3
     }
