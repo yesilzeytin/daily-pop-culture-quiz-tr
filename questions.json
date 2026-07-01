@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Netflix dizisi The Witcher'da, canavar avcısı Geralt of Rivia karakterini canlandıran ünlü aktör kimdir?",
+      "question": "HBO'nun popüler dizisi Game of Thrones'ta, 'Kuzey Hatırlar' ve 'Kış Geliyor' mottolarıyla bilinen soylu hane hangisidir?",
       "options": [
-        "Henry Cavill",
-        "Liam Hemsworth",
-        "Christian Bale",
-        "Tom Hardy",
-        "Benedict Cumberbatch"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Süper Lig tarihinde en çok şampiyonluk kupasını müzesine götüren futbol kulübü hangisidir?",
-      "options": [
-        "Fenerbahçe",
-        "Beşiktaş",
-        "Galatasaray",
-        "Trabzonspor",
-        "Bursaspor"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "MasterChef Türkiye yarışmasının güncel jüri üyeleri arasında aşağıdakilerden hangisi yer almaz?",
-      "options": [
-        "Mehmet Yalçınkaya",
-        "Danilo Zanna",
-        "Somer Sivrioğlu",
-        "Arda Türkmen",
-        "Yılmaz Öztürk"
+        "Lannister",
+        "Targaryen",
+        "Baratheon",
+        "Stark",
+        "Tyrell"
       ],
       "correct": 3
     },
     {
-      "question": "League of Legends Dünya Şampiyonası (Worlds) tarihinde en çok şampiyonluk kazanan takım hangisidir?",
+      "question": "Çocukluğumuzun unutulmaz atıştırmalıklarından Tipitip sakızlarının içinden genellikle hangi sürprizler çıkardı?",
       "options": [
-        "G2 Esports",
-        "Fnatic",
-        "T1 (eski adıyla SKT T1)",
-        "Royal Never Give Up",
-        "Damwon Gaming"
+        "Küçük oyuncaklar",
+        "Çıkartmalar",
+        "Dövmeler",
+        "Yapboz parçaları",
+        "Mini kitapçıklar"
       ],
       "correct": 2
     },
     {
-      "question": "2010'lu yılların başlarında ortaya çıkan ve genellikle bir Shiba Inu cinsi köpeğin esprili iç monologlarıyla karakterize edilen popüler internet fenomeni (meme) hangisidir?",
+      "question": "Genç yaşına rağmen sayısız Grammy ödülü kazanan ve 'Bad Guy' şarkısıyla dünya çapında tanınan pop müzik sanatçısı kimdir?",
       "options": [
-        "Grumpy Cat",
-        "Success Kid",
-        "Salt Bae",
-        "Doge",
-        "Distracted Boyfriend"
+        "Olivia Rodrigo",
+        "Doja Cat",
+        "Ariana Grande",
+        "Billie Eilish",
+        "Dua Lipa"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "90'lı yılların sonunda Fox Kids kanalında yayınlanan ve Peter Parker'ın süper kahraman kimliğiyle maceralarını konu alan çizgi film serisinin adı nedir?",
+      "options": [
+        "Batman: The Animated Series",
+        "X-Men Evolution",
+        "Spider-Man: The Animated Series",
+        "Superman: The Animated Series",
+        "Justice League Unlimited"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Grammy ve Oscar ödüllü, 'Lose Yourself' gibi hitlere imza atmış, 'Rap Tanrısı' lakaplı efsanevi rap sanatçısı kimdir?",
+      "options": [
+        "Jay-Z",
+        "Dr. Dre",
+        "50 Cent",
+        "Eminem",
+        "Snoop Dogg"
       ],
       "correct": 3
     }
