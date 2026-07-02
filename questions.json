@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "HBO'nun popüler dizisi Game of Thrones'ta, 'Kuzey Hatırlar' ve 'Kış Geliyor' mottolarıyla bilinen soylu hane hangisidir?",
+      "question": "Ash Ketchum'ın en bilinen ortağı ve 'Elektrik Faresi Pokémonu' olarak tanınan Pokémon aşağıdakilerden hangisidir?",
       "options": [
-        "Lannister",
-        "Targaryen",
-        "Baratheon",
-        "Stark",
-        "Tyrell"
+        "Charmander",
+        "Squirtle",
+        "Bulbasaur",
+        "Pikachu",
+        "Jigglypuff"
       ],
       "correct": 3
     },
     {
-      "question": "Çocukluğumuzun unutulmaz atıştırmalıklarından Tipitip sakızlarının içinden genellikle hangi sürprizler çıkardı?",
+      "question": "Türk pop müziğinin 'Minik Serçe' lakaplı efsanevi ismi, kariyeri boyunca hem kendi seslendirdiği hem de pek çok başka sanatçı için yazdığı ve bestelediği sayısız hit şarkıya imza atmıştır. Bu sanatçı kimdir?",
       "options": [
-        "Küçük oyuncaklar",
-        "Çıkartmalar",
-        "Dövmeler",
-        "Yapboz parçaları",
-        "Mini kitapçıklar"
+        "Ajda Pekkan",
+        "Sertab Erener",
+        "Sezen Aksu",
+        "Hande Yener",
+        "Gülşen"
       ],
       "correct": 2
     },
     {
-      "question": "Genç yaşına rağmen sayısız Grammy ödülü kazanan ve 'Bad Guy' şarkısıyla dünya çapında tanınan pop müzik sanatçısı kimdir?",
+      "question": "Hayao Miyazaki yönetmenliğindeki hangi Studio Ghibli animasyon filmi, yeni bir kasabaya taşınırken ruhlar dünyasında mahsur kalan Chihiro Ogino'nun hikayesini anlatır?",
       "options": [
-        "Olivia Rodrigo",
-        "Doja Cat",
-        "Ariana Grande",
-        "Billie Eilish",
-        "Dua Lipa"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "90'lı yılların sonunda Fox Kids kanalında yayınlanan ve Peter Parker'ın süper kahraman kimliğiyle maceralarını konu alan çizgi film serisinin adı nedir?",
-      "options": [
-        "Batman: The Animated Series",
-        "X-Men Evolution",
-        "Spider-Man: The Animated Series",
-        "Superman: The Animated Series",
-        "Justice League Unlimited"
+        "Komşum Totoro",
+        "Prenses Mononoke",
+        "Ruhların Kaçışı",
+        "Yürüyen Şato",
+        "Rüzgarlı Vadi"
       ],
       "correct": 2
     },
     {
-      "question": "Grammy ve Oscar ödüllü, 'Lose Yourself' gibi hitlere imza atmış, 'Rap Tanrısı' lakaplı efsanevi rap sanatçısı kimdir?",
+      "question": "Genellikle 'Me and the Boys' ifadesiyle başlayan ve bir grup arkadaşın giderek absürt veya yoğun hale gelen durumlarını, çoğu zaman aşırı bir tepkiyle sonuçlanan görseller serisiyle anlatan popüler internet memesi aşağıdakilerden hangisidir?",
       "options": [
-        "Jay-Z",
-        "Dr. Dre",
-        "50 Cent",
-        "Eminem",
-        "Snoop Dogg"
+        "Distracted Boyfriend",
+        "Women Yelling at a Cat",
+        "Me and the Boys",
+        "Hide the Pain Harold",
+        "Success Kid"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "UEFA Şampiyonlar Ligi kupasını rekor kırılarak 14 kez müzesine götüren ve bu alanda en çok şampiyonluk yaşayan kulüp aşağıdakilerden hangisidir?",
+      "options": [
+        "Bayern Münih",
+        "Milan",
+        "Barcelona",
+        "Real Madrid",
+        "Liverpool"
       ],
       "correct": 3
     }
