@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Ash Ketchum'ın en bilinen ortağı ve 'Elektrik Faresi Pokémonu' olarak tanınan Pokémon aşağıdakilerden hangisidir?",
+      "question": "Efsanevi video oyunu serisi \"The Legend of Zelda\"da, Hyrule Krallığı'nı sürekli tehdit eden ve Link'in baş düşmanı olan karakterin adı nedir?",
       "options": [
-        "Charmander",
-        "Squirtle",
-        "Bulbasaur",
-        "Pikachu",
-        "Jigglypuff"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Türk pop müziğinin 'Minik Serçe' lakaplı efsanevi ismi, kariyeri boyunca hem kendi seslendirdiği hem de pek çok başka sanatçı için yazdığı ve bestelediği sayısız hit şarkıya imza atmıştır. Bu sanatçı kimdir?",
-      "options": [
-        "Ajda Pekkan",
-        "Sertab Erener",
-        "Sezen Aksu",
-        "Hande Yener",
-        "Gülşen"
+        "Vaati",
+        "Zant",
+        "Ganondorf",
+        "Demise",
+        "Ghirahim"
       ],
       "correct": 2
     },
     {
-      "question": "Hayao Miyazaki yönetmenliğindeki hangi Studio Ghibli animasyon filmi, yeni bir kasabaya taşınırken ruhlar dünyasında mahsur kalan Chihiro Ogino'nun hikayesini anlatır?",
+      "question": "Akıllı telefon devriminin öncülerinden kabul edilen Apple iPhone, ilk kez hangi yıl piyasaya sürülmüştür?",
       "options": [
-        "Komşum Totoro",
-        "Prenses Mononoke",
-        "Ruhların Kaçışı",
-        "Yürüyen Şato",
-        "Rüzgarlı Vadi"
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009"
       ],
       "correct": 2
     },
     {
-      "question": "Genellikle 'Me and the Boys' ifadesiyle başlayan ve bir grup arkadaşın giderek absürt veya yoğun hale gelen durumlarını, çoğu zaman aşırı bir tepkiyle sonuçlanan görseller serisiyle anlatan popüler internet memesi aşağıdakilerden hangisidir?",
+      "question": "\"The Witcher\" evreninde, Ciri'nin (Cirilla Fiona Elen Riannon) soyunun dayandığı kadim elf kanı soyu genellikle hangi isimle anılır?",
       "options": [
-        "Distracted Boyfriend",
-        "Women Yelling at a Cat",
-        "Me and the Boys",
-        "Hide the Pain Harold",
-        "Success Kid"
+        "Kadim Kan (Elder Blood)",
+        "Ejderha Nefesi (Dragon's Breath)",
+        "Lyria Mirası (Lyrian Legacy)",
+        "Temerya Arması (Temerian Crest)",
+        "Cintra Kalbi (Cintran Heart)"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Grammy ödüllü ve tüm zamanların en çok satan müzik sanatçılarından biri olan ünlü rapçi Eminem'in gerçek adı nedir?",
+      "options": [
+        "Andre Young",
+        "Curtis Jackson",
+        "Marshall Mathers III",
+        "Shawn Carter",
+        "Calvin Broadus Jr."
       ],
       "correct": 2
     },
     {
-      "question": "UEFA Şampiyonlar Ligi kupasını rekor kırılarak 14 kez müzesine götüren ve bu alanda en çok şampiyonluk yaşayan kulüp aşağıdakilerden hangisidir?",
+      "question": "Türk Kadın Voleybol Milli Takımı'mızın \"Filenin Sultanları\"nın önemli oyuncularından Ebrar Karakurt, genellikle hangi pozisyonda oynamaktadır?",
       "options": [
-        "Bayern Münih",
-        "Milan",
-        "Barcelona",
-        "Real Madrid",
-        "Liverpool"
+        "Pasör",
+        "Orta Oyuncu",
+        "Libero",
+        "Pasör Çaprazı",
+        "Smaçör"
       ],
       "correct": 3
     }
