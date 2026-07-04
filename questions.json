@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Efsanevi video oyunu serisi \"The Legend of Zelda\"da, Hyrule Krallığı'nı sürekli tehdit eden ve Link'in baş düşmanı olan karakterin adı nedir?",
+      "question": "Cem Yılmaz'ın 'AROG' filminde, taş devrine giderek yaşadığı maceralarda karşılaştığı ve kendisinin mağara adamı versiyonu olan karakterin adı nedir?",
       "options": [
-        "Vaati",
-        "Zant",
-        "Ganondorf",
-        "Demise",
-        "Ghirahim"
+        "Arif",
+        "Taşo",
+        "Logar",
+        "Kaaya",
+        "Robot 216"
       ],
-      "correct": 2
+      "correct": 3
     },
     {
-      "question": "Akıllı telefon devriminin öncülerinden kabul edilen Apple iPhone, ilk kez hangi yıl piyasaya sürülmüştür?",
+      "question": "90'lı yılların en popüler müzik gruplarından biri olan Spice Girls'ün 'girl power' temasını işleyen ilk single'ı ve en bilinen şarkılarından biri hangisidir?",
       "options": [
-        "2005",
-        "2006",
-        "2007",
-        "2008",
-        "2009"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "\"The Witcher\" evreninde, Ciri'nin (Cirilla Fiona Elen Riannon) soyunun dayandığı kadim elf kanı soyu genellikle hangi isimle anılır?",
-      "options": [
-        "Kadim Kan (Elder Blood)",
-        "Ejderha Nefesi (Dragon's Breath)",
-        "Lyria Mirası (Lyrian Legacy)",
-        "Temerya Arması (Temerian Crest)",
-        "Cintra Kalbi (Cintran Heart)"
+        "Wannabe",
+        "Spice Up Your Life",
+        "Viva Forever",
+        "Stop",
+        "Say You'll Be There"
       ],
       "correct": 0
     },
     {
-      "question": "Grammy ödüllü ve tüm zamanların en çok satan müzik sanatçılarından biri olan ünlü rapçi Eminem'in gerçek adı nedir?",
+      "question": "Türk futbolunun efsanevi isimlerinden biri olan ve 1987-1988 sezonunda Avrupa Gol Kralı unvanını kazanan ilk ve tek Türk futbolcu kimdir?",
       "options": [
-        "Andre Young",
-        "Curtis Jackson",
-        "Marshall Mathers III",
-        "Shawn Carter",
-        "Calvin Broadus Jr."
+        "Metin Oktay",
+        "Tanju Çolak",
+        "Hakan Şükür",
+        "Lefter Küçükandonyadis",
+        "Fatih Terim"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "UEFA Şampiyonlar Ligi tarihinde bir maçta 5 gol atma başarısını gösteren ilk futbolcu aşağıdakilerden hangisidir?",
+      "options": [
+        "Cristiano Ronaldo",
+        "Robert Lewandowski",
+        "Lionel Messi",
+        "Erling Haaland",
+        "Karim Benzema"
       ],
       "correct": 2
     },
     {
-      "question": "Türk Kadın Voleybol Milli Takımı'mızın \"Filenin Sultanları\"nın önemli oyuncularından Ebrar Karakurt, genellikle hangi pozisyonda oynamaktadır?",
+      "question": "Survivor Türkiye tarihinde şampiyonluk kazanan ilk kadın yarışmacı kimdir?",
       "options": [
-        "Pasör",
-        "Orta Oyuncu",
-        "Libero",
-        "Pasör Çaprazı",
-        "Smaçör"
+        "Merve Oflaz",
+        "Sema Aydemir",
+        "Nagihan Karadere",
+        "Damla Can",
+        "Gizem Kerimoğlu"
       ],
-      "correct": 3
+      "correct": 0
     }
   ]
 }
