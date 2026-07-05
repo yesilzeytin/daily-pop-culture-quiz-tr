@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Cem Yılmaz'ın 'AROG' filminde, taş devrine giderek yaşadığı maceralarda karşılaştığı ve kendisinin mağara adamı versiyonu olan karakterin adı nedir?",
+      "question": "Dünya çapında milyonlarca oyuncusu bulunan ve Riot Games tarafından geliştirilen popüler taktiksel nişancı (FPS) oyunu aşağıdakilerden hangisidir?",
       "options": [
-        "Arif",
-        "Taşo",
-        "Logar",
-        "Kaaya",
-        "Robot 216"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "90'lı yılların en popüler müzik gruplarından biri olan Spice Girls'ün 'girl power' temasını işleyen ilk single'ı ve en bilinen şarkılarından biri hangisidir?",
-      "options": [
-        "Wannabe",
-        "Spice Up Your Life",
-        "Viva Forever",
-        "Stop",
-        "Say You'll Be There"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Türk futbolunun efsanevi isimlerinden biri olan ve 1987-1988 sezonunda Avrupa Gol Kralı unvanını kazanan ilk ve tek Türk futbolcu kimdir?",
-      "options": [
-        "Metin Oktay",
-        "Tanju Çolak",
-        "Hakan Şükür",
-        "Lefter Küçükandonyadis",
-        "Fatih Terim"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "UEFA Şampiyonlar Ligi tarihinde bir maçta 5 gol atma başarısını gösteren ilk futbolcu aşağıdakilerden hangisidir?",
-      "options": [
-        "Cristiano Ronaldo",
-        "Robert Lewandowski",
-        "Lionel Messi",
-        "Erling Haaland",
-        "Karim Benzema"
+        "Counter-Strike: Global Offensive",
+        "Overwatch",
+        "Valorant",
+        "Call of Duty",
+        "Apex Legends"
       ],
       "correct": 2
     },
     {
-      "question": "Survivor Türkiye tarihinde şampiyonluk kazanan ilk kadın yarışmacı kimdir?",
+      "question": "YouTube Türkiye'nin en eski ve popüler oyun yayıncılarından biri olan, \"Pintipanda\" lakabıyla tanınan ve genelde hikaye bazlı oyunlar oynayan fenomenin gerçek adı nedir?",
       "options": [
-        "Merve Oflaz",
-        "Sema Aydemir",
-        "Nagihan Karadere",
-        "Damla Can",
-        "Gizem Kerimoğlu"
+        "Pınar Fidan",
+        "Tuna Akşen",
+        "Burak Oyunda",
+        "Cem Yılmaz",
+        "Can Sungur"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Türk internet kültürünün en bilinen caps'lerinden biri olan ve genellikle şaşkınlık, şaka ya da hafif alaycılık ifade etmek için kullanılan \"Anan zaa\" akımı, esas olarak hangi sosyal medya platformu üzerinden yaygınlaşmıştır?",
+      "options": [
+        "Instagram",
+        "Facebook",
+        "TikTok",
+        "Twitter",
+        "Ekşi Sözlük"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Türkiye'deki Twitter kullanıcıları arasında popüler olan ve genellikle bir gülünç veya ironik durumu anlatmak için kullanılan, bir fotoğraf veya video ile birlikte paylaşılan \"Şey değil mi bu?\" kalıbının kökeni hangi ünlü diziden gelmektedir?",
+      "options": [
+        "Leyla ile Mecnun",
+        "Gibi",
+        "Behzat Ç. Bir Ankara Polisiyesi",
+        "Aile Arasında",
+        "Kardeşim Benim"
       ],
       "correct": 0
+    },
+    {
+      "question": "Japon teknoloji devi Nintendo tarafından geliştirilen ve hem ev konsolu hem de taşınabilir el cihazı olarak kullanılabilen, \"Joy-Con\" adlı çıkarılabilir kontrolcüleriyle ünlü hibrit oyun konsolu hangisidir?",
+      "options": [
+        "PlayStation 5",
+        "Xbox Series X",
+        "Nintendo Switch",
+        "Steam Deck",
+        "Sega Mega Drive"
+      ],
+      "correct": 2
     }
   ]
 }
