@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Dünya çapında milyonlarca oyuncusu bulunan ve Riot Games tarafından geliştirilen popüler taktiksel nişancı (FPS) oyunu aşağıdakilerden hangisidir?",
+      "question": "Hangi ünlü aktör, \"Titanik\", \"Başlangıç\" ve \"Diriliş\" filmleriyle tanınır ve nihayetinde \"Diriliş\" ile ilk Oscar'ını kazanmıştır?",
       "options": [
-        "Counter-Strike: Global Offensive",
-        "Overwatch",
-        "Valorant",
-        "Call of Duty",
-        "Apex Legends"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "YouTube Türkiye'nin en eski ve popüler oyun yayıncılarından biri olan, \"Pintipanda\" lakabıyla tanınan ve genelde hikaye bazlı oyunlar oynayan fenomenin gerçek adı nedir?",
-      "options": [
-        "Pınar Fidan",
-        "Tuna Akşen",
-        "Burak Oyunda",
-        "Cem Yılmaz",
-        "Can Sungur"
+        "Brad Pitt",
+        "Leonardo DiCaprio",
+        "Christian Bale",
+        "Tom Hardy",
+        "Joaquin Phoenix"
       ],
       "correct": 1
     },
     {
-      "question": "Türk internet kültürünün en bilinen caps'lerinden biri olan ve genellikle şaşkınlık, şaka ya da hafif alaycılık ifade etmek için kullanılan \"Anan zaa\" akımı, esas olarak hangi sosyal medya platformu üzerinden yaygınlaşmıştır?",
+      "question": "PlayStation'ın popüler aksiyon-macera serisi God of War'ın ana karakteri, Yunan mitolojisindeki savaş tanrısına karşı intikam arayışıyla bilinen Spartalı savaşçı kimdir?",
       "options": [
-        "Instagram",
-        "Facebook",
-        "TikTok",
-        "Twitter",
-        "Ekşi Sözlük"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Türkiye'deki Twitter kullanıcıları arasında popüler olan ve genellikle bir gülünç veya ironik durumu anlatmak için kullanılan, bir fotoğraf veya video ile birlikte paylaşılan \"Şey değil mi bu?\" kalıbının kökeni hangi ünlü diziden gelmektedir?",
-      "options": [
-        "Leyla ile Mecnun",
-        "Gibi",
-        "Behzat Ç. Bir Ankara Polisiyesi",
-        "Aile Arasında",
-        "Kardeşim Benim"
+        "Kratos",
+        "Ares",
+        "Zeus",
+        "Hercules",
+        "Poseidon"
       ],
       "correct": 0
     },
     {
-      "question": "Japon teknoloji devi Nintendo tarafından geliştirilen ve hem ev konsolu hem de taşınabilir el cihazı olarak kullanılabilen, \"Joy-Con\" adlı çıkarılabilir kontrolcüleriyle ünlü hibrit oyun konsolu hangisidir?",
+      "question": "Soğuk Savaş dönemini konu alan ve casusluk temasını işleyen, Tom Hanks'in başrolde oynadığı 2015 yapımı Steven Spielberg filminin adı nedir?",
       "options": [
-        "PlayStation 5",
-        "Xbox Series X",
-        "Nintendo Switch",
-        "Steam Deck",
-        "Sega Mega Drive"
+        "Casuslar Köprüsü",
+        "Münih",
+        "Er Ryan'ı Kurtarmak",
+        "Post",
+        "Sıkıysa Yakala"
       ],
-      "correct": 2
+      "correct": 0
+    },
+    {
+      "question": "Pixar Animasyon Stüdyoları tarafından yapılan ve kayıp oğlu Nemo'yu bulmak için okyanusu aşan bir palyaço balığının maceralarını anlatan, 2003 yapımı ünlü animasyon filminin adı nedir?",
+      "options": [
+        "Oyuncak Hikayesi",
+        "Sevimli Canavarlar",
+        "Arabalar",
+        "Kayıp Balık Nemo",
+        "Yukarı Bak"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Türkiye'nin Eurovision Şarkı Yarışması tarihinde ilk ve tek birinciliğini kazandığı yıl ve bu zaferi getiren şarkı aşağıdakilerden hangisidir?",
+      "options": [
+        "2003 - Everyway That I Can",
+        "2007 - Shake It Up Şekerim",
+        "2010 - We Could Be The Same",
+        "1997 - Dinle",
+        "2009 - Düm Tek Tek"
+      ],
+      "correct": 0
     }
   ]
 }
