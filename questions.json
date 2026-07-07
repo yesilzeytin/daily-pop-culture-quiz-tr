@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Hangi ünlü aktör, \"Titanik\", \"Başlangıç\" ve \"Diriliş\" filmleriyle tanınır ve nihayetinde \"Diriliş\" ile ilk Oscar'ını kazanmıştır?",
+      "question": "NBA tarihinde tüm zamanların en çok sayı atan oyuncusu rekorunu 2023 yılında kıran ve bu unvanı elinde bulunduran efsanevi basketbolcu kimdir?",
       "options": [
-        "Brad Pitt",
-        "Leonardo DiCaprio",
-        "Christian Bale",
-        "Tom Hardy",
-        "Joaquin Phoenix"
+        "Michael Jordan",
+        "Kareem Abdul-Jabbar",
+        "LeBron James",
+        "Kobe Bryant",
+        "Shaquille O'Neal"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
-      "question": "PlayStation'ın popüler aksiyon-macera serisi God of War'ın ana karakteri, Yunan mitolojisindeki savaş tanrısına karşı intikam arayışıyla bilinen Spartalı savaşçı kimdir?",
+      "question": "Beyaz Futbol programında söylediği \"Beyaz Show'da böyle espriler yapamazsın!\" repliğiyle caps'lere konu olan futbol yorumcusu ve eski hakem kimdir?",
       "options": [
-        "Kratos",
-        "Ares",
-        "Zeus",
-        "Hercules",
-        "Poseidon"
+        "Sinan Engin",
+        "Rasim Ozan Kütahyalı",
+        "Ahmet Çakar",
+        "Erman Toroğlu",
+        "Abdülkerim Durmaz"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "question": "Soğuk Savaş dönemini konu alan ve casusluk temasını işleyen, Tom Hanks'in başrolde oynadığı 2015 yapımı Steven Spielberg filminin adı nedir?",
+      "question": "\"Cep Herkülü\" lakabıyla tanınan efsanevi Türk halterci Naim Süleymanoğlu, Olimpiyat Oyunları tarihinde ülkemize kaç kez altın madalya kazandırmıştır?",
       "options": [
-        "Casuslar Köprüsü",
-        "Münih",
-        "Er Ryan'ı Kurtarmak",
-        "Post",
-        "Sıkıysa Yakala"
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "question": "Pixar Animasyon Stüdyoları tarafından yapılan ve kayıp oğlu Nemo'yu bulmak için okyanusu aşan bir palyaço balığının maceralarını anlatan, 2003 yapımı ünlü animasyon filminin adı nedir?",
+      "question": "Türkiye'de Vine uygulamasının en popüler olduğu dönemlerde kısa ve komik videolarıyla geniş kitlelere ulaşan, özellikle 'Şekerpare' ve 'Anadolu Çocuğu' gibi karakterleriyle bilinen internet fenomeni kimdir?",
       "options": [
-        "Oyuncak Hikayesi",
-        "Sevimli Canavarlar",
-        "Arabalar",
-        "Kayıp Balık Nemo",
-        "Yukarı Bak"
+        "Halil Söyletmez",
+        "Cem Gelinoğlu",
+        "Hakan Hepcan",
+        "Aykut Elmas",
+        "Reynmen"
       ],
       "correct": 3
     },
     {
-      "question": "Türkiye'nin Eurovision Şarkı Yarışması tarihinde ilk ve tek birinciliğini kazandığı yıl ve bu zaferi getiren şarkı aşağıdakilerden hangisidir?",
+      "question": "Twitter Türkiye'de, özellikle bir ürün veya hizmetin fahiş fiyatını eleştirmek için alaycı bir dille kullanılan, \"___ alana ___ bedava\" kalıbıyla başlayan popüler akımın esin kaynağı olan kampanya, hangi markaya aitti?",
       "options": [
-        "2003 - Everyway That I Can",
-        "2007 - Shake It Up Şekerim",
-        "2010 - We Could Be The Same",
-        "1997 - Dinle",
-        "2009 - Düm Tek Tek"
+        "Arçelik",
+        "BİM",
+        "Vestel",
+        "Turkcell",
+        "Migros"
       ],
-      "correct": 0
+      "correct": 2
     }
   ]
 }
