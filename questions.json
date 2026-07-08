@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "NBA tarihinde tüm zamanların en çok sayı atan oyuncusu rekorunu 2023 yılında kıran ve bu unvanı elinde bulunduran efsanevi basketbolcu kimdir?",
+      "question": "Marvel Sinematik Evreni'nde (MSE) Thor karakterinin efsanevi çekicinin adı nedir?",
       "options": [
-        "Michael Jordan",
-        "Kareem Abdul-Jabbar",
-        "LeBron James",
-        "Kobe Bryant",
-        "Shaquille O'Neal"
+        "Mjolnir",
+        "Stormbreaker",
+        "Gungnir",
+        "Uru",
+        "Hofund"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "\"Rolling in the Deep\", \"Someone Like You\" ve \"Hello\" gibi hit şarkılarıyla dünya çapında tanınan İngiliz şarkıcı kimdir?",
+      "options": [
+        "Dua Lipa",
+        "Taylor Swift",
+        "Adele",
+        "Beyoncé",
+        "Rihanna"
       ],
       "correct": 2
     },
     {
-      "question": "Beyaz Futbol programında söylediği \"Beyaz Show'da böyle espriler yapamazsın!\" repliğiyle caps'lere konu olan futbol yorumcusu ve eski hakem kimdir?",
+      "question": "\"Hotline Bling\", \"God's Plan\" ve \"One Dance\" gibi şarkılarıyla bilinen, Kanadalı ünlü rap sanatçısı kimdir?",
       "options": [
-        "Sinan Engin",
-        "Rasim Ozan Kütahyalı",
-        "Ahmet Çakar",
-        "Erman Toroğlu",
-        "Abdülkerim Durmaz"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "\"Cep Herkülü\" lakabıyla tanınan efsanevi Türk halterci Naim Süleymanoğlu, Olimpiyat Oyunları tarihinde ülkemize kaç kez altın madalya kazandırmıştır?",
-      "options": [
-        "1",
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türkiye'de Vine uygulamasının en popüler olduğu dönemlerde kısa ve komik videolarıyla geniş kitlelere ulaşan, özellikle 'Şekerpare' ve 'Anadolu Çocuğu' gibi karakterleriyle bilinen internet fenomeni kimdir?",
-      "options": [
-        "Halil Söyletmez",
-        "Cem Gelinoğlu",
-        "Hakan Hepcan",
-        "Aykut Elmas",
-        "Reynmen"
+        "Kendrick Lamar",
+        "Post Malone",
+        "Travis Scott",
+        "Drake",
+        "J. Cole"
       ],
       "correct": 3
     },
     {
-      "question": "Twitter Türkiye'de, özellikle bir ürün veya hizmetin fahiş fiyatını eleştirmek için alaycı bir dille kullanılan, \"___ alana ___ bedava\" kalıbıyla başlayan popüler akımın esin kaynağı olan kampanya, hangi markaya aitti?",
+      "question": "Türk internet kültüründe, genellikle bir kedinin bacak bacak üstüne atmış şekilde fotoğrafıyla birlikte kullanılan ve \"Çay var içersen\" repliğiyle bilinen popüler caps akımında bahsedilen içecek nedir?",
       "options": [
-        "Arçelik",
-        "BİM",
-        "Vestel",
-        "Turkcell",
-        "Migros"
+        "Kahve",
+        "Soda",
+        "Su",
+        "Çay",
+        "Ayran"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "İstanbul'u karanlık güçlerden koruyan \"Muhafız\" Hakan'ın hikayesini anlatan, başrolünde Çağatay Ulusoy'un yer aldığı ilk Türk orijinal Netflix dizisinin adı nedir?",
+      "options": [
+        "Aşk 101",
+        "Atiye",
+        "Hakan: Muhafız",
+        "Kulüp",
+        "Zeytin Ağacı"
       ],
       "correct": 2
     }
