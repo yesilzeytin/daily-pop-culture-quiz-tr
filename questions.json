@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Marvel Sinematik Evreni'nde (MSE) Thor karakterinin efsanevi çekicinin adı nedir?",
+      "question": "MasterChef Türkiye'nin hangi yarışmacısı, kendine has üslubu ve \"Ayçiçek yağı gibi akıp gidiyor hayat\" sözüyle akıllarda kalmıştır?",
       "options": [
-        "Mjolnir",
-        "Stormbreaker",
-        "Gungnir",
-        "Uru",
-        "Hofund"
+        "Tanya Kilityalı",
+        "Barbaros Yoloğlu",
+        "Sefa Okyay Kılıç",
+        "Hasan Biltekin",
+        "Emir Elidemir"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
-      "question": "\"Rolling in the Deep\", \"Someone Like You\" ve \"Hello\" gibi hit şarkılarıyla dünya çapında tanınan İngiliz şarkıcı kimdir?",
+      "question": "1989'da gerçekleşen ve Soğuk Savaş'ın sembolik sonlarından biri olan duvar yıkılma olayı, popüler kültürde sıkça görülmektedir. Bu duvar hangi şehirde bulunuyordu?",
       "options": [
-        "Dua Lipa",
-        "Taylor Swift",
-        "Adele",
-        "Beyoncé",
-        "Rihanna"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "\"Hotline Bling\", \"God's Plan\" ve \"One Dance\" gibi şarkılarıyla bilinen, Kanadalı ünlü rap sanatçısı kimdir?",
-      "options": [
-        "Kendrick Lamar",
-        "Post Malone",
-        "Travis Scott",
-        "Drake",
-        "J. Cole"
+        "Prag",
+        "Viyana",
+        "Budapeşte",
+        "Berlin",
+        "Varşova"
       ],
       "correct": 3
     },
     {
-      "question": "Türk internet kültüründe, genellikle bir kedinin bacak bacak üstüne atmış şekilde fotoğrafıyla birlikte kullanılan ve \"Çay var içersen\" repliğiyle bilinen popüler caps akımında bahsedilen içecek nedir?",
+      "question": "Hangi Türk rock grubu, 2009 Eurovision Şarkı Yarışması'nda \"We Could Be The Same\" şarkısıyla Türkiye'yi temsil etmiştir?",
       "options": [
-        "Kahve",
-        "Soda",
-        "Su",
-        "Çay",
-        "Ayran"
+        "Duman",
+        "Mor ve Ötesi",
+        "Şebnem Ferah",
+        "maNga",
+        "Athena"
       ],
       "correct": 3
     },
     {
-      "question": "İstanbul'u karanlık güçlerden koruyan \"Muhafız\" Hakan'ın hikayesini anlatan, başrolünde Çağatay Ulusoy'un yer aldığı ilk Türk orijinal Netflix dizisinin adı nedir?",
+      "question": "1970'li ve 80'li yıllarda müziği yanımızda taşımamızı sağlayan ve kaset formatıyla çok popüler olan ilk taşınabilir müzik çalar nedir?",
       "options": [
-        "Aşk 101",
-        "Atiye",
-        "Hakan: Muhafız",
-        "Kulüp",
-        "Zeytin Ağacı"
+        "iPod",
+        "Discman",
+        "Walkman",
+        "MP3 Player",
+        "Zune"
       ],
       "correct": 2
+    },
+    {
+      "question": "Yumurcak TV'de yayınlanan ve çocukların bilimsel konulara ilgisini çeken, otobüsüyle her türlü maceraya atılan ünlü öğretmen karakterinin adı nedir?",
+      "options": [
+        "Müfettiş Gadget",
+        "Bayan Frizzle",
+        "Heidi",
+        "Fred Çakmaktaş",
+        "Red Kit"
+      ],
+      "correct": 1
     }
   ]
 }
