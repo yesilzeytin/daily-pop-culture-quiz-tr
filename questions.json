@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "MasterChef Türkiye'nin hangi yarışmacısı, kendine has üslubu ve \"Ayçiçek yağı gibi akıp gidiyor hayat\" sözüyle akıllarda kalmıştır?",
+      "question": "Recep İvedik karakterini beyaz perdede canlandıran ve filmlerinin senaryosunu yazıp yöneten popüler komedyen kimdir?",
       "options": [
-        "Tanya Kilityalı",
-        "Barbaros Yoloğlu",
-        "Sefa Okyay Kılıç",
-        "Hasan Biltekin",
-        "Emir Elidemir"
+        "Cem Yılmaz",
+        "Şahan Gökbakar",
+        "Ata Demirer",
+        "Tolga Çevik",
+        "Gupse Özay"
       ],
       "correct": 1
     },
     {
-      "question": "1989'da gerçekleşen ve Soğuk Savaş'ın sembolik sonlarından biri olan duvar yıkılma olayı, popüler kültürde sıkça görülmektedir. Bu duvar hangi şehirde bulunuyordu?",
+      "question": "PlayStation'a özel efsanevi oyun serisi God of War'ın ana karakteri Kratos'un, İskandinav mitolojisine geçtikten sonra yanından ayırmadığı oğlunun adı nedir?",
       "options": [
-        "Prag",
-        "Viyana",
-        "Budapeşte",
-        "Berlin",
-        "Varşova"
+        "Atreus",
+        "Calliope",
+        "Deimos",
+        "Thor",
+        "Baldur"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
-      "question": "Hangi Türk rock grubu, 2009 Eurovision Şarkı Yarışması'nda \"We Could Be The Same\" şarkısıyla Türkiye'yi temsil etmiştir?",
+      "question": "Netflix'in dünya çapında popüler olan ve Güney Kore yapımı olan 'Squid Game' dizisinde, yarışmacıların oynadığı ve elenenlerin infaz edildiği ilk oyunun adı nedir?",
       "options": [
-        "Duman",
-        "Mor ve Ötesi",
-        "Şebnem Ferah",
-        "maNga",
-        "Athena"
+        "Kırmızı Işık, Yeşil Işık",
+        "Halat Çekme",
+        "Cam Köprü",
+        "Misket Oyunu",
+        "Ddakji"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
-      "question": "1970'li ve 80'li yıllarda müziği yanımızda taşımamızı sağlayan ve kaset formatıyla çok popüler olan ilk taşınabilir müzik çalar nedir?",
+      "question": "İkinci Dünya Savaşı'nı konu alan ve Steven Spielberg tarafından yönetilen, Normandiya Çıkarması'nın gerçekçi bir betimlemesiyle açılan, ikonik savaş filminin adı nedir?",
       "options": [
-        "iPod",
-        "Discman",
-        "Walkman",
-        "MP3 Player",
-        "Zune"
+        "Er Ryan'ı Kurtarmak (Saving Private Ryan)",
+        "Schindler'in Listesi (Schindler's List)",
+        "Piyanist (The Pianist)",
+        "Dunkirk",
+        "Hayat Güzeldir (Life Is Beautiful)"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "Yumurcak TV'de yayınlanan ve çocukların bilimsel konulara ilgisini çeken, otobüsüyle her türlü maceraya atılan ünlü öğretmen karakterinin adı nedir?",
+      "question": "Nintendo'nun efsanevi karakteri Süper Mario'nun, kardeşi Luigi ile birlikte maceralara atıldığı ve genellikle Prenses Peach'i kurtarmaya çalıştığı oyun serisinde, baş düşmanı olan kaplumbağa benzeri dev karakterin adı nedir?",
       "options": [
-        "Müfettiş Gadget",
-        "Bayan Frizzle",
-        "Heidi",
-        "Fred Çakmaktaş",
-        "Red Kit"
+        "Bowser",
+        "Goomba",
+        "Koopa Troopa",
+        "Wario",
+        "Toad"
       ],
-      "correct": 1
+      "correct": 0
     }
   ]
 }
