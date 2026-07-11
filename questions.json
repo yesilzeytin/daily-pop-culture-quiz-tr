@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Recep İvedik karakterini beyaz perdede canlandıran ve filmlerinin senaryosunu yazıp yöneten popüler komedyen kimdir?",
+      "question": "Türkiye'den Nobel Edebiyat Ödülü kazanan ilk ve tek yazar olan Orhan Pamuk, bu prestijli ödülü hangi yıl almıştır?",
       "options": [
-        "Cem Yılmaz",
-        "Şahan Gökbakar",
-        "Ata Demirer",
-        "Tolga Çevik",
-        "Gupse Özay"
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
-      "question": "PlayStation'a özel efsanevi oyun serisi God of War'ın ana karakteri Kratos'un, İskandinav mitolojisine geçtikten sonra yanından ayırmadığı oğlunun adı nedir?",
+      "question": "Çocukluğumuzun sevilen atıştırmalıklarından Cino çikolatasının en belirgin özelliklerinden biri, genellikle ne ile birlikte satılmasıydı?",
       "options": [
-        "Atreus",
-        "Calliope",
-        "Deimos",
-        "Thor",
-        "Baldur"
+        "Küçük bir oyuncak",
+        "Resimli kartlar",
+        "Mikrofonlu bir pipet",
+        "Küçük plastik bir kaşık",
+        "Hologramlı stickerlar"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
-      "question": "Netflix'in dünya çapında popüler olan ve Güney Kore yapımı olan 'Squid Game' dizisinde, yarışmacıların oynadığı ve elenenlerin infaz edildiği ilk oyunun adı nedir?",
+      "question": "Türk sinemasının usta ismi Şener Şen'in, gençlere 'Almanya'da iş var, gelirsen zengin olursun' vaadiyle kandırıp Türkiye'de çalıştıran karakteri canlandırdığı kült komedi filmi aşağıdakilerden hangisidir?",
       "options": [
-        "Kırmızı Işık, Yeşil Işık",
-        "Halat Çekme",
-        "Cam Köprü",
-        "Misket Oyunu",
-        "Ddakji"
+        "Hababam Sınıfı Sınıfta Kaldı",
+        "Şark Bülbülü",
+        "Kibar Feyzo",
+        "Banker Bilo",
+        "Çiçek Abbas"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
-      "question": "İkinci Dünya Savaşı'nı konu alan ve Steven Spielberg tarafından yönetilen, Normandiya Çıkarması'nın gerçekçi bir betimlemesiyle açılan, ikonik savaş filminin adı nedir?",
+      "question": "Türk pop müziğinin ikonik isimlerinden biri olan ve kariyerinin erken dönemlerinden itibaren 'Süperstar' lakabıyla anılan sanatçı kimdir?",
       "options": [
-        "Er Ryan'ı Kurtarmak (Saving Private Ryan)",
-        "Schindler'in Listesi (Schindler's List)",
-        "Piyanist (The Pianist)",
-        "Dunkirk",
-        "Hayat Güzeldir (Life Is Beautiful)"
+        "Sezen Aksu",
+        "Nil Karaibrahimgil",
+        "Ajda Pekkan",
+        "Hande Yener",
+        "Tarkan"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "question": "Nintendo'nun efsanevi karakteri Süper Mario'nun, kardeşi Luigi ile birlikte maceralara atıldığı ve genellikle Prenses Peach'i kurtarmaya çalıştığı oyun serisinde, baş düşmanı olan kaplumbağa benzeri dev karakterin adı nedir?",
+      "question": "DNA onarımı mekanizmaları üzerine yaptığı çalışmalarla 2015 Nobel Kimya Ödülü'nü kazanan ve Türkiye'nin gururu olan bilim insanımız kimdir?",
       "options": [
-        "Bowser",
-        "Goomba",
-        "Koopa Troopa",
-        "Wario",
-        "Toad"
+        "Canan Dağdeviren",
+        "Celal Şengör",
+        "Feza Gürsey",
+        "Aziz Sancar",
+        "Oktay Sinanoğlu"
       ],
-      "correct": 0
+      "correct": 3
     }
   ]
 }
