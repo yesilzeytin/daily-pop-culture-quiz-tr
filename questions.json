@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Türkiye'den Nobel Edebiyat Ödülü kazanan ilk ve tek yazar olan Orhan Pamuk, bu prestijli ödülü hangi yıl almıştır?",
+      "question": "Yumurcak TV'de yayınlanan, insan vücudunun içinde geçen maceraları konu alan, küçük bir ekip ve özel tasarlanmış araçlarıyla hastalıklarla savaşan çizgi filmin adı nedir?",
       "options": [
-        "2004",
-        "2005",
-        "2006",
-        "2007",
-        "2008"
+        "Recess (Teneffüs Zili)",
+        "Osmosis Jones",
+        "The Magic School Bus (Sihirli Otobüs)",
+        "Esrarengiz Yolculuk (Once Upon a Time... Life)",
+        "Code Lyoko"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Ünlü anime serisi \"One Piece\"te, \"Hasır Şapka Korsanları\"nın kaptanı olan ve lastik bir vücuda sahip Monkey D. Luffy'nin en büyük hayali nedir?",
+      "options": [
+        "Dünyadaki tüm meyveleri toplamak",
+        "Denizlerin en güçlü savaşçısı olmak",
+        "Tüm Yonko'ları yenmek",
+        "Korsanlar Kralı olmak ve One Piece'i bulmak",
+        "Dünya Hükümeti'ni devirmek"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "1980'lerin ikonik pop yıldızlarından biri olan ve \"Like a Virgin\", \"Material Girl\", \"Vogue\" gibi hit şarkılarla dünya çapında ün kazanmış kadın sanatçı kimdir?",
+      "options": [
+        "Mariah Carey",
+        "Whitney Houston",
+        "Janet Jackson",
+        "Céline Dion",
+        "Madonna"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "2000'lerin başlarında yayınlanan ve başrollerinde Halit Ergenç ile Bergüzar Korel'in yer aldığı, 1918 yılında geçen tarihi dönem dizisi \"Binbir Gece\"de, Şehrazat karakterinin oğlu Kaan'ın hastalığı için para bulmaya çalışması hikayenin temelini oluşturur. Şehrazat'ın patronu Onur'dan yardım istemesiyle olaylar gelişir. Bu dizinin konusu itibarıyla hangi tema daha baskındır?",
+      "options": [
+        "Bilim Kurgu",
+        "Doğaüstü Olaylar",
+        "Tarihi Savaşlar",
+        "Dram ve Aşk",
+        "Komedi ve Macera"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Tüm zamanların en iyi tenisçilerinden biri olarak kabul edilen ve özellikle Roland Garros'ta (Fransa Açık) kazandığı 14 şampiyonlukla \"Toprak Kortların Kralı\" unvanını alan İspanyol erkek tenisçi kimdir?",
+      "options": [
+        "Novak Djokovic",
+        "Roger Federer",
+        "Rafael Nadal",
+        "Pete Sampras",
+        "Björn Borg"
       ],
       "correct": 2
-    },
-    {
-      "question": "Çocukluğumuzun sevilen atıştırmalıklarından Cino çikolatasının en belirgin özelliklerinden biri, genellikle ne ile birlikte satılmasıydı?",
-      "options": [
-        "Küçük bir oyuncak",
-        "Resimli kartlar",
-        "Mikrofonlu bir pipet",
-        "Küçük plastik bir kaşık",
-        "Hologramlı stickerlar"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Türk sinemasının usta ismi Şener Şen'in, gençlere 'Almanya'da iş var, gelirsen zengin olursun' vaadiyle kandırıp Türkiye'de çalıştıran karakteri canlandırdığı kült komedi filmi aşağıdakilerden hangisidir?",
-      "options": [
-        "Hababam Sınıfı Sınıfta Kaldı",
-        "Şark Bülbülü",
-        "Kibar Feyzo",
-        "Banker Bilo",
-        "Çiçek Abbas"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Türk pop müziğinin ikonik isimlerinden biri olan ve kariyerinin erken dönemlerinden itibaren 'Süperstar' lakabıyla anılan sanatçı kimdir?",
-      "options": [
-        "Sezen Aksu",
-        "Nil Karaibrahimgil",
-        "Ajda Pekkan",
-        "Hande Yener",
-        "Tarkan"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "DNA onarımı mekanizmaları üzerine yaptığı çalışmalarla 2015 Nobel Kimya Ödülü'nü kazanan ve Türkiye'nin gururu olan bilim insanımız kimdir?",
-      "options": [
-        "Canan Dağdeviren",
-        "Celal Şengör",
-        "Feza Gürsey",
-        "Aziz Sancar",
-        "Oktay Sinanoğlu"
-      ],
-      "correct": 3
     }
   ]
 }
