@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Yumurcak TV'de yayınlanan, insan vücudunun içinde geçen maceraları konu alan, küçük bir ekip ve özel tasarlanmış araçlarıyla hastalıklarla savaşan çizgi filmin adı nedir?",
+      "question": "Marvel Sinematik Evreni'nin (MSE) temelini atan ve 'Iron Man' karakterini beyaz perdeye taşıyarak bu evrenin başlangıcı olarak kabul edilen ilk film hangisidir?",
       "options": [
-        "Recess (Teneffüs Zili)",
-        "Osmosis Jones",
-        "The Magic School Bus (Sihirli Otobüs)",
-        "Esrarengiz Yolculuk (Once Upon a Time... Life)",
-        "Code Lyoko"
+        "Kaptan Amerika: İlk Yenilmez",
+        "Yenilmezler",
+        "Thor",
+        "Iron Man",
+        "İnanılmaz Hulk"
       ],
       "correct": 3
     },
     {
-      "question": "Ünlü anime serisi \"One Piece\"te, \"Hasır Şapka Korsanları\"nın kaptanı olan ve lastik bir vücuda sahip Monkey D. Luffy'nin en büyük hayali nedir?",
+      "question": "Harry Potter evreninde, Hogwarts Cadılık ve Büyücülük Okulu'ndaki dört binadan biri olan ve üyelerini cesaret, şövalyelik ve gözüpekliğiyle tanınan binanın adı nedir?",
       "options": [
-        "Dünyadaki tüm meyveleri toplamak",
-        "Denizlerin en güçlü savaşçısı olmak",
-        "Tüm Yonko'ları yenmek",
-        "Korsanlar Kralı olmak ve One Piece'i bulmak",
-        "Dünya Hükümeti'ni devirmek"
+        "Slytherin",
+        "Ravenclaw",
+        "Hufflepuff",
+        "Gryffindor",
+        "Durmstrang"
       ],
       "correct": 3
     },
     {
-      "question": "1980'lerin ikonik pop yıldızlarından biri olan ve \"Like a Virgin\", \"Material Girl\", \"Vogue\" gibi hit şarkılarla dünya çapında ün kazanmış kadın sanatçı kimdir?",
+      "question": "Küçük siyah elbise (Little Black Dress) konseptini modaya kazandıran ve kadın giyiminde devrim niteliğinde değişiklikler yapan, efsanevi Fransız moda tasarımcısı kimdir?",
       "options": [
-        "Mariah Carey",
-        "Whitney Houston",
-        "Janet Jackson",
-        "Céline Dion",
-        "Madonna"
-      ],
-      "correct": 4
-    },
-    {
-      "question": "2000'lerin başlarında yayınlanan ve başrollerinde Halit Ergenç ile Bergüzar Korel'in yer aldığı, 1918 yılında geçen tarihi dönem dizisi \"Binbir Gece\"de, Şehrazat karakterinin oğlu Kaan'ın hastalığı için para bulmaya çalışması hikayenin temelini oluşturur. Şehrazat'ın patronu Onur'dan yardım istemesiyle olaylar gelişir. Bu dizinin konusu itibarıyla hangi tema daha baskındır?",
-      "options": [
-        "Bilim Kurgu",
-        "Doğaüstü Olaylar",
-        "Tarihi Savaşlar",
-        "Dram ve Aşk",
-        "Komedi ve Macera"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Tüm zamanların en iyi tenisçilerinden biri olarak kabul edilen ve özellikle Roland Garros'ta (Fransa Açık) kazandığı 14 şampiyonlukla \"Toprak Kortların Kralı\" unvanını alan İspanyol erkek tenisçi kimdir?",
-      "options": [
-        "Novak Djokovic",
-        "Roger Federer",
-        "Rafael Nadal",
-        "Pete Sampras",
-        "Björn Borg"
+        "Christian Dior",
+        "Yves Saint Laurent",
+        "Coco Chanel",
+        "Karl Lagerfeld",
+        "Elsa Schiaparelli"
       ],
       "correct": 2
+    },
+    {
+      "question": "Birinci Dünya Savaşı'nın Batı Cephesi'ndeki siper savaşının dehşetini ve askerlerin anlamsızlığını anlatan, Erich Maria Remarque'ın kaleme aldığı ve defalarca sinemaya uyarlanan ünlü anti-savaş romanının adı nedir?",
+      "options": [
+        "Savaş ve Barış",
+        "Gazap Üzümleri",
+        "Çanlar Kimin İçin Çalıyor",
+        "Batı Cephesinde Yeni Bir Şey Yok",
+        "Güneş de Doğar"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Walt Disney Animasyon Stüdyoları'nın 1937 yapımı klasiği 'Pamuk Prenses ve Yedi Cüceler' filminin sinema tarihindeki en büyük önemi nedir?",
+      "options": [
+        "En uzun süre vizyonda kalan animasyon filmi olması",
+        "Tamamen renkli olarak çekilen ilk animasyon filmi olması",
+        "Tüm zamanların en yüksek gişe yapan animasyon filmi olması",
+        "Tam uzunlukta (feature-length) çekilen ilk animasyon filmi olması",
+        "Canlı çekim ve animasyonu bir araya getiren ilk film olması"
+      ],
+      "correct": 3
     }
   ]
 }
