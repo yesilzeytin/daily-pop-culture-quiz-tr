@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "\"Shrek\" animasyon film serisinde Shrek'in en iyi arkadaşı olan, sürekli konuşan ve komik kişiliğiyle bilinen karakterin adı nedir?",
+      "question": "Hangi popüler Güney Kore dizisi, Kuzey Kore'ye zorunlu iniş yapan bir Güney Koreli iş kadını ile bir Kuzey Koreli subay arasındaki aşkı konu alır?",
       "options": [
-        "Eşek (Donkey)",
-        "Çizmeli Kedi (Puss in Boots)",
-        "Kurabiye Adam (Gingy)",
-        "Lord Farquaad",
-        "Pinokyo (Pinocchio)"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Global YouTuber MrBeast, genellikle büyük ödüllü yarışmalar, hayırseverlik projeleri ve ekstrem denemeler içeren videolarıyla tanınır. Bu içeriklerin temel özelliği nedir?",
-      "options": [
-        "Sadece retro oyun incelemeleri sunması",
-        "Makro ekonomi analizleri ve borsa tahminleri yapması",
-        "Minimalist yaşam tarzı ve kişisel gelişim blogları paylaşması",
-        "Yüksek bütçeli, iddialı ve genellikle cömert ödüller içeren etkinlikler düzenlemesi",
-        "Sadece yemek tarifi ve mutfak videoları çekmesi"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Instagram platformunda kullanıcıların kısa, dikey formatta ve müzik, efekt gibi öğelerle zenginleştirilmiş videolar oluşturup paylaşmasını sağlayan, özellikle TikTok'a rakip olarak geliştirilen özelliğin adı nedir?",
-      "options": [
-        "Stories",
-        "IGTV",
-        "Reels",
-        "Live",
-        "Highlights"
+        "Descendants of the Sun",
+        "It's Okay to Not Be Okay",
+        "Crash Landing on You",
+        "Squid Game",
+        "Hospital Playlist"
       ],
       "correct": 2
     },
     {
-      "question": "Star Wars evreninin en ikonik kötü karakterlerinden biri olan Darth Vader, karanlık tarafa geçmeden önce hangi isimle bir Jedi Şövalyesiydi?",
+      "question": "Hangi popüler PC oyunu, büyülü bir dünyada farklı şampiyonları kontrol ederek iki takımın birbirinin ana üssünü yok etmeye çalıştığı bir MOBA (Çok Oyunculu Çevrimiçi Savaş Arenası) oyunudur?",
       "options": [
-        "Obi-Wan Kenobi",
-        "Luke Skywalker",
-        "Mace Windu",
-        "Anakin Skywalker",
-        "Yoda"
+        "Overwatch 2",
+        "Dota 2",
+        "League of Legends",
+        "Apex Legends",
+        "Battlefield 2042"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Disney Channel'ın popüler çizgi filmlerinden hangisi, yaz tatillerinde her gün imkansız gibi görünen icatlar ve projeler yapan iki üvey kardeşin maceralarını konu alır?",
+      "options": [
+        "Kim Possible",
+        "Gravity Falls",
+        "Star vs. the Forces of Evil",
+        "Phineas ve Ferb",
+        "Amphibia"
       ],
       "correct": 3
     },
     {
-      "question": "\"Paramparça\", \"Nilüfer\", \"Hangimiz Sevmedik\" gibi unutulmaz şarkıları seslendiren, hayranları tarafından \"Müslüm Baba\" lakabıyla anılan arabesk müziğin efsanevi ismi kimdir?",
+      "question": "Yüzüklerin Efendisi evreninde, Tek Yüzük'ün gücüyle bozulmuş, bir zamanlar Hobbit olan ancak karanlık bir yaratığa dönüşen karakterin adı nedir?",
       "options": [
-        "Ferdi Tayfur",
-        "Orhan Gencebay",
-        "İbrahim Tatlıses",
-        "Müslüm Gürses",
-        "Bergen"
+        "Gandalf",
+        "Legolas",
+        "Gollum",
+        "Frodo",
+        "Aragorn"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Uzun yıllar boyunca YouTube'da en çok abonesi olan bireysel kanal unvanını elinde tutmuş, İsveçli komedi ve oyun içerikli videolarıyla tanınan ünlü YouTuber'ın platformdaki adı nedir?",
+      "options": [
+        "MrBeast",
+        "Markiplier",
+        "Jacksepticeye",
+        "PewDiePie",
+        "Smosh"
       ],
       "correct": 3
     }
