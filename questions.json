@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Hangi popüler Güney Kore dizisi, Kuzey Kore'ye zorunlu iniş yapan bir Güney Koreli iş kadını ile bir Kuzey Koreli subay arasındaki aşkı konu alır?",
+      "question": "Aşk-ı Memnu dizisinde \"Bihter Ziyagil\" karakterini canlandıran ünlü oyuncu kimdir?",
       "options": [
-        "Descendants of the Sun",
-        "It's Okay to Not Be Okay",
-        "Crash Landing on You",
-        "Squid Game",
-        "Hospital Playlist"
+        "Tuba Büyüküstün",
+        "Hazal Kaya",
+        "Beren Saat",
+        "Farah Zeynep Abdullah",
+        "Serenay Sarıkaya"
       ],
       "correct": 2
     },
     {
-      "question": "Hangi popüler PC oyunu, büyülü bir dünyada farklı şampiyonları kontrol ederek iki takımın birbirinin ana üssünü yok etmeye çalıştığı bir MOBA (Çok Oyunculu Çevrimiçi Savaş Arenası) oyunudur?",
+      "question": "20. yüzyılın en önemli başarılarından biri olarak kabul edilen, Neil Armstrong'un Ay'a ilk ayak basışı hangi yıl gerçekleşmiştir?",
       "options": [
-        "Overwatch 2",
-        "Dota 2",
-        "League of Legends",
-        "Apex Legends",
-        "Battlefield 2042"
+        "1971",
+        "1969",
+        "1965",
+        "1973",
+        "1967"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
-      "question": "Disney Channel'ın popüler çizgi filmlerinden hangisi, yaz tatillerinde her gün imkansız gibi görünen icatlar ve projeler yapan iki üvey kardeşin maceralarını konu alır?",
+      "question": "Popüler Kore dizisi \"Guardian: The Lonely and Great God\" (Goblin) dizisinde, ölümsüz bir Goblin ile bir lise öğrencisinin aşkını konu alan yapımda, başrol karakteri olan Goblin'i hangi ünlü aktör canlandırmıştır?",
       "options": [
-        "Kim Possible",
-        "Gravity Falls",
-        "Star vs. the Forces of Evil",
-        "Phineas ve Ferb",
-        "Amphibia"
+        "Lee Dong-wook",
+        "Park Seo-joon",
+        "Hyun Bin",
+        "Gong Yoo",
+        "Kim Woo-bin"
       ],
       "correct": 3
     },
     {
-      "question": "Yüzüklerin Efendisi evreninde, Tek Yüzük'ün gücüyle bozulmuş, bir zamanlar Hobbit olan ancak karanlık bir yaratığa dönüşen karakterin adı nedir?",
+      "question": "NBA efsanesi Michael Jordan, kariyerinin büyük bir bölümünde hangi takımda forma giymiş ve bu takımla altı kez şampiyonluk yaşamıştır?",
       "options": [
-        "Gandalf",
-        "Legolas",
-        "Gollum",
-        "Frodo",
-        "Aragorn"
+        "Los Angeles Lakers",
+        "Boston Celtics",
+        "Chicago Bulls",
+        "Miami Heat",
+        "San Antonio Spurs"
       ],
       "correct": 2
     },
     {
-      "question": "Uzun yıllar boyunca YouTube'da en çok abonesi olan bireysel kanal unvanını elinde tutmuş, İsveçli komedi ve oyun içerikli videolarıyla tanınan ünlü YouTuber'ın platformdaki adı nedir?",
+      "question": "\"Filenin Sultanları\" lakabıyla tanınan Türk Kadın Voleybol Milli Takımı, 2023 yılında Amerika'da düzenlenen finalde Çin'i mağlup ederek hangi büyük uluslararası turnuvada ilk kez şampiyon olmuştur?",
       "options": [
-        "MrBeast",
-        "Markiplier",
-        "Jacksepticeye",
-        "PewDiePie",
-        "Smosh"
+        "Dünya Şampiyonası",
+        "Avrupa Şampiyonası",
+        "Olimpiyat Oyunları",
+        "Challenger Kupası",
+        "FIVB Voleybol Milletler Ligi (VNL)"
       ],
-      "correct": 3
+      "correct": 4
     }
   ]
 }
