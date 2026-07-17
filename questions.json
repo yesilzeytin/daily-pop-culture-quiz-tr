@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Aşk-ı Memnu dizisinde \"Bihter Ziyagil\" karakterini canlandıran ünlü oyuncu kimdir?",
+      "question": "Yumurcak TV'de yayınlanan 'He-Man ve Kainatın Hakimleri' çizgi filminde, He-Man'in güçlerini kullanırken söylediği ikonik replik aşağıdakilerden hangisidir?",
       "options": [
-        "Tuba Büyüküstün",
-        "Hazal Kaya",
-        "Beren Saat",
-        "Farah Zeynep Abdullah",
-        "Serenay Sarıkaya"
+        "Grayskull'un gücü adına!",
+        "Kılıcım kuvvetimdir!",
+        "Adalet için savaş!",
+        "Skeletor'a ölüm!",
+        "Ben He-Man'im, gücüm sizinle!"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "20. yüzyılın en önemli başarılarından biri olarak kabul edilen, Neil Armstrong'un Ay'a ilk ayak basışı hangi yıl gerçekleşmiştir?",
+      "question": "Türk havacılık tarihinde ilk kadın savaş pilotu unvanına sahip olan ve Mustafa Kemal Atatürk'ün manevi kızı olan önemli şahsiyet kimdir?",
       "options": [
-        "1971",
-        "1969",
-        "1965",
-        "1973",
-        "1967"
+        "Halide Edip Adıvar",
+        "Sabiha Gökçen",
+        "Afife Jale",
+        "Nene Hatun",
+        "Vecihi Hürkuş"
       ],
       "correct": 1
     },
     {
-      "question": "Popüler Kore dizisi \"Guardian: The Lonely and Great God\" (Goblin) dizisinde, ölümsüz bir Goblin ile bir lise öğrencisinin aşkını konu alan yapımda, başrol karakteri olan Goblin'i hangi ünlü aktör canlandırmıştır?",
+      "question": "Televizyon ekranlarında geniş bir izleyici kitlesine ulaşan ve İstanbul'un tehlikeli bir mahallesi olan Çukur'da yaşanan olayları konu alan 'Çukur' dizisinin başkahramanı Yamaç Koçovalı'yı canlandıran oyuncu kimdir?",
       "options": [
-        "Lee Dong-wook",
-        "Park Seo-joon",
-        "Hyun Bin",
-        "Gong Yoo",
-        "Kim Woo-bin"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "NBA efsanesi Michael Jordan, kariyerinin büyük bir bölümünde hangi takımda forma giymiş ve bu takımla altı kez şampiyonluk yaşamıştır?",
-      "options": [
-        "Los Angeles Lakers",
-        "Boston Celtics",
-        "Chicago Bulls",
-        "Miami Heat",
-        "San Antonio Spurs"
+        "Kıvanç Tatlıtuğ",
+        "Çağatay Ulusoy",
+        "Aras Bulut İynemli",
+        "Kerem Bürsin",
+        "Barış Arduç"
       ],
       "correct": 2
     },
     {
-      "question": "\"Filenin Sultanları\" lakabıyla tanınan Türk Kadın Voleybol Milli Takımı, 2023 yılında Amerika'da düzenlenen finalde Çin'i mağlup ederek hangi büyük uluslararası turnuvada ilk kez şampiyon olmuştur?",
+      "question": "Türk arabesk müziğinin efsanevi isimlerinden biri olan ve 'Müslüm Baba' lakabıyla Müslüm Gürses'in anıldığı gibi, Orhan Gencebay'a hayranları tarafından verilen yaygın lakap nedir?",
       "options": [
-        "Dünya Şampiyonası",
-        "Avrupa Şampiyonası",
-        "Olimpiyat Oyunları",
-        "Challenger Kupası",
-        "FIVB Voleybol Milletler Ligi (VNL)"
+        "İmparator",
+        "Serçe",
+        "Paşa",
+        "Baba",
+        "Kral"
       ],
       "correct": 4
+    },
+    {
+      "question": "Soğuk Savaş dönemindeki Uzay Yarışı'nın en büyük başarılarından biri olarak kabul edilen, uzaya çıkan ilk insan olan kozmonot kimdir?",
+      "options": [
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "Yuri Gagarin",
+        "John Glenn",
+        "Valentina Tereşkova"
+      ],
+      "correct": 2
     }
   ]
 }
