@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Yumurcak TV'de yayınlanan 'He-Man ve Kainatın Hakimleri' çizgi filminde, He-Man'in güçlerini kullanırken söylediği ikonik replik aşağıdakilerden hangisidir?",
+      "question": "Ünlü anime serisi \"Naruto\"da, ana karakter Naruto Uzumaki'nin en büyük hayali nedir?",
       "options": [
-        "Grayskull'un gücü adına!",
-        "Kılıcım kuvvetimdir!",
-        "Adalet için savaş!",
-        "Skeletor'a ölüm!",
-        "Ben He-Man'im, gücüm sizinle!"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Türk havacılık tarihinde ilk kadın savaş pilotu unvanına sahip olan ve Mustafa Kemal Atatürk'ün manevi kızı olan önemli şahsiyet kimdir?",
-      "options": [
-        "Halide Edip Adıvar",
-        "Sabiha Gökçen",
-        "Afife Jale",
-        "Nene Hatun",
-        "Vecihi Hürkuş"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Televizyon ekranlarında geniş bir izleyici kitlesine ulaşan ve İstanbul'un tehlikeli bir mahallesi olan Çukur'da yaşanan olayları konu alan 'Çukur' dizisinin başkahramanı Yamaç Koçovalı'yı canlandıran oyuncu kimdir?",
-      "options": [
-        "Kıvanç Tatlıtuğ",
-        "Çağatay Ulusoy",
-        "Aras Bulut İynemli",
-        "Kerem Bürsin",
-        "Barış Arduç"
+        "En güçlü ninja olmak",
+        "Sakura Haruno ile evlenmek",
+        "Köyünün Hokage'si olmak",
+        "Sasuke Uchiha'yı yenmek",
+        "Tüm dünyayı gezmek"
       ],
       "correct": 2
     },
     {
-      "question": "Türk arabesk müziğinin efsanevi isimlerinden biri olan ve 'Müslüm Baba' lakabıyla Müslüm Gürses'in anıldığı gibi, Orhan Gencebay'a hayranları tarafından verilen yaygın lakap nedir?",
+      "question": "80'ler ve 90'lar global müziğinin ikonik isimlerinden, \"Thriller\", \"Billie Jean\", \"Smooth Criminal\" gibi hit şarkılarıyla 'Popun Kralı' olarak anılan efsanevi sanatçı kimdir?",
       "options": [
-        "İmparator",
-        "Serçe",
-        "Paşa",
-        "Baba",
-        "Kral"
+        "Prince",
+        "George Michael",
+        "Freddie Mercury",
+        "Michael Jackson",
+        "David Bowie"
       ],
-      "correct": 4
+      "correct": 3
     },
     {
-      "question": "Soğuk Savaş dönemindeki Uzay Yarışı'nın en büyük başarılarından biri olarak kabul edilen, uzaya çıkan ilk insan olan kozmonot kimdir?",
+      "question": "“Breakfast at Tiffany's” filmindeki ikonik küçük siyah elbisesi ve zarafetiyle tanınan, modaya yön vermiş aktris ve moda ikonlarından biri kimdir?",
       "options": [
-        "Neil Armstrong",
-        "Buzz Aldrin",
-        "Yuri Gagarin",
-        "John Glenn",
-        "Valentina Tereşkova"
+        "Marilyn Monroe",
+        "Grace Kelly",
+        "Elizabeth Taylor",
+        "Audrey Hepburn",
+        "Jackie Kennedy"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Bir ülküye bağlı özel kuvvetler yüzbaşısı ile yurt dışında görev yapan bir cerrahın aşkını anlatan, global çapta büyük popülerlik kazanmış Kore dizisi hangisidir?",
+      "options": [
+        "Itaewon Class",
+        "Vincenzo",
+        "Descendants of the Sun",
+        "Kingdom",
+        "Hospital Playlist"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Fortnite yayınlarıyla büyük ün kazanan ve Drake, Travis Scott gibi ünlü isimlerle yaptığı ortak yayınlarla ana akım medyada da geniş yer bulan ünlü Twitch yayıncısı kimdir?",
+      "options": [
+        "xQc",
+        "Shroud",
+        "Ninja",
+        "Pokimane",
+        "Dr Disrespect"
       ],
       "correct": 2
     }
