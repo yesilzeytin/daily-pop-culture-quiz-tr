@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Popüler televizyon ve müzik dünyasının en prestijli ödüllerinden biri olan Altın Kelebek Ödülleri, her yıl çeşitli kategorilerde sahiplerini bulmaktadır. Bu ödüller genellikle hangi gazete tarafından düzenlenmektedir?",
+      "question": "Futbol Dünya Kupası tarihinde en fazla şampiyonluk yaşayan ülke hangisidir?",
       "options": [
-        "Hürriyet",
-        "Milliyet",
-        "Sabah",
-        "Posta",
-        "Sözcü"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Osmanlı İmparatorluğu'nun kuruluş yıllarını ve Ertuğrul Gazi'nin hayatını konu alan 'Diriliş Ertuğrul' dizisi, Türkiye ve dünya genelinde büyük bir izleyici kitlesine ulaşmıştır. Dizinin ardından çekilen ve aynı evrende geçen 'Kuruluş Osman' dizisinde, Osmanlı Devleti'nin kurucusu Osman Bey'i canlandıran oyuncu kimdir?",
-      "options": [
-        "Engin Altan Düzyatan",
-        "Burak Özçivit",
-        "Kenan İmirzalıoğlu",
-        "Halit Ergenç",
-        "Çağatay Ulusoy"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Formula 1 tarihinde en çok Dünya Şampiyonluğu kazanan iki pilot, yedişer şampiyonlukla listenin zirvesinde yer almaktadır. Bu efsanevi pilotlar kimlerdir?",
-      "options": [
-        "Ayrton Senna ve Alain Prost",
-        "Juan Manuel Fangio ve Jim Clark",
-        "Michael Schumacher ve Lewis Hamilton",
-        "Niki Lauda ve Jackie Stewart",
-        "Max Verstappen ve Sebastian Vettel"
+        "Almanya",
+        "İtalya",
+        "Brezilya",
+        "Arjantin",
+        "Fransa"
       ],
       "correct": 2
     },
     {
-      "question": "'Filenin Sultanları' olarak bilinen Türk Kadın Voleybol Milli Takımı'nın son yıllardaki başarılarında kilit rol oynayan ve özellikle attığı smaçlarla tanınan, takımın en skorer oyuncularından biri olan yıldız voleybolcu kimdir?",
+      "question": "Ünlü Fransız moda tasarımcısı Christian Dior'un yanında asistan olarak kariyerine başlayıp daha sonra kendi adını taşıyan lüks moda evini kuran efsanevi isim kimdir?",
       "options": [
-        "Eda Erdem Dündar",
-        "Zehra Güneş",
-        "Hande Baladın",
-        "Melissa Vargas",
-        "Cansu Özbay"
+        "Giorgio Armani",
+        "Yves Saint Laurent",
+        "Gianni Versace",
+        "Calvin Klein",
+        "Ralph Lauren"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Türkiye A Millî Futbol Takımı, katıldığı 2002 FIFA Dünya Kupası'nda kaçıncı olarak tarihinin en büyük başarısını elde etmiştir?",
+      "options": [
+        "Dördüncü",
+        "Finalist",
+        "Çeyrek Finalist",
+        "Üçüncü",
+        "Son 16 Turu"
       ],
       "correct": 3
     },
     {
-      "question": "1982 yılında 'Yüzyıllık Yalnızlık' (Cien años de soledad) adlı eseriyle Nobel Edebiyat Ödülü'nü kazanan ve büyülü gerçekçilik akımının en önemli temsilcilerinden biri olarak kabul edilen Kolombiyalı yazar kimdir?",
+      "question": "Sosyal medya platformlarında \"CZN Burak\" adıyla tanınan, şovları ve restoran zincirleriyle bilinen Burak Özdemir'in ana restoranı hangi şehirde yer almaktadır?",
       "options": [
-        "Gabriel García Márquez",
-        "Jorge Luis Borges",
-        "Pablo Neruda",
-        "Mario Vargas Llosa",
-        "Octavio Paz"
+        "Ankara",
+        "İzmir",
+        "Antalya",
+        "İstanbul",
+        "Bursa"
       ],
-      "correct": 0
+      "correct": 3
+    },
+    {
+      "question": "Süper Lig tarihinde en çok şampiyonluk yaşayan futbol takımı hangisidir?",
+      "options": [
+        "Fenerbahçe",
+        "Beşiktaş",
+        "Galatasaray",
+        "Trabzonspor",
+        "Bursaspor"
+      ],
+      "correct": 2
     }
   ]
 }
