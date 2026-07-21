@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Futbol Dünya Kupası tarihinde en fazla şampiyonluk yaşayan ülke hangisidir?",
+      "question": "2020 yılında En İyi Film Oscar'ını kazanan ve İngilizce olmayan ilk film olma özelliğini taşıyan Güney Kore yapımı film aşağıdakilerden hangisidir?",
       "options": [
-        "Almanya",
-        "İtalya",
-        "Brezilya",
-        "Arjantin",
-        "Fransa"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Ünlü Fransız moda tasarımcısı Christian Dior'un yanında asistan olarak kariyerine başlayıp daha sonra kendi adını taşıyan lüks moda evini kuran efsanevi isim kimdir?",
-      "options": [
-        "Giorgio Armani",
-        "Yves Saint Laurent",
-        "Gianni Versace",
-        "Calvin Klein",
-        "Ralph Lauren"
+        "Roma",
+        "Parazit",
+        "Amour",
+        "Crouching Tiger, Hidden Dragon",
+        "Life Is Beautiful"
       ],
       "correct": 1
     },
     {
-      "question": "Türkiye A Millî Futbol Takımı, katıldığı 2002 FIFA Dünya Kupası'nda kaçıncı olarak tarihinin en büyük başarısını elde etmiştir?",
+      "question": "Nickelodeon kanalının en popüler ve uzun soluklu çizgi filmlerinden biri olan, sarı renkli, deniz altında yaşayan bir süngerin maceralarını konu alan yapım hangisidir?",
       "options": [
-        "Dördüncü",
-        "Finalist",
-        "Çeyrek Finalist",
-        "Üçüncü",
-        "Son 16 Turu"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Sosyal medya platformlarında \"CZN Burak\" adıyla tanınan, şovları ve restoran zincirleriyle bilinen Burak Özdemir'in ana restoranı hangi şehirde yer almaktadır?",
-      "options": [
-        "Ankara",
-        "İzmir",
-        "Antalya",
-        "İstanbul",
-        "Bursa"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Süper Lig tarihinde en çok şampiyonluk yaşayan futbol takımı hangisidir?",
-      "options": [
-        "Fenerbahçe",
-        "Beşiktaş",
-        "Galatasaray",
-        "Trabzonspor",
-        "Bursaspor"
+        "Fairly OddParents",
+        "Hey Arnold!",
+        "SpongeBob SquarePants (SüngerBob KareŞort)",
+        "Rugrats",
+        "Danny Phantom"
       ],
       "correct": 2
+    },
+    {
+      "question": "1912 yılında ilk seferinde bir buzdağına çarparak Kuzey Atlantik'in sularına gömülen, 'batmaz' denilen ünlü yolcu gemisinin adı nedir?",
+      "options": [
+        "Queen Mary",
+        "Lusitania",
+        "Britannia",
+        "Bismarck",
+        "Titanik"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "İkinci Dünya Savaşı sırasında, Japonya'nın 7 Aralık 1941'de Amerika Birleşik Devletleri'ne ait Pasifik Filosu'na düzenlediği sürpriz hava saldırısının gerçekleştiği Amerikan deniz üssünün adı nedir?",
+      "options": [
+        "Midway",
+        "Pearl Harbor",
+        "Okinawa",
+        "Hiroshima",
+        "Nagasaki"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "J.R.R. Tolkien'in epik fantastik eseri \"Yüzüklerin Efendisi\" üçlemesini sinemaya uyarlayan ve bu filmlerle En İyi Yönetmen Oscar'ı kazanan ünlü yönetmen kimdir?",
+      "options": [
+        "George Lucas",
+        "Steven Spielberg",
+        "Christopher Nolan",
+        "Peter Jackson",
+        "James Cameron"
+      ],
+      "correct": 3
     }
   ]
 }
