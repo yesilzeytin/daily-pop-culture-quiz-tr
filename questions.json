@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "2020 yılında En İyi Film Oscar'ını kazanan ve İngilizce olmayan ilk film olma özelliğini taşıyan Güney Kore yapımı film aşağıdakilerden hangisidir?",
+      "question": "90'lı yıllarda \"Deli Kızın Türküsü\", \"Şinanay\", \"Gülümse\" gibi hit şarkılarla Türk pop müziğine damga vuran ve hala aktif olan ünlü kadın sanatçı kimdir?",
       "options": [
-        "Roma",
-        "Parazit",
-        "Amour",
-        "Crouching Tiger, Hidden Dragon",
-        "Life Is Beautiful"
+        "Sezen Aksu",
+        "Nil Karaibrahimgil",
+        "Candan Erçetin",
+        "Yıldız Tilbe",
+        "Şebnem Ferah"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Ünlü Türk dizisi \"Ezel\"de, intikam almak için kimliğini değiştiren ve karmaşık bir oyunun parçası olan Ezel Bayraktar karakterini canlandıran başrol oyuncusu kimdir?",
+      "options": [
+        "Kıvanç Tatlıtuğ",
+        "Kenan İmirzalıoğlu",
+        "Çağatay Ulusoy",
+        "Engin Akyürek",
+        "Burak Özçivit"
       ],
       "correct": 1
     },
     {
-      "question": "Nickelodeon kanalının en popüler ve uzun soluklu çizgi filmlerinden biri olan, sarı renkli, deniz altında yaşayan bir süngerin maceralarını konu alan yapım hangisidir?",
+      "question": "Popüler anime serisi \"Attack on Titan\" (Shingeki no Kyojin) dünyasında, insanlığın devasa duvarlar arkasında yaşamaya zorlandığı bir distopyada, bu duvarları aşan ve insanlığı tehdit eden devasa insansı yaratıklara ne ad verilir?",
       "options": [
-        "Fairly OddParents",
-        "Hey Arnold!",
-        "SpongeBob SquarePants (SüngerBob KareŞort)",
-        "Rugrats",
-        "Danny Phantom"
+        "Shinigamiler",
+        "Bijuular",
+        "Titanlar",
+        "Zanpakutolar",
+        "Homunculuslar"
       ],
       "correct": 2
     },
     {
-      "question": "1912 yılında ilk seferinde bir buzdağına çarparak Kuzey Atlantik'in sularına gömülen, 'batmaz' denilen ünlü yolcu gemisinin adı nedir?",
+      "question": "İngiliz Kraliyet Ailesi'nin \"Halkın Prensesi\" olarak bilinen, hayırsever çalışmaları ve stil ikonluğu ile tüm dünyada geniş yankı uyandıran, Prens William ve Prens Harry'nin annesi olan ikonik figür kimdir?",
       "options": [
-        "Queen Mary",
-        "Lusitania",
-        "Britannia",
-        "Bismarck",
-        "Titanik"
-      ],
-      "correct": 4
-    },
-    {
-      "question": "İkinci Dünya Savaşı sırasında, Japonya'nın 7 Aralık 1941'de Amerika Birleşik Devletleri'ne ait Pasifik Filosu'na düzenlediği sürpriz hava saldırısının gerçekleştiği Amerikan deniz üssünün adı nedir?",
-      "options": [
-        "Midway",
-        "Pearl Harbor",
-        "Okinawa",
-        "Hiroshima",
-        "Nagasaki"
+        "Kraliçe II. Elizabeth",
+        "Prenses Diana",
+        "Düşes Kate Middleton",
+        "Meghan Markle",
+        "Kraliçe Victoria"
       ],
       "correct": 1
     },
     {
-      "question": "J.R.R. Tolkien'in epik fantastik eseri \"Yüzüklerin Efendisi\" üçlemesini sinemaya uyarlayan ve bu filmlerle En İyi Yönetmen Oscar'ı kazanan ünlü yönetmen kimdir?",
+      "question": "1989 yılında yıkılmasıyla Soğuk Savaş'ın sonunun sembolü haline gelen ve Doğu ile Batı Almanya'yı otuz yıla yakın bir süre boyunca fiziksel olarak bölen tarihi yapının adı nedir?",
       "options": [
-        "George Lucas",
-        "Steven Spielberg",
-        "Christopher Nolan",
-        "Peter Jackson",
-        "James Cameron"
+        "Brandenburger Tor",
+        "Ayasofya",
+        "Trafalgar Meydanı",
+        "Berlin Duvarı",
+        "Çin Seddi"
       ],
       "correct": 3
     }
