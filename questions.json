@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "90'lı yıllarda \"Deli Kızın Türküsü\", \"Şinanay\", \"Gülümse\" gibi hit şarkılarla Türk pop müziğine damga vuran ve hala aktif olan ünlü kadın sanatçı kimdir?",
+      "question": "Marvel Sinematik Evreni'nde (MSE) Kaptan Amerika'nın kalkanının yapıldığı, neredeyse yok edilemez olduğu bilinen ve Wakanda'da bolca bulunan kurgusal metalin adı nedir?",
       "options": [
-        "Sezen Aksu",
-        "Nil Karaibrahimgil",
-        "Candan Erçetin",
-        "Yıldız Tilbe",
-        "Şebnem Ferah"
+        "Vibranium",
+        "Adamantium",
+        "Kryptonite",
+        "Unobtainium",
+        "Mithril"
       ],
       "correct": 0
     },
     {
-      "question": "Ünlü Türk dizisi \"Ezel\"de, intikam almak için kimliğini değiştiren ve karmaşık bir oyunun parçası olan Ezel Bayraktar karakterini canlandıran başrol oyuncusu kimdir?",
+      "question": "HBO'nun popüler dizisi 'Game of Thrones'ta 'Kış Geliyor' (Winter Is Coming) sözleriyle bilinen ve Kuzey'in koruyucusu olan soylu aile hangisidir?",
       "options": [
-        "Kıvanç Tatlıtuğ",
-        "Kenan İmirzalıoğlu",
-        "Çağatay Ulusoy",
-        "Engin Akyürek",
-        "Burak Özçivit"
+        "Lannister Hanesi",
+        "Targaryen Hanesi",
+        "Baratheon Hanesi",
+        "Stark Hanesi",
+        "Tyrell Hanesi"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
-      "question": "Popüler anime serisi \"Attack on Titan\" (Shingeki no Kyojin) dünyasında, insanlığın devasa duvarlar arkasında yaşamaya zorlandığı bir distopyada, bu duvarları aşan ve insanlığı tehdit eden devasa insansı yaratıklara ne ad verilir?",
+      "question": "NBA tarihinde en fazla sayı atan oyuncu unvanını elinde bulunduran ve bu rekoru 2023 yılında kıran efsanevi basketbolcu kimdir?",
       "options": [
-        "Shinigamiler",
-        "Bijuular",
-        "Titanlar",
-        "Zanpakutolar",
-        "Homunculuslar"
+        "Michael Jordan",
+        "Kareem Abdul-Jabbar",
+        "LeBron James",
+        "Kobe Bryant",
+        "Magic Johnson"
       ],
       "correct": 2
     },
     {
-      "question": "İngiliz Kraliyet Ailesi'nin \"Halkın Prensesi\" olarak bilinen, hayırsever çalışmaları ve stil ikonluğu ile tüm dünyada geniş yankı uyandıran, Prens William ve Prens Harry'nin annesi olan ikonik figür kimdir?",
+      "question": "Dünyanın en popüler kısa video platformlarından TikTok'ta en çok takip edilen kişilerden biri olan ve genellikle dans videolarıyla tanınan Amerikalı genç sosyal medya fenomeni kimdir?",
       "options": [
-        "Kraliçe II. Elizabeth",
-        "Prenses Diana",
-        "Düşes Kate Middleton",
-        "Meghan Markle",
-        "Kraliçe Victoria"
+        "Addison Rae",
+        "Bella Poarch",
+        "Charli D'Amelio",
+        "Khaby Lame",
+        "MrBeast"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
-      "question": "1989 yılında yıkılmasıyla Soğuk Savaş'ın sonunun sembolü haline gelen ve Doğu ile Batı Almanya'yı otuz yıla yakın bir süre boyunca fiziksel olarak bölen tarihi yapının adı nedir?",
+      "question": "Netflix'in dünya çapında büyük ilgi gören Güney Kore yapımı dizisi 'Squid Game'de, katılımcıların büyük bir para ödülü için ölümcül çocuk oyunları oynadığı yarışmanın ilk oyunu hangisidir?",
       "options": [
-        "Brandenburger Tor",
-        "Ayasofya",
-        "Trafalgar Meydanı",
-        "Berlin Duvarı",
-        "Çin Seddi"
+        "Cam Köprü Oyunu",
+        "Yeşil Işık, Kırmızı Işık",
+        "Halat Çekme",
+        "Misket Oyunu",
+        "Dalgona Şekeri"
       ],
-      "correct": 3
+      "correct": 1
     }
   ]
 }
