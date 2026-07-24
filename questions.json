@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Marvel Sinematik Evreni'nde (MSE) Kaptan Amerika'nın kalkanının yapıldığı, neredeyse yok edilemez olduğu bilinen ve Wakanda'da bolca bulunan kurgusal metalin adı nedir?",
+      "question": "Netflix'in popüler dizisi \"Stranger Things\"de, Hawkins kasabasında geçen doğaüstü olaylar zincirini başlatan, Kayıp Çocuk Will Byers'ın ortadan kaybolmasıyla başlayan ve alternatif bir boyut olan \"Ters Yüz\" (Upside Down) ile bağlantılı olan deneylerin yapıldığı laboratuvarın adı nedir?",
       "options": [
-        "Vibranium",
-        "Adamantium",
-        "Kryptonite",
-        "Unobtainium",
-        "Mithril"
+        "Hawkins Ulusal Laboratuvarı",
+        "Cerebro Merkezi",
+        "Black Mesa Araştırma Tesisi",
+        "Umbrella Şirketi",
+        "Aperture Laboratuvarları"
       ],
       "correct": 0
     },
     {
-      "question": "HBO'nun popüler dizisi 'Game of Thrones'ta 'Kış Geliyor' (Winter Is Coming) sözleriyle bilinen ve Kuzey'in koruyucusu olan soylu aile hangisidir?",
+      "question": "İkinci Dünya Savaşı'nı resmen bitiren olaylardan biri olan ve Japonya'nın teslim olmasına yol açan, ABD tarafından Hiroşima ve Nagazaki şehirlerine atılan atom bombalarının takma adları nedir?",
       "options": [
-        "Lannister Hanesi",
-        "Targaryen Hanesi",
-        "Baratheon Hanesi",
-        "Stark Hanesi",
-        "Tyrell Hanesi"
+        "Fat Man ve Little Boy",
+        "Big Bertha ve Iron Duke",
+        "Enola Gay ve Bockscar",
+        "Project Manhattan ve Trinity",
+        "Overlord ve Barbarossa"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Türk sinemasının unutulmaz karakterlerinden biri olan \"Hababam Sınıfı\" serisindeki \"Güdük Necmi\" karakterini canlandıran efsanevi oyuncu kimdir?",
+      "options": [
+        "Kemal Sunal",
+        "Münir Özkul",
+        "Halit Akçatepe",
+        "Tarık Akan",
+        "Adile Naşit"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "NBA tarihinde \"Dream Team\" olarak adlandırılan ve 1992 Barcelona Olimpiyatları'nda altın madalya kazanan efsanevi Amerikan basketbol takımında, Michael Jordan ve Magic Johnson gibi yıldızlarla birlikte yer alan, uzun yıllar Boston Celtics forması giymiş ve üç kez NBA şampiyonluğu kazanmış efsanevi forvet oyuncusu kimdir?",
+      "options": [
+        "Kareem Abdul-Jabbar",
+        "Wilt Chamberlain",
+        "Larry Bird",
+        "Shaquille O'Neal",
+        "Hakeem Olajuwon"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Britanya Kraliyet Ailesi'nin \"Halkın Prensesi\" olarak bilinen ve hayırsever çalışmalarıyla tüm dünyada tanınan Prenses Diana'nın ölümünden sonra tahta geçen, halihazırdaki Birleşik Krallık hükümdarı kimdir?",
+      "options": [
+        "Kraliçe Victoria",
+        "Kral VI. George",
+        "Kraliçe II. Elizabeth",
+        "Kral III. Charles",
+        "Prens William"
       ],
       "correct": 3
-    },
-    {
-      "question": "NBA tarihinde en fazla sayı atan oyuncu unvanını elinde bulunduran ve bu rekoru 2023 yılında kıran efsanevi basketbolcu kimdir?",
-      "options": [
-        "Michael Jordan",
-        "Kareem Abdul-Jabbar",
-        "LeBron James",
-        "Kobe Bryant",
-        "Magic Johnson"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Dünyanın en popüler kısa video platformlarından TikTok'ta en çok takip edilen kişilerden biri olan ve genellikle dans videolarıyla tanınan Amerikalı genç sosyal medya fenomeni kimdir?",
-      "options": [
-        "Addison Rae",
-        "Bella Poarch",
-        "Charli D'Amelio",
-        "Khaby Lame",
-        "MrBeast"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Netflix'in dünya çapında büyük ilgi gören Güney Kore yapımı dizisi 'Squid Game'de, katılımcıların büyük bir para ödülü için ölümcül çocuk oyunları oynadığı yarışmanın ilk oyunu hangisidir?",
-      "options": [
-        "Cam Köprü Oyunu",
-        "Yeşil Işık, Kırmızı Işık",
-        "Halat Çekme",
-        "Misket Oyunu",
-        "Dalgona Şekeri"
-      ],
-      "correct": 1
     }
   ]
 }
