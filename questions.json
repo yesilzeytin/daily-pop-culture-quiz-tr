@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "“Eras Tour” adlı dünya turnesiyle gişe rekorları kıran, \"Love Story\", \"Shake It Off\" ve \"Cruel Summer\" gibi hit şarkılara sahip Grammy ödüllü Amerikalı pop yıldızı kimdir?",
+      "question": "Erkekler tenisinde \"Big Three\" olarak bilinen Roger Federer, Rafael Nadal ve Novak Djokovic üçlüsünden, 24 Grand Slam tekler şampiyonluğu ile bu alanda tüm zamanların rekorunu elinde bulunduran isim kimdir?",
       "options": [
-        "Ariana Grande",
-        "Billie Eilish",
-        "Taylor Swift",
-        "Dua Lipa",
-        "Olivia Rodrigo"
+        "Roger Federer",
+        "Rafael Nadal",
+        "Novak Djokovic",
+        "Andy Murray",
+        "Stan Wawrinka"
       ],
       "correct": 2
     },
     {
-      "question": "Dünyanın en popüler medya franchise'larından biri olan Pokémon evreninin ana kahramanı ve Pikachu'nun eğitmeni olan karakterin adı nedir?",
+      "question": "Türkiye'nin en çok takip edilen YouTuber'larından biri olan ve genellikle eğlence, vlog ve challenge içerikleriyle bilinen, aynı zamanda sinema filmleriyle de tanınan sosyal medya fenomeni kimdir?",
       "options": [
-        "Ash Ketchum",
-        "Gary Oak",
-        "Brock",
-        "Misty",
-        "Professor Oak"
+        "Danla Bilic",
+        "Reynmen",
+        "Enes Batur",
+        "Cemre Solmaz",
+        "Barış Özcan"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türk sinemasının kült komedi filmlerinden \"Hababam Sınıfı\" serisinin yönetmenliğini üstlenen ve aynı zamanda birçok Yeşilçam filmine imza atmış usta yönetmen kimdir?",
+      "options": [
+        "Ertem Eğilmez",
+        "Kartal Tibet",
+        "Atıf Yılmaz",
+        "Memduh Ün",
+        "Osman Sınav"
       ],
       "correct": 0
     },
     {
-      "question": "1453 yılında Fatih Sultan Mehmet komutasındaki Osmanlı ordusu tarafından fethedilen ve Doğu Roma İmparatorluğu'nun (Bizans İmparatorluğu) başkenti olan şehir hangisidir?",
+      "question": "Çocukluğumuzun vazgeçilmez atıştırmalıklarından biri olan ve genellikle içerisinde küçük meyve jölesi parçacıkları bulunan çikolatalı bisküviye ne ad verilirdi?",
       "options": [
-        "Roma",
-        "Atina",
-        "İskenderiye",
-        "Kudüs",
-        "İstanbul (Konstantinopolis)"
-      ],
-      "correct": 4
-    },
-    {
-      "question": "Britanya Kraliyet Ailesi'nin en uzun süre tahtta kalan hükümdarı unvanına sahip olan ve 70 yıl boyunca tahta hükmeden kraliçe kimdir?",
-      "options": [
-        "Kraliçe Victoria",
-        "Kraliçe Anne",
-        "Kraliçe Elizabeth II",
-        "Kraliçe Mary I",
-        "Kraliçe Elizabeth I"
+        "Sulugöz",
+        "Patlayan Şeker",
+        "Cino",
+        "Tipitip",
+        "Leblebi Tozu"
       ],
       "correct": 2
     },
     {
-      "question": "Türk Kurtuluş Savaşı'nda Batı Cephesi'nde Yunan kuvvetlerine karşı kazanılan ve Mustafa Kemal Paşa'nın \"Hatt-ı müdafaa yoktur, sath-ı müdafaa vardır. O satıh bütün vatandır. Vatanın her karış toprağı vatandaşın kanıyla ıslanmadıkça terk olunamaz.\" emrini verdiği kritik muharebenin adı nedir?",
+      "question": "Global çapta büyük ilgi gören popüler Kore dizisi \"Crash Landing on You\" (Aşkın Konuşlanması)nda, Güney Koreli zengin bir iş kadını olan Yoon Se-ri, bir paraşüt kazası sonucu yanlışlıkla hangi ülkeye düşer?",
       "options": [
-        "Çanakkale Savaşı",
-        "Sakarya Meydan Muharebesi",
-        "Büyük Taarruz",
-        "Dumlupınar Meydan Muharebesi",
-        "I. İnönü Muharebesi"
+        "Çin",
+        "Japonya",
+        "Kuzey Kore",
+        "Tayland",
+        "Rusya"
       ],
-      "correct": 1
+      "correct": 2
     }
   ]
 }
