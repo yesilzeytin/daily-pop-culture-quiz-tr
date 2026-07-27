@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Erkekler tenisinde \"Big Three\" olarak bilinen Roger Federer, Rafael Nadal ve Novak Djokovic üçlüsünden, 24 Grand Slam tekler şampiyonluğu ile bu alanda tüm zamanların rekorunu elinde bulunduran isim kimdir?",
+      "question": "Harry Potter evreninde, Lord Voldemort'un gerçek adı nedir?",
       "options": [
-        "Roger Federer",
-        "Rafael Nadal",
-        "Novak Djokovic",
-        "Andy Murray",
-        "Stan Wawrinka"
+        "Gellert Grindelwald",
+        "Albus Percival Wulfric Brian Dumbledore",
+        "Severus Snape",
+        "Tom Marvolo Riddle",
+        "Salazar Slytherin"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "New York'taki Metropolitan Sanat Müzesi Kostüm Enstitüsü yararına düzenlenen ve her yıl farklı bir temaya sahip olan prestijli Met Gala etkinliğine uzun yıllardır ev sahipliği yapan ve moda dünyasının ikonik figürü olarak bilinen kişi kimdir?",
+      "options": [
+        "Donatella Versace",
+        "Anna Wintour",
+        "Carine Roitfeld",
+        "Miuccia Prada",
+        "Kim Kardashian"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "The Witcher evreninin ana kahramanı, canavar avcısı olan karakterin adı nedir?",
+      "options": [
+        "Jaskier",
+        "Eskel",
+        "Geralt",
+        "Lambert",
+        "Vesemir"
       ],
       "correct": 2
     },
     {
-      "question": "Türkiye'nin en çok takip edilen YouTuber'larından biri olan ve genellikle eğlence, vlog ve challenge içerikleriyle bilinen, aynı zamanda sinema filmleriyle de tanınan sosyal medya fenomeni kimdir?",
+      "question": "Akıllı telefon pazarının en önemli cihazlarından olan iPhone'un ilk modeli, tanıtıldıktan sonra hangi yıl piyasaya sürülmüştür?",
       "options": [
-        "Danla Bilic",
-        "Reynmen",
-        "Enes Batur",
-        "Cemre Solmaz",
-        "Barış Özcan"
+        "2005",
+        "2006",
+        "2008",
+        "2009",
+        "2007"
       ],
-      "correct": 2
+      "correct": 4
     },
     {
-      "question": "Türk sinemasının kült komedi filmlerinden \"Hababam Sınıfı\" serisinin yönetmenliğini üstlenen ve aynı zamanda birçok Yeşilçam filmine imza atmış usta yönetmen kimdir?",
+      "question": "MasterChef Türkiye'nin 2022 sezonunda şampiyonluğa ulaşan ve kupayı kaldıran yarışmacı kimdir?",
       "options": [
-        "Ertem Eğilmez",
-        "Kartal Tibet",
-        "Atıf Yılmaz",
-        "Memduh Ün",
-        "Osman Sınav"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Çocukluğumuzun vazgeçilmez atıştırmalıklarından biri olan ve genellikle içerisinde küçük meyve jölesi parçacıkları bulunan çikolatalı bisküviye ne ad verilirdi?",
-      "options": [
-        "Sulugöz",
-        "Patlayan Şeker",
-        "Cino",
-        "Tipitip",
-        "Leblebi Tozu"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Global çapta büyük ilgi gören popüler Kore dizisi \"Crash Landing on You\" (Aşkın Konuşlanması)nda, Güney Koreli zengin bir iş kadını olan Yoon Se-ri, bir paraşüt kazası sonucu yanlışlıkla hangi ülkeye düşer?",
-      "options": [
-        "Çin",
-        "Japonya",
-        "Kuzey Kore",
-        "Tayland",
-        "Rusya"
+        "Ayaz Geçer",
+        "Kıvanç Karadeniz",
+        "Metin Yavuz",
+        "Barış Demir",
+        "Eren Kaşıkçı"
       ],
       "correct": 2
     }
