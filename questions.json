@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Harry Potter evreninde, Lord Voldemort'un gerçek adı nedir?",
+      "question": "2019 yapımı \"Joker\" filminde Arthur Fleck/Joker karakterini canlandırarak En İyi Erkek Oyuncu Oscar'ını kazanan oyuncu kimdir?",
       "options": [
-        "Gellert Grindelwald",
-        "Albus Percival Wulfric Brian Dumbledore",
-        "Severus Snape",
-        "Tom Marvolo Riddle",
-        "Salazar Slytherin"
+        "Joaquin Phoenix",
+        "Heath Ledger",
+        "Jack Nicholson",
+        "Jared Leto",
+        "Christian Bale"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
-      "question": "New York'taki Metropolitan Sanat Müzesi Kostüm Enstitüsü yararına düzenlenen ve her yıl farklı bir temaya sahip olan prestijli Met Gala etkinliğine uzun yıllardır ev sahipliği yapan ve moda dünyasının ikonik figürü olarak bilinen kişi kimdir?",
+      "question": "Türk edebiyatının önemli isimlerinden Orhan Pamuk, Nobel Edebiyat Ödülü'nü hangi yıl kazanmıştır?",
       "options": [
-        "Donatella Versace",
-        "Anna Wintour",
-        "Carine Roitfeld",
-        "Miuccia Prada",
-        "Kim Kardashian"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "The Witcher evreninin ana kahramanı, canavar avcısı olan karakterin adı nedir?",
-      "options": [
-        "Jaskier",
-        "Eskel",
-        "Geralt",
-        "Lambert",
-        "Vesemir"
+        "2002",
+        "2004",
+        "2006",
+        "2008",
+        "2010"
       ],
       "correct": 2
     },
     {
-      "question": "Akıllı telefon pazarının en önemli cihazlarından olan iPhone'un ilk modeli, tanıtıldıktan sonra hangi yıl piyasaya sürülmüştür?",
+      "question": "Kolombiyalı süperstar Shakira'nın 2010 yılında seslendirdiği ve dünya çapında büyük yankı uyandıran \"Waka Waka (This Time for Africa)\" şarkısı, hangi büyük spor organizasyonunun resmi şarkısı olmuştur?",
       "options": [
-        "2005",
-        "2006",
-        "2008",
-        "2009",
-        "2007"
+        "Yaz Olimpiyatları",
+        "FIFA Dünya Kupası",
+        "Pan Amerikan Oyunları",
+        "Kış Olimpiyatları",
+        "Copa América"
       ],
-      "correct": 4
+      "correct": 1
     },
     {
-      "question": "MasterChef Türkiye'nin 2022 sezonunda şampiyonluğa ulaşan ve kupayı kaldıran yarışmacı kimdir?",
+      "question": "Netflix'in dünya çapında popüler olan İspanyol dizisi \"La Casa de Papel\"de (Money Heist), profesyonel bir hırsız ekibi tarafından soygun gerçekleştirilen ilk kurum hangisidir?",
       "options": [
-        "Ayaz Geçer",
-        "Kıvanç Karadeniz",
-        "Metin Yavuz",
-        "Barış Demir",
-        "Eren Kaşıkçı"
+        "İspanya Merkez Bankası",
+        "İspanya Darphanesi",
+        "Barselona Borsası",
+        "Prado Müzesi",
+        "Ulusal Arşiv Binası"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Türk pop müziğinin \"Süperstar\" lakabıyla tanınan efsanevi ismi, uzun yıllardır sahne kariyerini sürdüren ve birçok hit şarkıya imza atmış sanatçı kimdir?",
+      "options": [
+        "Sezen Aksu",
+        "Tarkan",
+        "Ajda Pekkan",
+        "Hande Yener",
+        "Gülşen"
       ],
       "correct": 2
     }
