@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "2019 yapımı \"Joker\" filminde Arthur Fleck/Joker karakterini canlandırarak En İyi Erkek Oyuncu Oscar'ını kazanan oyuncu kimdir?",
+      "question": "Rafael Nadal, toprak kortlardaki eşsiz başarıları nedeniyle \"Toprak Kort Kralı\" olarak bilinir. Bu lakabı almasında büyük payı olan ve kariyerinde en çok kazandığı Grand Slam turnuvası hangisidir?",
       "options": [
-        "Joaquin Phoenix",
-        "Heath Ledger",
-        "Jack Nicholson",
-        "Jared Leto",
-        "Christian Bale"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Türk edebiyatının önemli isimlerinden Orhan Pamuk, Nobel Edebiyat Ödülü'nü hangi yıl kazanmıştır?",
-      "options": [
-        "2002",
-        "2004",
-        "2006",
-        "2008",
-        "2010"
+        "Avustralya Açık",
+        "Wimbledon",
+        "Roland Garros (Fransa Açık)",
+        "Amerika Açık",
+        "Davis Kupası"
       ],
       "correct": 2
     },
     {
-      "question": "Kolombiyalı süperstar Shakira'nın 2010 yılında seslendirdiği ve dünya çapında büyük yankı uyandıran \"Waka Waka (This Time for Africa)\" şarkısı, hangi büyük spor organizasyonunun resmi şarkısı olmuştur?",
+      "question": "Formula 1 tarihinde, özellikle 2021, 2022 ve 2023 yıllarında kazandığı üst üste üç dünya şampiyonluğu ile adından söz ettiren Max Verstappen, hangi takım adına yarışmaktadır?",
       "options": [
-        "Yaz Olimpiyatları",
-        "FIFA Dünya Kupası",
-        "Pan Amerikan Oyunları",
-        "Kış Olimpiyatları",
-        "Copa América"
+        "Mercedes-AMG Petronas F1 Takımı",
+        "Scuderia Ferrari",
+        "McLaren Formula 1 Takımı",
+        "Red Bull Racing",
+        "Aston Martin Aramco F1 Takımı"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
-      "question": "Netflix'in dünya çapında popüler olan İspanyol dizisi \"La Casa de Papel\"de (Money Heist), profesyonel bir hırsız ekibi tarafından soygun gerçekleştirilen ilk kurum hangisidir?",
+      "question": "\"World of Warcraft\", \"Diablo\" serisi ve \"StarCraft\" gibi dünyaca ünlü ve milyonlarca oyuncuya sahip oyunların geliştiricisi ve yayıncısı olan video oyunu şirketi hangisidir?",
       "options": [
-        "İspanya Merkez Bankası",
-        "İspanya Darphanesi",
-        "Barselona Borsası",
-        "Prado Müzesi",
-        "Ulusal Arşiv Binası"
+        "Valve Corporation",
+        "CD Projekt Red",
+        "Blizzard Entertainment",
+        "Ubisoft",
+        "Electronic Arts"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
-      "question": "Türk pop müziğinin \"Süperstar\" lakabıyla tanınan efsanevi ismi, uzun yıllardır sahne kariyerini sürdüren ve birçok hit şarkıya imza atmış sanatçı kimdir?",
+      "question": "J.R.R. Tolkien'in \"Yüzüklerin Efendisi\" eserinde, Tek Yüzük'ün dövüldüğü ve yok edilebileceği tek yer olarak bilinen, Mordor'da bulunan volkanik dağın adı nedir?",
       "options": [
-        "Sezen Aksu",
-        "Tarkan",
-        "Ajda Pekkan",
-        "Hande Yener",
-        "Gülşen"
+        "Misty Dağları",
+        "Erebor",
+        "Hüküm Dağı (Mount Doom)",
+        "Caradhras",
+        "Ak Dağlar"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Nintendo'nun ikonik video oyunu serisi Super Mario'nun baş düşmanı ve Prenses Peach'i sık sık kaçıran karakter kimdir?",
+      "options": [
+        "Wario",
+        "Luigi",
+        "Bowser",
+        "Yoshi",
+        "Toad"
       ],
       "correct": 2
     }
