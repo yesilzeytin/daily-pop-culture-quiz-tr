@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Rafael Nadal, toprak kortlardaki eşsiz başarıları nedeniyle \"Toprak Kort Kralı\" olarak bilinir. Bu lakabı almasında büyük payı olan ve kariyerinde en çok kazandığı Grand Slam turnuvası hangisidir?",
+      "question": "Twitter Türkiye'de bir dönem yaygın olarak kullanılan ve genellikle 'Ne sandın?', 'Olmamış mı?' gibi ironik ifadelerle, belirli bir tiplemeyi mizahi bir dille ele alan popüler akım aşağıdakilerden hangisidir?",
       "options": [
-        "Avustralya Açık",
-        "Wimbledon",
-        "Roland Garros (Fransa Açık)",
-        "Amerika Açık",
-        "Davis Kupası"
+        "Twitter Dayısı Akımı",
+        "Kanka Sohbetleri",
+        "Şeyma Subaşı Tweetleri",
+        "Caps Yarışmaları",
+        "Trend Topic Saldırıları"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Arabesk müziğin Türkiye'deki en önemli temsilcilerinden biri olan ve 'Arabeskin Babası' olarak anılan, sayısız hit esere imza atmış efsanevi sanatçı kimdir?",
+      "options": [
+        "Müslüm Gürses",
+        "İbrahim Tatlıses",
+        "Orhan Gencebay",
+        "Ferdi Tayfur",
+        "Zeki Müren"
       ],
       "correct": 2
     },
     {
-      "question": "Formula 1 tarihinde, özellikle 2021, 2022 ve 2023 yıllarında kazandığı üst üste üç dünya şampiyonluğu ile adından söz ettiren Max Verstappen, hangi takım adına yarışmaktadır?",
+      "question": "James Cameron'ın yönettiği ve Pandora gezegenindeki Na'vi halkının hikayesini anlatan, dünya çapında en yüksek gişe gelirine ulaşan filmlerden biri olan görsel şölen niteliğindeki yapım hangisidir?",
       "options": [
-        "Mercedes-AMG Petronas F1 Takımı",
-        "Scuderia Ferrari",
-        "McLaren Formula 1 Takımı",
-        "Red Bull Racing",
-        "Aston Martin Aramco F1 Takımı"
+        "Titanic",
+        "Avengers: Endgame",
+        "Star Wars: Güç Uyanıyor",
+        "Avatar",
+        "Jurassic World"
       ],
       "correct": 3
     },
     {
-      "question": "\"World of Warcraft\", \"Diablo\" serisi ve \"StarCraft\" gibi dünyaca ünlü ve milyonlarca oyuncuya sahip oyunların geliştiricisi ve yayıncısı olan video oyunu şirketi hangisidir?",
+      "question": "Christopher Nolan'ın yönettiği 'Kara Şövalye' (The Dark Knight) filminde Joker karakterini canlandırarak, ölümünden sonra En İyi Yardımcı Erkek Oyuncu Oscar'ını kazanan oyuncu kimdir?",
       "options": [
-        "Valve Corporation",
-        "CD Projekt Red",
-        "Blizzard Entertainment",
-        "Ubisoft",
-        "Electronic Arts"
+        "Jack Nicholson",
+        "Jared Leto",
+        "Christian Bale",
+        "Heath Ledger",
+        "Joaquin Phoenix"
       ],
-      "correct": 2
+      "correct": 3
     },
     {
-      "question": "J.R.R. Tolkien'in \"Yüzüklerin Efendisi\" eserinde, Tek Yüzük'ün dövüldüğü ve yok edilebileceği tek yer olarak bilinen, Mordor'da bulunan volkanik dağın adı nedir?",
+      "question": "1994 yapımı, hayatın tesadüflerle dolu olduğunu 'Hayat bir kutu çikolata gibidir, neyle karşılaşacağını asla bilemezsin' repliğiyle anlatan ve En İyi Film Oscar'ını kazanan klasik yapım aşağıdakilerden hangisidir?",
       "options": [
-        "Misty Dağları",
-        "Erebor",
-        "Hüküm Dağı (Mount Doom)",
-        "Caradhras",
-        "Ak Dağlar"
+        "Esaretin Bedeli",
+        "Forrest Gump",
+        "Pulp Fiction",
+        "Cesur Yürek",
+        "Yeşil Yol"
       ],
-      "correct": 2
-    },
-    {
-      "question": "Nintendo'nun ikonik video oyunu serisi Super Mario'nun baş düşmanı ve Prenses Peach'i sık sık kaçıran karakter kimdir?",
-      "options": [
-        "Wario",
-        "Luigi",
-        "Bowser",
-        "Yoshi",
-        "Toad"
-      ],
-      "correct": 2
+      "correct": 1
     }
   ]
 }
