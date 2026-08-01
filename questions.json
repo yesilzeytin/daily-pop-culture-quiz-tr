@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Dünyanın en ünlü YouTuber'larından biri olan MrBeast, genellikle büyük ödüller ve cömert bağışlarla tanınmaktadır. MrBeast olarak bilinen bu YouTuber'ın gerçek adı nedir?",
+      "question": "İkinci Dünya Savaşı'nda Müttefik Devletler'in 6 Haziran 1944'te Normandiya'ya çıkarma yaparak başlattığı, Batı Cephesi'ni açan ve savaşın seyrini değiştiren büyük operasyonun kod adı nedir?",
       "options": [
-        "Jimmy Donaldson",
-        "Felix Kjellberg",
-        "Mark Fischbach",
-        "Sean McLoughlin",
-        "Evan Fong"
+        "Barbarossa Operasyonu",
+        "Overlord Operasyonu",
+        "Husky Operasyonu",
+        "Torch Operasyonu",
+        "Market Garden Operasyonu"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
-      "question": "Eiichiro Oda tarafından yaratılan ve dünya genelinde büyük bir hayran kitlesine sahip olan \"One Piece\" animesinin ana karakteri, Haki ve Şeytan Meyvesi güçleriyle tanınan, Hasır Şapka Korsanları'nın kaptanı kimdir?",
+      "question": "MasterChef Türkiye'nin unutulmaz şampiyonlarından biri olan ve özellikle tatlı ve hamur işlerindeki ustalığıyla tanınan, 2019 sezonunun birincisi kimdir?",
       "options": [
-        "Monkey D. Luffy",
-        "Roronoa Zoro",
-        "Sanji",
-        "Nami",
-        "Usopp"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "\"Bohemian Rhapsody\", \"We Will Rock You\" ve \"Somebody to Love\" gibi ikonik şarkılarıyla dünya müziğine damga vuran, vokalisti Freddie Mercury olan efsanevi İngiliz rock grubu aşağıdakilerden hangisidir?",
-      "options": [
-        "The Beatles",
-        "Led Zeppelin",
-        "Queen",
-        "Pink Floyd",
-        "The Rolling Stones"
+        "Eren Kaşıkçı",
+        "Serhat Doğramacı",
+        "Cemre Uysal",
+        "Metin Yavuz",
+        "Barbaros Yoloğlu"
       ],
       "correct": 2
     },
     {
-      "question": "Türkiye'nin en popüler Twitch yayıncılarından biri olan ve \"Jahrein\" takma adıyla tanınan, genellikle güncel olayları yorumlaması ve oyun yayınlarıyla bilinen isim kimdir?",
+      "question": "Futbol tarihinde en çok FIFA Dünya Kupası şampiyonluğu kazanan ülke hangisidir?",
       "options": [
-        "Hasan Can Kaya",
-        "Ümit Akçay",
-        "Pinti Panda",
-        "Jahrein (Ahmet Sonunç)",
-        "Elraenn"
+        "Almanya",
+        "İtalya",
+        "Arjantin",
+        "Brezilya",
+        "Fransa"
       ],
       "correct": 3
     },
     {
-      "question": "Küresel bir moda ve lifestyle ikonu olarak tanınan, kendine ait kozmetik markası ve reality show'larıyla da bilinen, Instagram'da en çok takipçiye sahip kadınlar arasında yer alan sosyal medya fenomeni ve iş kadını kimdir?",
+      "question": "NBA efsanesi Michael Jordan, kariyerinin büyük bir bölümünü hangi takımda geçirmiş ve altı şampiyonluk kazanmıştır?",
       "options": [
-        "Rihanna",
-        "Kim Kardashian",
-        "Kylie Jenner",
-        "Ariana Grande",
-        "Selena Gomez"
+        "Los Angeles Lakers",
+        "Boston Celtics",
+        "Chicago Bulls",
+        "Miami Heat",
+        "Cleveland Cavaliers"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "The Witcher evreninde, Geralt'ın 'Kader Çocuğu' olarak bilinen, büyülü güçlere sahip ve geleceği etkileyecek önemli bir role sahip olan genç kadın karakterin adı nedir?",
+      "options": [
+        "Yennefer",
+        "Triss Merigold",
+        "Ciri",
+        "Renfri",
+        "Fringilla Vigo"
       ],
       "correct": 2
     }
