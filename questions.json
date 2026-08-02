@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "İkinci Dünya Savaşı'nda Müttefik Devletler'in 6 Haziran 1944'te Normandiya'ya çıkarma yaparak başlattığı, Batı Cephesi'ni açan ve savaşın seyrini değiştiren büyük operasyonun kod adı nedir?",
+      "question": "Formula 1 tarihinde en çok Grand Prix birinciliği kazanan pilot kimdir?",
       "options": [
-        "Barbarossa Operasyonu",
-        "Overlord Operasyonu",
-        "Husky Operasyonu",
-        "Torch Operasyonu",
-        "Market Garden Operasyonu"
+        "Michael Schumacher",
+        "Lewis Hamilton",
+        "Sebastian Vettel",
+        "Max Verstappen",
+        "Alain Prost"
       ],
       "correct": 1
     },
     {
-      "question": "MasterChef Türkiye'nin unutulmaz şampiyonlarından biri olan ve özellikle tatlı ve hamur işlerindeki ustalığıyla tanınan, 2019 sezonunun birincisi kimdir?",
+      "question": "NBA tarihinde bir maçta 100 sayı atarak inanılmaz bir rekora imza atan efsanevi basketbolcu kimdir?",
       "options": [
-        "Eren Kaşıkçı",
-        "Serhat Doğramacı",
-        "Cemre Uysal",
-        "Metin Yavuz",
-        "Barbaros Yoloğlu"
+        "Kobe Bryant",
+        "Michael Jordan",
+        "Wilt Chamberlain",
+        "LeBron James",
+        "Shaquille O'Neal"
       ],
       "correct": 2
     },
     {
-      "question": "Futbol tarihinde en çok FIFA Dünya Kupası şampiyonluğu kazanan ülke hangisidir?",
+      "question": "UEFA Şampiyonlar Ligi tarihinde en çok kupa kazanan teknik direktör unvanına sahip isim kimdir?",
       "options": [
-        "Almanya",
-        "İtalya",
-        "Arjantin",
-        "Brezilya",
-        "Fransa"
+        "Sir Alex Ferguson",
+        "Pep Guardiola",
+        "José Mourinho",
+        "Carlo Ancelotti",
+        "Zinedine Zidane"
       ],
       "correct": 3
     },
     {
-      "question": "NBA efsanesi Michael Jordan, kariyerinin büyük bir bölümünü hangi takımda geçirmiş ve altı şampiyonluk kazanmıştır?",
+      "question": "Global çapta Instagram'da en çok takipçiye sahip sporcu kimdir?",
       "options": [
-        "Los Angeles Lakers",
-        "Boston Celtics",
-        "Chicago Bulls",
-        "Miami Heat",
-        "Cleveland Cavaliers"
+        "Lionel Messi",
+        "Neymar Jr.",
+        "LeBron James",
+        "Cristiano Ronaldo",
+        "Kylian Mbappé"
       ],
-      "correct": 2
+      "correct": 3
     },
     {
-      "question": "The Witcher evreninde, Geralt'ın 'Kader Çocuğu' olarak bilinen, büyülü güçlere sahip ve geleceği etkileyecek önemli bir role sahip olan genç kadın karakterin adı nedir?",
+      "question": "Dünya Kupası tarihinde bir turnuvada en çok gol atan oyuncu (13 gol) rekorunu elinde bulunduran isim kimdir?",
       "options": [
-        "Yennefer",
-        "Triss Merigold",
-        "Ciri",
-        "Renfri",
-        "Fringilla Vigo"
+        "Pelé",
+        "Gerd Müller",
+        "Miroslav Klose",
+        "Ronaldo Nazário",
+        "Just Fontaine"
       ],
-      "correct": 2
+      "correct": 4
     }
   ]
 }
