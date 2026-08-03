@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Formula 1 tarihinde en çok Grand Prix birinciliği kazanan pilot kimdir?",
+      "question": "maNga grubu, 2010 Eurovision Şarkı Yarışması'nda \"We Could Be The Same\" adlı şarkısıyla Türkiye'yi temsil etmiş ve büyük bir başarı elde etmiştir. Bu yarışmada kaçıncı sırada yer alarak ülkemize dönmüşlerdir?",
       "options": [
-        "Michael Schumacher",
-        "Lewis Hamilton",
-        "Sebastian Vettel",
-        "Max Verstappen",
-        "Alain Prost"
+        "Birinci",
+        "İkinci",
+        "Üçüncü",
+        "Dördüncü",
+        "Beşinci"
       ],
       "correct": 1
     },
     {
-      "question": "NBA tarihinde bir maçta 100 sayı atarak inanılmaz bir rekora imza atan efsanevi basketbolcu kimdir?",
+      "question": "\"Yonaguni\", \"Tití Me Preguntó\", \"Ojitos Lindos\" gibi hit şarkılarıyla bilinen ve reggaeton ile Latin trap türlerinde dünya çapında tanınan Porto Rikolu süperstar kimdir?",
       "options": [
-        "Kobe Bryant",
-        "Michael Jordan",
-        "Wilt Chamberlain",
-        "LeBron James",
-        "Shaquille O'Neal"
+        "Maluma",
+        "J Balvin",
+        "Ricky Martin",
+        "Bad Bunny",
+        "Daddy Yankee"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Formula 1 tarihinde yedişer dünya şampiyonluğu ile bu alandaki rekoru birlikte elinde bulunduran iki efsanevi pilot kimlerdir?",
+      "options": [
+        "Ayrton Senna ve Alain Prost",
+        "Juan Manuel Fangio ve Jim Clark",
+        "Michael Schumacher ve Lewis Hamilton",
+        "Niki Lauda ve Jackie Stewart",
+        "Sebastian Vettel ve Max Verstappen"
       ],
       "correct": 2
     },
     {
-      "question": "UEFA Şampiyonlar Ligi tarihinde en çok kupa kazanan teknik direktör unvanına sahip isim kimdir?",
+      "question": "Türkiye A Milli Futbol Takımı, tarihinde ilk ve tek kez FIFA Dünya Kupası'nda üçüncülük derecesini hangi yılda elde etmiştir?",
       "options": [
-        "Sir Alex Ferguson",
-        "Pep Guardiola",
-        "José Mourinho",
-        "Carlo Ancelotti",
-        "Zinedine Zidane"
+        "1998",
+        "2002",
+        "2006",
+        "2010",
+        "2014"
       ],
-      "correct": 3
+      "correct": 1
     },
     {
-      "question": "Global çapta Instagram'da en çok takipçiye sahip sporcu kimdir?",
+      "question": "Modern Olimpiyat Oyunları'nın başlangıcı olarak kabul edilen ilk organizasyon, 1896 yılında hangi şehirde düzenlenmiştir?",
       "options": [
-        "Lionel Messi",
-        "Neymar Jr.",
-        "LeBron James",
-        "Cristiano Ronaldo",
-        "Kylian Mbappé"
+        "Paris",
+        "Londra",
+        "Roma",
+        "Atina",
+        "Berlin"
       ],
       "correct": 3
-    },
-    {
-      "question": "Dünya Kupası tarihinde bir turnuvada en çok gol atan oyuncu (13 gol) rekorunu elinde bulunduran isim kimdir?",
-      "options": [
-        "Pelé",
-        "Gerd Müller",
-        "Miroslav Klose",
-        "Ronaldo Nazário",
-        "Just Fontaine"
-      ],
-      "correct": 4
     }
   ]
 }
