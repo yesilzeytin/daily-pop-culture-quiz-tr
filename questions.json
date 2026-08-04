@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "maNga grubu, 2010 Eurovision Şarkı Yarışması'nda \"We Could Be The Same\" adlı şarkısıyla Türkiye'yi temsil etmiş ve büyük bir başarı elde etmiştir. Bu yarışmada kaçıncı sırada yer alarak ülkemize dönmüşlerdir?",
+      "question": "Global çapta büyük ilgi gören ve Netflix'in en çok izlenen dizilerinden biri olan \"Squid Game\"de, borç batağındaki bir adam olan Seong Gi-hun'un, hayatını değiştirebilecek tehlikeli oyunlara katılmasıyla başlayan hikayede, Gi-hun karakterini canlandıran oyuncu kimdir?",
       "options": [
-        "Birinci",
-        "İkinci",
-        "Üçüncü",
-        "Dördüncü",
-        "Beşinci"
+        "Lee Jung-jae",
+        "Park Hae-soo",
+        "Wi Ha-joon",
+        "Gong Yoo",
+        "Anupam Tripathi"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
-      "question": "\"Yonaguni\", \"Tití Me Preguntó\", \"Ojitos Lindos\" gibi hit şarkılarıyla bilinen ve reggaeton ile Latin trap türlerinde dünya çapında tanınan Porto Rikolu süperstar kimdir?",
+      "question": "Disney Channel'ın popüler çizgi dizilerinden \"Phineas ve Ferb\"de, kahraman kardeşlerin evcil hayvanı olup aynı zamanda \"Ajan P\" kod adıyla gizli görevler üstlenen, sinsi Dr. Doofenshmirtz'in baş düşmanı olan ornitorenk karakterinin adı nedir?",
       "options": [
-        "Maluma",
-        "J Balvin",
-        "Ricky Martin",
-        "Bad Bunny",
-        "Daddy Yankee"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Formula 1 tarihinde yedişer dünya şampiyonluğu ile bu alandaki rekoru birlikte elinde bulunduran iki efsanevi pilot kimlerdir?",
-      "options": [
-        "Ayrton Senna ve Alain Prost",
-        "Juan Manuel Fangio ve Jim Clark",
-        "Michael Schumacher ve Lewis Hamilton",
-        "Niki Lauda ve Jackie Stewart",
-        "Sebastian Vettel ve Max Verstappen"
+        "Platy",
+        "Patch",
+        "Perry",
+        "Pudge",
+        "Peck"
       ],
       "correct": 2
     },
     {
-      "question": "Türkiye A Milli Futbol Takımı, tarihinde ilk ve tek kez FIFA Dünya Kupası'nda üçüncülük derecesini hangi yılda elde etmiştir?",
+      "question": "Türkiye A Milli Futbol Takımı, 2002 FIFA Dünya Kupası'nda üçüncülük derecesi alarak tarihi bir başarıya imza atmıştır. Bu turnuvada gösterdiği performansla tüm dünyanın dikkatini çeken ve FIFA tarafından turnuvanın en iyi kalecilerinden biri seçilen efsanevi Türk kaleci kimdir?",
       "options": [
-        "1998",
-        "2002",
-        "2006",
-        "2010",
-        "2014"
+        "Volkan Demirel",
+        "Sinan Bolat",
+        "Onur Kıvrak",
+        "Rüştü Reçber",
+        "Uğurcan Çakır"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
-      "question": "Modern Olimpiyat Oyunları'nın başlangıcı olarak kabul edilen ilk organizasyon, 1896 yılında hangi şehirde düzenlenmiştir?",
+      "question": "\"DDU-DU DDU-DU\", \"Kill This Love\", \"How You Like That\" ve \"Pink Venom\" gibi global hit şarkılarıyla tanınan, Coachella gibi büyük festivallerde sahne alan ve YouTube'da milyarlarca izlenmeye ulaşan Güney Koreli K-Pop kız grubu hangisidir?",
       "options": [
-        "Paris",
-        "Londra",
-        "Roma",
-        "Atina",
-        "Berlin"
+        "TWICE",
+        "Red Velvet",
+        "ITZY",
+        "BLACKPINK",
+        "MAMAMOO"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Soğuk Savaş döneminin en bilinen sembollerinden biri olan ve Almanya'nın Doğu ve Batı olarak ikiye bölünmüşlüğünü temsil eden, 1961'den 1989'a kadar varlığını sürdüren ve yıkılışıyla dönemin sonuna dair önemli bir işaret veren yapı hangisidir?",
+      "options": [
+        "Brandenburg Kapısı",
+        "Reichstag Binası",
+        "Versay Sarayı",
+        "Berlin Duvarı",
+        "Postdam Konferans Merkezi"
       ],
       "correct": 3
     }
