@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Global çapta büyük ilgi gören ve Netflix'in en çok izlenen dizilerinden biri olan \"Squid Game\"de, borç batağındaki bir adam olan Seong Gi-hun'un, hayatını değiştirebilecek tehlikeli oyunlara katılmasıyla başlayan hikayede, Gi-hun karakterini canlandıran oyuncu kimdir?",
+      "question": "Disney'in unutulmaz animasyon filmlerinden 'Aslan Kral'da, Simba'nın amcası olan kötü karakterin adı nedir?",
       "options": [
-        "Lee Jung-jae",
-        "Park Hae-soo",
-        "Wi Ha-joon",
-        "Gong Yoo",
-        "Anupam Tripathi"
+        "Scar",
+        "Hades",
+        "Maleficent",
+        "Jafar",
+        "Ursula"
       ],
       "correct": 0
     },
     {
-      "question": "Disney Channel'ın popüler çizgi dizilerinden \"Phineas ve Ferb\"de, kahraman kardeşlerin evcil hayvanı olup aynı zamanda \"Ajan P\" kod adıyla gizli görevler üstlenen, sinsi Dr. Doofenshmirtz'in baş düşmanı olan ornitorenk karakterinin adı nedir?",
+      "question": "Cem Yılmaz'ın yazıp oynadığı ve bilim kurgu komedi türünde bir klasik haline gelen 'G.O.R.A.' filminde, uzaylı prenses Ceku'yu canlandıran aktris kimdir?",
       "options": [
-        "Platy",
-        "Patch",
-        "Perry",
-        "Pudge",
-        "Peck"
+        "Ozan Güven",
+        "Özge Özberk",
+        "Şafak Sezer",
+        "Demet Evgar",
+        "Binnur Kaya"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Türkiye'nin en popüler Twitch yayıncılarından biri olan ve genellikle 'League of Legends' ve 'Valorant' gibi oyunlarla, sohbet yayınlarıyla bilinen 'Elraenn' takma isimli fenomenin gerçek adı nedir?",
+      "options": [
+        "Ferit Karakaya",
+        "Can Sungur",
+        "Tuğkan Gönültaş",
+        "Pinti Panda",
+        "Barış Gürbüz"
       ],
       "correct": 2
     },
     {
-      "question": "Türkiye A Milli Futbol Takımı, 2002 FIFA Dünya Kupası'nda üçüncülük derecesi alarak tarihi bir başarıya imza atmıştır. Bu turnuvada gösterdiği performansla tüm dünyanın dikkatini çeken ve FIFA tarafından turnuvanın en iyi kalecilerinden biri seçilen efsanevi Türk kaleci kimdir?",
+      "question": "Oscar ve Met Gala gibi prestijli etkinliklerin kırmızı halısında, ünlülerden giydikleri kıyafetlerin markalarını ve tasarımcılarını öğrenmek için sıklıkla sorulan sorunun kısa ifadesi nedir?",
       "options": [
-        "Volkan Demirel",
-        "Sinan Bolat",
-        "Onur Kıvrak",
-        "Rüştü Reçber",
-        "Uğurcan Çakır"
+        "Nereden geldiniz?",
+        "Ne hissediyorsunuz?",
+        "Kimden giydiniz?",
+        "Günün anlam ve önemi nedir?",
+        "Bu akşam ne yiyeceksiniz?"
       ],
-      "correct": 3
+      "correct": 2
     },
     {
-      "question": "\"DDU-DU DDU-DU\", \"Kill This Love\", \"How You Like That\" ve \"Pink Venom\" gibi global hit şarkılarıyla tanınan, Coachella gibi büyük festivallerde sahne alan ve YouTube'da milyarlarca izlenmeye ulaşan Güney Koreli K-Pop kız grubu hangisidir?",
+      "question": "Türkiye'deki caps kültürünün popüler ifadelerinden biri olan ve genellikle abartılı tepkiler veren veya sakinleştirilmeye çalışılan kişiler için kullanılan 'Sakin Ol Şampiyon' caps'i, hangi filmin unutulmaz bir sahnesinden ortaya çıkmıştır?",
       "options": [
-        "TWICE",
-        "Red Velvet",
-        "ITZY",
-        "BLACKPINK",
-        "MAMAMOO"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Soğuk Savaş döneminin en bilinen sembollerinden biri olan ve Almanya'nın Doğu ve Batı olarak ikiye bölünmüşlüğünü temsil eden, 1961'den 1989'a kadar varlığını sürdüren ve yıkılışıyla dönemin sonuna dair önemli bir işaret veren yapı hangisidir?",
-      "options": [
-        "Brandenburg Kapısı",
-        "Reichstag Binası",
-        "Versay Sarayı",
-        "Berlin Duvarı",
-        "Postdam Konferans Merkezi"
+        "Recep İvedik",
+        "Vizontele",
+        "A.R.O.G",
+        "Kolpaçino",
+        "Cem Yılmaz: Fundamentals"
       ],
       "correct": 3
     }
