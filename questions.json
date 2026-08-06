@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Disney'in unutulmaz animasyon filmlerinden 'Aslan Kral'da, Simba'nın amcası olan kötü karakterin adı nedir?",
+      "question": "Studio Ghibli'nin Oscar ödüllü, doğaüstü varlıklarla iletişim kurabilen küçük bir kızın ailesiyle birlikte yeni bir eve taşınmasını konu alan ve dünya çapında büyük beğeni toplayan ünlü animasyon filmi hangisidir?",
       "options": [
-        "Scar",
-        "Hades",
-        "Maleficent",
-        "Jafar",
-        "Ursula"
+        "Komşum Totoro",
+        "Prenses Mononoke",
+        "Ruhların Kaçışı",
+        "Yürüyen Şato",
+        "Rüzgar Yükseliyor"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "question": "Cem Yılmaz'ın yazıp oynadığı ve bilim kurgu komedi türünde bir klasik haline gelen 'G.O.R.A.' filminde, uzaylı prenses Ceku'yu canlandıran aktris kimdir?",
+      "question": "Erkekler tenisinde \"Büyük Üçlü\" olarak bilinen Roger Federer, Rafael Nadal ve Novak Djokovic arasında, kariyerinde en çok Grand Slam tekler şampiyonluğu kazanan tenisçi kimdir?",
       "options": [
-        "Ozan Güven",
-        "Özge Özberk",
-        "Şafak Sezer",
-        "Demet Evgar",
-        "Binnur Kaya"
+        "Roger Federer",
+        "Rafael Nadal",
+        "Novak Djokovic",
+        "Pete Sampras",
+        "Andre Agassi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Birinci Dünya Savaşı sırasında, Alman İmparatorluğu'na karşı savaşan İtilaf Devletleri safında yer alan ve askerlerin siperlerde yaşadığı zorlukları anlatan ünlü roman \"Batı Cephesinde Yeni Bir Şey Yok\" (All Quiet on the Western Front) kitabının yazarı kimdir?",
+      "options": [
+        "Ernest Hemingway",
+        "Erich Maria Remarque",
+        "Leo Tolstoy",
+        "George Orwell",
+        "F. Scott Fitzgerald"
       ],
       "correct": 1
     },
     {
-      "question": "Türkiye'nin en popüler Twitch yayıncılarından biri olan ve genellikle 'League of Legends' ve 'Valorant' gibi oyunlarla, sohbet yayınlarıyla bilinen 'Elraenn' takma isimli fenomenin gerçek adı nedir?",
+      "question": "Türk halterinin ve dünya spor tarihinin en efsanevi isimlerinden biri olan, \"Cep Herkülü\" lakabıyla tanınan ve 1988 Seul, 1992 Barselona, 1996 Atlanta Olimpiyatları'nda üst üste üç kez altın madalya kazanan sporcu kimdir?",
       "options": [
-        "Ferit Karakaya",
-        "Can Sungur",
-        "Tuğkan Gönültaş",
-        "Pinti Panda",
-        "Barış Gürbüz"
+        "Hamza Yerlikaya",
+        "Halil Mutlu",
+        "Naim Süleymanoğlu",
+        "Taner Sağır",
+        "Mete Gazoz"
       ],
       "correct": 2
     },
     {
-      "question": "Oscar ve Met Gala gibi prestijli etkinliklerin kırmızı halısında, ünlülerden giydikleri kıyafetlerin markalarını ve tasarımcılarını öğrenmek için sıklıkla sorulan sorunun kısa ifadesi nedir?",
+      "question": "Bilim dünyasına, özellikle radyoaktivite çalışmaları ve polonyum ile radyum elementlerinin keşfiyle çığır açan, hem Fizik hem de Kimya alanında iki Nobel Ödülü kazanan tek kadın bilim insanı kimdir?",
       "options": [
-        "Nereden geldiniz?",
-        "Ne hissediyorsunuz?",
-        "Kimden giydiniz?",
-        "Günün anlam ve önemi nedir?",
-        "Bu akşam ne yiyeceksiniz?"
+        "Rosalind Franklin",
+        "Marie Curie",
+        "Lise Meitner",
+        "Dorothy Hodgkin",
+        "Irène Joliot-Curie"
       ],
-      "correct": 2
-    },
-    {
-      "question": "Türkiye'deki caps kültürünün popüler ifadelerinden biri olan ve genellikle abartılı tepkiler veren veya sakinleştirilmeye çalışılan kişiler için kullanılan 'Sakin Ol Şampiyon' caps'i, hangi filmin unutulmaz bir sahnesinden ortaya çıkmıştır?",
-      "options": [
-        "Recep İvedik",
-        "Vizontele",
-        "A.R.O.G",
-        "Kolpaçino",
-        "Cem Yılmaz: Fundamentals"
-      ],
-      "correct": 3
+      "correct": 1
     }
   ]
 }
