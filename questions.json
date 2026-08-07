@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Studio Ghibli'nin Oscar ödüllü, doğaüstü varlıklarla iletişim kurabilen küçük bir kızın ailesiyle birlikte yeni bir eve taşınmasını konu alan ve dünya çapında büyük beğeni toplayan ünlü animasyon filmi hangisidir?",
+      "question": "“Harry Potter” film serisinde, zekası ve bilginliğiyle öne çıkan, Harry Potter ve Ron Weasley’nin yakın arkadaşı Hermione Granger karakterine hayat veren aktris kimdir?",
       "options": [
-        "Komşum Totoro",
-        "Prenses Mononoke",
-        "Ruhların Kaçışı",
-        "Yürüyen Şato",
-        "Rüzgar Yükseliyor"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Erkekler tenisinde \"Büyük Üçlü\" olarak bilinen Roger Federer, Rafael Nadal ve Novak Djokovic arasında, kariyerinde en çok Grand Slam tekler şampiyonluğu kazanan tenisçi kimdir?",
-      "options": [
-        "Roger Federer",
-        "Rafael Nadal",
-        "Novak Djokovic",
-        "Pete Sampras",
-        "Andre Agassi"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Birinci Dünya Savaşı sırasında, Alman İmparatorluğu'na karşı savaşan İtilaf Devletleri safında yer alan ve askerlerin siperlerde yaşadığı zorlukları anlatan ünlü roman \"Batı Cephesinde Yeni Bir Şey Yok\" (All Quiet on the Western Front) kitabının yazarı kimdir?",
-      "options": [
-        "Ernest Hemingway",
-        "Erich Maria Remarque",
-        "Leo Tolstoy",
-        "George Orwell",
-        "F. Scott Fitzgerald"
+        "Evanna Lynch",
+        "Emma Watson",
+        "Bonnie Wright",
+        "Helena Bonham Carter",
+        "Maggie Smith"
       ],
       "correct": 1
     },
     {
-      "question": "Türk halterinin ve dünya spor tarihinin en efsanevi isimlerinden biri olan, \"Cep Herkülü\" lakabıyla tanınan ve 1988 Seul, 1992 Barselona, 1996 Atlanta Olimpiyatları'nda üst üste üç kez altın madalya kazanan sporcu kimdir?",
+      "question": "Cem Yılmaz'ın senaryosunu yazıp yönettiği ve başrolünü paylaştığı, küçük bir kasabada yaşayan eski hokkabaz İskender'in hayatını ve baba-oğul ilişkisini konu alan 2006 yapımı dram-komedi filmi hangisidir?",
       "options": [
-        "Hamza Yerlikaya",
-        "Halil Mutlu",
-        "Naim Süleymanoğlu",
-        "Taner Sağır",
-        "Mete Gazoz"
+        "G.O.R.A.",
+        "A.R.O.G",
+        "Ali Baba ve Yedi Cüceler",
+        "Hokkabaz",
+        "Pek Yakında"
       ],
-      "correct": 2
+      "correct": 3
     },
     {
-      "question": "Bilim dünyasına, özellikle radyoaktivite çalışmaları ve polonyum ile radyum elementlerinin keşfiyle çığır açan, hem Fizik hem de Kimya alanında iki Nobel Ödülü kazanan tek kadın bilim insanı kimdir?",
+      "question": "Birleşik Krallık Kraliyet Ailesi'nin mevcut hükümdarı ve 2022 yılında annesi Kraliçe II. Elizabeth'in vefatının ardından tahta çıkan kişi kimdir?",
       "options": [
-        "Rosalind Franklin",
-        "Marie Curie",
-        "Lise Meitner",
-        "Dorothy Hodgkin",
-        "Irène Joliot-Curie"
+        "Prens Harry",
+        "Prens William",
+        "Prens Andrew",
+        "Kral III. Charles",
+        "Prens Edward"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "\"Batsın Bu Dünya\", \"Hatasız Kul Olmaz\", \"Fark Etmez\" gibi klasikleşmiş eserleriyle Türk arabesk müziğine damga vuran ve dinleyicileri tarafından \"Arabeskin Kralı\" olarak anılan usta sanatçı kimdir?",
+      "options": [
+        "İbrahim Tatlıses",
+        "Müslüm Gürses",
+        "Ferdi Tayfur",
+        "Hakkı Bulut",
+        "Orhan Gencebay"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "Türkiye A Milli Futbol Takımı'nın tarihindeki en golcü oyuncusu unvanını elinde bulunduran ve attığı gollerle milli formaya önemli katkılar sağlamış efsanevi futbolcu kimdir?",
+      "options": [
+        "Burak Yılmaz",
+        "Hakan Şükür",
+        "Arda Turan",
+        "Nihat Kahveci",
+        "Tuncay Şanlı"
       ],
       "correct": 1
     }
