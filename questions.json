@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "“Harry Potter” film serisinde, zekası ve bilginliğiyle öne çıkan, Harry Potter ve Ron Weasley’nin yakın arkadaşı Hermione Granger karakterine hayat veren aktris kimdir?",
+      "question": "Türk dizi tarihinin en popüler yapımlarından biri olan 'Ezel'de, intikam temasını işleyen başrol karakteri Ezel Bayraktar'a hayat veren oyuncu kimdir?",
       "options": [
-        "Evanna Lynch",
-        "Emma Watson",
-        "Bonnie Wright",
-        "Helena Bonham Carter",
-        "Maggie Smith"
+        "Kenan İmirzalıoğlu",
+        "Kıvanç Tatlıtuğ",
+        "Haluk Bilginer",
+        "Engin Akyürek",
+        "Nejat İşler"
       ],
-      "correct": 1
+      "correct": 0
     },
     {
-      "question": "Cem Yılmaz'ın senaryosunu yazıp yönettiği ve başrolünü paylaştığı, küçük bir kasabada yaşayan eski hokkabaz İskender'in hayatını ve baba-oğul ilişkisini konu alan 2006 yapımı dram-komedi filmi hangisidir?",
+      "question": "Cem Yılmaz'ın 'G.O.R.A.' filminin devamı niteliğinde olan ve Arif'in bu kez taş devrine giderek yaşadığı maceraları anlatan bilim kurgu komedi filminin adı nedir?",
       "options": [
-        "G.O.R.A.",
         "A.R.O.G",
-        "Ali Baba ve Yedi Cüceler",
         "Hokkabaz",
-        "Pek Yakında"
+        "Yahşi Batı",
+        "Pek Yakında",
+        "Ali Baba ve 7 Cüceler"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
-      "question": "Birleşik Krallık Kraliyet Ailesi'nin mevcut hükümdarı ve 2022 yılında annesi Kraliçe II. Elizabeth'in vefatının ardından tahta çıkan kişi kimdir?",
+      "question": "Türk edebiyatının dünyaca ünlü yazarlarından Orhan Pamuk, 2006 yılında Nobel Edebiyat Ödülü'nü kazanmıştır. Ünlü yazarın, Osmanlı döneminde bir nakkaş atölyesini ve Doğu-Batı çatışmasını konu alan, Dedalus Cinayetleri temalı meşhur romanının adı nedir?",
       "options": [
-        "Prens Harry",
-        "Prens William",
-        "Prens Andrew",
-        "Kral III. Charles",
-        "Prens Edward"
+        "Benim Adım Kırmızı",
+        "Kar",
+        "Yeni Hayat",
+        "Masumiyet Müzesi",
+        "Cevdet Bey ve Oğulları"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
-      "question": "\"Batsın Bu Dünya\", \"Hatasız Kul Olmaz\", \"Fark Etmez\" gibi klasikleşmiş eserleriyle Türk arabesk müziğine damga vuran ve dinleyicileri tarafından \"Arabeskin Kralı\" olarak anılan usta sanatçı kimdir?",
+      "question": "Paylaştığı 'Salt Bae' videolarıyla dünya çapında ün kazanan ve kendine has tuzlama tekniğiyle bir restoran zinciri kuran Türk şef ve işletmeci, sosyal medyadaki geniş takipçi kitlesiyle de dikkat çeken Instagram fenomeni kimdir?",
       "options": [
-        "İbrahim Tatlıses",
-        "Müslüm Gürses",
-        "Ferdi Tayfur",
-        "Hakkı Bulut",
-        "Orhan Gencebay"
+        "Nusret Gökçe",
+        "CZN Burak",
+        "Arda Türkmen",
+        "Mehmet Yalçınkaya",
+        "Danla Bilic"
       ],
-      "correct": 4
+      "correct": 0
     },
     {
-      "question": "Türkiye A Milli Futbol Takımı'nın tarihindeki en golcü oyuncusu unvanını elinde bulunduran ve attığı gollerle milli formaya önemli katkılar sağlamış efsanevi futbolcu kimdir?",
+      "question": "Formula 1 tarihinde, pilotların 'Yeşil Cehennem' olarak adlandırdığı, Almanya'daki efsanevi Nürburgring pistinin tam adı nedir? Bu pist, hem uzunluğu hem de zorlu virajlarıyla bilinir.",
       "options": [
-        "Burak Yılmaz",
-        "Hakan Şükür",
-        "Arda Turan",
-        "Nihat Kahveci",
-        "Tuncay Şanlı"
+        "Nürburgring Nordschleife",
+        "Hockenheimring",
+        "Spa-Francorchamps",
+        "Monza Circuit",
+        "Silverstone Circuit"
       ],
-      "correct": 1
+      "correct": 0
     }
   ]
 }
