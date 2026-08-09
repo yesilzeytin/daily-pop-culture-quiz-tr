@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Türk dizi tarihinin en popüler yapımlarından biri olan 'Ezel'de, intikam temasını işleyen başrol karakteri Ezel Bayraktar'a hayat veren oyuncu kimdir?",
+      "question": "TikTok platformunun dünya çapında en çok takip edilen ilk isimlerinden biri olan ve dans videolarıyla tanınan genç influencer kimdir?",
       "options": [
-        "Kenan İmirzalıoğlu",
-        "Kıvanç Tatlıtuğ",
-        "Haluk Bilginer",
-        "Engin Akyürek",
-        "Nejat İşler"
+        "Bella Poarch",
+        "Addison Rae",
+        "Khaby Lame",
+        "Charli D'Amelio",
+        "Dixie D'Amelio"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
-      "question": "Cem Yılmaz'ın 'G.O.R.A.' filminin devamı niteliğinde olan ve Arif'in bu kez taş devrine giderek yaşadığı maceraları anlatan bilim kurgu komedi filminin adı nedir?",
+      "question": "PlayStation'ın ikonik oyun serilerinden God of War'ın baş karakteri Kratos'un, ilk oyunlarda kullandığı ve zincirlerle bileğine bağlı olan ünlü silahının adı nedir?",
       "options": [
-        "A.R.O.G",
-        "Hokkabaz",
-        "Yahşi Batı",
-        "Pek Yakında",
-        "Ali Baba ve 7 Cüceler"
+        "Leviathan Baltası",
+        "Chaos Kılıçları",
+        "Blade of Olympus",
+        "Mjölnir",
+        "Draupnir Yüzüğü"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
-      "question": "Türk edebiyatının dünyaca ünlü yazarlarından Orhan Pamuk, 2006 yılında Nobel Edebiyat Ödülü'nü kazanmıştır. Ünlü yazarın, Osmanlı döneminde bir nakkaş atölyesini ve Doğu-Batı çatışmasını konu alan, Dedalus Cinayetleri temalı meşhur romanının adı nedir?",
+      "question": "İnsanlığın Ay'a ilk ayak basışı olarak bilinen Apollo 11 görevi, hangi astronot tarafından gerçekleştirilmiştir?",
       "options": [
-        "Benim Adım Kırmızı",
-        "Kar",
-        "Yeni Hayat",
-        "Masumiyet Müzesi",
-        "Cevdet Bey ve Oğulları"
+        "Yuri Gagarin",
+        "Buzz Aldrin",
+        "Neil Armstrong",
+        "Michael Collins",
+        "Alan Shepard"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "question": "Paylaştığı 'Salt Bae' videolarıyla dünya çapında ün kazanan ve kendine has tuzlama tekniğiyle bir restoran zinciri kuran Türk şef ve işletmeci, sosyal medyadaki geniş takipçi kitlesiyle de dikkat çeken Instagram fenomeni kimdir?",
+      "question": "ABD'deki Sivil Haklar Hareketi'nin önderlerinden biri olan ve 'Bir Hayalim Var' (I Have a Dream) konuşmasıyla dünya çapında tanınan, Nobel Barış Ödülü sahibi aktivist kimdir?",
       "options": [
-        "Nusret Gökçe",
-        "CZN Burak",
-        "Arda Türkmen",
-        "Mehmet Yalçınkaya",
-        "Danla Bilic"
+        "Nelson Mandela",
+        "Malcolm X",
+        "Martin Luther King Jr.",
+        "Rosa Parks",
+        "John F. Kennedy"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "question": "Formula 1 tarihinde, pilotların 'Yeşil Cehennem' olarak adlandırdığı, Almanya'daki efsanevi Nürburgring pistinin tam adı nedir? Bu pist, hem uzunluğu hem de zorlu virajlarıyla bilinir.",
+      "question": "Uncharted serisi ile PlayStation platformuna damga vuran ve aynı zamanda The Last of Us gibi eleştirel beğenisi yüksek oyunlara imza atan oyun stüdyosu aşağıdakilerden hangisidir?",
       "options": [
-        "Nürburgring Nordschleife",
-        "Hockenheimring",
-        "Spa-Francorchamps",
-        "Monza Circuit",
-        "Silverstone Circuit"
+        "Santa Monica Studio",
+        "Insomniac Games",
+        "Naughty Dog",
+        "Guerrilla Games",
+        "Sucker Punch Productions"
       ],
-      "correct": 0
+      "correct": 2
     }
   ]
 }
