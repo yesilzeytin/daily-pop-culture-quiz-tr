@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "TikTok platformunun dünya çapında en çok takip edilen ilk isimlerinden biri olan ve dans videolarıyla tanınan genç influencer kimdir?",
+      "question": "Çocukluk yıllarımızın vazgeçilmez atıştırmalıklarından biri olan 'Cino', genellikle hangi tatla kaplanmış olarak satılırdı?",
       "options": [
-        "Bella Poarch",
-        "Addison Rae",
-        "Khaby Lame",
-        "Charli D'Amelio",
-        "Dixie D'Amelio"
+        "Sütlü Çikolata",
+        "Bitter Çikolata",
+        "Beyaz Çikolata",
+        "Karamel",
+        "Fındık Kreması"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
-      "question": "PlayStation'ın ikonik oyun serilerinden God of War'ın baş karakteri Kratos'un, ilk oyunlarda kullandığı ve zincirlerle bileğine bağlı olan ünlü silahının adı nedir?",
+      "question": "Türkiye'de YouTube platformunun en eski ve tanınmış içerik üreticilerinden biri olan Enes Batur, kariyerinin başlarında daha çok hangi tür videolarla popülerlik kazanmıştır?",
       "options": [
-        "Leviathan Baltası",
-        "Chaos Kılıçları",
-        "Blade of Olympus",
-        "Mjölnir",
-        "Draupnir Yüzüğü"
+        "Oyun Videoları",
+        "Makyaj ve Güzellik Vlogları",
+        "Yemek Tarifleri",
+        "Seyahat Vlogları",
+        "Tarihi Belgeseller"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Harry Potter evreninde, Hogwarts Cadılık ve Büyücülük Okulu'ndaki dört binadan hangisi, üyelerini cesaretleri, centilmenlikleri ve kararlılıklarıyla tanır?",
+      "options": [
+        "Slytherin",
+        "Hufflepuff",
+        "Gryffindor",
+        "Ravenclaw",
+        "Beauxbatons"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Disney'in gişe rekorları kıran animasyon filmi 'Karlar Ülkesi'nde (Frozen), buz güçlerine sahip Kraliçe Elsa'nın küçük kız kardeşinin adı nedir?",
+      "options": [
+        "Anna",
+        "Ariel",
+        "Belle",
+        "Mulan",
+        "Merida"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Türkiye'nin en bilinen Instagram fenomenlerinden biri olan Şeyma Subaşı, sosyal medya paylaşımlarında genellikle hangi yaşam tarzı temalarını öne çıkarmaktadır?",
+      "options": [
+        "Ev dekorasyonu ve kendin yap projeleri",
+        "Seyahat, moda ve sağlıklı yaşam",
+        "Geleneksel yemek tarifleri",
+        "Kitap eleştirileri ve edebiyat sohbetleri",
+        "Tarihi mekan gezileri ve kültür sanat etkinlikleri"
       ],
       "correct": 1
-    },
-    {
-      "question": "İnsanlığın Ay'a ilk ayak basışı olarak bilinen Apollo 11 görevi, hangi astronot tarafından gerçekleştirilmiştir?",
-      "options": [
-        "Yuri Gagarin",
-        "Buzz Aldrin",
-        "Neil Armstrong",
-        "Michael Collins",
-        "Alan Shepard"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "ABD'deki Sivil Haklar Hareketi'nin önderlerinden biri olan ve 'Bir Hayalim Var' (I Have a Dream) konuşmasıyla dünya çapında tanınan, Nobel Barış Ödülü sahibi aktivist kimdir?",
-      "options": [
-        "Nelson Mandela",
-        "Malcolm X",
-        "Martin Luther King Jr.",
-        "Rosa Parks",
-        "John F. Kennedy"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Uncharted serisi ile PlayStation platformuna damga vuran ve aynı zamanda The Last of Us gibi eleştirel beğenisi yüksek oyunlara imza atan oyun stüdyosu aşağıdakilerden hangisidir?",
-      "options": [
-        "Santa Monica Studio",
-        "Insomniac Games",
-        "Naughty Dog",
-        "Guerrilla Games",
-        "Sucker Punch Productions"
-      ],
-      "correct": 2
     }
   ]
 }
