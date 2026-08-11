@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Çocukluk yıllarımızın vazgeçilmez atıştırmalıklarından biri olan 'Cino', genellikle hangi tatla kaplanmış olarak satılırdı?",
+      "question": "Yumurcak TV'de yayınlanan popüler çizgi filmlerden \"Taş Devri\"nde, başrol karakteri Fred Çakmaktaş'ın karısının adı nedir?",
       "options": [
-        "Sütlü Çikolata",
-        "Bitter Çikolata",
-        "Beyaz Çikolata",
-        "Karamel",
-        "Fındık Kreması"
+        "Wilma Çakmaktaş",
+        "Betty Moloztaş",
+        "Çakıl Çakmaktaş",
+        "Pebbles Çakmaktaş",
+        "Dino Çakmaktaş"
       ],
       "correct": 0
     },
     {
-      "question": "Türkiye'de YouTube platformunun en eski ve tanınmış içerik üreticilerinden biri olan Enes Batur, kariyerinin başlarında daha çok hangi tür videolarla popülerlik kazanmıştır?",
+      "question": "Türk spor tarihinde, 2023 FIVB Kadınlar Voleybol Milletler Ligi ve 2023 Kadınlar Avrupa Voleybol Şampiyonası'nda şampiyon olan A Milli Kadın Voleybol Takımı'mızın en skorer oyuncularından biri ve MVP (En Değerli Oyuncu) seçilen yıldız voleybolcu kimdir?",
       "options": [
-        "Oyun Videoları",
-        "Makyaj ve Güzellik Vlogları",
-        "Yemek Tarifleri",
-        "Seyahat Vlogları",
-        "Tarihi Belgeseller"
+        "Eda Erdem Dündar",
+        "Zehra Güneş",
+        "Hande Baladın",
+        "Melissa Vargas",
+        "Elif Şahin"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
-      "question": "Harry Potter evreninde, Hogwarts Cadılık ve Büyücülük Okulu'ndaki dört binadan hangisi, üyelerini cesaretleri, centilmenlikleri ve kararlılıklarıyla tanır?",
+      "question": "Albert Einstein, 1921 yılında Nobel Fizik Ödülü'nü, görelilik teorisi çalışmalarından dolayı değil, başka hangi bilimsel açıklamasıyla kazanmıştır?",
       "options": [
-        "Slytherin",
-        "Hufflepuff",
-        "Gryffindor",
-        "Ravenclaw",
-        "Beauxbatons"
+        "Evrenin genişlemesi",
+        "Işığın dalga-parçacık ikiliği",
+        "Kara deliklerin varlığı",
+        "Fotoelektrik etki yasası",
+        "Kütleçekim dalgaları"
       ],
-      "correct": 2
+      "correct": 3
     },
     {
-      "question": "Disney'in gişe rekorları kıran animasyon filmi 'Karlar Ülkesi'nde (Frozen), buz güçlerine sahip Kraliçe Elsa'nın küçük kız kardeşinin adı nedir?",
+      "question": "Harry Potter evreninde, Lord Voldemort'un ruhunu parçalara ayırarak ölümsüzlüğe ulaşmak için yarattığı ve yedi farklı nesneye gizlediği kara büyünün adı nedir?",
       "options": [
-        "Anna",
-        "Ariel",
-        "Belle",
-        "Mulan",
-        "Merida"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Türkiye'nin en bilinen Instagram fenomenlerinden biri olan Şeyma Subaşı, sosyal medya paylaşımlarında genellikle hangi yaşam tarzı temalarını öne çıkarmaktadır?",
-      "options": [
-        "Ev dekorasyonu ve kendin yap projeleri",
-        "Seyahat, moda ve sağlıklı yaşam",
-        "Geleneksel yemek tarifleri",
-        "Kitap eleştirileri ve edebiyat sohbetleri",
-        "Tarihi mekan gezileri ve kültür sanat etkinlikleri"
+        "Anka Yoldaşlığı",
+        "Hortkuluklar",
+        "Büyülü Aynalar",
+        "Düşünseli",
+        "Mürver Asa"
       ],
       "correct": 1
+    },
+    {
+      "question": "Marvel Sinematik Evreni'nde (MCU), Peter Parker'a (Spider-Man) akılcı öğütler veren ve \"Büyük güçle büyük sorumluluk gelir\" sözünü söyleyen karakter kimdir?",
+      "options": [
+        "Tony Stark",
+        "Steve Rogers",
+        "Nick Fury",
+        "Amca Ben",
+        "May Hala"
+      ],
+      "correct": 3
     }
   ]
 }
