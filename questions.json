@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Yumurcak TV'de yayınlanan popüler çizgi filmlerden \"Taş Devri\"nde, başrol karakteri Fred Çakmaktaş'ın karısının adı nedir?",
+      "question": "Marvel Sinematik Evreni'nde Thanos'un amacına ulaşmak için topladığı, farklı güçleri temsil eden mistik taşlara ne ad verilir?",
       "options": [
-        "Wilma Çakmaktaş",
-        "Betty Moloztaş",
-        "Çakıl Çakmaktaş",
-        "Pebbles Çakmaktaş",
-        "Dino Çakmaktaş"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Türk spor tarihinde, 2023 FIVB Kadınlar Voleybol Milletler Ligi ve 2023 Kadınlar Avrupa Voleybol Şampiyonası'nda şampiyon olan A Milli Kadın Voleybol Takımı'mızın en skorer oyuncularından biri ve MVP (En Değerli Oyuncu) seçilen yıldız voleybolcu kimdir?",
-      "options": [
-        "Eda Erdem Dündar",
-        "Zehra Güneş",
-        "Hande Baladın",
-        "Melissa Vargas",
-        "Elif Şahin"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Albert Einstein, 1921 yılında Nobel Fizik Ödülü'nü, görelilik teorisi çalışmalarından dolayı değil, başka hangi bilimsel açıklamasıyla kazanmıştır?",
-      "options": [
-        "Evrenin genişlemesi",
-        "Işığın dalga-parçacık ikiliği",
-        "Kara deliklerin varlığı",
-        "Fotoelektrik etki yasası",
-        "Kütleçekim dalgaları"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Harry Potter evreninde, Lord Voldemort'un ruhunu parçalara ayırarak ölümsüzlüğe ulaşmak için yarattığı ve yedi farklı nesneye gizlediği kara büyünün adı nedir?",
-      "options": [
-        "Anka Yoldaşlığı",
-        "Hortkuluklar",
-        "Büyülü Aynalar",
-        "Düşünseli",
-        "Mürver Asa"
+        "Güç Küreleri",
+        "Sonsuzluk Taşları",
+        "Kader Mühürleri",
+        "Evren Prizmaları",
+        "Zaman Kristalleri"
       ],
       "correct": 1
     },
     {
-      "question": "Marvel Sinematik Evreni'nde (MCU), Peter Parker'a (Spider-Man) akılcı öğütler veren ve \"Büyük güçle büyük sorumluluk gelir\" sözünü söyleyen karakter kimdir?",
+      "question": "Genç yaşına rağmen sayısız ödül kazanmış ve 'Bad Guy', 'Ocean Eyes' gibi hitleriyle tanınan, kendine özgü tarzıyla öne çıkan Amerikalı pop şarkıcısı kimdir?",
       "options": [
-        "Tony Stark",
-        "Steve Rogers",
-        "Nick Fury",
-        "Amca Ben",
-        "May Hala"
+        "Ariana Grande",
+        "Olivia Rodrigo",
+        "Billie Eilish",
+        "Dua Lipa",
+        "Selena Gomez"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Cem Yılmaz ve Ozan Güven'in başrollerini paylaştığı, Vahşi Batı temalı komedi filmi 'Yahşi Batı'da, Aziz Vefa ve Lemi Galip adlı iki Osmanlı elçisinin Amerika'daki maceraları konu edilir. Filmde, ikilinin Amerika'ya giderken yanlarında taşıdığı ve büyük değer atfedilen 'elmas' aslında nedir?",
+      "options": [
+        "Tarihi bir Osmanlı fermanı",
+        "Değersiz bir cam parçası",
+        "Çok eski bir harita",
+        "Gizli bir icat planı",
+        "Sahte bir mücevher"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Türk rap müziğinin öncü isimlerinden olan ve 'Med Cezir', 'Holocaust' gibi klasikleşmiş şarkılara imza atan, 'Rapstar' lakabıyla da bilinen sanatçı kimdir?",
+      "options": [
+        "Sagopa Kajmer",
+        "Ezhel",
+        "Norm Ender",
+        "Ceza",
+        "Killa Hakan"
       ],
       "correct": 3
+    },
+    {
+      "question": "Disney'in klasik animasyon filmlerinden 'Güzel ve Çirkin'de, Belle'in âşık olduğu ve kötü bir büyüyle canavara dönüştürülen prensin gerçek adı nedir?",
+      "options": [
+        "Adam",
+        "Gaston",
+        "Philippe",
+        "Maurice",
+        "Lumiere"
+      ],
+      "correct": 0
     }
   ]
 }
