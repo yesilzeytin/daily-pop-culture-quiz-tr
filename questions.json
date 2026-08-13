@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Marvel Sinematik Evreni'nde Thanos'un amacına ulaşmak için topladığı, farklı güçleri temsil eden mistik taşlara ne ad verilir?",
+      "question": "Sezen Aksu'nun 1991 tarihli efsanevi 'Gülümse' albümünde yer alan, sözleri Şehrazat'a, müziği Atilla Özdemiroğlu'na ait olan ve Sezen Aksu klasikleri arasına girmiş hit şarkı hangisidir?",
       "options": [
-        "Güç Küreleri",
-        "Sonsuzluk Taşları",
-        "Kader Mühürleri",
-        "Evren Prizmaları",
-        "Zaman Kristalleri"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Genç yaşına rağmen sayısız ödül kazanmış ve 'Bad Guy', 'Ocean Eyes' gibi hitleriyle tanınan, kendine özgü tarzıyla öne çıkan Amerikalı pop şarkıcısı kimdir?",
-      "options": [
-        "Ariana Grande",
-        "Olivia Rodrigo",
-        "Billie Eilish",
-        "Dua Lipa",
-        "Selena Gomez"
+        "Hadi Bakalım",
+        "Vur Gitsin Beni",
+        "Gülümse",
+        "Erkekler",
+        "Şımarık"
       ],
       "correct": 2
     },
     {
-      "question": "Cem Yılmaz ve Ozan Güven'in başrollerini paylaştığı, Vahşi Batı temalı komedi filmi 'Yahşi Batı'da, Aziz Vefa ve Lemi Galip adlı iki Osmanlı elçisinin Amerika'daki maceraları konu edilir. Filmde, ikilinin Amerika'ya giderken yanlarında taşıdığı ve büyük değer atfedilen 'elmas' aslında nedir?",
+      "question": "90'lı yılların sonunda '...Baby One More Time' şarkısıyla dünya çapında bir fenomen haline gelen ve genç pop ikonu olarak anılan Amerikalı şarkıcı kimdir?",
       "options": [
-        "Tarihi bir Osmanlı fermanı",
-        "Değersiz bir cam parçası",
-        "Çok eski bir harita",
-        "Gizli bir icat planı",
-        "Sahte bir mücevher"
+        "Christina Aguilera",
+        "Mariah Carey",
+        "Britney Spears",
+        "Alanis Morissette",
+        "Céline Dion"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
-      "question": "Türk rap müziğinin öncü isimlerinden olan ve 'Med Cezir', 'Holocaust' gibi klasikleşmiş şarkılara imza atan, 'Rapstar' lakabıyla da bilinen sanatçı kimdir?",
+      "question": "Nintendo'nun efsanevi aksiyon-macera oyunu serisi 'The Legend of Zelda'da, Hyrule diyarını ve Prenses Zelda'yı kurtarmak için maceraya atılan ana kahramanın adı nedir?",
       "options": [
-        "Sagopa Kajmer",
-        "Ezhel",
-        "Norm Ender",
-        "Ceza",
-        "Killa Hakan"
+        "Mario",
+        "Ganondorf",
+        "Luigi",
+        "Link",
+        "Pikachu"
       ],
       "correct": 3
     },
     {
-      "question": "Disney'in klasik animasyon filmlerinden 'Güzel ve Çirkin'de, Belle'in âşık olduğu ve kötü bir büyüyle canavara dönüştürülen prensin gerçek adı nedir?",
+      "question": "Türkiye Cumhuriyeti'nin kuruluşundan önce, Kurtuluş Savaşı döneminde, Ankara'da ulusal egemenliğin ve millet iradesinin simgesi olarak 23 Nisan 1920'de açılan kurum hangisidir?",
       "options": [
-        "Adam",
-        "Gaston",
-        "Philippe",
-        "Maurice",
-        "Lumiere"
+        "Sivas Kongresi",
+        "Erzurum Kongresi",
+        "Türkiye Büyük Millet Meclisi (TBMM)",
+        "Amasya Genelgesi",
+        "Son Osmanlı Mebusan Meclisi"
       ],
-      "correct": 0
+      "correct": 2
+    },
+    {
+      "question": "Netflix'in popüler bilim kurgu ve korku dizisi 'Stranger Things'te, Hawkins kasabasında geçen gizemli olaylarda kilit rol oynayan, telekinetik güçlere sahip ve sayılarla anılan genç kız karakterinin adı nedir?",
+      "options": [
+        "Nancy",
+        "Eleven (On Bir)",
+        "Max",
+        "Robin",
+        "Joyce"
+      ],
+      "correct": 1
     }
   ]
 }
