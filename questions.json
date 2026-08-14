@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Sezen Aksu'nun 1991 tarihli efsanevi 'Gülümse' albümünde yer alan, sözleri Şehrazat'a, müziği Atilla Özdemiroğlu'na ait olan ve Sezen Aksu klasikleri arasına girmiş hit şarkı hangisidir?",
+      "question": "Çocukluk yıllarımızda popüler olan Tipitip sakızlarının içinde genellikle hangi sürpriz hediye bulunurdu?",
       "options": [
-        "Hadi Bakalım",
-        "Vur Gitsin Beni",
-        "Gülümse",
-        "Erkekler",
-        "Şımarık"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "90'lı yılların sonunda '...Baby One More Time' şarkısıyla dünya çapında bir fenomen haline gelen ve genç pop ikonu olarak anılan Amerikalı şarkıcı kimdir?",
-      "options": [
-        "Christina Aguilera",
-        "Mariah Carey",
-        "Britney Spears",
-        "Alanis Morissette",
-        "Céline Dion"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Nintendo'nun efsanevi aksiyon-macera oyunu serisi 'The Legend of Zelda'da, Hyrule diyarını ve Prenses Zelda'yı kurtarmak için maceraya atılan ana kahramanın adı nedir?",
-      "options": [
-        "Mario",
-        "Ganondorf",
-        "Luigi",
-        "Link",
-        "Pikachu"
+        "Küçük oyuncaklar",
+        "Çıkartmalar",
+        "Şaka malzemeleri",
+        "Dövme",
+        "Mini çizgi romanlar"
       ],
       "correct": 3
     },
     {
-      "question": "Türkiye Cumhuriyeti'nin kuruluşundan önce, Kurtuluş Savaşı döneminde, Ankara'da ulusal egemenliğin ve millet iradesinin simgesi olarak 23 Nisan 1920'de açılan kurum hangisidir?",
+      "question": "Türk sinemasının gişe rekortmeni komedi filmlerinden \"Recep İvedik\" serisinde başrol karakteri Recep İvedik'i canlandıran ve aynı zamanda filmlerin senaristliğini de üstlenen ünlü komedyen kimdir?",
       "options": [
-        "Sivas Kongresi",
-        "Erzurum Kongresi",
-        "Türkiye Büyük Millet Meclisi (TBMM)",
-        "Amasya Genelgesi",
-        "Son Osmanlı Mebusan Meclisi"
+        "Ata Demirer",
+        "Cem Yılmaz",
+        "Tolga Çevik",
+        "Şahan Gökbakar",
+        "Yılmaz Erdoğan"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Londra 2012 Yaz Olimpiyatları'nda erkekler 68 kg taekwondo dalında Türkiye'ye Olimpiyat tarihindeki ilk altın madalyasını kazandıran milli sporcumuz kimdir?",
+      "options": [
+        "Nur Tatar",
+        "Hatice Kübra İlgün",
+        "İrem Yaman",
+        "Servet Tazegül",
+        "Rukiye Yıldırım"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Dünya çapında büyük ilgi gören ve birçok ülkeye satılan Türk yapımı tarihi drama dizisi \"Muhteşem Yüzyıl\"da, Osmanlı Padişahı Kanuni Sultan Süleyman karakterine hayat veren ünlü oyuncu kimdir?",
+      "options": [
+        "Burak Özçivit",
+        "Kıvanç Tatlıtuğ",
+        "Halit Ergenç",
+        "Engin Altan Düzyatan",
+        "Kenan İmirzalıoğlu"
       ],
       "correct": 2
     },
     {
-      "question": "Netflix'in popüler bilim kurgu ve korku dizisi 'Stranger Things'te, Hawkins kasabasında geçen gizemli olaylarda kilit rol oynayan, telekinetik güçlere sahip ve sayılarla anılan genç kız karakterinin adı nedir?",
+      "question": "\"Bohemian Rhapsody\", \"We Will Rock You\" ve \"Don't Stop Me Now\" gibi dünya çapında hit olmuş şarkılarıyla 1970'ler ve 1980'lere damga vuran efsanevi İngiliz rock grubu Queen'in karizmatik solisti ve müzik ikonlarından biri olarak kabul edilen sanatçı kimdir?",
       "options": [
-        "Nancy",
-        "Eleven (On Bir)",
-        "Max",
-        "Robin",
-        "Joyce"
+        "Robert Plant",
+        "David Bowie",
+        "Elton John",
+        "Freddie Mercury",
+        "Mick Jagger"
       ],
-      "correct": 1
+      "correct": 3
     }
   ]
 }
