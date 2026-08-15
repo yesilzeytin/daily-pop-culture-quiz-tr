@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Çocukluk yıllarımızda popüler olan Tipitip sakızlarının içinde genellikle hangi sürpriz hediye bulunurdu?",
+      "question": "Tarkan'ın \"Şıkıdım\", \"Şeytan Azapta\" ve \"Salına Salına Sinsice\" gibi hit şarkılarının yer aldığı, 1997 yılında piyasaya sürülen ve kariyerinde önemli bir dönüm noktası olan albümünün adı nedir?",
       "options": [
-        "Küçük oyuncaklar",
-        "Çıkartmalar",
-        "Şaka malzemeleri",
-        "Dövme",
-        "Mini çizgi romanlar"
+        "Ölürüm Sana",
+        "Karma",
+        "Kuzu Kuzu",
+        "Adımı Kalbine Yaz",
+        "Yolla"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
-      "question": "Türk sinemasının gişe rekortmeni komedi filmlerinden \"Recep İvedik\" serisinde başrol karakteri Recep İvedik'i canlandıran ve aynı zamanda filmlerin senaristliğini de üstlenen ünlü komedyen kimdir?",
+      "question": "Nickelodeon'un tüm dünyada popüler olan çizgi dizisi \"SüngerBob KareŞort\"ta, SüngerBob'un evcil hayvanı olan miyavlayan salyangozun adı nedir?",
       "options": [
-        "Ata Demirer",
-        "Cem Yılmaz",
-        "Tolga Çevik",
-        "Şahan Gökbakar",
-        "Yılmaz Erdoğan"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Londra 2012 Yaz Olimpiyatları'nda erkekler 68 kg taekwondo dalında Türkiye'ye Olimpiyat tarihindeki ilk altın madalyasını kazandıran milli sporcumuz kimdir?",
-      "options": [
-        "Nur Tatar",
-        "Hatice Kübra İlgün",
-        "İrem Yaman",
-        "Servet Tazegül",
-        "Rukiye Yıldırım"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Dünya çapında büyük ilgi gören ve birçok ülkeye satılan Türk yapımı tarihi drama dizisi \"Muhteşem Yüzyıl\"da, Osmanlı Padişahı Kanuni Sultan Süleyman karakterine hayat veren ünlü oyuncu kimdir?",
-      "options": [
-        "Burak Özçivit",
-        "Kıvanç Tatlıtuğ",
-        "Halit Ergenç",
-        "Engin Altan Düzyatan",
-        "Kenan İmirzalıoğlu"
+        "Patrick",
+        "Sandy",
+        "Gary",
+        "Squidward",
+        "Plankton"
       ],
       "correct": 2
     },
     {
-      "question": "\"Bohemian Rhapsody\", \"We Will Rock You\" ve \"Don't Stop Me Now\" gibi dünya çapında hit olmuş şarkılarıyla 1970'ler ve 1980'lere damga vuran efsanevi İngiliz rock grubu Queen'in karizmatik solisti ve müzik ikonlarından biri olarak kabul edilen sanatçı kimdir?",
+      "question": "2009 Eurovision Şarkı Yarışması'nda Türkiye'yi \"We Could Be The Same\" adlı şarkıyla temsil eden ve uluslararası alanda tanınmış Türk rock grubu aşağıdakilerden hangisidir?",
       "options": [
-        "Robert Plant",
-        "David Bowie",
-        "Elton John",
-        "Freddie Mercury",
-        "Mick Jagger"
+        "Duman",
+        "Mor ve Ötesi",
+        "Şebnem Ferah",
+        "Athena",
+        "maNga"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "\"Geceler\", \"Şehrimin Tadı\" ve \"Felaket\" gibi hit şarkılarıyla bilinen, Türk hip-hop sahnesinin günümüzdeki en popüler isimlerinden biri olan sanatçı kimdir?",
+      "options": [
+        "Sagopa Kajmer",
+        "Norm Ender",
+        "Ezhel",
+        "Contra",
+        "UZI"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Özellikle 2010'lu yılların ortalarında Vine uygulamasında çektiği kısa, komik videolarla tanınan ve ardından YouTube ve Instagram'da da büyük bir takipçi kitlesi edinen, \"Yaaani\" ve \"Ne demek\" gibi replikleriyle akıllara kazınan Türk fenomen kimdir?",
+      "options": [
+        "Reynmen",
+        "Enes Batur",
+        "Cem Korkmaz",
+        "Aykut Elmas",
+        "Kafalar (Bilal Hancı, Atakan Özyurt, Fatih Yasin)"
       ],
       "correct": 3
     }
