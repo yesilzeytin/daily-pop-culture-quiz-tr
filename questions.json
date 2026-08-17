@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Türk bilim insanı Prof. Dr. Aziz Sancar, DNA onarımı alanındaki çığır açan çalışmalarıyla hangi alanda Nobel Ödülü kazanmıştır?",
+      "question": "TikTok'ta sessiz komedi videolarıyla tanınan ve mimikleriyle milyonlarca takipçiye ulaşan, genellikle karmaşık sorunlara basit çözümler sunan İtalyan fenomen kimdir?",
       "options": [
-        "Fizik",
-        "Kimya",
-        "Tıp veya Fizyoloji",
-        "Edebiyat",
-        "Barış"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Pixar'ın 2008 yapımı, dünyayı temizlemekle görevlendirilmiş son robotu WALL-E'nin, insanlığın kaderini değiştiren uzay macerasını konu alan animasyon filminin adı nedir?",
-      "options": [
-        "Oyuncak Hikayesi",
-        "Yukarı Bak",
-        "Vol-i",
-        "Ters Yüz",
-        "Koko"
+        "Charli D'Amelio",
+        "Addison Rae",
+        "Khaby Lame",
+        "Bella Poarch",
+        "Zach King"
       ],
       "correct": 2
     },
     {
-      "question": "Anadolu'nun kapılarını Türklere açan ve 1071 yılında Selçuklu Sultanı Alparslan komutasındaki Türk ordusunun Bizans İmparatorluğu'na karşı kazandığı tarihi zafer hangi savaşla elde edilmiştir?",
+      "question": "Taylor Swift'in hayranları tarafından 'Swifties' olarak bilinen kitlesi, sanatçının eski albümlerini yeniden kaydetme projesine ne ad vermiştir? (Örneğin: 'Red (Taylor's Version)')",
       "options": [
-        "Dandanakan Savaşı",
-        "Pasinler Savaşı",
-        "Miryokefalon Savaşı",
-        "Malazgirt Meydan Muharebesi",
-        "Mohaç Meydan Muharebesi"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Dünyanın en popüler YouTuber'larından 'MrBeast' olarak tanınan Jimmy Donaldson, kanalında genellikle hangi tür içeriklerle milyonlarca aboneye ulaşmıştır?",
-      "options": [
-        "Makroekonomi Analizleri",
-        "Müzik Videoları ve Şarkı Kapakları",
-        "Aşırı Para Ödüllü Yarışmalar ve Hayırseverlik Etkinlikleri",
-        "Oyun Canlı Yayınları ve Esport Turnuvaları",
-        "Antik Tarih Belgeselleri"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türk futbol tarihinde, 2000 yılında UEFA Kupası'nı ve ardından UEFA Süper Kupası'nı kazanarak Avrupa'da büyük bir başarıya imza atan Süper Lig takımı hangisidir?",
-      "options": [
-        "Fenerbahçe",
-        "Beşiktaş",
-        "Trabzonspor",
-        "Medipol Başakşehir",
-        "Galatasaray"
+        "Revival Era",
+        "Reimagined Albums",
+        "Taylor's Take",
+        "From The Vault",
+        "Taylor's Version"
       ],
       "correct": 4
+    },
+    {
+      "question": "Bir dönem YouTube'un en çok abonesi olan bireysel içerik üreticisi unvanını elinde bulunduran ve 'PewDiePie' takma adıyla tanınan İsveçli YouTuber'ın gerçek adı nedir?",
+      "options": [
+        "Jimmy Donaldson",
+        "Mark Fischbach",
+        "Felix Kjellberg",
+        "Seán McLoughlin",
+        "Logan Paul"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Steven Spielberg'in yönettiği ve İkinci Dünya Savaşı'nın Normandiya Çıkarması sonrasında geçen, kayıp bir askeri kurtarma görevini konu alan 1998 yapımı ünlü savaş filminin adı nedir?",
+      "options": [
+        "Er Ryan'ı Kurtarmak",
+        "Piyanist",
+        "Hayat Güzeldir",
+        "Schindler'in Listesi",
+        "Dunkirk"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Disney Channel'ın popüler çizgi dizisi 'Phineas ve Ferb'de, Phineas ve Ferb'in evcil hayvanı olan, ancak gizlice bir ajan olarak görev yapan ornitorenkin adı nedir?",
+      "options": [
+        "Ducky",
+        "Pinky",
+        "Perry",
+        "Gribble",
+        "Bobby"
+      ],
+      "correct": 2
     }
   ]
 }
