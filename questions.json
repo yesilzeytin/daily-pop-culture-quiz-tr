@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "TikTok'ta sessiz komedi videolarıyla tanınan ve mimikleriyle milyonlarca takipçiye ulaşan, genellikle karmaşık sorunlara basit çözümler sunan İtalyan fenomen kimdir?",
+      "question": "90'lı yılların sonu ve 2000'lerin başında popüler olan, içinde küçük metal tasolar bulunan ve genellikle çizgi film karakterli kapaklara sahip cips markası hangisiydi?",
       "options": [
-        "Charli D'Amelio",
-        "Addison Rae",
-        "Khaby Lame",
-        "Bella Poarch",
-        "Zach King"
+        "Ruffles",
+        "Doritos",
+        "Cheetos",
+        "Lays",
+        "Patos"
       ],
       "correct": 2
     },
     {
-      "question": "Taylor Swift'in hayranları tarafından 'Swifties' olarak bilinen kitlesi, sanatçının eski albümlerini yeniden kaydetme projesine ne ad vermiştir? (Örneğin: 'Red (Taylor's Version)')",
+      "question": "90'ların ortalarından itibaren Türkiye'de 'Megastar' lakabıyla anılan, çıkardığı albümler ve sahne performanslarıyla Türk pop müzik tarihine damga vuran sanatçı kimdir?",
       "options": [
-        "Revival Era",
-        "Reimagined Albums",
-        "Taylor's Take",
-        "From The Vault",
-        "Taylor's Version"
-      ],
-      "correct": 4
-    },
-    {
-      "question": "Bir dönem YouTube'un en çok abonesi olan bireysel içerik üreticisi unvanını elinde bulunduran ve 'PewDiePie' takma adıyla tanınan İsveçli YouTuber'ın gerçek adı nedir?",
-      "options": [
-        "Jimmy Donaldson",
-        "Mark Fischbach",
-        "Felix Kjellberg",
-        "Seán McLoughlin",
-        "Logan Paul"
+        "Mustafa Sandal",
+        "Serdar Ortaç",
+        "Tarkan",
+        "Kenan Doğulu",
+        "Teoman"
       ],
       "correct": 2
     },
     {
-      "question": "Steven Spielberg'in yönettiği ve İkinci Dünya Savaşı'nın Normandiya Çıkarması sonrasında geçen, kayıp bir askeri kurtarma görevini konu alan 1998 yapımı ünlü savaş filminin adı nedir?",
+      "question": "Türkiye'de internet mizahında sıklıkla kullanılan ve bir durumun absürtlüğünü veya şaşkınlığını ifade etmek için, gözleri fal taşı gibi açılmış ve ağzı açık bir kedi görselinin eşlik ettiği meşhur caps repliği hangisidir?",
       "options": [
-        "Er Ryan'ı Kurtarmak",
-        "Piyanist",
-        "Hayat Güzeldir",
-        "Schindler'in Listesi",
-        "Dunkirk"
+        "Yaaani...",
+        "Ne demek şimdi bu?",
+        "Bu havada gidilmez!",
+        "Şok. Oldum. Gerçekten.",
+        "Sen kimsin ya?"
       ],
-      "correct": 0
+      "correct": 3
     },
     {
-      "question": "Disney Channel'ın popüler çizgi dizisi 'Phineas ve Ferb'de, Phineas ve Ferb'in evcil hayvanı olan, ancak gizlice bir ajan olarak görev yapan ornitorenkin adı nedir?",
+      "question": "Türkiye'de 2000'li yılların başlarında gençlerin arasında oldukça popüler olan, dayanıklılığı ve uzun pil ömrüyle bilinen, hatta 'duvara fırlatılsa bile kırılmaz' efsanesiyle anılan efsanevi cep telefonu modeli hangisidir?",
       "options": [
-        "Ducky",
-        "Pinky",
-        "Perry",
-        "Gribble",
-        "Bobby"
+        "Siemens C35",
+        "Sony Ericsson K750i",
+        "Nokia 3310",
+        "Motorola StarTAC",
+        "Samsung E250"
       ],
       "correct": 2
+    },
+    {
+      "question": "2010'lu yılların sonlarına doğru YouTube'da popülerleşen, özellikle makyaj ve güzellik videoları ile tanınan ve Türkiye'nin en çok takip edilen kadın YouTuber'larından biri olan isim kimdir?",
+      "options": [
+        "Danla Bilic",
+        "Meryem Can",
+        "Enes Batur",
+        "Duygu Özaslan",
+        "Şeyma Subaşı"
+      ],
+      "correct": 3
     }
   ]
 }
