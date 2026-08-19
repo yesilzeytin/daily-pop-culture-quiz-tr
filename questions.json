@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "90'lı yılların sonu ve 2000'lerin başında popüler olan, içinde küçük metal tasolar bulunan ve genellikle çizgi film karakterli kapaklara sahip cips markası hangisiydi?",
+      "question": "Rio 2016 Yaz Olimpiyatları'nda erkekler serbest güreş 125 kg kategorisinde Türkiye'ye altın madalya kazandıran milli sporcumuz kimdir?",
       "options": [
-        "Ruffles",
-        "Doritos",
-        "Cheetos",
-        "Lays",
-        "Patos"
+        "Taha Akgül",
+        "Rıza Kayaalp",
+        "Yasemin Adar Yiğit",
+        "Mete Gazoz",
+        "Servet Tazegül"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "90'ların ortalarından itibaren Türkiye'de 'Megastar' lakabıyla anılan, çıkardığı albümler ve sahne performanslarıyla Türk pop müzik tarihine damga vuran sanatçı kimdir?",
+      "question": "Anadolu Efes, 2021 ve 2022 yıllarında kazandığı üst üste iki EuroLeague şampiyonluğunda finalde hangi takımları yenmiştir?",
       "options": [
-        "Mustafa Sandal",
-        "Serdar Ortaç",
-        "Tarkan",
-        "Kenan Doğulu",
-        "Teoman"
+        "CSKA Moskova ve Real Madrid",
+        "Barcelona ve Real Madrid",
+        "Olympiacos ve Virtus Bologna",
+        "Real Madrid ve CSKA Moskova",
+        "Barcelona ve Olympiacos"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
-      "question": "Türkiye'de internet mizahında sıklıkla kullanılan ve bir durumun absürtlüğünü veya şaşkınlığını ifade etmek için, gözleri fal taşı gibi açılmış ve ağzı açık bir kedi görselinin eşlik ettiği meşhur caps repliği hangisidir?",
+      "question": "Harry Potter evreninde, Hogwarts Cadılık ve Büyücülük Okulu'nda Karanlık Sanatlara Karşı Savunma dersini veren ve aynı zamanda gizlice bir kurt adam olan öğretmen kimdir?",
       "options": [
-        "Yaaani...",
-        "Ne demek şimdi bu?",
-        "Bu havada gidilmez!",
-        "Şok. Oldum. Gerçekten.",
-        "Sen kimsin ya?"
+        "Severus Snape",
+        "Gilderoy Lockhart",
+        "Alastor Moody",
+        "Remus Lupin",
+        "Dolores Umbridge"
       ],
       "correct": 3
     },
     {
-      "question": "Türkiye'de 2000'li yılların başlarında gençlerin arasında oldukça popüler olan, dayanıklılığı ve uzun pil ömrüyle bilinen, hatta 'duvara fırlatılsa bile kırılmaz' efsanesiyle anılan efsanevi cep telefonu modeli hangisidir?",
+      "question": "Game of Thrones dizisinde, Westeros'un en güçlü ailelerinden biri olan ve 'Lannisterlar her zaman borcunu öder' sözleriyle bilinen Lannister Hanesi'nin simgesi hangi hayvandır?",
       "options": [
-        "Siemens C35",
-        "Sony Ericsson K750i",
-        "Nokia 3310",
-        "Motorola StarTAC",
-        "Samsung E250"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "2010'lu yılların sonlarına doğru YouTube'da popülerleşen, özellikle makyaj ve güzellik videoları ile tanınan ve Türkiye'nin en çok takip edilen kadın YouTuber'larından biri olan isim kimdir?",
-      "options": [
-        "Danla Bilic",
-        "Meryem Can",
-        "Enes Batur",
-        "Duygu Özaslan",
-        "Şeyma Subaşı"
+        "Kurt",
+        "Ejderha",
+        "Geyik",
+        "Aslan",
+        "Kalamar"
       ],
       "correct": 3
+    },
+    {
+      "question": "Survivor Türkiye tarihinin en uzun soluklu ve en çok izlenen sezonlarından biri olan 2020 Survivor'da, finale kalarak şampiyonluk unvanını kazanan erkek yarışmacı kimdir?",
+      "options": [
+        "Barış Murat Yağcı",
+        "Cemal Can Canseven",
+        "Yasin Obuz",
+        "Ogeday Girişken",
+        "Adem Kılıççı"
+      ],
+      "correct": 1
     }
   ]
 }
