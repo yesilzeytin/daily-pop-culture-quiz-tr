@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Hangi Cartoon Network çizgi filmi, 10 yaşındaki Ben Tennyson'ın uzaylı bir saat olan Omnitrix'i bulup farklı uzaylılara dönüşerek dünyayı kurtarmasını konu alır?",
+      "question": "Bir dönem TikTok'ta oldukça popüler olan ve \"Ananem ne isterse alsın\" repliğiyle bilinen viral videolarda, ananesine alışveriş yaptırdığı anları paylaşan fenomen kimdir?",
       "options": [
-        "Gumball Dünyası",
-        "Adventure Time",
-        "Ben 10",
-        "Sürekli Dizi",
-        "Powerpuff Girls"
+        "CZN Burak",
+        "Buğra Kazancı",
+        "Cem Gelinoğlu",
+        "Enes Batur",
+        "Berkcan Güven"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
-      "question": "'Diriliş', 'Para Avcısı' ve 'Titanic' gibi gişe rekorları kıran filmleriyle tanınan ve 2016 yılında 'Diriliş' filmiyle En İyi Erkek Oyuncu Oscar'ını kazanan dünyaca ünlü aktör kimdir?",
+      "question": "HBO'nun beğenilen post-apokaliptik dizisi \"The Last of Us\"ta, ana karakter Joel Miller'a hayat veren dünyaca ünlü aktör kimdir?",
       "options": [
-        "Tom Hanks",
-        "Brad Pitt",
-        "Johnny Depp",
-        "Leonardo DiCaprio",
-        "Christian Bale"
+        "Oscar Isaac",
+        "Jeffrey Dean Morgan",
+        "Bryan Cranston",
+        "Pedro Pascal",
+        "Woody Harrelson"
       ],
       "correct": 3
     },
     {
-      "question": "'Cep Herkülü' lakabıyla anılan, Olimpiyat Oyunları'nda 3 kez altın madalya kazanmış ve tüm zamanların en büyük haltercilerinden biri olarak kabul edilen efsanevi Türk sporcu kimdir?",
+      "question": "Türk edebiyatının usta kalemi Orhan Pamuk, 2006 yılında Nobel Edebiyat Ödülü'nü kazanan ilk ve tek Türk yazardır. Yazarın, Kars'ta geçen ve siyasi-toplumsal gerilimleri işlediği, Türkiye'de ve dünyada büyük yankı uyandıran ünlü romanı hangisidir?",
       "options": [
-        "Halil Mutlu",
-        "Hamza Yerlikaya",
-        "Naim Süleymanoğlu",
-        "Taha Akgül",
-        "Daniyar İsmayilov"
+        "Kara Kitap",
+        "Yeni Hayat",
+        "Cevdet Bey ve Oğulları",
+        "Benim Adım Kırmızı",
+        "Kar"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "Japon Shiba Inu cinsi bir köpeğin çeşitli iç monologlarıyla eşlenen, \"wow\", \"such X\", \"very Y\" gibi ifadelerle bilinen ve internet kültüründe ikonik hale gelmiş meme'in adı nedir?",
+      "options": [
+        "Grumpy Cat",
+        "Pepe the Frog",
+        "Doge",
+        "Wojak",
+        "Trollface"
       ],
       "correct": 2
     },
     {
-      "question": "'Distracted Boyfriend' (Dalgın Erkek Arkadaş) olarak bilinen ve sosyal medyada sıkça kullanılan popüler meme, bir kişinin mevcut bir şeye veya kişiye karşı ilgisizliğini ve başka bir şeye veya kişiye duyduğu yeni ilgiyi hangi mizahi bağlamda ifade eder?",
+      "question": "League of Legends Espor dünyasının en prestijli turnuvası olan Worlds şampiyonluğunu en çok kazanan takım hangisidir?",
       "options": [
-        "Bir kişinin yoğun ders çalışırken yaşadığı dikkat dağınıklığını.",
-        "İki arkadaşın bir konuda aynı fikirde olmamasını.",
-        "Mevcut bir bağlılığa rağmen başka bir seçeneğe duyulan ilgiyi.",
-        "Bir yemeği beğenmeyip başka bir yemek sipariş etme isteğini.",
-        "Hava durumuna şaşırıp ani plan değişikliği yapmayı."
+        "G2 Esports",
+        "Fnatic",
+        "Royal Never Give Up",
+        "T1",
+        "Cloud9"
       ],
-      "correct": 2
-    },
-    {
-      "question": "Netflix'in tüm dünyada büyük yankı uyandıran ve rekorlar kıran Güney Kore yapımı dizisi 'Squid Game'de, çaresiz durumda olan katılımcılar, büyük bir para ödülü kazanmak için hangi tür oyunlara zorlanır?",
-      "options": [
-        "Zeka ve strateji gerektiren masa oyunları.",
-        "Bilim kurgu temalı sanal gerçeklik oyunları.",
-        "Geleneksel çocuk oyunlarının ölümcül versiyonları.",
-        "Spor müsabakaları ve fiziksel dayanıklılık testleri.",
-        "Müzikal yeteneklerin sergilendiği yetenek yarışmaları."
-      ],
-      "correct": 2
+      "correct": 3
     }
   ]
 }
