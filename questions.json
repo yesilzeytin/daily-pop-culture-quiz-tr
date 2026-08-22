@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Bir dönem TikTok'ta oldukça popüler olan ve \"Ananem ne isterse alsın\" repliğiyle bilinen viral videolarda, ananesine alışveriş yaptırdığı anları paylaşan fenomen kimdir?",
+      "question": "Game of Thrones dizisinde, Targaryen Hanesi'nin son üyelerinden biri olan ve üç ejderhanın annesi olarak bilinen karakter kimdir?",
       "options": [
-        "CZN Burak",
-        "Buğra Kazancı",
-        "Cem Gelinoğlu",
-        "Enes Batur",
-        "Berkcan Güven"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "HBO'nun beğenilen post-apokaliptik dizisi \"The Last of Us\"ta, ana karakter Joel Miller'a hayat veren dünyaca ünlü aktör kimdir?",
-      "options": [
-        "Oscar Isaac",
-        "Jeffrey Dean Morgan",
-        "Bryan Cranston",
-        "Pedro Pascal",
-        "Woody Harrelson"
+        "Sansa Stark",
+        "Cersei Lannister",
+        "Arya Stark",
+        "Daenerys Targaryen",
+        "Margaery Tyrell"
       ],
       "correct": 3
     },
     {
-      "question": "Türk edebiyatının usta kalemi Orhan Pamuk, 2006 yılında Nobel Edebiyat Ödülü'nü kazanan ilk ve tek Türk yazardır. Yazarın, Kars'ta geçen ve siyasi-toplumsal gerilimleri işlediği, Türkiye'de ve dünyada büyük yankı uyandıran ünlü romanı hangisidir?",
+      "question": "Stanley Kubrick'in yönettiği, Soğuk Savaş döneminin nükleer tehdidini hicveden klasik kara mizah filmi hangisidir?",
       "options": [
-        "Kara Kitap",
-        "Yeni Hayat",
-        "Cevdet Bey ve Oğulları",
-        "Benim Adım Kırmızı",
-        "Kar"
-      ],
-      "correct": 4
-    },
-    {
-      "question": "Japon Shiba Inu cinsi bir köpeğin çeşitli iç monologlarıyla eşlenen, \"wow\", \"such X\", \"very Y\" gibi ifadelerle bilinen ve internet kültüründe ikonik hale gelmiş meme'in adı nedir?",
-      "options": [
-        "Grumpy Cat",
-        "Pepe the Frog",
-        "Doge",
-        "Wojak",
-        "Trollface"
+        "Platoon",
+        "Full Metal Jacket",
+        "Dr. Strangelove",
+        "Apocalypse Now",
+        "The Deer Hunter"
       ],
       "correct": 2
     },
     {
-      "question": "League of Legends Espor dünyasının en prestijli turnuvası olan Worlds şampiyonluğunu en çok kazanan takım hangisidir?",
+      "question": "NBA tarihinde en çok sayı atan oyuncu unvanını 2023 yılında kırarak zirveye oturan efsanevi basketbolcu kimdir?",
       "options": [
-        "G2 Esports",
-        "Fnatic",
-        "Royal Never Give Up",
-        "T1",
-        "Cloud9"
+        "Michael Jordan",
+        "Kareem Abdul-Jabbar",
+        "Kobe Bryant",
+        "LeBron James",
+        "Shaquille O'Neal"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "James Cameron'ın yönettiği ve Pandora gezegenindeki Na'vi halkının hikayesini anlatan, tüm zamanların en yüksek gişe hasılatına sahip filmlerinden biri olan bilim kurgu destanı hangisidir?",
+      "options": [
+        "Star Wars: Güç Uyanıyor",
+        "Avengers: Endgame",
+        "Avatar",
+        "Titanic",
+        "Jurassic World"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Her yıl moda dünyasının en büyük gecelerinden biri olarak kabul edilen ve New York'taki Metropolitan Sanat Müzesi'nin Kostüm Enstitüsü yararına düzenlenen galanın adı nedir?",
+      "options": [
+        "Cannes Film Festivali Kırmızı Halısı",
+        "Golden Globe Ödül Töreni",
+        "MTV Video Müzik Ödülleri",
+        "Met Gala",
+        "BAFTA Ödülleri"
       ],
       "correct": 3
     }
