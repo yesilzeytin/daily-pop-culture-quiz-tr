@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Game of Thrones dizisinde, Targaryen Hanesi'nin son üyelerinden biri olan ve üç ejderhanın annesi olarak bilinen karakter kimdir?",
+      "question": "Türk Twitch yayıncılarından 'Pqueen' olarak bilinen Pelin Baynazoğlu, özellikle hangi tür içerikleriyle geniş bir takipçi kitlesi edinmiştir?",
       "options": [
-        "Sansa Stark",
-        "Cersei Lannister",
-        "Arya Stark",
-        "Daenerys Targaryen",
-        "Margaery Tyrell"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Stanley Kubrick'in yönettiği, Soğuk Savaş döneminin nükleer tehdidini hicveden klasik kara mizah filmi hangisidir?",
-      "options": [
-        "Platoon",
-        "Full Metal Jacket",
-        "Dr. Strangelove",
-        "Apocalypse Now",
-        "The Deer Hunter"
+        "Yemek tarifleri ve gurme gezileri",
+        "Tarihi belgeseller ve analizler",
+        "Sohbet, oyun ve mizah içerikleri",
+        "Bilim kurgu kitap incelemeleri",
+        "Finans ve ekonomi yorumları"
       ],
       "correct": 2
     },
     {
-      "question": "NBA tarihinde en çok sayı atan oyuncu unvanını 2023 yılında kırarak zirveye oturan efsanevi basketbolcu kimdir?",
+      "question": "Netflix Türkiye'nin ilk orijinal dizisi olma özelliğini taşıyan ve İstanbul'da geçen fantastik bir süper kahraman hikayesini konu alan yapım hangisidir?",
       "options": [
-        "Michael Jordan",
-        "Kareem Abdul-Jabbar",
-        "Kobe Bryant",
-        "LeBron James",
-        "Shaquille O'Neal"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "James Cameron'ın yönettiği ve Pandora gezegenindeki Na'vi halkının hikayesini anlatan, tüm zamanların en yüksek gişe hasılatına sahip filmlerinden biri olan bilim kurgu destanı hangisidir?",
-      "options": [
-        "Star Wars: Güç Uyanıyor",
-        "Avengers: Endgame",
-        "Avatar",
-        "Titanic",
-        "Jurassic World"
+        "Atiye",
+        "Kulüp",
+        "Hakan: Muhafız",
+        "Bir Başkadır",
+        "Zeytin Ağacı"
       ],
       "correct": 2
     },
     {
-      "question": "Her yıl moda dünyasının en büyük gecelerinden biri olarak kabul edilen ve New York'taki Metropolitan Sanat Müzesi'nin Kostüm Enstitüsü yararına düzenlenen galanın adı nedir?",
+      "question": "HBO'nun büyük beğeni toplayan ve eleştirmenlerce çok takdir edilen drama dizisi 'Succession'da, Logan Roy liderliğindeki medya imparatorluğunun adı nedir?",
       "options": [
-        "Cannes Film Festivali Kırmızı Halısı",
-        "Golden Globe Ödül Töreni",
-        "MTV Video Müzik Ödülleri",
-        "Met Gala",
-        "BAFTA Ödülleri"
+        "Waystar RoyCo",
+        "King Broadcasting",
+        "Empire Global",
+        "Zenith Media",
+        "Titan Entertainment"
       ],
-      "correct": 3
+      "correct": 0
+    },
+    {
+      "question": "Tokyo 2020 Yaz Olimpiyatları'nda (2021 yılında düzenlenmiştir) okçuluk dalında altın madalya kazanarak Türkiye'ye bu branştaki ilk Olimpiyat altınını getiren milli sporcumuz kimdir?",
+      "options": [
+        "Mete Gazoz",
+        "Yasemin Adar",
+        "Ferhat Arıcan",
+        "Busenaz Sürmeneli",
+        "Eray Şamdan"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "PlayStation'a özel olarak geliştirilen 'God of War' serisinin ana karakteri Kratos'un ikonik silahları arasında aşağıdakilerden hangisi yer alır?",
+      "options": [
+        "Mızraklar ve Kalkan",
+        "Bıçaklar ve Hançerler",
+        "Chaos Kılıçları ve Leviathan Baltası",
+        "Yay ve Ok",
+        "Çekiç ve Balta"
+      ],
+      "correct": 2
     }
   ]
 }
