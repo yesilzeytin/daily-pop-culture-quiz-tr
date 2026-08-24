@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Türk Twitch yayıncılarından 'Pqueen' olarak bilinen Pelin Baynazoğlu, özellikle hangi tür içerikleriyle geniş bir takipçi kitlesi edinmiştir?",
+      "question": "Yeşilçam'ın efsanevi filmlerinden 'Hababam Sınıfı' serisinde, okulun en zeki ve en muzip öğrencilerinden biri olan 'İnek Şaban' karakterini canlandıran unutulmaz oyuncu kimdir?",
       "options": [
-        "Yemek tarifleri ve gurme gezileri",
-        "Tarihi belgeseller ve analizler",
-        "Sohbet, oyun ve mizah içerikleri",
-        "Bilim kurgu kitap incelemeleri",
-        "Finans ve ekonomi yorumları"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Netflix Türkiye'nin ilk orijinal dizisi olma özelliğini taşıyan ve İstanbul'da geçen fantastik bir süper kahraman hikayesini konu alan yapım hangisidir?",
-      "options": [
-        "Atiye",
-        "Kulüp",
-        "Hakan: Muhafız",
-        "Bir Başkadır",
-        "Zeytin Ağacı"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "HBO'nun büyük beğeni toplayan ve eleştirmenlerce çok takdir edilen drama dizisi 'Succession'da, Logan Roy liderliğindeki medya imparatorluğunun adı nedir?",
-      "options": [
-        "Waystar RoyCo",
-        "King Broadcasting",
-        "Empire Global",
-        "Zenith Media",
-        "Titan Entertainment"
+        "Kemal Sunal",
+        "Münir Özkul",
+        "Adile Naşit",
+        "Tarık Akan",
+        "Halit Akçatepe"
       ],
       "correct": 0
     },
     {
-      "question": "Tokyo 2020 Yaz Olimpiyatları'nda (2021 yılında düzenlenmiştir) okçuluk dalında altın madalya kazanarak Türkiye'ye bu branştaki ilk Olimpiyat altınını getiren milli sporcumuz kimdir?",
+      "question": "HBO'nun tüm dünyada geniş bir hayran kitlesi edinen dizisi 'Game of Thrones'ta, Westeros'un demir tahtı için verilen mücadelede önemli bir rol oynayan ve 'Winterfell'ın lordu olan Stark Hanesi'nin başı kimdir?",
       "options": [
-        "Mete Gazoz",
-        "Yasemin Adar",
-        "Ferhat Arıcan",
-        "Busenaz Sürmeneli",
-        "Eray Şamdan"
+        "Tyrion Lannister",
+        "Jon Snow",
+        "Eddard Stark",
+        "Jaime Lannister",
+        "Petyr Baelish"
       ],
-      "correct": 0
+      "correct": 2
     },
     {
-      "question": "PlayStation'a özel olarak geliştirilen 'God of War' serisinin ana karakteri Kratos'un ikonik silahları arasında aşağıdakilerden hangisi yer alır?",
+      "question": "Türkiye A Milli Futbol Takımı, tarihinde ilk ve tek kez hangi yıl FIFA Dünya Kupası'nda üçüncülük elde etmiştir?",
       "options": [
-        "Mızraklar ve Kalkan",
-        "Bıçaklar ve Hançerler",
-        "Chaos Kılıçları ve Leviathan Baltası",
-        "Yay ve Ok",
-        "Çekiç ve Balta"
+        "1998",
+        "2002",
+        "2006",
+        "2010",
+        "2014"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Marvel Sinematik Evreni'nin popüler filmlerinden 'Iron Man' serisinde, Tony Stark karakterini canlandıran ve bu rolle küresel bir şöhrete kavuşan aktör kimdir?",
+      "options": [
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Robert Downey Jr.",
+        "Mark Ruffalo",
+        "Jeremy Renner"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "'Aşk-ı Memnu', 'Kuzey Güney' ve 'Cesur ve Güzel' gibi popüler televizyon dizilerindeki rolleriyle tanınan, aynı zamanda birçok reklam kampanyasında yer almış ünlü Türk aktör kimdir?",
+      "options": [
+        "Kenan İmirzalıoğlu",
+        "Çağatay Ulusoy",
+        "Kıvanç Tatlıtuğ",
+        "Aras Bulut İynemli",
+        "Engin Akyürek"
       ],
       "correct": 2
     }
