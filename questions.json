@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Yeşilçam'ın efsanevi filmlerinden 'Hababam Sınıfı' serisinde, okulun en zeki ve en muzip öğrencilerinden biri olan 'İnek Şaban' karakterini canlandıran unutulmaz oyuncu kimdir?",
+      "question": "Yeşilçam'ın kült komedi filmlerinden 'Hababam Sınıfı' serisinde, okulun sevecen ve otoriter hademesi 'Hafize Ana' karakterini canlandıran usta oyuncu kimdir?",
       "options": [
-        "Kemal Sunal",
-        "Münir Özkul",
         "Adile Naşit",
-        "Tarık Akan",
-        "Halit Akçatepe"
+        "Ayşen Gruda",
+        "Münir Özkul",
+        "Halit Akçatepe",
+        "Ergin Orbey"
       ],
       "correct": 0
     },
     {
-      "question": "HBO'nun tüm dünyada geniş bir hayran kitlesi edinen dizisi 'Game of Thrones'ta, Westeros'un demir tahtı için verilen mücadelede önemli bir rol oynayan ve 'Winterfell'ın lordu olan Stark Hanesi'nin başı kimdir?",
+      "question": "Christopher Nolan'ın yönettiği ve sinema tarihinin en iyi çizgi roman uyarlamalarından biri olarak kabul edilen 'Kara Şövalye' (The Dark Knight) filminde, Joker karakterini unutulmaz bir şekilde canlandırarak En İyi Yardımcı Erkek Oyuncu Oscar'ını posthumous olarak kazanan oyuncu kimdir?",
       "options": [
-        "Tyrion Lannister",
-        "Jon Snow",
-        "Eddard Stark",
-        "Jaime Lannister",
-        "Petyr Baelish"
+        "Joaquin Phoenix",
+        "Jared Leto",
+        "Heath Ledger",
+        "Jack Nicholson",
+        "Mark Hamill"
       ],
       "correct": 2
     },
     {
-      "question": "Türkiye A Milli Futbol Takımı, tarihinde ilk ve tek kez hangi yıl FIFA Dünya Kupası'nda üçüncülük elde etmiştir?",
+      "question": "Her yıl New York'taki Metropolitan Sanat Müzesi'nin Kostüm Enstitüsü yararına düzenlenen ve moda dünyasının en prestijli etkinliklerinden biri olan Met Gala'nın yıllardır organizatörlüğünü yapan ve aynı zamanda Vogue Dergisi'nin efsanevi genel yayın yönetmeni olan isim kimdir?",
       "options": [
-        "1998",
-        "2002",
-        "2006",
-        "2010",
-        "2014"
+        "Donatella Versace",
+        "Anna Wintour",
+        "Carine Roitfeld",
+        "Miuccia Prada",
+        "Iris Apfel"
       ],
       "correct": 1
     },
     {
-      "question": "Marvel Sinematik Evreni'nin popüler filmlerinden 'Iron Man' serisinde, Tony Stark karakterini canlandıran ve bu rolle küresel bir şöhrete kavuşan aktör kimdir?",
+      "question": "2000'li yılların ilk yarısında, Facebook'tan önce gençler arasında oldukça popüler olan, kullanıcıların kendi profil sayfalarını HTML kodları ile kişiselleştirebildiği ve favori müziklerini profilinde sergileyebildiği sosyal medya platformu hangisiydi?",
       "options": [
-        "Chris Evans",
-        "Chris Hemsworth",
-        "Robert Downey Jr.",
-        "Mark Ruffalo",
-        "Jeremy Renner"
+        "Friendster",
+        "Orkut",
+        "MySpace",
+        "Hi5",
+        "LiveJournal"
       ],
       "correct": 2
     },
     {
-      "question": "'Aşk-ı Memnu', 'Kuzey Güney' ve 'Cesur ve Güzel' gibi popüler televizyon dizilerindeki rolleriyle tanınan, aynı zamanda birçok reklam kampanyasında yer almış ünlü Türk aktör kimdir?",
+      "question": "Formula 1 tarihinin en başarılı pilotlarından Michael Schumacher, toplam yedi dünya şampiyonluğunun beşini hangi efsanevi takımla birlikte kazanmıştır?",
       "options": [
-        "Kenan İmirzalıoğlu",
-        "Çağatay Ulusoy",
-        "Kıvanç Tatlıtuğ",
-        "Aras Bulut İynemli",
-        "Engin Akyürek"
+        "Mercedes",
+        "McLaren",
+        "Williams",
+        "Benetton",
+        "Ferrari"
       ],
-      "correct": 2
+      "correct": 4
     }
   ]
 }
