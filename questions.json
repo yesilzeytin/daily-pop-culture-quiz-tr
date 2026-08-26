@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Yeşilçam'ın kült komedi filmlerinden 'Hababam Sınıfı' serisinde, okulun sevecen ve otoriter hademesi 'Hafize Ana' karakterini canlandıran usta oyuncu kimdir?",
+      "question": "Japon animasyon ustası Hayao Miyazaki'nin yönettiği ve Japon animasyon tarihinin en önemli yapıtlarından biri olarak kabul edilen \"Ruhların Kaçışı\" (Spirited Away) filmini hangi stüdyo yapmıştır?",
       "options": [
-        "Adile Naşit",
-        "Ayşen Gruda",
-        "Münir Özkul",
-        "Halit Akçatepe",
-        "Ergin Orbey"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Christopher Nolan'ın yönettiği ve sinema tarihinin en iyi çizgi roman uyarlamalarından biri olarak kabul edilen 'Kara Şövalye' (The Dark Knight) filminde, Joker karakterini unutulmaz bir şekilde canlandırarak En İyi Yardımcı Erkek Oyuncu Oscar'ını posthumous olarak kazanan oyuncu kimdir?",
-      "options": [
-        "Joaquin Phoenix",
-        "Jared Leto",
-        "Heath Ledger",
-        "Jack Nicholson",
-        "Mark Hamill"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Her yıl New York'taki Metropolitan Sanat Müzesi'nin Kostüm Enstitüsü yararına düzenlenen ve moda dünyasının en prestijli etkinliklerinden biri olan Met Gala'nın yıllardır organizatörlüğünü yapan ve aynı zamanda Vogue Dergisi'nin efsanevi genel yayın yönetmeni olan isim kimdir?",
-      "options": [
-        "Donatella Versace",
-        "Anna Wintour",
-        "Carine Roitfeld",
-        "Miuccia Prada",
-        "Iris Apfel"
+        "Pixar",
+        "Studio Ghibli",
+        "DreamWorks Animation",
+        "Laika",
+        "Blue Sky Studios"
       ],
       "correct": 1
     },
     {
-      "question": "2000'li yılların ilk yarısında, Facebook'tan önce gençler arasında oldukça popüler olan, kullanıcıların kendi profil sayfalarını HTML kodları ile kişiselleştirebildiği ve favori müziklerini profilinde sergileyebildiği sosyal medya platformu hangisiydi?",
+      "question": "PlayStation'ın efsanevi macera oyunu serisi Uncharted'ın ana karakteri, tehlikeli hazine avları ve arkeolojik keşiflere atılan ünlü isim kimdir?",
       "options": [
-        "Friendster",
-        "Orkut",
-        "MySpace",
-        "Hi5",
-        "LiveJournal"
+        "Kratos",
+        "Joel Miller",
+        "Nathan Drake",
+        "Aloy",
+        "Jin Sakai"
       ],
       "correct": 2
     },
     {
-      "question": "Formula 1 tarihinin en başarılı pilotlarından Michael Schumacher, toplam yedi dünya şampiyonluğunun beşini hangi efsanevi takımla birlikte kazanmıştır?",
+      "question": "Andrzej Sapkowski'nin fantastik roman serisinden uyarlanan ve Netflix'te yayınlanan popüler \"The Witcher\" dizisinde Rivyalı Geralt karakterini canlandıran ünlü oyuncu kimdir?",
       "options": [
-        "Mercedes",
-        "McLaren",
-        "Williams",
-        "Benetton",
-        "Ferrari"
+        "Chris Hemsworth",
+        "Henry Cavill",
+        "Liam Hemsworth",
+        "Ben Affleck",
+        "Tom Hardy"
       ],
-      "correct": 4
+      "correct": 1
+    },
+    {
+      "question": "\"DDU-DU DDU-DU\", \"Kill This Love\" ve \"How You Like That\" gibi hit şarkılarıyla dünya çapında tanınan ve Jennie, Lisa, Jisoo, Rosé üyelerinden oluşan popüler K-Pop kız grubu hangisidir?",
+      "options": [
+        "TWICE",
+        "Red Velvet",
+        "BLACKPINK",
+        "ITZY",
+        "(G)I-DLE"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türkiye'nin en köklü ve prestijli ödüllerinden biri olan Altın Kelebek Ödülleri, genellikle hangi alanlardaki başarılı isimleri ve yapımları onurlandırmaktadır?",
+      "options": [
+        "Sinema ve Tiyatro",
+        "Edebiyat ve Sanat Galerisi",
+        "Müzik ve Televizyon",
+        "Spor ve Bilim",
+        "Ekonomi ve İş Dünyası"
+      ],
+      "correct": 2
     }
   ]
 }
