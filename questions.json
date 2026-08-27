@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Japon animasyon ustası Hayao Miyazaki'nin yönettiği ve Japon animasyon tarihinin en önemli yapıtlarından biri olarak kabul edilen \"Ruhların Kaçışı\" (Spirited Away) filmini hangi stüdyo yapmıştır?",
+      "question": "Hangi film, Birinci Dünya Savaşı sırasında Batı Cephesi'ndeki siper hayatını ve genç Alman askerlerinin yaşadığı dehşeti anlatan, 2023 yılında En İyi Uluslararası Film Oscar'ını kazanan Alman yapımıdır?",
       "options": [
-        "Pixar",
-        "Studio Ghibli",
-        "DreamWorks Animation",
-        "Laika",
-        "Blue Sky Studios"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "PlayStation'ın efsanevi macera oyunu serisi Uncharted'ın ana karakteri, tehlikeli hazine avları ve arkeolojik keşiflere atılan ünlü isim kimdir?",
-      "options": [
-        "Kratos",
-        "Joel Miller",
-        "Nathan Drake",
-        "Aloy",
-        "Jin Sakai"
+        "Er Ryan'ı Kurtarmak",
+        "1917",
+        "Batı Cephesinde Yeni Bir Şey Yok",
+        "Dunkirk",
+        "Piyanist"
       ],
       "correct": 2
     },
     {
-      "question": "Andrzej Sapkowski'nin fantastik roman serisinden uyarlanan ve Netflix'te yayınlanan popüler \"The Witcher\" dizisinde Rivyalı Geralt karakterini canlandıran ünlü oyuncu kimdir?",
+      "question": "Netflix'in popüler bilim kurgu dizisi Stranger Things'te, gizemli Hawkins kasabasındaki olayların merkezinde yer alan, telekinetik güçlere sahip genç kız karakterinin adı nedir?",
       "options": [
-        "Chris Hemsworth",
-        "Henry Cavill",
-        "Liam Hemsworth",
-        "Ben Affleck",
-        "Tom Hardy"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "\"DDU-DU DDU-DU\", \"Kill This Love\" ve \"How You Like That\" gibi hit şarkılarıyla dünya çapında tanınan ve Jennie, Lisa, Jisoo, Rosé üyelerinden oluşan popüler K-Pop kız grubu hangisidir?",
-      "options": [
-        "TWICE",
-        "Red Velvet",
-        "BLACKPINK",
-        "ITZY",
-        "(G)I-DLE"
+        "Nancy",
+        "Max",
+        "Eleven (On Bir)",
+        "Joyce",
+        "Robin"
       ],
       "correct": 2
     },
     {
-      "question": "Türkiye'nin en köklü ve prestijli ödüllerinden biri olan Altın Kelebek Ödülleri, genellikle hangi alanlardaki başarılı isimleri ve yapımları onurlandırmaktadır?",
+      "question": "Olimpiyat Oyunları tarihinde erkekler 100 metre ve 200 metre sprint dallarında birden fazla kez altın madalya kazanarak 'Dünyanın En Hızlı Adamı' unvanını elde eden efsanevi Jamaikalı atlet kimdir?",
       "options": [
-        "Sinema ve Tiyatro",
-        "Edebiyat ve Sanat Galerisi",
-        "Müzik ve Televizyon",
-        "Spor ve Bilim",
-        "Ekonomi ve İş Dünyası"
+        "Carl Lewis",
+        "Jesse Owens",
+        "Usain Bolt",
+        "Michael Johnson",
+        "Yohan Blake"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türkiye'de büyük ilgiyle izlenen Survivor yarışmasının ilk sezonu olan \"Survivor Türkiye: Büyük Macera\"nın (2005) şampiyonu kimdir?",
+      "options": [
+        "Nihat Doğan",
+        "Acun Ilıcalı",
+        "Uğur Pektaş",
+        "Turabi Çamkıran",
+        "Adem Kılıççı"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türk sinemasının kült komedi filmlerinden \"Süt Kardeşler\"de, ev sahibi Ramazanoğlu ailesinin konağına musallat olan Gulyabani kılığına giren ve filmin unutulmaz karakteri Şaban'ı canlandıran oyuncu kimdir?",
+      "options": [
+        "Tarık Akan",
+        "Ayşen Gruda",
+        "Kemal Sunal",
+        "Münir Özkul",
+        "Şener Şen"
       ],
       "correct": 2
     }
