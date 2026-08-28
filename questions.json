@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Hangi film, Birinci Dünya Savaşı sırasında Batı Cephesi'ndeki siper hayatını ve genç Alman askerlerinin yaşadığı dehşeti anlatan, 2023 yılında En İyi Uluslararası Film Oscar'ını kazanan Alman yapımıdır?",
+      "question": "Hangi film, 2004 Akademi Ödülleri'nde \"En İyi Film\" dahil olmak üzere toplam 11 dalda Oscar kazanarak tarihe geçmiştir?",
       "options": [
-        "Er Ryan'ı Kurtarmak",
-        "1917",
-        "Batı Cephesinde Yeni Bir Şey Yok",
-        "Dunkirk",
-        "Piyanist"
+        "Titanic",
+        "Ben-Hur",
+        "Yüzüklerin Efendisi: Kralın Dönüşü (The Lord of the Rings: The Return of the King)",
+        "La La Land",
+        "Forrest Gump"
       ],
       "correct": 2
     },
     {
-      "question": "Netflix'in popüler bilim kurgu dizisi Stranger Things'te, gizemli Hawkins kasabasındaki olayların merkezinde yer alan, telekinetik güçlere sahip genç kız karakterinin adı nedir?",
+      "question": "Star Wars evreninde, İmparatorluğun en korkulan figürlerinden biri olan Darth Vader'ın asıl adı nedir?",
       "options": [
-        "Nancy",
-        "Max",
-        "Eleven (On Bir)",
-        "Joyce",
-        "Robin"
+        "Obi-Wan Kenobi",
+        "Luke Skywalker",
+        "Han Solo",
+        "Anakin Skywalker",
+        "Lando Calrissian"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "FIFA Dünya Kupası tarihinde en çok şampiyonluk kazanan ülke hangisidir?",
+      "options": [
+        "Almanya",
+        "İtalya",
+        "Arjantin",
+        "Brezilya",
+        "Fransa"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Cem Yılmaz'ın yazıp yönettiği ve başrolünde oynadığı G.O.R.A. filminde, uzaylılar tarafından kaçırılan halı satıcısı ana karakterin adı nedir?",
+      "options": [
+        "Erşan Kuneri",
+        "Bob Marley Faruk",
+        "Arif Işık",
+        "Garavel Usta",
+        "Logar"
       ],
       "correct": 2
     },
     {
-      "question": "Olimpiyat Oyunları tarihinde erkekler 100 metre ve 200 metre sprint dallarında birden fazla kez altın madalya kazanarak 'Dünyanın En Hızlı Adamı' unvanını elde eden efsanevi Jamaikalı atlet kimdir?",
+      "question": "90'lı yılların sonu ve 2000'lerin başında Fox Kids kanalında yayınlanan, çocukların dijital canavarlarla arkadaş olup onlarla birlikte maceralara atıldığı popüler anime serisi hangisidir?",
       "options": [
-        "Carl Lewis",
-        "Jesse Owens",
-        "Usain Bolt",
-        "Michael Johnson",
-        "Yohan Blake"
+        "Pokémon",
+        "Yu-Gi-Oh!",
+        "Beyblade",
+        "Digimon",
+        "Bakugan"
       ],
-      "correct": 2
-    },
-    {
-      "question": "Türkiye'de büyük ilgiyle izlenen Survivor yarışmasının ilk sezonu olan \"Survivor Türkiye: Büyük Macera\"nın (2005) şampiyonu kimdir?",
-      "options": [
-        "Nihat Doğan",
-        "Acun Ilıcalı",
-        "Uğur Pektaş",
-        "Turabi Çamkıran",
-        "Adem Kılıççı"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türk sinemasının kült komedi filmlerinden \"Süt Kardeşler\"de, ev sahibi Ramazanoğlu ailesinin konağına musallat olan Gulyabani kılığına giren ve filmin unutulmaz karakteri Şaban'ı canlandıran oyuncu kimdir?",
-      "options": [
-        "Tarık Akan",
-        "Ayşen Gruda",
-        "Kemal Sunal",
-        "Münir Özkul",
-        "Şener Şen"
-      ],
-      "correct": 2
+      "correct": 3
     }
   ]
 }
