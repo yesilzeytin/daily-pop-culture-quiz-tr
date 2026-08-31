@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Disney'in klasik animasyon filmi 'Aslan Kral'da (The Lion King), Simba'nın kötü kalpli ve iktidar hırsı olan amcasının adı nedir?",
+      "question": "Marvel Sinematik Evreni'nin gişe rekorları kıran filmlerinden biri olan \"Avengers: Endgame\"de, tüm evrenin yarısını yok eden Titan karakteri Thanos'u canlandıran oyuncu kimdir?",
       "options": [
-        "Timon",
-        "Pumbaa",
-        "Scar",
-        "Rafiki",
-        "Zazu"
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Josh Brolin",
+        "Mark Ruffalo",
+        "Chris Hemsworth"
       ],
       "correct": 2
     },
     {
-      "question": "Popüler Nintendo oyun serisi ve animesi Pokémon'da, eğitmenlerin vahşi Pokémon'ları yakalamak ve saklamak için kullandıkları özel top benzeri cihaza ne ad verilir?",
+      "question": "Nintendo'nun ikonik video oyunu serisi Super Mario'da, Prenses Peach'i sürekli kaçırarak Mario'ya zor anlar yaşatan kaplumbağa benzeri kötü karakterin adı nedir?",
       "options": [
-        "Canavar Topu",
-        "Eğitmen Topu",
-        "Sihirli Top",
-        "Poké Topu",
-        "Yaratık Topu"
+        "Wario",
+        "Luigi",
+        "Toad",
+        "Bowser",
+        "Yoshi"
       ],
       "correct": 3
     },
     {
-      "question": "Erkekler tenis tarihinde, 2024 yılı itibarıyla en çok Grand Slam tekler şampiyonluğu kazanma rekorunu elinde bulunduran ve 'Büyük Üçlü'nün bir parçası olan oyuncu kimdir?",
+      "question": "90'lı yılların efsanevi Türk pop şarkılarından biri olan, klibinde Tarkan'ın yılan dansı figürleriyle hafızalara kazınan ve büyük bir hit haline gelen şarkının adı nedir?",
       "options": [
-        "Roger Federer",
-        "Rafael Nadal",
-        "Novak Djokovic",
-        "Pete Sampras",
-        "Rod Laver"
+        "Gül Döktüm Yollarına",
+        "Şıkıdım",
+        "Yine Sensiz",
+        "Kuzu Kuzu",
+        "Dudu"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Popüler internet meme kültüründe yer alan ve bir erkeğin sevgilisiyle el ele yürürken başka bir kadına hayranlıkla baktığı fotoğrafıyla dünya çapında tanınan meme'in resmi adı nedir?",
+      "options": [
+        "Doge Meme",
+        "Grumpy Cat",
+        "Distracted Boyfriend",
+        "Hide the Pain Harold",
+        "Success Kid"
       ],
       "correct": 2
     },
     {
-      "question": "PlayStation'ın efsanevi oyunu 'God of War' serisinde, ana karakter Kratos'un oğlu ve macerasında ona eşlik eden, okçulukta yetenekli karakterin adı nedir?",
+      "question": "Cartoon Network'ün 90'lı yılların sonu ve 2000'lerin başında popüler olan bilim kurgu ve komedi çizgi filminde, gizli laboratuvarında icatlar yapan dahi çocuk karakterin adı nedir?",
       "options": [
-        "Deimos",
-        "Ares",
-        "Zeus",
-        "Atreus",
-        "Baldur"
+        "Johnny Bravo",
+        "Ben Tennyson",
+        "Mordecai",
+        "Dexter",
+        "Finn Mertens"
       ],
       "correct": 3
-    },
-    {
-      "question": "20. yüzyılın en önemli tarihi olaylarından biri olan ve insanlık tarihinde bir dönüm noktası kabul edilen, 1969 yılında gerçekleşen Apollo 11 göreviyle Ay'a ilk ayak basan astronot kimdir?",
-      "options": [
-        "Yuri Gagarin",
-        "Buzz Aldrin",
-        "Neil Armstrong",
-        "Michael Collins",
-        "Alan Shepard"
-      ],
-      "correct": 2
     }
   ]
 }
