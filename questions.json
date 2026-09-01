@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Marvel Sinematik Evreni'nin gişe rekorları kıran filmlerinden biri olan \"Avengers: Endgame\"de, tüm evrenin yarısını yok eden Titan karakteri Thanos'u canlandıran oyuncu kimdir?",
+      "question": "Shakira'nın 2001 yılında yayımlanan ve dünya çapında büyük bir hit haline gelerek kariyerinde dönüm noktası olan, 'Whenever, Wherever' isimli İngilizce şarkısının İspanyolca versiyonunun adı nedir?",
       "options": [
-        "Robert Downey Jr.",
-        "Chris Evans",
-        "Josh Brolin",
-        "Mark Ruffalo",
-        "Chris Hemsworth"
+        "Ojos Así",
+        "Ciega, Sordomuda",
+        "Suerte",
+        "Waka Waka (This Time for Africa)",
+        "La Tortura"
       ],
       "correct": 2
     },
     {
-      "question": "Nintendo'nun ikonik video oyunu serisi Super Mario'da, Prenses Peach'i sürekli kaçırarak Mario'ya zor anlar yaşatan kaplumbağa benzeri kötü karakterin adı nedir?",
+      "question": "90'lı yılların popüler çocuk kanalı Fox Kids'te yayınlanan ve gençlerin renkli kostümler giyerek kötü güçlerle savaştığı ikonik 'Power Rangers' serisinin ilk ve en bilinen serisinin tam adı nedir?",
       "options": [
-        "Wario",
-        "Luigi",
-        "Toad",
-        "Bowser",
-        "Yoshi"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "90'lı yılların efsanevi Türk pop şarkılarından biri olan, klibinde Tarkan'ın yılan dansı figürleriyle hafızalara kazınan ve büyük bir hit haline gelen şarkının adı nedir?",
-      "options": [
-        "Gül Döktüm Yollarına",
-        "Şıkıdım",
-        "Yine Sensiz",
-        "Kuzu Kuzu",
-        "Dudu"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Popüler internet meme kültüründe yer alan ve bir erkeğin sevgilisiyle el ele yürürken başka bir kadına hayranlıkla baktığı fotoğrafıyla dünya çapında tanınan meme'in resmi adı nedir?",
-      "options": [
-        "Doge Meme",
-        "Grumpy Cat",
-        "Distracted Boyfriend",
-        "Hide the Pain Harold",
-        "Success Kid"
+        "Power Rangers Turbo",
+        "Power Rangers Zeo",
+        "Mighty Morphin Power Rangers",
+        "Power Rangers Wild Force",
+        "Power Rangers In Space"
       ],
       "correct": 2
     },
     {
-      "question": "Cartoon Network'ün 90'lı yılların sonu ve 2000'lerin başında popüler olan bilim kurgu ve komedi çizgi filminde, gizli laboratuvarında icatlar yapan dahi çocuk karakterin adı nedir?",
+      "question": "Soğuk Savaş döneminde uzay yarışının önemli dönüm noktalarından biri olan ve tarihteki ilk insanlı uzay yolculuğunu gerçekleştiren Sovyet kozmonot kimdir?",
       "options": [
-        "Johnny Bravo",
-        "Ben Tennyson",
-        "Mordecai",
-        "Dexter",
-        "Finn Mertens"
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "Yuri Gagarin",
+        "John Glenn",
+        "Valentina Tereshkova"
       ],
-      "correct": 3
+      "correct": 2
+    },
+    {
+      "question": "Amerika Birleşik Devletleri merkezli, siyasi yorumları ve haber analizleriyle tanınan, Twitch platformunun en popüler yayıncılarından biri olan Hasan Piker, genellikle hangi tür içeriklerle geniş kitlelere ulaşmaktadır?",
+      "options": [
+        "Sadece korku oyunu yayınları",
+        "Yemek tarifi ve mutfak içerikleri",
+        "Siyasi analiz ve güncel olay yorumları",
+        "Popüler şarkı coverları ve müzik performansları",
+        "DIY (kendin yap) ve el sanatları videoları"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Osmanlı İmparatorluğu'nun en parlak dönemlerinden birine damga vuran ve dünya tarihinde önemli bir dönüm noktası kabul edilen İstanbul'un Fethi, hangi padişah döneminde gerçekleşmiştir?",
+      "options": [
+        "Kanuni Sultan Süleyman",
+        "Yavuz Sultan Selim",
+        "Fatih Sultan Mehmet",
+        "Sultan II. Bayezid",
+        "Orhan Gazi"
+      ],
+      "correct": 2
     }
   ]
 }
