@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Shakira'nın 2001 yılında yayımlanan ve dünya çapında büyük bir hit haline gelerek kariyerinde dönüm noktası olan, 'Whenever, Wherever' isimli İngilizce şarkısının İspanyolca versiyonunun adı nedir?",
+      "question": "Netflix Türkiye orijinal yapımı 'Atiye' dizisinde, Beren Saat'in canlandırdığı ana karakter Atiye, Göbeklitepe'de yapılan arkeolojik kazılarda kendi geçmişiyle ilgili hangi gizemli sembolle karşılaşır?",
       "options": [
-        "Ojos Así",
-        "Ciega, Sordomuda",
-        "Suerte",
-        "Waka Waka (This Time for Africa)",
-        "La Tortura"
+        "Bir hayvan figürü",
+        "Geometrik bir şekil",
+        "Bir yıldız haritası",
+        "Antik bir yazı",
+        "Sarmal bir motif"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "\"Minik Serçe\" lakabıyla tanınan Türk pop müziği efsanesi Sezen Aksu'nun, 1980'li yıllarda çıkardığı ve kendisiyle özdeşleşen, birçoğumuzun hala ezbere bildiği popüler şarkısının da adını taşıyan albümü hangisidir?",
+      "options": [
+        "Gülümse",
+        "Firuze",
+        "Sen Ağlama",
+        "Git",
+        "Deli Kızın Türküsü"
       ],
       "correct": 2
     },
     {
-      "question": "90'lı yılların popüler çocuk kanalı Fox Kids'te yayınlanan ve gençlerin renkli kostümler giyerek kötü güçlerle savaştığı ikonik 'Power Rangers' serisinin ilk ve en bilinen serisinin tam adı nedir?",
+      "question": "Türkiye'nin en çok takip edilen Twitch yayıncılarından biri olan ve özellikle sohbet, oyun ve 'react' içerikleriyle bilinen 'Elraenn' takma adlı yayıncının gerçek adı nedir?",
       "options": [
-        "Power Rangers Turbo",
-        "Power Rangers Zeo",
-        "Mighty Morphin Power Rangers",
-        "Power Rangers Wild Force",
-        "Power Rangers In Space"
+        "Cantuğ Özsoy",
+        "Ferit Karakaya",
+        "Tuğkan Gönültaş",
+        "Berkcan Güven",
+        "Barış Gürdal"
       ],
       "correct": 2
     },
     {
-      "question": "Soğuk Savaş döneminde uzay yarışının önemli dönüm noktalarından biri olan ve tarihteki ilk insanlı uzay yolculuğunu gerçekleştiren Sovyet kozmonot kimdir?",
+      "question": "Edebiyat alanında Nobel Ödülü kazanan ilk ve tek Türk yazar olan Orhan Pamuk, bu prestijli ödülü genel olarak Doğu ve Batı kültürleri arasındaki etkileşimi, melankolik ruhu ve şehrin anlatısını işleyen eserleriyle almıştır. Peki, Orhan Pamuk Nobel Edebiyat Ödülü'nü hangi yıl kazanmıştır?",
       "options": [
-        "Neil Armstrong",
-        "Buzz Aldrin",
-        "Yuri Gagarin",
-        "John Glenn",
-        "Valentina Tereshkova"
+        "2002",
+        "2004",
+        "2006",
+        "2008",
+        "2010"
       ],
       "correct": 2
     },
     {
-      "question": "Amerika Birleşik Devletleri merkezli, siyasi yorumları ve haber analizleriyle tanınan, Twitch platformunun en popüler yayıncılarından biri olan Hasan Piker, genellikle hangi tür içeriklerle geniş kitlelere ulaşmaktadır?",
+      "question": "Yumurcak TV'de uzun yıllar yayınlanan ve Alpler'deki hayatı, doğa sevgisini, hayvanlarla ve insanlarla kurulan samimi ilişkileri konu alan, başkarakteri küçük bir kız çocuğu olan ve jenerik müziğiyle hafızalara kazınan popüler anime çizgi filminin adı nedir?",
       "options": [
-        "Sadece korku oyunu yayınları",
-        "Yemek tarifi ve mutfak içerikleri",
-        "Siyasi analiz ve güncel olay yorumları",
-        "Popüler şarkı coverları ve müzik performansları",
-        "DIY (kendin yap) ve el sanatları videoları"
+        "Şeker Kız Candy",
+        "Heidi",
+        "Vicky Viking",
+        "Tom Sawyer'ın Maceraları",
+        "Cedric"
       ],
-      "correct": 2
-    },
-    {
-      "question": "Osmanlı İmparatorluğu'nun en parlak dönemlerinden birine damga vuran ve dünya tarihinde önemli bir dönüm noktası kabul edilen İstanbul'un Fethi, hangi padişah döneminde gerçekleşmiştir?",
-      "options": [
-        "Kanuni Sultan Süleyman",
-        "Yavuz Sultan Selim",
-        "Fatih Sultan Mehmet",
-        "Sultan II. Bayezid",
-        "Orhan Gazi"
-      ],
-      "correct": 2
+      "correct": 1
     }
   ]
 }
