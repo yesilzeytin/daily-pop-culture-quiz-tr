@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Netflix Türkiye orijinal yapımı 'Atiye' dizisinde, Beren Saat'in canlandırdığı ana karakter Atiye, Göbeklitepe'de yapılan arkeolojik kazılarda kendi geçmişiyle ilgili hangi gizemli sembolle karşılaşır?",
+      "question": "“Rickroll” olarak bilinen internet mizahında, kişilere tıklandığında beklenenin aksine Rick Astley'nin \"Never Gonna Give You Up\" şarkısının klibi çıkan linkler gönderilerek yapılan şaka türünün adıdır. Bu terim, \"Rick Astley\" ve hangi kelimenin birleşiminden türetilmiştir?",
       "options": [
-        "Bir hayvan figürü",
-        "Geometrik bir şekil",
-        "Bir yıldız haritası",
-        "Antik bir yazı",
-        "Sarmal bir motif"
-      ],
-      "correct": 4
-    },
-    {
-      "question": "\"Minik Serçe\" lakabıyla tanınan Türk pop müziği efsanesi Sezen Aksu'nun, 1980'li yıllarda çıkardığı ve kendisiyle özdeşleşen, birçoğumuzun hala ezbere bildiği popüler şarkısının da adını taşıyan albümü hangisidir?",
-      "options": [
-        "Gülümse",
-        "Firuze",
-        "Sen Ağlama",
-        "Git",
-        "Deli Kızın Türküsü"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Türkiye'nin en çok takip edilen Twitch yayıncılarından biri olan ve özellikle sohbet, oyun ve 'react' içerikleriyle bilinen 'Elraenn' takma adlı yayıncının gerçek adı nedir?",
-      "options": [
-        "Cantuğ Özsoy",
-        "Ferit Karakaya",
-        "Tuğkan Gönültaş",
-        "Berkcan Güven",
-        "Barış Gürdal"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Edebiyat alanında Nobel Ödülü kazanan ilk ve tek Türk yazar olan Orhan Pamuk, bu prestijli ödülü genel olarak Doğu ve Batı kültürleri arasındaki etkileşimi, melankolik ruhu ve şehrin anlatısını işleyen eserleriyle almıştır. Peki, Orhan Pamuk Nobel Edebiyat Ödülü'nü hangi yıl kazanmıştır?",
-      "options": [
-        "2002",
-        "2004",
-        "2006",
-        "2008",
-        "2010"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Yumurcak TV'de uzun yıllar yayınlanan ve Alpler'deki hayatı, doğa sevgisini, hayvanlarla ve insanlarla kurulan samimi ilişkileri konu alan, başkarakteri küçük bir kız çocuğu olan ve jenerik müziğiyle hafızalara kazınan popüler anime çizgi filminin adı nedir?",
-      "options": [
-        "Şeker Kız Candy",
-        "Heidi",
-        "Vicky Viking",
-        "Tom Sawyer'ın Maceraları",
-        "Cedric"
+        "Troll",
+        "Roll",
+        "Prank",
+        "Trap",
+        "Meme"
       ],
       "correct": 1
+    },
+    {
+      "question": "Cartoon Network'ün popüler çizgi filmlerinden \"Ben 10\"da, ana karakter Ben Tennyson'ın uzaylılara dönüşmesini sağlayan ve bileğine takılı olan özel cihaza ne ad verilir?",
+      "options": [
+        "Omnitrix",
+        "Alienator",
+        "Zootron",
+        "Galactix",
+        "Metamorpher"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "\"Diva\" lakabıyla tanınan, Türk Sanat Müziği'nin ikonik isimlerinden biri olan ve sesiyle milyonları büyüleyen, aynı zamanda sahne kıyafetleriyle de her zaman dikkat çeken efsanevi sanatçı kimdir?",
+      "options": [
+        "Sezen Aksu",
+        "Ajda Pekkan",
+        "Bülent Ersoy",
+        "Emel Sayın",
+        "Muazzez Abacı"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Çocukluğumuzun vazgeçilmez atıştırmalıklarından \"Tipitip\", genellikle ambalajının içinden çıkan hangi sürprizle hafızalarımıza kazınmıştır?",
+      "options": [
+        "Minik oyuncaklar",
+        "Çıkartmalar",
+        "Çizgi romanlar",
+        "Bilmeceler",
+        "Fıkralar"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Disney Channel'ın sevilen çizgi dizilerinden \"Phineas ve Ferb\"de, Phineas ve Ferb'in evcil hayvanı olan, ancak gizlice bir ajan olarak görev yapan ve Dr. Doofenshmirtz'i durdurmaya çalışan ornitorenge gizli görevlerde hangi kod isimle hitap edilir?",
+      "options": [
+        "Agent P",
+        "Perry the Platypus",
+        "Spy Platypus",
+        "Commander Platypus",
+        "Detective O"
+      ],
+      "correct": 0
     }
   ]
 }
