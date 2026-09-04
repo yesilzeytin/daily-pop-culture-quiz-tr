@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "“Rickroll” olarak bilinen internet mizahında, kişilere tıklandığında beklenenin aksine Rick Astley'nin \"Never Gonna Give You Up\" şarkısının klibi çıkan linkler gönderilerek yapılan şaka türünün adıdır. Bu terim, \"Rick Astley\" ve hangi kelimenin birleşiminden türetilmiştir?",
+      "question": "“Catch Me If You Can” filmine ilham veren, çek sahteciliği, doktorluk ve pilotluk gibi birçok kimliğe bürünerek Amerikan tarihinin en büyük dolandırıcılık vakalarından birine imza atan gerçek dolandırıcı kimdir?",
       "options": [
-        "Troll",
-        "Roll",
-        "Prank",
-        "Trap",
-        "Meme"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Cartoon Network'ün popüler çizgi filmlerinden \"Ben 10\"da, ana karakter Ben Tennyson'ın uzaylılara dönüşmesini sağlayan ve bileğine takılı olan özel cihaza ne ad verilir?",
-      "options": [
-        "Omnitrix",
-        "Alienator",
-        "Zootron",
-        "Galactix",
-        "Metamorpher"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "\"Diva\" lakabıyla tanınan, Türk Sanat Müziği'nin ikonik isimlerinden biri olan ve sesiyle milyonları büyüleyen, aynı zamanda sahne kıyafetleriyle de her zaman dikkat çeken efsanevi sanatçı kimdir?",
-      "options": [
-        "Sezen Aksu",
-        "Ajda Pekkan",
-        "Bülent Ersoy",
-        "Emel Sayın",
-        "Muazzez Abacı"
+        "Victor Lustig",
+        "Charles Ponzi",
+        "Frank Abagnale Jr.",
+        "Bernie Madoff",
+        "Jordan Belfort"
       ],
       "correct": 2
     },
     {
-      "question": "Çocukluğumuzun vazgeçilmez atıştırmalıklarından \"Tipitip\", genellikle ambalajının içinden çıkan hangi sürprizle hafızalarımıza kazınmıştır?",
+      "question": "YouTube platformunda “PewDiePie” takma adıyla uzun yıllar en çok aboneye sahip bireysel içerik üreticisi unvanını elinde bulunduran İsveçli YouTuber'ın gerçek adı nedir?",
       "options": [
-        "Minik oyuncaklar",
-        "Çıkartmalar",
-        "Çizgi romanlar",
-        "Bilmeceler",
-        "Fıkralar"
+        "Mark Fischbach",
+        "Sean McLoughlin",
+        "Felix Kjellberg",
+        "Jimmy Donaldson",
+        "Logan Paul"
       ],
       "correct": 2
     },
     {
-      "question": "Disney Channel'ın sevilen çizgi dizilerinden \"Phineas ve Ferb\"de, Phineas ve Ferb'in evcil hayvanı olan, ancak gizlice bir ajan olarak görev yapan ve Dr. Doofenshmirtz'i durdurmaya çalışan ornitorenge gizli görevlerde hangi kod isimle hitap edilir?",
+      "question": "90'lı yılların sonu ve 2000'lerin başında Fox Kids'te yayınlanan, mutant süper kahraman ekibinin maceralarını ve çizgi roman evreninin derinliklerini işleyen popüler animasyon serisi hangisidir?",
       "options": [
-        "Agent P",
-        "Perry the Platypus",
-        "Spy Platypus",
-        "Commander Platypus",
-        "Detective O"
+        "Spider-Man: The Animated Series",
+        "Batman: The Animated Series",
+        "X-Men: The Animated Series",
+        "Transformers: Beast Wars",
+        "Teenage Mutant Ninja Turtles"
       ],
-      "correct": 0
+      "correct": 2
+    },
+    {
+      "question": "Kenan Doğulu'nun 2007 yılında Helsinki'de düzenlenen Eurovision Şarkı Yarışması'nda Türkiye'yi temsil ettiği ve dördüncü olarak büyük başarı elde ettiği hareketli şarkının adı nedir?",
+      "options": [
+        "Baş Harfi Ben",
+        "Kandırdım",
+        "Shake It Up Şekerim",
+        "Çakkıdı",
+        "Ara Beni Lütfen"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "PlayStation'a özel olarak geliştirilen \"Uncharted\" serisinin arkasındaki, aynı zamanda \"The Last of Us\" gibi eleştirmenlerce beğenilen oyunlarıyla da tanınan ünlü oyun geliştirme stüdyosu hangisidir?",
+      "options": [
+        "Guerrilla Games",
+        "Insomniac Games",
+        "Santa Monica Studio",
+        "Naughty Dog",
+        "Sucker Punch Productions"
+      ],
+      "correct": 3
     }
   ]
 }
