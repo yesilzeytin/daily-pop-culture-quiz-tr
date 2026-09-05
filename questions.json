@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "“Catch Me If You Can” filmine ilham veren, çek sahteciliği, doktorluk ve pilotluk gibi birçok kimliğe bürünerek Amerikan tarihinin en büyük dolandırıcılık vakalarından birine imza atan gerçek dolandırıcı kimdir?",
+      "question": "Kenan İmirzalıoğlu, \"Ezel\" dizisindeki performansıyla Altın Kelebek Ödülleri'nde \"En İyi Erkek Oyuncu\" ödülünü ilk kez kaç yılında kazanmıştır?",
       "options": [
-        "Victor Lustig",
-        "Charles Ponzi",
-        "Frank Abagnale Jr.",
-        "Bernie Madoff",
-        "Jordan Belfort"
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "\"God of War\" (2018) oyununda Kratos ve Atreus'un yolculukları sırasında karşılaştıkları, devasa boyutlardaki Dünya Yılanı'nın (World Serpent) adı nedir?",
+      "options": [
+        "Fenrir",
+        "Hraesvelgr",
+        "Jörmungandr",
+        "Níðhöggr",
+        "Midgardsormr"
       ],
       "correct": 2
     },
     {
-      "question": "YouTube platformunda “PewDiePie” takma adıyla uzun yıllar en çok aboneye sahip bireysel içerik üreticisi unvanını elinde bulunduran İsveçli YouTuber'ın gerçek adı nedir?",
+      "question": "2010'lu yılların başlarında ortaya çıkan ve shiba inu cinsi bir köpeğin \"wow\", \"much skill\", \"so amaze\" gibi ifadelerle düşüncelerinin yansıtıldığı yazım hatalarıyla dolu metinlerle eşleştirilmesiyle popüler olan internet meme'inin adı nedir?",
       "options": [
-        "Mark Fischbach",
-        "Sean McLoughlin",
-        "Felix Kjellberg",
-        "Jimmy Donaldson",
-        "Logan Paul"
+        "Grumpy Cat",
+        "Doge",
+        "Nyan Cat",
+        "Harambe",
+        "Success Kid"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
-      "question": "90'lı yılların sonu ve 2000'lerin başında Fox Kids'te yayınlanan, mutant süper kahraman ekibinin maceralarını ve çizgi roman evreninin derinliklerini işleyen popüler animasyon serisi hangisidir?",
+      "question": "MasterChef Türkiye yarışmasında, 2020 sezonunun şampiyonu olan ve sempatik kişiliğiyle geniş kitlelerin beğenisini kazanan yarışmacı kimdir?",
       "options": [
-        "Spider-Man: The Animated Series",
-        "Batman: The Animated Series",
-        "X-Men: The Animated Series",
-        "Transformers: Beast Wars",
-        "Teenage Mutant Ninja Turtles"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Kenan Doğulu'nun 2007 yılında Helsinki'de düzenlenen Eurovision Şarkı Yarışması'nda Türkiye'yi temsil ettiği ve dördüncü olarak büyük başarı elde ettiği hareketli şarkının adı nedir?",
-      "options": [
-        "Baş Harfi Ben",
-        "Kandırdım",
-        "Shake It Up Şekerim",
-        "Çakkıdı",
-        "Ara Beni Lütfen"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "PlayStation'a özel olarak geliştirilen \"Uncharted\" serisinin arkasındaki, aynı zamanda \"The Last of Us\" gibi eleştirmenlerce beğenilen oyunlarıyla da tanınan ünlü oyun geliştirme stüdyosu hangisidir?",
-      "options": [
-        "Guerrilla Games",
-        "Insomniac Games",
-        "Santa Monica Studio",
-        "Naughty Dog",
-        "Sucker Punch Productions"
+        "Cemre Uysal",
+        "Eren Kaşıkçı",
+        "Uğur Kardaş",
+        "Serhat Doğramacı",
+        "Metin Yavuz"
       ],
       "correct": 3
+    },
+    {
+      "question": "1994 yapımı \"Forrest Gump\" filmi, Tom Hanks'in unutulmaz performansıyla hafızalara kazınmış ve Akademi Ödülleri'nde \"En İyi Film\" ödülünü kazanmıştır. Bu filmin yönetmenliğini kim yapmıştır?",
+      "options": [
+        "Steven Spielberg",
+        "Quentin Tarantino",
+        "James Cameron",
+        "Martin Scorsese",
+        "Robert Zemeckis"
+      ],
+      "correct": 4
     }
   ]
 }
