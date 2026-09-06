@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Kenan İmirzalıoğlu, \"Ezel\" dizisindeki performansıyla Altın Kelebek Ödülleri'nde \"En İyi Erkek Oyuncu\" ödülünü ilk kez kaç yılında kazanmıştır?",
+      "question": "The Witcher dizisinde, başkarakter Geralt of Rivia'yı canlandıran ünlü oyuncu kimdir?",
       "options": [
-        "2009",
-        "2010",
-        "2011",
-        "2012",
-        "2013"
+        "Chris Pratt",
+        "Henry Cavill",
+        "Jake Gyllenhaal",
+        "Tom Hardy",
+        "Benedict Cumberbatch"
       ],
       "correct": 1
     },
     {
-      "question": "\"God of War\" (2018) oyununda Kratos ve Atreus'un yolculukları sırasında karşılaştıkları, devasa boyutlardaki Dünya Yılanı'nın (World Serpent) adı nedir?",
+      "question": "Aşk-ı Memnu dizisinde 'Bihter Ziyagil' karakterine hayat veren ünlü oyuncu kimdir?",
       "options": [
-        "Fenrir",
-        "Hraesvelgr",
-        "Jörmungandr",
-        "Níðhöggr",
-        "Midgardsormr"
+        "Tuba Büyüküstün",
+        "Bergüzar Korel",
+        "Beren Saat",
+        "Hazal Kaya",
+        "Farah Zeynep Abdullah"
       ],
       "correct": 2
     },
     {
-      "question": "2010'lu yılların başlarında ortaya çıkan ve shiba inu cinsi bir köpeğin \"wow\", \"much skill\", \"so amaze\" gibi ifadelerle düşüncelerinin yansıtıldığı yazım hatalarıyla dolu metinlerle eşleştirilmesiyle popüler olan internet meme'inin adı nedir?",
+      "question": "Zack Snyder'ın yönettiği ve Henry Cavill'in Superman'i canlandırdığı, günümüz DC Genişletilmiş Evreni'nin (DCEU) başlangıcı kabul edilen ilk film hangisidir?",
       "options": [
-        "Grumpy Cat",
-        "Doge",
-        "Nyan Cat",
-        "Harambe",
-        "Success Kid"
+        "Justice League",
+        "Batman v Superman: Dawn of Justice",
+        "Man of Steel",
+        "Wonder Woman",
+        "Aquaman"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Pqueen takma adıyla tanınan ve eğlenceli sohbet, oyun ve react yayınlarıyla büyük bir kitleye ulaşan Türk Twitch yayıncısının gerçek adı nedir?",
+      "options": [
+        "Aslı Karadaş",
+        "Pelin Baynazoğlu",
+        "Meryem Can",
+        "Büşra Pekin",
+        "Elanur Pat"
       ],
       "correct": 1
     },
     {
-      "question": "MasterChef Türkiye yarışmasında, 2020 sezonunun şampiyonu olan ve sempatik kişiliğiyle geniş kitlelerin beğenisini kazanan yarışmacı kimdir?",
+      "question": "1994 FIFA Dünya Kupası'na ev sahipliği yapan ve final maçına Rose Bowl stadyumunda ev sahipliği yapan ülke hangisidir?",
       "options": [
-        "Cemre Uysal",
-        "Eren Kaşıkçı",
-        "Uğur Kardaş",
-        "Serhat Doğramacı",
-        "Metin Yavuz"
+        "Almanya",
+        "İtalya",
+        "Brezilya",
+        "Amerika Birleşik Devletleri",
+        "Fransa"
       ],
       "correct": 3
-    },
-    {
-      "question": "1994 yapımı \"Forrest Gump\" filmi, Tom Hanks'in unutulmaz performansıyla hafızalara kazınmış ve Akademi Ödülleri'nde \"En İyi Film\" ödülünü kazanmıştır. Bu filmin yönetmenliğini kim yapmıştır?",
-      "options": [
-        "Steven Spielberg",
-        "Quentin Tarantino",
-        "James Cameron",
-        "Martin Scorsese",
-        "Robert Zemeckis"
-      ],
-      "correct": 4
     }
   ]
 }
