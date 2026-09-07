@@ -164,7 +164,7 @@ Format the output strictly as JSON in this structure:
 """
 
 # --- Call Gemini ---
-response = genai.GenerativeModel("gemini-2.5-flash").generate_content(prompt)
+response = genai.GenerativeModel("gemini-3.8-flash").generate_content(prompt)
 content = response.text.strip()
 
 # --- Clean Markdown fences if model wrapped in ```json ... ``` ---
