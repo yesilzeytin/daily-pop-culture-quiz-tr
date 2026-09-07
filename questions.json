@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "The Witcher dizisinde, başkarakter Geralt of Rivia'yı canlandıran ünlü oyuncu kimdir?",
+      "question": "Hangi Pixar filminde, yaşlı bir maceraperest balonlarla evini uçurarak Güney Amerika'ya doğru yolculuğa çıkar?",
       "options": [
-        "Chris Pratt",
-        "Henry Cavill",
-        "Jake Gyllenhaal",
-        "Tom Hardy",
-        "Benedict Cumberbatch"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Aşk-ı Memnu dizisinde 'Bihter Ziyagil' karakterine hayat veren ünlü oyuncu kimdir?",
-      "options": [
-        "Tuba Büyüküstün",
-        "Bergüzar Korel",
-        "Beren Saat",
-        "Hazal Kaya",
-        "Farah Zeynep Abdullah"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Zack Snyder'ın yönettiği ve Henry Cavill'in Superman'i canlandırdığı, günümüz DC Genişletilmiş Evreni'nin (DCEU) başlangıcı kabul edilen ilk film hangisidir?",
-      "options": [
-        "Justice League",
-        "Batman v Superman: Dawn of Justice",
-        "Man of Steel",
-        "Wonder Woman",
-        "Aquaman"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Pqueen takma adıyla tanınan ve eğlenceli sohbet, oyun ve react yayınlarıyla büyük bir kitleye ulaşan Türk Twitch yayıncısının gerçek adı nedir?",
-      "options": [
-        "Aslı Karadaş",
-        "Pelin Baynazoğlu",
-        "Meryem Can",
-        "Büşra Pekin",
-        "Elanur Pat"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "1994 FIFA Dünya Kupası'na ev sahipliği yapan ve final maçına Rose Bowl stadyumunda ev sahipliği yapan ülke hangisidir?",
-      "options": [
-        "Almanya",
-        "İtalya",
-        "Brezilya",
-        "Amerika Birleşik Devletleri",
-        "Fransa"
+        "Wall-E",
+        "Coco",
+        "Inside Out",
+        "Up",
+        "Monsters, Inc."
       ],
       "correct": 3
+    },
+    {
+      "question": "Harry Potter serisinde, Hogwarts Cadılık ve Büyücülük Okulu'nun dört binasından hangisi, kurucusu Godric Gryffindor tarafından kurulmuş olup cesaret ve şövalyeliği temsil eder?",
+      "options": [
+        "Slytherin",
+        "Hufflepuff",
+        "Gryffindor",
+        "Ravenclaw",
+        "Beauxbatons"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "90'lı yılların popüler çocuk atıştırmalıklarından biri olan \"Cino\", çikolata kaplı bisküvisinin üzerindeki genellikle hangi meyve aromalı jölesiyle hafızalara kazınmıştır?",
+      "options": [
+        "Kiraz",
+        "Çilek",
+        "Limon",
+        "Portakal",
+        "Elma"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Türk Kurtuluş Savaşı'nın fiili başlangıcı olarak kabul edilen ve Mustafa Kemal Atatürk'ün karargahıyla birlikte Samsun'a ayak bastığı tarih nedir?",
+      "options": [
+        "23 Nisan 1920",
+        "29 Ekim 1923",
+        "18 Mart 1915",
+        "30 Ağustos 1922",
+        "19 Mayıs 1919"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "FIFA Dünya Kupası turnuvası ilk kez hangi yılda ve hangi ülkede düzenlenmiştir?",
+      "options": [
+        "1908, İngiltere",
+        "1926, Fransa",
+        "1930, Uruguay",
+        "1934, İtalya",
+        "1950, Brezilya"
+      ],
+      "correct": 2
     }
   ]
 }
