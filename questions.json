@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Hangi Pixar filminde, yaşlı bir maceraperest balonlarla evini uçurarak Güney Amerika'ya doğru yolculuğa çıkar?",
+      "question": "MasterChef Türkiye'nin 2019 sezonu finalinde Alican Sabunsoy ile kıyasıya mücadele ederek sezonu şampiyon olarak tamamlayan yarışmacı kimdir?",
       "options": [
-        "Wall-E",
-        "Coco",
-        "Inside Out",
-        "Up",
-        "Monsters, Inc."
+        "Cemre Uyanık",
+        "Eren Kaşıkçı",
+        "Hasan Biltekin",
+        "Metin Yavuz",
+        "Uğur Kardaş"
       ],
-      "correct": 3
+      "correct": 0
     },
     {
-      "question": "Harry Potter serisinde, Hogwarts Cadılık ve Büyücülük Okulu'nun dört binasından hangisi, kurucusu Godric Gryffindor tarafından kurulmuş olup cesaret ve şövalyeliği temsil eder?",
+      "question": "2017 yılında Türk basketbol tarihinde bir ilke imza atarak EuroLeague şampiyonluğunu kazanan Fenerbahçe Erkek Basketbol Takımı'nın efsanevi başantrenörü kimdir?",
       "options": [
-        "Slytherin",
-        "Hufflepuff",
-        "Gryffindor",
-        "Ravenclaw",
-        "Beauxbatons"
+        "Ergin Ataman",
+        "Željko Obradović",
+        "Sarunas Jasikevicius",
+        "Dimitris Itoudis",
+        "Neven Spahija"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "NBA tarihinde Kareem Abdul-Jabbar'ın uzun yıllar kırılamayan rekorunu geride bırakarak \"tüm zamanların en çok sayı atan oyuncusu\" unvanını ele geçiren süperstar kimdir?",
+      "options": [
+        "Michael Jordan",
+        "Kobe Bryant",
+        "LeBron James",
+        "Stephen Curry",
+        "Shaquille O'Neal"
       ],
       "correct": 2
     },
     {
-      "question": "90'lı yılların popüler çocuk atıştırmalıklarından biri olan \"Cino\", çikolata kaplı bisküvisinin üzerindeki genellikle hangi meyve aromalı jölesiyle hafızalara kazınmıştır?",
+      "question": "Recep İvedik serisinin ilk filminde, Recep İvedik sokakta bulduğu yüklü miktardaki paranın bulunduğu cüzdanı sahibine bizzat teslim etmek için İstanbul'dan hangi şehre doğru yola çıkar?",
       "options": [
-        "Kiraz",
-        "Çilek",
-        "Limon",
-        "Portakal",
-        "Elma"
+        "İzmir",
+        "Muğla",
+        "Adana",
+        "Antalya",
+        "Aydın"
       ],
       "correct": 3
     },
     {
-      "question": "Türk Kurtuluş Savaşı'nın fiili başlangıcı olarak kabul edilen ve Mustafa Kemal Atatürk'ün karargahıyla birlikte Samsun'a ayak bastığı tarih nedir?",
+      "question": "A Millî Futbol Takımımızın yarı finale yükseldiği EURO 2008 çeyrek finalinde, Hırvatistan'a karşı 120+2. dakikada attığı mucizevi golle maçı penaltılara taşıyan futbolcumuz kimdir?",
       "options": [
-        "23 Nisan 1920",
-        "29 Ekim 1923",
-        "18 Mart 1915",
-        "30 Ağustos 1922",
-        "19 Mayıs 1919"
+        "Nihat Kahveci",
+        "Arda Turan",
+        "Tuncay Şanlı",
+        "Hamit Altıntop",
+        "Semih Şentürk"
       ],
       "correct": 4
-    },
-    {
-      "question": "FIFA Dünya Kupası turnuvası ilk kez hangi yılda ve hangi ülkede düzenlenmiştir?",
-      "options": [
-        "1908, İngiltere",
-        "1926, Fransa",
-        "1930, Uruguay",
-        "1934, İtalya",
-        "1950, Brezilya"
-      ],
-      "correct": 2
     }
   ]
 }
