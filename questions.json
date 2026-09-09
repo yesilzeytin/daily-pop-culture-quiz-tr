@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "MasterChef Türkiye'nin 2019 sezonu finalinde Alican Sabunsoy ile kıyasıya mücadele ederek sezonu şampiyon olarak tamamlayan yarışmacı kimdir?",
+      "question": "Fox Kids ekranlarında yayınlanan ve Türkiye'de büyük bir hayran kitlesi edinen 'Afacan Louie' (Life with Louie) çizgi dizisinde, Louie'nin savaş anılarını dilinden düşürmeyen asabi ama komik babasının adı nedir?",
       "options": [
-        "Cemre Uyanık",
-        "Eren Kaşıkçı",
-        "Hasan Biltekin",
-        "Metin Yavuz",
-        "Uğur Kardaş"
+        "Andy Anderson",
+        "Bob Anderson",
+        "Thomas Anderson",
+        "Mike Anderson",
+        "John Anderson"
       ],
       "correct": 0
     },
     {
-      "question": "2017 yılında Türk basketbol tarihinde bir ilke imza atarak EuroLeague şampiyonluğunu kazanan Fenerbahçe Erkek Basketbol Takımı'nın efsanevi başantrenörü kimdir?",
+      "question": "Harry Potter evreninde oynanan büyücülük sporu Quidditch'te, Arayıcı (Seeker) tarafından yakalandığında takıma 150 puan kazandırarak maçı bitiren kanatlı küçük topun adı nedir?",
       "options": [
-        "Ergin Ataman",
-        "Željko Obradović",
-        "Sarunas Jasikevicius",
-        "Dimitris Itoudis",
-        "Neven Spahija"
+        "Quaffle (Kuasl)",
+        "Golden Snitch (Altın Snitch)",
+        "Bludger (Buldger)",
+        "Gobstone (Tükürüktaşı)",
+        "Remembrall (Hatırlatıcı Küre)"
       ],
       "correct": 1
     },
     {
-      "question": "NBA tarihinde Kareem Abdul-Jabbar'ın uzun yıllar kırılamayan rekorunu geride bırakarak \"tüm zamanların en çok sayı atan oyuncusu\" unvanını ele geçiren süperstar kimdir?",
+      "question": "Disney Channel'ın sevilen animasyon dizisi 'Esrarengiz Kasaba'da (Gravity Falls), Gizemli Kulübe'de yaz tatilini geçirirken kasabanın doğaüstü sırlarını keşfeden ikiz kardeşlerin isimleri hangisidir?",
       "options": [
-        "Michael Jordan",
-        "Kobe Bryant",
-        "LeBron James",
-        "Stephen Curry",
-        "Shaquille O'Neal"
+        "Star ve Marco",
+        "Phineas ve Ferb",
+        "Dipper ve Mabel",
+        "Zack ve Cody",
+        "Huey ve Dewey"
       ],
       "correct": 2
     },
     {
-      "question": "Recep İvedik serisinin ilk filminde, Recep İvedik sokakta bulduğu yüklü miktardaki paranın bulunduğu cüzdanı sahibine bizzat teslim etmek için İstanbul'dan hangi şehre doğru yola çıkar?",
+      "question": "HBO'nun dünya çapında fenomene dönüşen dizisi 'Game of Thrones'ta, Jon Snow'un sadık beyaz ulu kurdunun (direwolf) adı nedir?",
       "options": [
-        "İzmir",
-        "Muğla",
-        "Adana",
-        "Antalya",
-        "Aydın"
+        "Nymeria",
+        "Grey Wind (Boz Rüzgar)",
+        "Summer (Yaz)",
+        "Ghost (Hayalet)",
+        "Shaggydog (Tüylüköpek)"
       ],
       "correct": 3
     },
     {
-      "question": "A Millî Futbol Takımımızın yarı finale yükseldiği EURO 2008 çeyrek finalinde, Hırvatistan'a karşı 120+2. dakikada attığı mucizevi golle maçı penaltılara taşıyan futbolcumuz kimdir?",
+      "question": "Milyonlarca dolarlık bütçeli yarışma ve yardım videolarıyla tanınan, YouTube platformunun en çok aboneye sahip bireysel içerik üreticisi 'MrBeast'in gerçek adı nedir?",
       "options": [
-        "Nihat Kahveci",
-        "Arda Turan",
-        "Tuncay Şanlı",
-        "Hamit Altıntop",
-        "Semih Şentürk"
+        "Felix Kjellberg",
+        "Mark Fischbach",
+        "Sean McLoughlin",
+        "Logan Paul",
+        "Jimmy Donaldson"
       ],
       "correct": 4
     }
