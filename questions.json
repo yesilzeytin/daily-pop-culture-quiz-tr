@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Fox Kids ekranlarında yayınlanan ve Türkiye'de büyük bir hayran kitlesi edinen 'Afacan Louie' (Life with Louie) çizgi dizisinde, Louie'nin savaş anılarını dilinden düşürmeyen asabi ama komik babasının adı nedir?",
+      "question": "Netflix'in dünya çapında izlenme rekorları kıran Güney Kore yapımı 'Squid Game' dizisinde, yarışmacıların elenmemek için hareketsiz kalmaya çalıştığı ilk ölümcül çocuk oyunu hangisidir?",
       "options": [
-        "Andy Anderson",
-        "Bob Anderson",
-        "Thomas Anderson",
-        "Mike Anderson",
-        "John Anderson"
+        "Kırmızı Işık, Yeşil Işık",
+        "Dalgona Şekeri Kalıp Çıkarma",
+        "Halat Çekme",
+        "Misket Oyunu",
+        "Kalamar Oyunu"
       ],
       "correct": 0
     },
     {
-      "question": "Harry Potter evreninde oynanan büyücülük sporu Quidditch'te, Arayıcı (Seeker) tarafından yakalandığında takıma 150 puan kazandırarak maçı bitiren kanatlı küçük topun adı nedir?",
+      "question": "2022 Met Gala'da Marilyn Monroe'nun 1962 yılında John F. Kennedy'ye şarkı söylerken giydiği tarihi kristal elbiseyi giyerek kırmızı halıya damga vuran ünlü isim kimdir?",
       "options": [
-        "Quaffle (Kuasl)",
-        "Golden Snitch (Altın Snitch)",
-        "Bludger (Buldger)",
-        "Gobstone (Tükürüktaşı)",
-        "Remembrall (Hatırlatıcı Küre)"
+        "Kylie Jenner",
+        "Kim Kardashian",
+        "Zendaya",
+        "Blake Lively",
+        "Lady Gaga"
       ],
       "correct": 1
     },
     {
-      "question": "Disney Channel'ın sevilen animasyon dizisi 'Esrarengiz Kasaba'da (Gravity Falls), Gizemli Kulübe'de yaz tatilini geçirirken kasabanın doğaüstü sırlarını keşfeden ikiz kardeşlerin isimleri hangisidir?",
+      "question": "Televizyon tarihinin en başarılı yapımlarından 'Breaking Bad'de kimya öğretmeni Walter White'ın metamfetamin üreticisi olarak yeraltı dünyasında kullandığı takma ad nedir?",
       "options": [
-        "Star ve Marco",
-        "Phineas ve Ferb",
-        "Dipper ve Mabel",
-        "Zack ve Cody",
-        "Huey ve Dewey"
+        "Gustavo",
+        "Saul Goodman",
+        "Heisenberg",
+        "Cap'n Cook",
+        "El Camino"
       ],
       "correct": 2
     },
     {
-      "question": "HBO'nun dünya çapında fenomene dönüşen dizisi 'Game of Thrones'ta, Jon Snow'un sadık beyaz ulu kurdunun (direwolf) adı nedir?",
+      "question": "Arka planda itfaiyecilerin kontrolünde yanan bir ev bulunurken kameraya muzip ve şeytani bir gülümsemeyle bakan küçük kızın yer aldığı efsanevi internet meme'inin adı nedir?",
       "options": [
-        "Nymeria",
-        "Grey Wind (Boz Rüzgar)",
-        "Summer (Yaz)",
-        "Ghost (Hayalet)",
-        "Shaggydog (Tüylüköpek)"
+        "Bad Luck Brian",
+        "Success Kid",
+        "Side Eye Chloe",
+        "Disaster Girl (Felaket Kızı)",
+        "Overly Attached Girlfriend"
       ],
       "correct": 3
     },
     {
-      "question": "Milyonlarca dolarlık bütçeli yarışma ve yardım videolarıyla tanınan, YouTube platformunun en çok aboneye sahip bireysel içerik üreticisi 'MrBeast'in gerçek adı nedir?",
+      "question": "İkinci Dünya Savaşı'nda Müttefik kuvvetlerin 6 Haziran 1944'te Nazi işgali altındaki Fransa sahillerine düzenlediği ve tarihin en büyük amfibi harekâtı olan Normandiya Çıkarması'nın askeri kod adı nedir?",
       "options": [
-        "Felix Kjellberg",
-        "Mark Fischbach",
-        "Sean McLoughlin",
-        "Logan Paul",
-        "Jimmy Donaldson"
+        "Barbarossa Harekâtı",
+        "Market Garden Harekâtı",
+        "Dynamo Operasyonu",
+        "Meşale (Torch) Harekâtı",
+        "Overlord Harekâtı"
       ],
       "correct": 4
     }
