@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Netflix'in dünya çapında izlenme rekorları kıran Güney Kore yapımı 'Squid Game' dizisinde, yarışmacıların elenmemek için hareketsiz kalmaya çalıştığı ilk ölümcül çocuk oyunu hangisidir?",
+      "question": "NBA efsanesi Michael Jordan, kariyerindeki şampiyonluk yüzüklerinin tamamını kazandığı Chicago Bulls formasıyla toplam kaç kez NBA şampiyonluğu yaşamıştır?",
       "options": [
-        "Kırmızı Işık, Yeşil Işık",
-        "Dalgona Şekeri Kalıp Çıkarma",
-        "Halat Çekme",
-        "Misket Oyunu",
-        "Kalamar Oyunu"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "2022 Met Gala'da Marilyn Monroe'nun 1962 yılında John F. Kennedy'ye şarkı söylerken giydiği tarihi kristal elbiseyi giyerek kırmızı halıya damga vuran ünlü isim kimdir?",
-      "options": [
-        "Kylie Jenner",
-        "Kim Kardashian",
-        "Zendaya",
-        "Blake Lively",
-        "Lady Gaga"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Televizyon tarihinin en başarılı yapımlarından 'Breaking Bad'de kimya öğretmeni Walter White'ın metamfetamin üreticisi olarak yeraltı dünyasında kullandığı takma ad nedir?",
-      "options": [
-        "Gustavo",
-        "Saul Goodman",
-        "Heisenberg",
-        "Cap'n Cook",
-        "El Camino"
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
       ],
       "correct": 2
     },
     {
-      "question": "Arka planda itfaiyecilerin kontrolünde yanan bir ev bulunurken kameraya muzip ve şeytani bir gülümsemeyle bakan küçük kızın yer aldığı efsanevi internet meme'inin adı nedir?",
+      "question": "Espor dünyasının en prestijli turnuvalarından League of Legends Dünya Şampiyonası'nı (Worlds) 'Faker' lakaplı orta koridor oyuncusu Lee Sang-hyeok önderliğinde en çok kazanan espor kulübü hangisidir?",
       "options": [
-        "Bad Luck Brian",
-        "Success Kid",
-        "Side Eye Chloe",
-        "Disaster Girl (Felaket Kızı)",
-        "Overly Attached Girlfriend"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "İkinci Dünya Savaşı'nda Müttefik kuvvetlerin 6 Haziran 1944'te Nazi işgali altındaki Fransa sahillerine düzenlediği ve tarihin en büyük amfibi harekâtı olan Normandiya Çıkarması'nın askeri kod adı nedir?",
-      "options": [
-        "Barbarossa Harekâtı",
-        "Market Garden Harekâtı",
-        "Dynamo Operasyonu",
-        "Meşale (Torch) Harekâtı",
-        "Overlord Harekâtı"
+        "Gen.G",
+        "Fnatic",
+        "G2 Esports",
+        "Dplus KIA",
+        "T1 (SK Telecom T1)"
       ],
       "correct": 4
+    },
+    {
+      "question": "48. Altın Kelebek Ödülleri'nde internet fenomeni haline gelen 'Gibi' dizisindeki performansı ile 'En İyi Komedi Dizisi Erkek Oyuncu' ödülünü kazanan isim kimdir?",
+      "options": [
+        "Doğu Demirkol",
+        "Feyyaz Yiğit",
+        "Kıvanç Kılınç",
+        "Ahmet Kürşat Öçalan",
+        "Giray Altınok"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "2021 yılının Nisan ayında Twitter Türkiye'de başlayan; sanatçılardan siyasetçilere kadar yüz binlerce kullanıcının gençlik fotoğraflarını paylaşmasıyla viral olan akımın etiketi hangisidir?",
+      "options": [
+        "#20liyaslarchallenge",
+        "#10YearChallenge",
+        "#TBTGünü",
+        "#GençlikDönemi",
+        "#NostaljiKuşağı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Türkiye A Millî Futbol Takımı'nın dünya üçüncüsü olduğu 2002 FIFA Dünya Kupası çeyrek finalinde, İlhan Mansız'ın uzatmalarda attığı unutulmaz 'altın gol' ile elediği Afrika temsilcisi hangisidir?",
+      "options": [
+        "Nijerya",
+        "Kamerun",
+        "Gana",
+        "Senegal",
+        "Güney Afrika"
+      ],
+      "correct": 3
     }
   ]
 }
