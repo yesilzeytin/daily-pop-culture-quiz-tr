@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "NBA efsanesi Michael Jordan, kariyerindeki şampiyonluk yüzüklerinin tamamını kazandığı Chicago Bulls formasıyla toplam kaç kez NBA şampiyonluğu yaşamıştır?",
+      "question": "Pixar'ın 2003 yapımı efsane animasyonu 'Kayıp Balık Nemo'da (Finding Nemo), oğlu Nemo'yu arayan Marlin'e yolculuğu boyunca eşlik eden ve kısa süreli hafıza kaybı yaşayan sevimli mavi balığın adı nedir?",
       "options": [
-        "4",
-        "5",
-        "6",
-        "7",
-        "8"
+        "Gill",
+        "Peach",
+        "Dory",
+        "Flo",
+        "Deb"
       ],
       "correct": 2
     },
     {
-      "question": "Espor dünyasının en prestijli turnuvalarından League of Legends Dünya Şampiyonası'nı (Worlds) 'Faker' lakaplı orta koridor oyuncusu Lee Sang-hyeok önderliğinde en çok kazanan espor kulübü hangisidir?",
+      "question": "Harry Potter serisinde, Lord Voldemort'un ölümsüzlüğe ulaşmak amacıyla ruhunu bölerek içine gizlediği karanlık nesnelere ne ad verilir?",
       "options": [
-        "Gen.G",
-        "Fnatic",
-        "G2 Esports",
-        "Dplus KIA",
-        "T1 (SK Telecom T1)"
-      ],
-      "correct": 4
-    },
-    {
-      "question": "48. Altın Kelebek Ödülleri'nde internet fenomeni haline gelen 'Gibi' dizisindeki performansı ile 'En İyi Komedi Dizisi Erkek Oyuncu' ödülünü kazanan isim kimdir?",
-      "options": [
-        "Doğu Demirkol",
-        "Feyyaz Yiğit",
-        "Kıvanç Kılınç",
-        "Ahmet Kürşat Öçalan",
-        "Giray Altınok"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "2021 yılının Nisan ayında Twitter Türkiye'de başlayan; sanatçılardan siyasetçilere kadar yüz binlerce kullanıcının gençlik fotoğraflarını paylaşmasıyla viral olan akımın etiketi hangisidir?",
-      "options": [
-        "#20liyaslarchallenge",
-        "#10YearChallenge",
-        "#TBTGünü",
-        "#GençlikDönemi",
-        "#NostaljiKuşağı"
+        "Hortkuluk",
+        "Kelid Aynası",
+        "Mürver Asa",
+        "Diriltme Taşı",
+        "Felsefe Taşı"
       ],
       "correct": 0
     },
     {
-      "question": "Türkiye A Millî Futbol Takımı'nın dünya üçüncüsü olduğu 2002 FIFA Dünya Kupası çeyrek finalinde, İlhan Mansız'ın uzatmalarda attığı unutulmaz 'altın gol' ile elediği Afrika temsilcisi hangisidir?",
+      "question": "28 Haziran 1914'te Saraybosna'da Gavrilo Princip tarafından düzenlenen suikast sonucu öldürülmesi Birinci Dünya Savaşı'nın fitilini ateşleyen Avusturya-Macaristan veliahdı kimdir?",
       "options": [
-        "Nijerya",
-        "Kamerun",
-        "Gana",
-        "Senegal",
-        "Güney Afrika"
+        "II. Wilhelm",
+        "Prens Rudolf",
+        "Otto von Bismarck",
+        "Arşidük Franz Ferdinand",
+        "İmparator I. Franz Joseph"
       ],
       "correct": 3
+    },
+    {
+      "question": "Dünya çapında fenomen haline gelen İspanyol yapımı 'La Casa de Papel' dizisinde, İspanya Kraliyet Darphanesi soygununu kusursuz bir planla dışarıdan yöneten beynin kod adı nedir?",
+      "options": [
+        "Berlin",
+        "Profesör",
+        "Marsilya",
+        "Palermo",
+        "Moskova"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Altın Kelebek Ödülleri'nde son yıllarda genç ve yetenekli oyunculara kariyerlerinin başında motivasyon sağlamak amacıyla verilen özel ödül kategorisi hangisidir?",
+      "options": [
+        "Geleceğin Yıldızları",
+        "Umut Vadeden Oyuncular",
+        "Yılın Keşifleri",
+        "Genç Yetenek Özel Ödülü",
+        "Yıldızı Parlayanlar"
+      ],
+      "correct": 4
     }
   ]
 }
