@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Pixar'ın 2003 yapımı efsane animasyonu 'Kayıp Balık Nemo'da (Finding Nemo), oğlu Nemo'yu arayan Marlin'e yolculuğu boyunca eşlik eden ve kısa süreli hafıza kaybı yaşayan sevimli mavi balığın adı nedir?",
+      "question": "Harry Potter evreninde, büyücülerin Ruh Emicileri (Dementor) kovmak ve kendilerini korumak amacıyla en güçlü ve mutlu anılarına odaklanarak uyguladıkları savunma büyüsü hangisidir?",
       "options": [
-        "Gill",
-        "Peach",
-        "Dory",
-        "Flo",
-        "Deb"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Harry Potter serisinde, Lord Voldemort'un ölümsüzlüğe ulaşmak amacıyla ruhunu bölerek içine gizlediği karanlık nesnelere ne ad verilir?",
-      "options": [
-        "Hortkuluk",
-        "Kelid Aynası",
-        "Mürver Asa",
-        "Diriltme Taşı",
-        "Felsefe Taşı"
+        "Expecto Patronum",
+        "Expelliarmus",
+        "Avada Kedavra",
+        "Wingardium Leviosa",
+        "Alohomora"
       ],
       "correct": 0
     },
     {
-      "question": "28 Haziran 1914'te Saraybosna'da Gavrilo Princip tarafından düzenlenen suikast sonucu öldürülmesi Birinci Dünya Savaşı'nın fitilini ateşleyen Avusturya-Macaristan veliahdı kimdir?",
+      "question": "Cem Yılmaz'ın kült bilim kurgu komedi filmi 'G.O.R.A.'da, Arif'in G.O.R.A. gezegeninden kaçmasına yardım eden ve Ozan Güven tarafından canlandırılan sevimli robotun adı nedir?",
       "options": [
-        "II. Wilhelm",
-        "Prens Rudolf",
-        "Otto von Bismarck",
-        "Arşidük Franz Ferdinand",
-        "İmparator I. Franz Joseph"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Dünya çapında fenomen haline gelen İspanyol yapımı 'La Casa de Papel' dizisinde, İspanya Kraliyet Darphanesi soygununu kusursuz bir planla dışarıdan yöneten beynin kod adı nedir?",
-      "options": [
-        "Berlin",
-        "Profesör",
-        "Marsilya",
-        "Palermo",
-        "Moskova"
+        "1071",
+        "216",
+        "Garavel",
+        "Z-42",
+        "501"
       ],
       "correct": 1
     },
     {
-      "question": "Altın Kelebek Ödülleri'nde son yıllarda genç ve yetenekli oyunculara kariyerlerinin başında motivasyon sağlamak amacıyla verilen özel ödül kategorisi hangisidir?",
+      "question": "Popüler anime serisi 'Naruto'da, ana karakter Naruto Uzumaki'nin bedenine mühürlenmiş olan ve 'Kyuubi' olarak da bilinen Dokuz Kuyruklu Şeytan Tilki'nin gerçek adı nedir?",
       "options": [
-        "Geleceğin Yıldızları",
-        "Umut Vadeden Oyuncular",
-        "Yılın Keşifleri",
-        "Genç Yetenek Özel Ödülü",
-        "Yıldızı Parlayanlar"
+        "Shukaku",
+        "Gyuki",
+        "Kurama",
+        "Matatabi",
+        "Son Goku"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "2023 CEV Avrupa Şampiyonası finalinde Sırbistan'ı mağlup ederek altın madalya kazanan A Millî Kadın Voleybol Takımımızda, turnuvanın 'En Değerli Oyuncusu' (MVP) seçilen yıldız voleybolcumuz kimdir?",
+      "options": [
+        "Ebrar Karakurt",
+        "Zehra Güneş",
+        "Eda Erdem Dündar",
+        "Melissa Vargas",
+        "Hande Baladın"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Survivor Türkiye yarışması tarihinde, 2014 ve 2015 yıllarında üst üste iki sezon şampiyon olmayı başaran ünlü yarışmacı kimdir?",
+      "options": [
+        "Hilmi Cem İntepe",
+        "Ogeday Girişken",
+        "Çağan Atakan Arslan",
+        "Nihat Altınkaya",
+        "Turabi Çamkıran"
       ],
       "correct": 4
     }
