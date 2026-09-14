@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Harry Potter evreninde, büyücülerin Ruh Emicileri (Dementor) kovmak ve kendilerini korumak amacıyla en güçlü ve mutlu anılarına odaklanarak uyguladıkları savunma büyüsü hangisidir?",
+      "question": "Nuri Bilge Ceylan'ın yönettiği 'Kuru Otlar Üstüne' filmindeki performansıyla 76. Cannes Film Festivali'nde 'En İyi Kadın Oyuncu' ödülünü kazanarak Türk sinema tarihine geçen ünlü oyuncu kimdir?",
       "options": [
-        "Expecto Patronum",
-        "Expelliarmus",
-        "Avada Kedavra",
-        "Wingardium Leviosa",
-        "Alohomora"
+        "Merve Dizdar",
+        "Farah Zeynep Abdullah",
+        "Demet Evgar",
+        "Serenay Sarıkaya",
+        "Hazar Ergüçlü"
       ],
       "correct": 0
     },
     {
-      "question": "Cem Yılmaz'ın kült bilim kurgu komedi filmi 'G.O.R.A.'da, Arif'in G.O.R.A. gezegeninden kaçmasına yardım eden ve Ozan Güven tarafından canlandırılan sevimli robotun adı nedir?",
+      "question": "Harry Potter serisinde Harry'nin vaftiz babası olan, köpeğe dönüşebilen bir Animagus ve Azkaban Hapishanesi'nden kendi çabasıyla kaçmayı başaran büyücü kimdir?",
       "options": [
-        "1071",
-        "216",
-        "Garavel",
-        "Z-42",
-        "501"
+        "Remus Lupin",
+        "Sirius Black",
+        "Arthur Weasley",
+        "Severus Snape",
+        "James Potter"
       ],
       "correct": 1
     },
     {
-      "question": "Popüler anime serisi 'Naruto'da, ana karakter Naruto Uzumaki'nin bedenine mühürlenmiş olan ve 'Kyuubi' olarak da bilinen Dokuz Kuyruklu Şeytan Tilki'nin gerçek adı nedir?",
+      "question": "\"Toprak Kortun Kralı\" lakabıyla bilinen ve tek erkeklerde Fransa Açık (Roland Garros) turnuvasını 14 kez kazanarak kırılması güç bir rekora imza atan efsanevi tenisçi kimdir?",
       "options": [
-        "Shukaku",
-        "Gyuki",
-        "Kurama",
-        "Matatabi",
-        "Son Goku"
+        "Roger Federer",
+        "Novak Djokovic",
+        "Rafael Nadal",
+        "Andy Murray",
+        "Carlos Alcaraz"
       ],
       "correct": 2
     },
     {
-      "question": "2023 CEV Avrupa Şampiyonası finalinde Sırbistan'ı mağlup ederek altın madalya kazanan A Millî Kadın Voleybol Takımımızda, turnuvanın 'En Değerli Oyuncusu' (MVP) seçilen yıldız voleybolcumuz kimdir?",
+      "question": "Nickelodeon'un efsane animasyon serisi 'Avatar: Son Hava Bükücü'de (Avatar: The Last Airbender), Aang'e yolculuğu boyunca eşlik eden altı bacaklı sadık uçan bizonun adı nedir?",
       "options": [
-        "Ebrar Karakurt",
-        "Zehra Güneş",
-        "Eda Erdem Dündar",
-        "Melissa Vargas",
-        "Hande Baladın"
+        "Momo",
+        "Naga",
+        "Pabu",
+        "Appa",
+        "Flopsie"
       ],
       "correct": 3
     },
     {
-      "question": "Survivor Türkiye yarışması tarihinde, 2014 ve 2015 yıllarında üst üste iki sezon şampiyon olmayı başaran ünlü yarışmacı kimdir?",
+      "question": "Twitter Türkiye'de her yıl 8 Nisan tarihinde, dizideki ölüm yıl dönümü anısına binlerce kullanıcının helva fotoğrafları ve taziye mesajları paylaşarak Trend Topic (TT) yaptığı kurgusal karakter kimdir?",
       "options": [
-        "Hilmi Cem İntepe",
-        "Ogeday Girişken",
-        "Çağan Atakan Arslan",
-        "Nihat Altınkaya",
-        "Turabi Çamkıran"
+        "Ramiz Karaeski",
+        "Bihter Ziyagil",
+        "Ezel Bayraktar",
+        "Memati Baş",
+        "Süleyman Çakır"
       ],
       "correct": 4
     }
