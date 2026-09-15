@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Nuri Bilge Ceylan'ın yönettiği 'Kuru Otlar Üstüne' filmindeki performansıyla 76. Cannes Film Festivali'nde 'En İyi Kadın Oyuncu' ödülünü kazanarak Türk sinema tarihine geçen ünlü oyuncu kimdir?",
+      "question": "1994-2004 yılları arasında yayımlanan ve televizyon tarihinin en popüler durum komedilerinden biri olan 'Friends' dizisinde, altı ana karakterin sürekli bir araya geldiği ikonik kahve dükkânının adı nedir?",
       "options": [
-        "Merve Dizdar",
-        "Farah Zeynep Abdullah",
-        "Demet Evgar",
-        "Serenay Sarıkaya",
-        "Hazar Ergüçlü"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Harry Potter serisinde Harry'nin vaftiz babası olan, köpeğe dönüşebilen bir Animagus ve Azkaban Hapishanesi'nden kendi çabasıyla kaçmayı başaran büyücü kimdir?",
-      "options": [
-        "Remus Lupin",
-        "Sirius Black",
-        "Arthur Weasley",
-        "Severus Snape",
-        "James Potter"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "\"Toprak Kortun Kralı\" lakabıyla bilinen ve tek erkeklerde Fransa Açık (Roland Garros) turnuvasını 14 kez kazanarak kırılması güç bir rekora imza atan efsanevi tenisçi kimdir?",
-      "options": [
-        "Roger Federer",
-        "Novak Djokovic",
-        "Rafael Nadal",
-        "Andy Murray",
-        "Carlos Alcaraz"
+        "MacLaren's Pub",
+        "Monk's Cafe",
+        "Central Perk",
+        "Luke's Diner",
+        "Cafe Nervosa"
       ],
       "correct": 2
     },
     {
-      "question": "Nickelodeon'un efsane animasyon serisi 'Avatar: Son Hava Bükücü'de (Avatar: The Last Airbender), Aang'e yolculuğu boyunca eşlik eden altı bacaklı sadık uçan bizonun adı nedir?",
+      "question": "Disney'in 1994 yapımı klasik animasyon filmi 'Aslan Kral'da (The Lion King), Timon ve Pumbaa'nın yavru aslan Simba'ya hayat felsefesi olarak öğrettiği ve 'sorun yok / dert etme' anlamına gelen Swahili kökenli ifade hangisidir?",
       "options": [
-        "Momo",
-        "Naga",
-        "Pabu",
-        "Appa",
-        "Flopsie"
+        "Hakuna Matata",
+        "Asante Sana",
+        "Jambo Bwana",
+        "Ooga Chaka",
+        "Kumbaya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Ali Atay'ın yönettiği 2018 yapımı sevilen Türk komedi filmi 'Ölümlü Dünya'da, Feyyaz Yiğit'in canlandırdığı ve sorgu sahnesindeki absürt savunmasıyla fenomen haline gelen karakterin adı nedir?",
+      "options": [
+        "Servet",
+        "Zafer",
+        "Serhan",
+        "Serbest",
+        "Gazanfer"
       ],
       "correct": 3
     },
     {
-      "question": "Twitter Türkiye'de her yıl 8 Nisan tarihinde, dizideki ölüm yıl dönümü anısına binlerce kullanıcının helva fotoğrafları ve taziye mesajları paylaşarak Trend Topic (TT) yaptığı kurgusal karakter kimdir?",
+      "question": "Netflix'in dünya çapında izlenme rekorları kıran 1980'ler temalı bilim kurgu dizisi 'Stranger Things'te, Millie Bobby Brown'ın canlandırdığı telekinetik ve psişik güçlere sahip gizemli karakter hangi adla bilinir?",
       "options": [
-        "Ramiz Karaeski",
-        "Bihter Ziyagil",
-        "Ezel Bayraktar",
-        "Memati Baş",
-        "Süleyman Çakır"
+        "Robin",
+        "Eleven (On Bir)",
+        "Nancy",
+        "Max",
+        "Joyce"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Türk rock müziğinin başarılı temsilcilerinden maNga, 2010 yılında Norveç'in başkenti Oslo'da düzenlenen 55. Eurovision Şarkı Yarışması'nda Türkiye'ye ikincilik getiren hangi parçayı seslendirmiştir?",
+      "options": [
+        "Dursun Zaman",
+        "Dünyanın Sonuna Doğmuşum",
+        "Bitti Rüya",
+        "Cevapsız Sorular",
+        "We Could Be the Same"
       ],
       "correct": 4
     }
