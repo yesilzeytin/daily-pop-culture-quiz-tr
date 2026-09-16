@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "1994-2004 yılları arasında yayımlanan ve televizyon tarihinin en popüler durum komedilerinden biri olan 'Friends' dizisinde, altı ana karakterin sürekli bir araya geldiği ikonik kahve dükkânının adı nedir?",
+      "question": "Marvel Sinematik Evreni'nde (MCU) Thor'un çekici Mjölnir'in parçalanmasının ardından, 'Avengers: Infinity War' filminde Nidavellir'de cüce kral Eitri tarafından dövülen yeni baltasının adı nedir?",
       "options": [
-        "MacLaren's Pub",
-        "Monk's Cafe",
-        "Central Perk",
-        "Luke's Diner",
-        "Cafe Nervosa"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Disney'in 1994 yapımı klasik animasyon filmi 'Aslan Kral'da (The Lion King), Timon ve Pumbaa'nın yavru aslan Simba'ya hayat felsefesi olarak öğrettiği ve 'sorun yok / dert etme' anlamına gelen Swahili kökenli ifade hangisidir?",
-      "options": [
-        "Hakuna Matata",
-        "Asante Sana",
-        "Jambo Bwana",
-        "Ooga Chaka",
-        "Kumbaya"
+        "Stormbreaker",
+        "Gungnir",
+        "Hofund",
+        "Necrosword",
+        "Jarnbjorn"
       ],
       "correct": 0
     },
     {
-      "question": "Ali Atay'ın yönettiği 2018 yapımı sevilen Türk komedi filmi 'Ölümlü Dünya'da, Feyyaz Yiğit'in canlandırdığı ve sorgu sahnesindeki absürt savunmasıyla fenomen haline gelen karakterin adı nedir?",
+      "question": "Yüzüklerin Efendisi evreninde, Gondor krallarının simgesi olan ve Elendil'in kırılan kılıcı Narsil'in parçalarından Ayrıkvadi'de Aragorn için yeniden dövülen efsanevi kılıcın adı nedir?",
       "options": [
-        "Servet",
-        "Zafer",
-        "Serhan",
-        "Serbest",
-        "Gazanfer"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Netflix'in dünya çapında izlenme rekorları kıran 1980'ler temalı bilim kurgu dizisi 'Stranger Things'te, Millie Bobby Brown'ın canlandırdığı telekinetik ve psişik güçlere sahip gizemli karakter hangi adla bilinir?",
-      "options": [
-        "Robin",
-        "Eleven (On Bir)",
-        "Nancy",
-        "Max",
-        "Joyce"
+        "Glamdring",
+        "Andúril",
+        "Sting (Diken)",
+        "Orcrist",
+        "Gurthang"
       ],
       "correct": 1
     },
     {
-      "question": "Türk rock müziğinin başarılı temsilcilerinden maNga, 2010 yılında Norveç'in başkenti Oslo'da düzenlenen 55. Eurovision Şarkı Yarışması'nda Türkiye'ye ikincilik getiren hangi parçayı seslendirmiştir?",
+      "question": "Anadolu Efes formasıyla 2021 ve 2022 yıllarında üst üste iki kez EuroLeague şampiyonluğu yaşayan ve her iki Final Four organizasyonunda da 'En Değerli Oyuncu' (MVP) seçilen Sırp yıldız basketbolcu kimdir?",
       "options": [
-        "Dursun Zaman",
-        "Dünyanın Sonuna Doğmuşum",
-        "Bitti Rüya",
-        "Cevapsız Sorular",
-        "We Could Be the Same"
+        "Bogdan Bogdanović",
+        "Miloš Teodosić",
+        "Vasilije Micić",
+        "Nemanja Bjelica",
+        "Marko Gudurić"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Disney'in 2010 yapımı sevilen animasyonu 'Karmakarışık'ta (Tangled), kulede hapis yaşayan Rapunzel'in en yakın dostu olan ve duygularına göre renk değiştiren sadık bukalemunun adı nedir?",
+      "options": [
+        "Abu",
+        "Meeko",
+        "Mushu",
+        "Pascal",
+        "Flit"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "A Millî Kadın Voleybol Takımımızın (Filenin Sultanları) 2023 yılında hem FIVB Milletler Ligi (VNL) hem de CEV Avrupa Şampiyonası'nda altın madalyaya ulaştığı tarihi sezonda takımın başantrenörlüğünü üstlenen İtalyan çalıştırıcı kimdir?",
+      "options": [
+        "Giovanni Guidetti",
+        "Massimo Barbolini",
+        "Marco Motta",
+        "Stefano Lavarini",
+        "Daniele Santarelli"
       ],
       "correct": 4
     }
