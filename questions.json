@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Marvel Sinematik Evreni'nde (MCU) Thor'un çekici Mjölnir'in parçalanmasının ardından, 'Avengers: Infinity War' filminde Nidavellir'de cüce kral Eitri tarafından dövülen yeni baltasının adı nedir?",
+      "question": "Fox Kids ekranlarında yayınlanan absürt süper kahraman parodisi 'Kene' (The Tick) çizgi dizisinde, devasa mavi kostümlü Kene'nin güve kostümü giyen sadık yardımcısının adı nedir?",
       "options": [
-        "Stormbreaker",
-        "Gungnir",
-        "Hofund",
-        "Necrosword",
-        "Jarnbjorn"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Yüzüklerin Efendisi evreninde, Gondor krallarının simgesi olan ve Elendil'in kırılan kılıcı Narsil'in parçalarından Ayrıkvadi'de Aragorn için yeniden dövülen efsanevi kılıcın adı nedir?",
-      "options": [
-        "Glamdring",
-        "Andúril",
-        "Sting (Diken)",
-        "Orcrist",
-        "Gurthang"
+        "Die Fledermaus",
+        "Arthur",
+        "Bi-Polar Bear",
+        "Sewer Urchin",
+        "Paul"
       ],
       "correct": 1
     },
     {
-      "question": "Anadolu Efes formasıyla 2021 ve 2022 yıllarında üst üste iki kez EuroLeague şampiyonluğu yaşayan ve her iki Final Four organizasyonunda da 'En Değerli Oyuncu' (MVP) seçilen Sırp yıldız basketbolcu kimdir?",
+      "question": "Sezen Aksu'nun 1991 yılında yayımlanan; 'Hadi Bakalım', 'Vazgeçtim' ve 'Belalım' gibi unutulmaz şarkıların yer aldığı, Türk pop müziğinin mihenk taşlarından kabul edilen albümü hangisidir?",
       "options": [
-        "Bogdan Bogdanović",
-        "Miloš Teodosić",
-        "Vasilije Micić",
-        "Nemanja Bjelica",
-        "Marko Gudurić"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Disney'in 2010 yapımı sevilen animasyonu 'Karmakarışık'ta (Tangled), kulede hapis yaşayan Rapunzel'in en yakın dostu olan ve duygularına göre renk değiştiren sadık bukalemunun adı nedir?",
-      "options": [
-        "Abu",
-        "Meeko",
-        "Mushu",
-        "Pascal",
-        "Flit"
+        "Git",
+        "Sen Ağlama",
+        "Düş Bahçeleri",
+        "Gülümse",
+        "Firuze"
       ],
       "correct": 3
     },
     {
-      "question": "A Millî Kadın Voleybol Takımımızın (Filenin Sultanları) 2023 yılında hem FIVB Milletler Ligi (VNL) hem de CEV Avrupa Şampiyonası'nda altın madalyaya ulaştığı tarihi sezonda takımın başantrenörlüğünü üstlenen İtalyan çalıştırıcı kimdir?",
+      "question": "CS:GO tarihinin en unutulmaz turnuvalarından biri olan 2018 ELEAGUE Boston Major finalinde FaZe Clan'ı mağlup ederek CS:GO tarihinde Major şampiyonluğu kazanan ilk ve tek Kuzey Amerika takımı hangisi olmuştur?",
       "options": [
-        "Giovanni Guidetti",
-        "Massimo Barbolini",
-        "Marco Motta",
-        "Stefano Lavarini",
-        "Daniele Santarelli"
+        "Team Liquid",
+        "Complexity Gaming",
+        "Evil Geniuses",
+        "Sentinels",
+        "Cloud9"
       ],
       "correct": 4
+    },
+    {
+      "question": "2020 Tokyo Olimpiyat Oyunları'nda erkekler bireysel klasik yay kategorisinde altın madalya kazanarak Türkiye'ye okçuluk branşındaki ilk olimpiyat madalyasını getiren milli sporcumuz kimdir?",
+      "options": [
+        "Mete Gazoz",
+        "Ferhat Arıcan",
+        "Eray Şamdan",
+        "Rıza Kayaalp",
+        "Taha Akgül"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "YouTube'da yayınladığı 'Konuşanlar' adlı mizah programıyla kısa sürede büyük bir popülarite yakalayan ve ardından bu formatı Exxen platformuna taşıyan ünlü komedyen kimdir?",
+      "options": [
+        "Doğu Demirkol",
+        "Baturay Özdemir",
+        "Hasan Can Kaya",
+        "Kaan Sekban",
+        "Mesut Süre"
+      ],
+      "correct": 2
     }
   ]
 }
