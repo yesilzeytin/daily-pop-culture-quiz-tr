@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Fox Kids ekranlarında yayınlanan absürt süper kahraman parodisi 'Kene' (The Tick) çizgi dizisinde, devasa mavi kostümlü Kene'nin güve kostümü giyen sadık yardımcısının adı nedir?",
+      "question": "2003 yılında 'Everyway That I Can' adlı şarkısıyla Türkiye'ye Eurovision Şarkı Yarışması tarihindeki ilk ve tek birinciliğini kazandıran Sertab Erener'in sahne aldığı yarışma hangi ülke ve şehirde düzenlenmiştir?",
       "options": [
-        "Die Fledermaus",
-        "Arthur",
-        "Bi-Polar Bear",
-        "Sewer Urchin",
-        "Paul"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Sezen Aksu'nun 1991 yılında yayımlanan; 'Hadi Bakalım', 'Vazgeçtim' ve 'Belalım' gibi unutulmaz şarkıların yer aldığı, Türk pop müziğinin mihenk taşlarından kabul edilen albümü hangisidir?",
-      "options": [
-        "Git",
-        "Sen Ağlama",
-        "Düş Bahçeleri",
-        "Gülümse",
-        "Firuze"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "CS:GO tarihinin en unutulmaz turnuvalarından biri olan 2018 ELEAGUE Boston Major finalinde FaZe Clan'ı mağlup ederek CS:GO tarihinde Major şampiyonluğu kazanan ilk ve tek Kuzey Amerika takımı hangisi olmuştur?",
-      "options": [
-        "Team Liquid",
-        "Complexity Gaming",
-        "Evil Geniuses",
-        "Sentinels",
-        "Cloud9"
-      ],
-      "correct": 4
-    },
-    {
-      "question": "2020 Tokyo Olimpiyat Oyunları'nda erkekler bireysel klasik yay kategorisinde altın madalya kazanarak Türkiye'ye okçuluk branşındaki ilk olimpiyat madalyasını getiren milli sporcumuz kimdir?",
-      "options": [
-        "Mete Gazoz",
-        "Ferhat Arıcan",
-        "Eray Şamdan",
-        "Rıza Kayaalp",
-        "Taha Akgül"
+        "Letonya - Riga",
+        "Estonya - Tallinn",
+        "Ukrayna - Kiev",
+        "Danimarka - Kopenhag",
+        "İsveç - Stockholm"
       ],
       "correct": 0
     },
     {
-      "question": "YouTube'da yayınladığı 'Konuşanlar' adlı mizah programıyla kısa sürede büyük bir popülarite yakalayan ve ardından bu formatı Exxen platformuna taşıyan ünlü komedyen kimdir?",
+      "question": "Disney Channel'ın unutulmaz animasyon dizisi 'Kim Possible'da, Kim'in en yakın arkadaşı Ron Stoppable'ın sürekli cebinde taşıdığı sadık tüysüz köstebek faresinin adı nedir?",
       "options": [
-        "Doğu Demirkol",
-        "Baturay Özdemir",
-        "Hasan Can Kaya",
-        "Kaan Sekban",
-        "Mesut Süre"
+        "Pascal",
+        "Rufus",
+        "Wade",
+        "Drakken",
+        "Meeko"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Müzik videoları milyarlarca kez izlenen dünyaca ünlü Güney Koreli kız grubu Blackpink'in resmi hayran kitlesine (fandom) verilen isim hangisidir?",
+      "options": [
+        "ARMY",
+        "ONCE",
+        "BLINK",
+        "STAY",
+        "MIDZY"
       ],
       "correct": 2
+    },
+    {
+      "question": "Survivor Türkiye tarihinde hem 2017 sezonunda hem de 2024 All Star sezonunda şampiyonluk kupasını kaldırarak iki kez şampiyon olmayı başaran eski kürek sporcusu yarışmacı kimdir?",
+      "options": [
+        "Avatar Atakan",
+        "Hilmi Cem İntepe",
+        "Adem Kılıççı",
+        "Ogeday Girişken",
+        "Yusuf Karakaya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Pixar'ın 2007 yapımı Oscar ödüllü animasyonu 'Ratatouille'da, Paris'in ünlü bir restoranında usta bir şef olma hayali kuran ve Linguini'yi saçlarını çekerek yönlendiren yetenekli farenin adı nedir?",
+      "options": [
+        "Emile",
+        "Stuart",
+        "Pip",
+        "Templeton",
+        "Remy"
+      ],
+      "correct": 4
     }
   ]
 }
