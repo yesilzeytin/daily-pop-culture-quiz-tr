@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "2003 yılında 'Everyway That I Can' adlı şarkısıyla Türkiye'ye Eurovision Şarkı Yarışması tarihindeki ilk ve tek birinciliğini kazandıran Sertab Erener'in sahne aldığı yarışma hangi ülke ve şehirde düzenlenmiştir?",
+      "question": "HBO'nun aynı adlı ünlü video oyunundan uyarlanan ve kıyamet sonrası bir dünyada geçen dizisi 'The Last of Us'ta Joel karakterini hangi aktör canlandırmaktadır?",
       "options": [
-        "Letonya - Riga",
-        "Estonya - Tallinn",
-        "Ukrayna - Kiev",
-        "Danimarka - Kopenhag",
-        "İsveç - Stockholm"
+        "Pedro Pascal",
+        "Oscar Isaac",
+        "Nikolaj Coster-Waldau",
+        "Karl Urban",
+        "Bryan Cranston"
       ],
       "correct": 0
     },
     {
-      "question": "Disney Channel'ın unutulmaz animasyon dizisi 'Kim Possible'da, Kim'in en yakın arkadaşı Ron Stoppable'ın sürekli cebinde taşıdığı sadık tüysüz köstebek faresinin adı nedir?",
+      "question": "İstanbul'da Galata Kulesi, Taksim tramvayı ve şehir hatları vapurlarını saf vatandaşlara satması veya kiralamasıyla Türk popüler kültüründe dolandırıcılığın simgesi haline gelen ünlü isim kimdir?",
       "options": [
-        "Pascal",
-        "Rufus",
-        "Wade",
-        "Drakken",
-        "Meeko"
+        "Banker Bako",
+        "Sülün Osman",
+        "Eyüplü Halit",
+        "Selçuk Parsadan",
+        "Güney Zobu (Raki)"
       ],
       "correct": 1
     },
     {
-      "question": "Müzik videoları milyarlarca kez izlenen dünyaca ünlü Güney Koreli kız grubu Blackpink'in resmi hayran kitlesine (fandom) verilen isim hangisidir?",
+      "question": "Formula 1'de 2000 ile 2004 yılları arasında Ferrari takımıyla üst üste 5 kez dünya şampiyonluğuna ulaşarak kırılması güç bir rekora imza atan efsanevi Alman pilot kimdir?",
       "options": [
-        "ARMY",
-        "ONCE",
-        "BLINK",
-        "STAY",
-        "MIDZY"
+        "Sebastian Vettel",
+        "Nico Rosberg",
+        "Michael Schumacher",
+        "Mika Häkkinen",
+        "Alain Prost"
       ],
       "correct": 2
     },
     {
-      "question": "Survivor Türkiye tarihinde hem 2017 sezonunda hem de 2024 All Star sezonunda şampiyonluk kupasını kaldırarak iki kez şampiyon olmayı başaran eski kürek sporcusu yarışmacı kimdir?",
+      "question": "2006 yılında kazandığı Nobel Edebiyat Ödülü ile bu ödüle layık görülen ilk ve tek Türk edebiyatçı olan; 'Kar', 'Masumiyet Müzesi' ve 'Benim Adım Kırmızı' gibi romanların yazarı kimdir?",
       "options": [
-        "Avatar Atakan",
-        "Hilmi Cem İntepe",
-        "Adem Kılıççı",
-        "Ogeday Girişken",
-        "Yusuf Karakaya"
+        "Yaşar Kemal",
+        "Ahmet Hamdi Tanpınar",
+        "Aziz Nesin",
+        "Orhan Pamuk",
+        "Oğuz Atay"
       ],
       "correct": 3
     },
     {
-      "question": "Pixar'ın 2007 yapımı Oscar ödüllü animasyonu 'Ratatouille'da, Paris'in ünlü bir restoranında usta bir şef olma hayali kuran ve Linguini'yi saçlarını çekerek yönlendiren yetenekli farenin adı nedir?",
+      "question": "Counter-Strike: Global Offensive (CS:GO) tarihinde üst üste 3 kez olmak üzere toplamda 4 Major şampiyonluğu kazanarak tarihin en başarılı takımlarından biri kabul edilen Danimarka merkezli espor kulübü hangisidir?",
       "options": [
-        "Emile",
-        "Stuart",
-        "Pip",
-        "Templeton",
-        "Remy"
+        "Fnatic",
+        "Ninjas in Pyjamas",
+        "Natus Vincere",
+        "FaZe Clan",
+        "Astralis"
       ],
       "correct": 4
     }
