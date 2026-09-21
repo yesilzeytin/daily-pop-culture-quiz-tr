@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "HBO'nun aynı adlı ünlü video oyunundan uyarlanan ve kıyamet sonrası bir dünyada geçen dizisi 'The Last of Us'ta Joel karakterini hangi aktör canlandırmaktadır?",
+      "question": "Mustafa Kemal Atatürk'ün Millî Mücadele'yi fiilen başlatmak amacıyla kurmaylarıyla birlikte 19 Mayıs 1919'da İstanbul'dan Samsun'a ulaştığı tarihi vapurun adı nedir?",
       "options": [
-        "Pedro Pascal",
-        "Oscar Isaac",
-        "Nikolaj Coster-Waldau",
-        "Karl Urban",
-        "Bryan Cranston"
+        "Bandırma",
+        "Nusret",
+        "Alemdar",
+        "Hamidiye",
+        "Gülcemal"
       ],
       "correct": 0
     },
     {
-      "question": "İstanbul'da Galata Kulesi, Taksim tramvayı ve şehir hatları vapurlarını saf vatandaşlara satması veya kiralamasıyla Türk popüler kültüründe dolandırıcılığın simgesi haline gelen ünlü isim kimdir?",
+      "question": "2016 yılında 'Amerikan şarkı geleneğinde yeni şiirsel ifadeler yarattığı' gerekçesiyle Nobel Edebiyat Ödülü'ne layık görülerek bu ödülü kazanan ilk müzisyen olan şarkı yazarı kimdir?",
       "options": [
-        "Banker Bako",
-        "Sülün Osman",
-        "Eyüplü Halit",
-        "Selçuk Parsadan",
-        "Güney Zobu (Raki)"
+        "Leonard Cohen",
+        "Bob Dylan",
+        "Bruce Springsteen",
+        "Paul McCartney",
+        "David Bowie"
       ],
       "correct": 1
     },
     {
-      "question": "Formula 1'de 2000 ile 2004 yılları arasında Ferrari takımıyla üst üste 5 kez dünya şampiyonluğuna ulaşarak kırılması güç bir rekora imza atan efsanevi Alman pilot kimdir?",
+      "question": "Disney'in 2013 yapımı Oscar ödüllü animasyon filmi 'Karlar Ülkesi'nde (Frozen), sıcak sarılmaları çok seven ve yaz mevsiminin hayalini kuran sevimli kardan adamın adı nedir?",
       "options": [
-        "Sebastian Vettel",
-        "Nico Rosberg",
-        "Michael Schumacher",
-        "Mika Häkkinen",
-        "Alain Prost"
+        "Kristoff",
+        "Sven",
+        "Olaf",
+        "Hans",
+        "Marshmallow"
       ],
       "correct": 2
     },
     {
-      "question": "2006 yılında kazandığı Nobel Edebiyat Ödülü ile bu ödüle layık görülen ilk ve tek Türk edebiyatçı olan; 'Kar', 'Masumiyet Müzesi' ve 'Benim Adım Kırmızı' gibi romanların yazarı kimdir?",
+      "question": "2017 yılında İstanbul'da düzenlenen EuroLeague Final Four organizasyonunun finalinde Yunanistan temsilcisi Olympiakos'u mağlup ederek Türk basketbol tarihinde erkeklerde EuroLeague şampiyonluğu kazanan ilk takım hangisidir?",
       "options": [
-        "Yaşar Kemal",
-        "Ahmet Hamdi Tanpınar",
-        "Aziz Nesin",
-        "Orhan Pamuk",
-        "Oğuz Atay"
+        "Anadolu Efes",
+        "Galatasaray Odeabank",
+        "Darüşşafaka Doğuş",
+        "Fenerbahçe",
+        "Beşiktaş Sompo Japan"
       ],
       "correct": 3
     },
     {
-      "question": "Counter-Strike: Global Offensive (CS:GO) tarihinde üst üste 3 kez olmak üzere toplamda 4 Major şampiyonluğu kazanarak tarihin en başarılı takımlarından biri kabul edilen Danimarka merkezli espor kulübü hangisidir?",
+      "question": "Yılmaz Erdoğan'ın yazıp yönettiği 2001 yapımı kült komedi filmi 'Vizontele'de, Cem Yılmaz'ın canlandırdığı ve 'Baba akü yok' repliğiyle hafızalara kazınan karakterin adı nedir?",
       "options": [
-        "Fnatic",
-        "Ninjas in Pyjamas",
-        "Natus Vincere",
-        "FaZe Clan",
-        "Astralis"
+        "Emin",
+        "Latif",
+        "Nazmi",
+        "Rıfat",
+        "Fikri"
       ],
       "correct": 4
     }
