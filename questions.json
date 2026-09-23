@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Yumurcak TV'nin en çok izlenen çizgi dizilerinden biri olan 'Caillou'da (Kayu), 4 yaşındaki Caillou'nun evinde beslediği sevimli kedisinin adı nedir?",
+      "question": "Christopher Nolan'ın yönettiği 2008 yapımı DC filmi 'Kara Şövalye'de (The Dark Knight) Joker karakterini canlandırarak ölümünün ardından En İyi Yardımcı Erkek Oyuncu Akademi (Oscar) Ödülü'ne layık görülen aktör kimdir?",
       "options": [
-        "Gilbert",
-        "Boncuk",
-        "Tarçın",
-        "Mırnav",
-        "Duman"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "1997 yılında İrlanda'nın başkenti Dublin'de düzenlenen 42. Eurovision Şarkı Yarışması'nda Şebnem Paker ve Grup Etnik tarafından seslendirilerek Türkiye'ye o zamana kadarki en büyük Eurovision başarısını (üçüncülük) getiren parça hangisidir?",
-      "options": [
-        "Halley",
-        "Dinle",
-        "For Real",
-        "Rimi Rimi Ley",
-        "Shake It Up Şekerim"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Selçuk Aydemir'in yazıp yönettiği 2013 yapımı sevilen komedi filmi 'Düğün Dernek'te, Ahmet Kural'ın canlandırdığı ve düğün hazırlıkları boyunca başını türlü belalara sokan fenomen karakter hangisidir?",
-      "options": [
-        "Çeto (Çetin)",
-        "Muallim Sırrı",
-        "Tüpçü Fikret",
-        "Damat Tarık",
-        "Otobüsçü Yılmaz"
+        "Joaquin Phoenix",
+        "Jack Nicholson",
+        "Heath Ledger",
+        "Jared Leto",
+        "Barry Keoghan"
       ],
       "correct": 2
     },
     {
-      "question": "2018 yılında gastronomi yazarı Vedat Milor'un Twitter (X) hesabında başlattığı, 430 binden fazla oy kullanılarak günlerce sosyal medyanın en çok konuşulan konusu haline gelen tarihi anket hangisidir?",
+      "question": "2018 yılında Prens Harry ile evlenerek Britanya Kraliyet Ailesi'ne katılan ve 'Sussex Düşesi' unvanını alan, evlenmeden önce 'Suits' dizisindeki rolüyle tanınan Amerikalı oyuncu kimdir?",
       "options": [
-        "Lahmacun limonlu mu yenir, limonsuz mu?",
-        "Çiğ köfte etli mi olur, etsiz mi?",
-        "Döner ekmek arası mı yenir, porsiyon mu?",
-        "Menemen soğanlı mı olur, soğansız mı?",
-        "Mantıya sumak konur mu, konmaz mı?"
+        "Kate Middleton",
+        "Meghan Markle",
+        "Cressida Bonas",
+        "Chelsy Davy",
+        "Pippa Middleton"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "'Aşk-ı Memnu' dizisinde canlandırdığı Behlül Haznedar ve 'Kuzey Güney' dizisindeki Kuzey Tekinoğlu karakterleriyle büyük bir şöhret yakalayan ünlü Türk oyuncu kimdir?",
+      "options": [
+        "Çağatay Ulusoy",
+        "Kenan İmirzalıoğlu",
+        "Burak Özçivit",
+        "Kıvanç Tatlıtuğ",
+        "Kerem Bürsin"
       ],
       "correct": 3
     },
     {
-      "question": "Disney'in 1998 yapımı klasik animasyon filmi 'Mulan'da, atalarının ruhları tarafından Mulan'ı koruması için görevlendirilen ve orijinal seslendirmesini Eddie Murphy'nin yaptığı küçük kırmızı ejderhanın adı nedir?",
+      "question": "Disney'in 1992 yapımı klasik animasyon filmi 'Aladdin'de, sihirli lambanın içinden çıkan ve orijinal seslendirmesi usta aktör Robin Williams tarafından yapılan ikonik karakter hangisidir?",
       "options": [
-        "Cri-Kee",
-        "Meeko",
-        "Flounder",
+        "Cin (Genie)",
+        "Jafar",
         "Abu",
-        "Mushu"
+        "Iago",
+        "Rajah"
       ],
-      "correct": 4
+      "correct": 0
+    },
+    {
+      "question": "'Günden Kalanlar' (The Remains of the Day) ve 'Beni Asla Bırakma' (Never Let Me Go) gibi ünlü romanlarıyla tanınan ve 2017 yılında Nobel Edebiyat Ödülü'ne layık görülen Japon asıllı İngiliz yazar kimdir?",
+      "options": [
+        "Haruki Murakami",
+        "Kenzaburo Oe",
+        "Kazuo Ishiguro",
+        "Salman Rushdie",
+        "Yukio Mishima"
+      ],
+      "correct": 2
     }
   ]
 }
