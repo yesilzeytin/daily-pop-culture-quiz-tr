@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Christopher Nolan'ın yönettiği 2008 yapımı DC filmi 'Kara Şövalye'de (The Dark Knight) Joker karakterini canlandırarak ölümünün ardından En İyi Yardımcı Erkek Oyuncu Akademi (Oscar) Ödülü'ne layık görülen aktör kimdir?",
+      "question": "23 Nisan 2005 tarihinde YouTube platformuna yüklenen ve tarihin ilk YouTube videosu olarak kabul edilen 'Me at the zoo' (Hayvanat bahçesinde ben) başlıklı videoyu paylaşan platform kurucu ortağı kimdir?",
       "options": [
-        "Joaquin Phoenix",
-        "Jack Nicholson",
-        "Heath Ledger",
-        "Jared Leto",
-        "Barry Keoghan"
+        "Steve Chen",
+        "Chad Hurley",
+        "Jawed Karim",
+        "Susan Wojcicki",
+        "Jimmy Wales"
       ],
       "correct": 2
     },
     {
-      "question": "2018 yılında Prens Harry ile evlenerek Britanya Kraliyet Ailesi'ne katılan ve 'Sussex Düşesi' unvanını alan, evlenmeden önce 'Suits' dizisindeki rolüyle tanınan Amerikalı oyuncu kimdir?",
+      "question": "1988 Seul Olimpiyatları'nda kendi ağırlığının üç katından fazlasını kaldırıp birden fazla dünya rekoru kırarak Türkiye'ye güreş branşı dışındaki ilk olimpiyat altın madalyasını kazandıran 'Cep Herkülü' lakaplı sporcu kimdir?",
       "options": [
-        "Kate Middleton",
-        "Meghan Markle",
-        "Cressida Bonas",
-        "Chelsy Davy",
-        "Pippa Middleton"
+        "Halil Mutlu",
+        "Naim Süleymanoğlu",
+        "Taner Sağır",
+        "Fedail Güler",
+        "Sunay Bulut"
       ],
       "correct": 1
     },
     {
-      "question": "'Aşk-ı Memnu' dizisinde canlandırdığı Behlül Haznedar ve 'Kuzey Güney' dizisindeki Kuzey Tekinoğlu karakterleriyle büyük bir şöhret yakalayan ünlü Türk oyuncu kimdir?",
+      "question": "Valve tarafından geliştirilen kült video oyunu serisi 'Half-Life'ta, başkarakter Dr. Gordon Freeman ile özdeşleşen ve oyunun adeta sembolü haline gelen yakın dövüş aleti hangisidir?",
       "options": [
-        "Çağatay Ulusoy",
-        "Kenan İmirzalıoğlu",
-        "Burak Özçivit",
-        "Kıvanç Tatlıtuğ",
-        "Kerem Bürsin"
+        "İngiliz anahtarı",
+        "Balyoz",
+        "Pala",
+        "Levye",
+        "Beyzbol sopası"
       ],
       "correct": 3
     },
     {
-      "question": "Disney'in 1992 yapımı klasik animasyon filmi 'Aladdin'de, sihirli lambanın içinden çıkan ve orijinal seslendirmesi usta aktör Robin Williams tarafından yapılan ikonik karakter hangisidir?",
+      "question": "1986 FIFA Dünya Kupası çeyrek finalinde İngiltere filelerine elle gönderdiği golün ardından bu durumu 'Biraz Tanrı'nın eli, biraz da kafasıyla' şeklinde nitelendiren efsanevi futbolcu kimdir?",
       "options": [
-        "Cin (Genie)",
-        "Jafar",
-        "Abu",
-        "Iago",
-        "Rajah"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "'Günden Kalanlar' (The Remains of the Day) ve 'Beni Asla Bırakma' (Never Let Me Go) gibi ünlü romanlarıyla tanınan ve 2017 yılında Nobel Edebiyat Ödülü'ne layık görülen Japon asıllı İngiliz yazar kimdir?",
-      "options": [
-        "Haruki Murakami",
-        "Kenzaburo Oe",
-        "Kazuo Ishiguro",
-        "Salman Rushdie",
-        "Yukio Mishima"
+        "Lionel Messi",
+        "Gabriel Batistuta",
+        "Diego Maradona",
+        "Mario Kempes",
+        "Daniel Passarella"
       ],
       "correct": 2
+    },
+    {
+      "question": "Twitch platformunda 'Elraenn' kullanıcı adıyla yaptığı samimi sohbet yayınları ve hikaye anlatımlarıyla geniş bir kitleye ulaşarak Türkiye'nin en popüler yayıncılarından biri haline gelen fenomen kimdir?",
+      "options": [
+        "Kemal Can Parlak",
+        "Ahmet Sonuç",
+        "Ferit Karakaya",
+        "Cantuğ Özsoy",
+        "Tuğkan Gönültaş"
+      ],
+      "correct": 4
     }
   ]
 }
