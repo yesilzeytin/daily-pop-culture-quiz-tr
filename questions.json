@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "23 Nisan 2005 tarihinde YouTube platformuna yüklenen ve tarihin ilk YouTube videosu olarak kabul edilen 'Me at the zoo' (Hayvanat bahçesinde ben) başlıklı videoyu paylaşan platform kurucu ortağı kimdir?",
+      "question": "İnternet mizah tarihinin en yaygın ve köklü şakalarından biri olan; kullanıcılara ilgi çekici bir bağlantı vadedip onları Rick Astley'nin 1987 yapımı 'Never Gonna Give You Up' şarkısının klibine yönlendirme eylemine ne ad verilir?",
       "options": [
-        "Steve Chen",
-        "Chad Hurley",
-        "Jawed Karim",
-        "Susan Wojcicki",
-        "Jimmy Wales"
+        "Rickrolling",
+        "Astleying",
+        "Rickbaiting",
+        "Clickjacking",
+        "Phishing"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
-      "question": "1988 Seul Olimpiyatları'nda kendi ağırlığının üç katından fazlasını kaldırıp birden fazla dünya rekoru kırarak Türkiye'ye güreş branşı dışındaki ilk olimpiyat altın madalyasını kazandıran 'Cep Herkülü' lakaplı sporcu kimdir?",
+      "question": "Cem Yılmaz'ın senaryosunu yazdığı ve başrolünü üstlendiği 2004 yapımı kült bilim kurgu-komedi filmi 'G.O.R.A.'da, uzaylılar tarafından kaçırılan Arif Işık karakterinin Dünya'daki mesleği nedir?",
       "options": [
-        "Halil Mutlu",
-        "Naim Süleymanoğlu",
-        "Taner Sağır",
-        "Fedail Güler",
-        "Sunay Bulut"
+        "Taksici",
+        "Halıcı",
+        "Oto galericisi",
+        "Tur rehberi",
+        "Antikacı"
       ],
       "correct": 1
     },
     {
-      "question": "Valve tarafından geliştirilen kült video oyunu serisi 'Half-Life'ta, başkarakter Dr. Gordon Freeman ile özdeşleşen ve oyunun adeta sembolü haline gelen yakın dövüş aleti hangisidir?",
+      "question": "Formula 1 tarihinde Michael Schumacher ile birlikte 7 kez Dünya Şampiyonu olma rekorunu elinde bulunduran ve kariyerinde 100'ün üzerinde yarış galibiyetine ulaşan ilk pilot olan Büyük Britanyalı sporcu kimdir?",
       "options": [
-        "İngiliz anahtarı",
-        "Balyoz",
-        "Pala",
-        "Levye",
-        "Beyzbol sopası"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "1986 FIFA Dünya Kupası çeyrek finalinde İngiltere filelerine elle gönderdiği golün ardından bu durumu 'Biraz Tanrı'nın eli, biraz da kafasıyla' şeklinde nitelendiren efsanevi futbolcu kimdir?",
-      "options": [
-        "Lionel Messi",
-        "Gabriel Batistuta",
-        "Diego Maradona",
-        "Mario Kempes",
-        "Daniel Passarella"
+        "Fernando Alonso",
+        "Sebastian Vettel",
+        "Lewis Hamilton",
+        "Max Verstappen",
+        "Lando Norris"
       ],
       "correct": 2
     },
     {
-      "question": "Twitch platformunda 'Elraenn' kullanıcı adıyla yaptığı samimi sohbet yayınları ve hikaye anlatımlarıyla geniş bir kitleye ulaşarak Türkiye'nin en popüler yayıncılarından biri haline gelen fenomen kimdir?",
+      "question": "Star Wars evreninde 'İmparator' (The Empire Strikes Back) filminde Luke Skywalker'ın Dagobah bataklık gezegeninde eğitim aldığı bilge ve efsanevi Jedi Üstadı kimdir?",
       "options": [
-        "Kemal Can Parlak",
-        "Ahmet Sonuç",
-        "Ferit Karakaya",
-        "Cantuğ Özsoy",
-        "Tuğkan Gönültaş"
+        "Obi-Wan Kenobi",
+        "Qui-Gon Jinn",
+        "Mace Windu",
+        "Yoda",
+        "Plo Koon"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Harry Potter serisinde büyücü sporu Quidditch maçlarında, Arayıcı (Seeker) tarafından yakalandığında takıma 150 puan kazandırarak maçı sona erdiren minik, kanatlı altın topun adı nedir?",
+      "options": [
+        "Quaffle",
+        "Bludger",
+        "Portkey (Anahtar)",
+        "Remembrall (Hatırlatıcı)",
+        "Golden Snitch (Altın Snitch)"
       ],
       "correct": 4
     }
