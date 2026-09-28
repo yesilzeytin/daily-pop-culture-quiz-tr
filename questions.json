@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "İnternet mizah tarihinin en yaygın ve köklü şakalarından biri olan; kullanıcılara ilgi çekici bir bağlantı vadedip onları Rick Astley'nin 1987 yapımı 'Never Gonna Give You Up' şarkısının klibine yönlendirme eylemine ne ad verilir?",
+      "question": "Disney Channel'ın popüler çizgi dizisi 'Fineas ve Förb'de (Phineas and Ferb), iki kardeşin evcil hayvanı olan ve gizli bir teşkilatta casusluk yapan ornitorenk Perry'nin kod adı nedir?",
       "options": [
-        "Rickrolling",
-        "Astleying",
-        "Rickbaiting",
-        "Clickjacking",
-        "Phishing"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Cem Yılmaz'ın senaryosunu yazdığı ve başrolünü üstlendiği 2004 yapımı kült bilim kurgu-komedi filmi 'G.O.R.A.'da, uzaylılar tarafından kaçırılan Arif Işık karakterinin Dünya'daki mesleği nedir?",
-      "options": [
-        "Taksici",
-        "Halıcı",
-        "Oto galericisi",
-        "Tur rehberi",
-        "Antikacı"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Formula 1 tarihinde Michael Schumacher ile birlikte 7 kez Dünya Şampiyonu olma rekorunu elinde bulunduran ve kariyerinde 100'ün üzerinde yarış galibiyetine ulaşan ilk pilot olan Büyük Britanyalı sporcu kimdir?",
-      "options": [
-        "Fernando Alonso",
-        "Sebastian Vettel",
-        "Lewis Hamilton",
-        "Max Verstappen",
-        "Lando Norris"
+        "Ajan X",
+        "Ajan D",
+        "Ajan P",
+        "Ajan K",
+        "Ajan O"
       ],
       "correct": 2
     },
     {
-      "question": "Star Wars evreninde 'İmparator' (The Empire Strikes Back) filminde Luke Skywalker'ın Dagobah bataklık gezegeninde eğitim aldığı bilge ve efsanevi Jedi Üstadı kimdir?",
+      "question": "2017 yılında Instagram'da paylaştığı kendine has ete tuz serpme hareketiyle dünya çapında viral olarak 'Salt Bae' lakabıyla tanınan Türk kasap ve restoran işletmecisi kimdir?",
       "options": [
-        "Obi-Wan Kenobi",
-        "Qui-Gon Jinn",
-        "Mace Windu",
-        "Yoda",
-        "Plo Koon"
+        "CZN Burak (Burak Özdemir)",
+        "Nusret Gökçe",
+        "Somer Sivrioğlu",
+        "Danilo Zanna",
+        "Gürkan Şef (Gürkan Topçu)"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "20 Temmuz 1969'da Apollo 11 görevi sırasında Ay yüzeyine ilk kez ayak basarak 'Bir insan için küçük, insanlık için dev bir adım' sözünü tarihe geçiren astronot kimdir?",
+      "options": [
+        "Yuri Gagarin",
+        "Buzz Aldrin",
+        "Michael Collins",
+        "Neil Armstrong",
+        "Alan Shepard"
       ],
       "correct": 3
     },
     {
-      "question": "Harry Potter serisinde büyücü sporu Quidditch maçlarında, Arayıcı (Seeker) tarafından yakalandığında takıma 150 puan kazandırarak maçı sona erdiren minik, kanatlı altın topun adı nedir?",
+      "question": "'Dynamite', 'Butter' ve 'Boy With Luv' gibi küresel hit şarkılara imza atan dünyaca ünlü K-Pop grubu BTS'in resmi hayran kitlesine (fandom) ne ad verilir?",
       "options": [
-        "Quaffle",
-        "Bludger",
-        "Portkey (Anahtar)",
-        "Remembrall (Hatırlatıcı)",
-        "Golden Snitch (Altın Snitch)"
+        "ARMY",
+        "ONCE",
+        "STAY",
+        "CARAT",
+        "EXO-L"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "26 Ağustos 1071 tarihinde Büyük Selçuklu Sultanı Alparslan'ın Bizans ordusunu mağlup ederek Türklere Anadolu'nun kapılarını açtığı kabul edilen tarihi zafer hangisidir?",
+      "options": [
+        "Pasinler Savaşı",
+        "Dandanakan Savaşı",
+        "Miryokefalon Savaşı",
+        "Kösedağ Savaşı",
+        "Malazgirt Meydan Muharebesi"
       ],
       "correct": 4
     }
