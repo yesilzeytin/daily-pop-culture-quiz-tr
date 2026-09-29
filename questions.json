@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Disney Channel'ın popüler çizgi dizisi 'Fineas ve Förb'de (Phineas and Ferb), iki kardeşin evcil hayvanı olan ve gizli bir teşkilatta casusluk yapan ornitorenk Perry'nin kod adı nedir?",
+      "question": "PlayStation'ın efsanevi macera serisi Uncharted'da, başkarakter Nathan Drake'in hem akıl hocası hem de puro tiryakisi olan en yakın yol arkadaşı kimdir?",
       "options": [
-        "Ajan X",
-        "Ajan D",
-        "Ajan P",
-        "Ajan K",
-        "Ajan O"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "2017 yılında Instagram'da paylaştığı kendine has ete tuz serpme hareketiyle dünya çapında viral olarak 'Salt Bae' lakabıyla tanınan Türk kasap ve restoran işletmecisi kimdir?",
-      "options": [
-        "CZN Burak (Burak Özdemir)",
-        "Nusret Gökçe",
-        "Somer Sivrioğlu",
-        "Danilo Zanna",
-        "Gürkan Şef (Gürkan Topçu)"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "20 Temmuz 1969'da Apollo 11 görevi sırasında Ay yüzeyine ilk kez ayak basarak 'Bir insan için küçük, insanlık için dev bir adım' sözünü tarihe geçiren astronot kimdir?",
-      "options": [
-        "Yuri Gagarin",
-        "Buzz Aldrin",
-        "Michael Collins",
-        "Neil Armstrong",
-        "Alan Shepard"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "'Dynamite', 'Butter' ve 'Boy With Luv' gibi küresel hit şarkılara imza atan dünyaca ünlü K-Pop grubu BTS'in resmi hayran kitlesine (fandom) ne ad verilir?",
-      "options": [
-        "ARMY",
-        "ONCE",
-        "STAY",
-        "CARAT",
-        "EXO-L"
+        "Victor Sullivan",
+        "Sam Drake",
+        "Rafe Adler",
+        "Charlie Cutter",
+        "Harry Flynn"
       ],
       "correct": 0
     },
     {
-      "question": "26 Ağustos 1071 tarihinde Büyük Selçuklu Sultanı Alparslan'ın Bizans ordusunu mağlup ederek Türklere Anadolu'nun kapılarını açtığı kabul edilen tarihi zafer hangisidir?",
+      "question": "1925 yılında kendisini Fransız yetkili olarak tanıtıp Paris'in simgesi Eyfel Kulesi'ni hurda metal tüccarlarına satmayı başaran ünlü dolandırıcı kimdir?",
       "options": [
-        "Pasinler Savaşı",
-        "Dandanakan Savaşı",
-        "Miryokefalon Savaşı",
-        "Kösedağ Savaşı",
-        "Malazgirt Meydan Muharebesi"
+        "Charles Ponzi",
+        "Victor Lustig",
+        "Frank Abagnale",
+        "Bernie Madoff",
+        "George Parker"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "MasterChef Türkiye 2020 sezonunda yarışmaya katıldığı ilk gün 'Basit bir şekilde şampiyon olacağım' iddiasıyla dikkat çeken ve finalde kupayı kaldıran isim kimdir?",
+      "options": [
+        "Cemre Uyanık",
+        "Alican Sabunsoy",
+        "Serhat Doğramacı",
+        "Barbaros Yoloğlu",
+        "Eren Kaşıkçı"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Sony tarafından 1979 yılında piyasaya sürülen, insanların hareket halindeyken kaset dinlemesine olanak tanıyarak tüketici elektroniğinde devrim yaratan ikonik taşınabilir müzik çaların adı nedir?",
+      "options": [
+        "Discman",
+        "Soundbug",
+        "Beatbox",
+        "Walkman",
+        "MiniDisc"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Hücrelerin hasar gören DNA'ları nasıl onardığını haritalandıran araştırmaları sayesinde 2015 Nobel Kimya Ödülü'ne layık görülen Türk bilim insanı kimdir?",
+      "options": [
+        "Cahit Arf",
+        "Oktay Sinanoğlu",
+        "Hulusi Behçet",
+        "Erdal İnönü",
+        "Aziz Sancar"
       ],
       "correct": 4
     }
