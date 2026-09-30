@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "PlayStation'ın efsanevi macera serisi Uncharted'da, başkarakter Nathan Drake'in hem akıl hocası hem de puro tiryakisi olan en yakın yol arkadaşı kimdir?",
+      "question": "Harry Potter evreninde 'Ölüm Yadigârları'nı oluşturan üç efsanevi nesne; Mürver Asa, Görünmezlik Pelerini ve aşağıdakilerden hangisidir?",
       "options": [
-        "Victor Sullivan",
-        "Sam Drake",
-        "Rafe Adler",
-        "Charlie Cutter",
-        "Harry Flynn"
+        "Diriltme Taşı",
+        "Felsefe Taşı",
+        "Ateş Kadehi",
+        "Gryffindor'un Kılıcı",
+        "Ravenclaw'ın Diademi"
       ],
       "correct": 0
     },
     {
-      "question": "1925 yılında kendisini Fransız yetkili olarak tanıtıp Paris'in simgesi Eyfel Kulesi'ni hurda metal tüccarlarına satmayı başaran ünlü dolandırıcı kimdir?",
+      "question": "The Witcher evreninde (kitap, oyun ve dizi) ana karakter Geralt of Rivia ve akıl hocası Vesemir'in bağlı olduğu, Kaer Morhen kalesini mesken tutan efsanevi okul hangisidir?",
       "options": [
-        "Charles Ponzi",
-        "Victor Lustig",
-        "Frank Abagnale",
-        "Bernie Madoff",
-        "George Parker"
+        "Kedi Okulu",
+        "Kurt Okulu",
+        "Ayı Okulu",
+        "Engerek Okulu",
+        "Grifon Okulu"
       ],
       "correct": 1
     },
     {
-      "question": "MasterChef Türkiye 2020 sezonunda yarışmaya katıldığı ilk gün 'Basit bir şekilde şampiyon olacağım' iddiasıyla dikkat çeken ve finalde kupayı kaldıran isim kimdir?",
+      "question": "2002 FIFA Dünya Kupası üçüncülük maçında Güney Kore'ye karşı maçın 11. saniyesinde fileleri havalandırarak FIFA Dünya Kupası tarihinin en erken golünü atan Türk millî futbolcu kimdir?",
       "options": [
-        "Cemre Uyanık",
-        "Alican Sabunsoy",
-        "Serhat Doğramacı",
-        "Barbaros Yoloğlu",
-        "Eren Kaşıkçı"
+        "İlhan Mansız",
+        "Nihat Kahveci",
+        "Hakan Şükür",
+        "Hasan Şaş",
+        "Yıldıray Baştürk"
       ],
       "correct": 2
     },
     {
-      "question": "Sony tarafından 1979 yılında piyasaya sürülen, insanların hareket halindeyken kaset dinlemesine olanak tanıyarak tüketici elektroniğinde devrim yaratan ikonik taşınabilir müzik çaların adı nedir?",
+      "question": "İnternet mizahında 'much wow', 'so scare' gibi ifadelerle süslenen ve sonrasında popüler bir kripto paraya da ilham kaynağı olan tarihi 'Doge' meminde (caps) yer alan köpeğin ırkı nedir?",
       "options": [
-        "Discman",
-        "Soundbug",
-        "Beatbox",
-        "Walkman",
-        "MiniDisc"
+        "Pug",
+        "Golden Retriever",
+        "Fransız Buldoğu",
+        "Shiba Inu",
+        "Beagle"
       ],
       "correct": 3
     },
     {
-      "question": "Hücrelerin hasar gören DNA'ları nasıl onardığını haritalandıran araştırmaları sayesinde 2015 Nobel Kimya Ödülü'ne layık görülen Türk bilim insanı kimdir?",
+      "question": "Ertem Eğilmez'in yönettiği efsanevi 'Hababam Sınıfı' film serisinde, usta aktör Şener Şen'in canlandırdığı kırmızı eşofmanlı unutulmaz beden eğitimi öğretmeninin adı nedir?",
       "options": [
-        "Cahit Arf",
-        "Oktay Sinanoğlu",
-        "Hulusi Behçet",
-        "Erdal İnönü",
-        "Aziz Sancar"
+        "Kel Mahmut",
+        "Külyutmaz Necmi",
+        "Şevket Hoca",
+        "Paşa Nuri",
+        "Badi Ekrem"
       ],
       "correct": 4
     }
