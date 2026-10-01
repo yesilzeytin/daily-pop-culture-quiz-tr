@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Harry Potter evreninde 'Ölüm Yadigârları'nı oluşturan üç efsanevi nesne; Mürver Asa, Görünmezlik Pelerini ve aşağıdakilerden hangisidir?",
+      "question": "\"Buz Devri\" (Ice Age) animasyon serisinde, sürekli bir meşe palamudunun peşinden koşarken dünyayı türlü felaketlere ve kıtaların ayrılmasına sürükleyen kılıç dişli sincabın adı nedir?",
       "options": [
-        "Diriltme Taşı",
-        "Felsefe Taşı",
-        "Ateş Kadehi",
-        "Gryffindor'un Kılıcı",
-        "Ravenclaw'ın Diademi"
+        "Scrat",
+        "Sid",
+        "Diego",
+        "Buck",
+        "Manny"
       ],
       "correct": 0
     },
     {
-      "question": "The Witcher evreninde (kitap, oyun ve dizi) ana karakter Geralt of Rivia ve akıl hocası Vesemir'in bağlı olduğu, Kaer Morhen kalesini mesken tutan efsanevi okul hangisidir?",
+      "question": "2002 yılında \"İki Kere Kiki\" programının canlı yayınında Hande Ataizi ile tartışıp \"Ne dedin sen?\" diyerek tokat atmasıyla Türk magazin tarihinin en unutulmaz anlarından birine imza atan isim kimdir?",
       "options": [
-        "Kedi Okulu",
-        "Kurt Okulu",
-        "Ayı Okulu",
-        "Engerek Okulu",
-        "Grifon Okulu"
+        "Tuğba Özay",
+        "Sevda Demirel",
+        "Ebru Şallı",
+        "Gizem Özdilli",
+        "Aysun Kayacı"
       ],
       "correct": 1
     },
     {
-      "question": "2002 FIFA Dünya Kupası üçüncülük maçında Güney Kore'ye karşı maçın 11. saniyesinde fileleri havalandırarak FIFA Dünya Kupası tarihinin en erken golünü atan Türk millî futbolcu kimdir?",
+      "question": "Cartoon Network'ün popüler çizgi dizisi \"Sürekli Dizi\"de (Regular Show), Mordecai ve Rigby'nin çalıştığı parkın yöneticisi olan ve sinirlendiğinde camı kızaran sakız makinesi karakterin adı nedir?",
       "options": [
-        "İlhan Mansız",
-        "Nihat Kahveci",
-        "Hakan Şükür",
-        "Hasan Şaş",
-        "Yıldıray Baştürk"
+        "Skips",
+        "Pops",
+        "Benson",
+        "Kas Adam",
+        "Thomas"
       ],
       "correct": 2
     },
     {
-      "question": "İnternet mizahında 'much wow', 'so scare' gibi ifadelerle süslenen ve sonrasında popüler bir kripto paraya da ilham kaynağı olan tarihi 'Doge' meminde (caps) yer alan köpeğin ırkı nedir?",
+      "question": "2017 yılında 44. Altın Kelebek Ödülleri'nde \"En İyi YouTuber\" ödülünü kazanan ancak paylaştığı bazı içerikler gerekçe gösterilerek ödülü jüri kararıyla geri alınan YouTuber kimdir?",
       "options": [
-        "Pug",
-        "Golden Retriever",
-        "Fransız Buldoğu",
-        "Shiba Inu",
-        "Beagle"
+        "Kafalar",
+        "Reynmen",
+        "Orkun Işıtmak",
+        "Enes Batur",
+        "Ruhi Çenet"
       ],
       "correct": 3
     },
     {
-      "question": "Ertem Eğilmez'in yönettiği efsanevi 'Hababam Sınıfı' film serisinde, usta aktör Şener Şen'in canlandırdığı kırmızı eşofmanlı unutulmaz beden eğitimi öğretmeninin adı nedir?",
+      "question": "2020 Tokyo Olimpiyat Oyunları'nda klasik yay bireysel kategorisinde şampiyon olarak Türkiye'ye okçuluk branşındaki ilk olimpiyat altın madalyasını kazandıran millî sporcu kimdir?",
       "options": [
-        "Kel Mahmut",
-        "Külyutmaz Necmi",
-        "Şevket Hoca",
-        "Paşa Nuri",
-        "Badi Ekrem"
+        "Rıza Kayaalp",
+        "Ferhat Arıcan",
+        "Eray Şamdan",
+        "Taha Akgül",
+        "Mete Gazoz"
       ],
       "correct": 4
     }
