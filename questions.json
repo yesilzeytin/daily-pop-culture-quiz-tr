@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "\"Buz Devri\" (Ice Age) animasyon serisinde, sürekli bir meşe palamudunun peşinden koşarken dünyayı türlü felaketlere ve kıtaların ayrılmasına sürükleyen kılıç dişli sincabın adı nedir?",
+      "question": "1978 yapımı efsane Yeşilçam filmi \"Neşeli Günler\"de, Kazım Efendi (Münir Özkul) ile Saadet Hanım'ın (Adile Naşit) inatlaşarak boşanmalarına yol açan meşhur tartışma konusu nedir?",
       "options": [
-        "Scrat",
-        "Sid",
-        "Diego",
-        "Buck",
-        "Manny"
+        "Turşunun limonla mı yoksa sirkeyle mi daha iyi yapılacağı",
+        "Menemenin soğanlı mı soğansız mı olacağı",
+        "Kuru fasulyenin etli mi sade mi pişirileceği",
+        "Çayın deminin berrak mı koyu mu olacağı",
+        "Köftenin ekmek içiyle mi galeta unuyla mı yoğrulacağı"
       ],
       "correct": 0
     },
     {
-      "question": "2002 yılında \"İki Kere Kiki\" programının canlı yayınında Hande Ataizi ile tartışıp \"Ne dedin sen?\" diyerek tokat atmasıyla Türk magazin tarihinin en unutulmaz anlarından birine imza atan isim kimdir?",
+      "question": "Harry Potter evreninde Hogwarts Cadılık ve Büyücülük Okulu'na yeni başlayan öğrencilerin yetenek ve karakterlerine göre hangi binaya gideceğini belirleyen bilinçli büyülü nesne hangisidir?",
       "options": [
-        "Tuğba Özay",
-        "Sevda Demirel",
-        "Ebru Şallı",
-        "Gizem Özdilli",
-        "Aysun Kayacı"
+        "Kelid Aynası",
+        "Seçmen Şapka",
+        "Çapulcu Haritası",
+        "Düşünseli",
+        "Ateş Kadehi"
       ],
       "correct": 1
     },
     {
-      "question": "Cartoon Network'ün popüler çizgi dizisi \"Sürekli Dizi\"de (Regular Show), Mordecai ve Rigby'nin çalıştığı parkın yöneticisi olan ve sinirlendiğinde camı kızaran sakız makinesi karakterin adı nedir?",
+      "question": "DC Genişletilmiş Evreni'nde (DCEU) \"Wonder Woman\" (Diana Prince) karakterine hayat vererek dünya çapında büyük bir üne kavuşan oyuncu kimdir?",
       "options": [
-        "Skips",
-        "Pops",
-        "Benson",
-        "Kas Adam",
-        "Thomas"
+        "Margot Robbie",
+        "Scarlett Johansson",
+        "Gal Gadot",
+        "Anne Hathaway",
+        "Amber Heard"
       ],
       "correct": 2
     },
     {
-      "question": "2017 yılında 44. Altın Kelebek Ödülleri'nde \"En İyi YouTuber\" ödülünü kazanan ancak paylaştığı bazı içerikler gerekçe gösterilerek ödülü jüri kararıyla geri alınan YouTuber kimdir?",
+      "question": "Kurtuluş Savaşı sırasında Mustafa Kemal Paşa'nın \"Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır.\" tarihi emrini verdiği 22 gün 22 gece süren meydan savaşı hangisidir?",
       "options": [
-        "Kafalar",
-        "Reynmen",
-        "Orkun Işıtmak",
-        "Enes Batur",
-        "Ruhi Çenet"
+        "I. İnönü Muharebesi",
+        "II. İnönü Muharebesi",
+        "Kütahya-Eskişehir Muharebeleri",
+        "Sakarya Meydan Muharebesi",
+        "Başkomutanlık Meydan Muharebesi"
       ],
       "correct": 3
     },
     {
-      "question": "2020 Tokyo Olimpiyat Oyunları'nda klasik yay bireysel kategorisinde şampiyon olarak Türkiye'ye okçuluk branşındaki ilk olimpiyat altın madalyasını kazandıran millî sporcu kimdir?",
+      "question": "Soğuk Savaş döneminde hem bölünmüş Almanya'nın hem de Doğu Bloku'nun en belirgin simgelerinden biri kabul edilen Berlin Duvarı hangi yıl yıkılmıştır?",
       "options": [
-        "Rıza Kayaalp",
-        "Ferhat Arıcan",
-        "Eray Şamdan",
-        "Taha Akgül",
-        "Mete Gazoz"
+        "1985",
+        "1991",
+        "1987",
+        "1993",
+        "1989"
       ],
       "correct": 4
     }
