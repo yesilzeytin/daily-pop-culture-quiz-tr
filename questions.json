@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "1978 yapımı efsane Yeşilçam filmi \"Neşeli Günler\"de, Kazım Efendi (Münir Özkul) ile Saadet Hanım'ın (Adile Naşit) inatlaşarak boşanmalarına yol açan meşhur tartışma konusu nedir?",
+      "question": "\"Game of Thrones\" dizisinde, Piçler Savaşı'nın ardından \"Kuzey'deki Kral\" ilan edilen ve gerçek kimliğinin aslında Lyanna Stark ile Rhaegar Targaryen'ın oğlu Aegon Targaryen olduğu ortaya çıkan karakter kimdir?",
       "options": [
-        "Turşunun limonla mı yoksa sirkeyle mi daha iyi yapılacağı",
-        "Menemenin soğanlı mı soğansız mı olacağı",
-        "Kuru fasulyenin etli mi sade mi pişirileceği",
-        "Çayın deminin berrak mı koyu mu olacağı",
-        "Köftenin ekmek içiyle mi galeta unuyla mı yoğrulacağı"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Harry Potter evreninde Hogwarts Cadılık ve Büyücülük Okulu'na yeni başlayan öğrencilerin yetenek ve karakterlerine göre hangi binaya gideceğini belirleyen bilinçli büyülü nesne hangisidir?",
-      "options": [
-        "Kelid Aynası",
-        "Seçmen Şapka",
-        "Çapulcu Haritası",
-        "Düşünseli",
-        "Ateş Kadehi"
+        "Robb Stark",
+        "Jon Snow",
+        "Theon Greyjoy",
+        "Bran Stark",
+        "Joffrey Baratheon"
       ],
       "correct": 1
     },
     {
-      "question": "DC Genişletilmiş Evreni'nde (DCEU) \"Wonder Woman\" (Diana Prince) karakterine hayat vererek dünya çapında büyük bir üne kavuşan oyuncu kimdir?",
+      "question": "Netflix'in dünya çapında rekorlar kıran Güney Kore yapımı dizisi \"Squid Game\"in ilk bölümünde, 456 yarışmacının dev bir animatronik oyuncak bebeğin gözetiminde oynadığı ölümcül ilk oyun hangisidir?",
       "options": [
-        "Margot Robbie",
-        "Scarlett Johansson",
-        "Gal Gadot",
-        "Anne Hathaway",
-        "Amber Heard"
+        "Dalgona şekeri oyunu",
+        "Halat çekme",
+        "Misket oyunu",
+        "Cam köprü yürüyüşü",
+        "Kırmızı Işık, Yeşil Işık"
       ],
-      "correct": 2
+      "correct": 4
     },
     {
-      "question": "Kurtuluş Savaşı sırasında Mustafa Kemal Paşa'nın \"Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır.\" tarihi emrini verdiği 22 gün 22 gece süren meydan savaşı hangisidir?",
+      "question": "Anadolu Efes, 2020-2021 ve 2021-2022 sezonlarında üst üste iki kez EuroLeague şampiyonluğuna ulaşırken her iki organizasyonda da Dörtlü Final'in En Değerli Oyuncusu (Final Four MVP) seçilen Sırp basketbolcu kimdir?",
       "options": [
-        "I. İnönü Muharebesi",
-        "II. İnönü Muharebesi",
-        "Kütahya-Eskişehir Muharebeleri",
-        "Sakarya Meydan Muharebesi",
-        "Başkomutanlık Meydan Muharebesi"
+        "Vasilije Micić",
+        "Shane Larkin",
+        "Krunoslav Simon",
+        "Bryant Dunston",
+        "Miloš Teodosić"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Şubat 2023'te oynanan karşılaşmada attığı basketle, efsanevi Kareem Abdul-Jabbar'ın yaklaşık 39 yıllık rekorunu tarihe gömerek NBA tarihinin tüm zamanlar en skorer oyuncusu unvanını ele geçiren yıldız basketbolcu kimdir?",
+      "options": [
+        "Kobe Bryant",
+        "Michael Jordan",
+        "Kevin Durant",
+        "LeBron James",
+        "Stephen Curry"
       ],
       "correct": 3
     },
     {
-      "question": "Soğuk Savaş döneminde hem bölünmüş Almanya'nın hem de Doğu Bloku'nun en belirgin simgelerinden biri kabul edilen Berlin Duvarı hangi yıl yıkılmıştır?",
+      "question": "Megastar Tarkan'ın 1997 yılında yayımlanan; içerisinde dünya çapında hit olan \"Şımarık\"ın yanı sıra \"Kır Zincirlerini\" ve \"İnci Tanem\" gibi klasikleşmiş parçaların da yer aldığı üçüncü stüdyo albümü hangisidir?",
       "options": [
-        "1985",
-        "1991",
-        "1987",
-        "1993",
-        "1989"
+        "Yine Sensiz",
+        "A-Acayipsin",
+        "Ölürüm Sana",
+        "Karma",
+        "Dudu"
       ],
-      "correct": 4
+      "correct": 2
     }
   ]
 }
