@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "\"Game of Thrones\" dizisinde, Piçler Savaşı'nın ardından \"Kuzey'deki Kral\" ilan edilen ve gerçek kimliğinin aslında Lyanna Stark ile Rhaegar Targaryen'ın oğlu Aegon Targaryen olduğu ortaya çıkan karakter kimdir?",
+      "question": "Netflix'in dünya çapında fenomene dönüşen dizisi 'Stranger Things'te, Hawkins kasabasının altında yer alan; canavarların ve karanlık güçlerin barındığı tekinsiz paralel boyuta ne ad verilir?",
       "options": [
-        "Robb Stark",
-        "Jon Snow",
-        "Theon Greyjoy",
-        "Bran Stark",
-        "Joffrey Baratheon"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Netflix'in dünya çapında rekorlar kıran Güney Kore yapımı dizisi \"Squid Game\"in ilk bölümünde, 456 yarışmacının dev bir animatronik oyuncak bebeğin gözetiminde oynadığı ölümcül ilk oyun hangisidir?",
-      "options": [
-        "Dalgona şekeri oyunu",
-        "Halat çekme",
-        "Misket oyunu",
-        "Cam köprü yürüyüşü",
-        "Kırmızı Işık, Yeşil Işık"
-      ],
-      "correct": 4
-    },
-    {
-      "question": "Anadolu Efes, 2020-2021 ve 2021-2022 sezonlarında üst üste iki kez EuroLeague şampiyonluğuna ulaşırken her iki organizasyonda da Dörtlü Final'in En Değerli Oyuncusu (Final Four MVP) seçilen Sırp basketbolcu kimdir?",
-      "options": [
-        "Vasilije Micić",
-        "Shane Larkin",
-        "Krunoslav Simon",
-        "Bryant Dunston",
-        "Miloš Teodosić"
+        "The Upside Down (Baş Aşağı Dünya)",
+        "The Shadow Realm (Gölge Diyarı)",
+        "The Dark Aether (Karanlık Esir)",
+        "The Nether (Cehennem Boyutu)",
+        "The Void (Hiçlik)"
       ],
       "correct": 0
     },
     {
-      "question": "Şubat 2023'te oynanan karşılaşmada attığı basketle, efsanevi Kareem Abdul-Jabbar'ın yaklaşık 39 yıllık rekorunu tarihe gömerek NBA tarihinin tüm zamanlar en skorer oyuncusu unvanını ele geçiren yıldız basketbolcu kimdir?",
+      "question": "HBO'nun popüler uyarlama dizisi 'The Last of Us'ta, insanları saldırgan yaratıklara dönüştürerek medeniyetin çöküşüne yol açan beyin enfeksiyonu hangi mantar türünden kaynaklanmaktadır?",
       "options": [
-        "Kobe Bryant",
-        "Michael Jordan",
-        "Kevin Durant",
-        "LeBron James",
-        "Stephen Curry"
+        "Aspergillus",
+        "Cordyceps",
+        "Candida",
+        "Penicillium",
+        "Amanita"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "İnternet mizahında iki seçenek arasındaki tercihi göstermek için yıllardır kullanılan; ilk karede hoşnutsuz bir tavırla bir şeyi reddederken, ikinci karede diğer seçeneği gülümseyerek onaylayan ünlü rapçinin yer aldığı ikonik meme kime aittir?",
+      "options": [
+        "Snoop Dogg",
+        "Kanye West",
+        "Drake",
+        "Eminem",
+        "Travis Scott"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Marvel Sinematik Evreni'nde (MCU), 'Avengers: Infinity War' filminde Thor'un Thanos'u alt edebilmek için Nidavellir'de cüce kral Eitri'ye dövdürdüğü güçlü baltanın adı nedir?",
+      "options": [
+        "Gungnir",
+        "Hofund",
+        "Necrosword",
+        "Stormbreaker",
+        "Dragonfang"
       ],
       "correct": 3
     },
     {
-      "question": "Megastar Tarkan'ın 1997 yılında yayımlanan; içerisinde dünya çapında hit olan \"Şımarık\"ın yanı sıra \"Kır Zincirlerini\" ve \"İnci Tanem\" gibi klasikleşmiş parçaların da yer aldığı üçüncü stüdyo albümü hangisidir?",
+      "question": "Steven Spielberg'ün 1998 yapımı kült İkinci Dünya Savaşı filmi 'Er Ryan'ı Kurtarmak'ın (Saving Private Ryan) meşhur açılış sahnesi, Normandiya Çıkarması'nın en kanlı çatışmalarına sahne olan hangi kod adlı sahilde geçmektedir?",
       "options": [
-        "Yine Sensiz",
-        "A-Acayipsin",
-        "Ölürüm Sana",
-        "Karma",
-        "Dudu"
+        "Utah Sahili",
+        "Juno Sahili",
+        "Gold Sahili",
+        "Sword Sahili",
+        "Omaha Sahili"
       ],
-      "correct": 2
+      "correct": 4
     }
   ]
 }
