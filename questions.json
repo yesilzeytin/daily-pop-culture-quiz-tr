@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Netflix'in dünya çapında fenomene dönüşen dizisi 'Stranger Things'te, Hawkins kasabasının altında yer alan; canavarların ve karanlık güçlerin barındığı tekinsiz paralel boyuta ne ad verilir?",
+      "question": "Eiichiro Oda tarafından yaratılan popüler anime ve manga serisi 'One Piece'te ana karakter Monkey D. Luffy'nin vücuduna esneklik kazandıran Şeytan Meyvesi'nin orijinal adı nedir?",
       "options": [
-        "The Upside Down (Baş Aşağı Dünya)",
-        "The Shadow Realm (Gölge Diyarı)",
-        "The Dark Aether (Karanlık Esir)",
-        "The Nether (Cehennem Boyutu)",
-        "The Void (Hiçlik)"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "HBO'nun popüler uyarlama dizisi 'The Last of Us'ta, insanları saldırgan yaratıklara dönüştürerek medeniyetin çöküşüne yol açan beyin enfeksiyonu hangi mantar türünden kaynaklanmaktadır?",
-      "options": [
-        "Aspergillus",
-        "Cordyceps",
-        "Candida",
-        "Penicillium",
-        "Amanita"
+        "Mera Mera no Mi",
+        "Gomu Gomu no Mi",
+        "Ope Ope no Mi",
+        "Hito Hito no Mi",
+        "Gura Gura no Mi"
       ],
       "correct": 1
     },
     {
-      "question": "İnternet mizahında iki seçenek arasındaki tercihi göstermek için yıllardır kullanılan; ilk karede hoşnutsuz bir tavırla bir şeyi reddederken, ikinci karede diğer seçeneği gülümseyerek onaylayan ünlü rapçinin yer aldığı ikonik meme kime aittir?",
+      "question": "Galatasaray futbol takımı, 17 Mayıs 2000 tarihinde Kopenhag'daki Parken Stadyumu'nda oynanan UEFA Kupası finalinde hangi İngiliz kulübünü penaltılarla mağlup ederek kupayı müzesine götürmüştür?",
       "options": [
-        "Snoop Dogg",
-        "Kanye West",
-        "Drake",
-        "Eminem",
-        "Travis Scott"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Marvel Sinematik Evreni'nde (MCU), 'Avengers: Infinity War' filminde Thor'un Thanos'u alt edebilmek için Nidavellir'de cüce kral Eitri'ye dövdürdüğü güçlü baltanın adı nedir?",
-      "options": [
-        "Gungnir",
-        "Hofund",
-        "Necrosword",
-        "Stormbreaker",
-        "Dragonfang"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Steven Spielberg'ün 1998 yapımı kült İkinci Dünya Savaşı filmi 'Er Ryan'ı Kurtarmak'ın (Saving Private Ryan) meşhur açılış sahnesi, Normandiya Çıkarması'nın en kanlı çatışmalarına sahne olan hangi kod adlı sahilde geçmektedir?",
-      "options": [
-        "Utah Sahili",
-        "Juno Sahili",
-        "Gold Sahili",
-        "Sword Sahili",
-        "Omaha Sahili"
+        "Chelsea",
+        "Liverpool",
+        "Leeds United",
+        "Manchester United",
+        "Arsenal"
       ],
       "correct": 4
+    },
+    {
+      "question": "J.R.R. Tolkien'in 'Yüzüklerin Efendisi' üçlemesinde Tek Yüzük'ü yok etmek amacıyla yola çıkan Dokuzlar Heyeti'nde (Yüzük Kardeşliği) elfleri temsil eden karakter kimdir?",
+      "options": [
+        "Legolas",
+        "Elrond",
+        "Haldir",
+        "Glorfindel",
+        "Celeborn"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "2015 yılındaki Met Gala kırmızı halısında Rihanna'nın giydiği, sosyal medyada omlet ve pizzaya benzetilerek sayısız mizahi paylaşıma konu olan devasa sarı pelerinli elbisenin Çinli tasarımcısı kimdir?",
+      "options": [
+        "Vera Wang",
+        "Guo Pei",
+        "Alexander McQueen",
+        "Iris van Herpen",
+        "Zac Posen"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Twitter Türkiye'de kullanıcıların birbirlerinin profillerini inceleyip 'Buraya bir daha gelmem', 'Garsonlar çok ilgisizdi' gibi ifadelerle sanki bir restorana yorum yapıyormuş gibi tweet attığı popüler akım hangisidir?",
+      "options": [
+        "Tribün Tezahüratı Akımı",
+        "Google Maps / Mekan Puanlama Akımı",
+        "LinkedIn Ciddiyeti Akımı",
+        "Müfettiş Raporu Akımı",
+        "Vize Başvuru Formu Akımı"
+      ],
+      "correct": 1
     }
   ]
 }
