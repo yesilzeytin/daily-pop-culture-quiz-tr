@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Eiichiro Oda tarafından yaratılan popüler anime ve manga serisi 'One Piece'te ana karakter Monkey D. Luffy'nin vücuduna esneklik kazandıran Şeytan Meyvesi'nin orijinal adı nedir?",
+      "question": "Nickelodeon'un kült çizgi dizisi 'Avatar: Son Hava Bükücü'de (Avatar: The Last Airbender), Prens Zuko'nun yüzündeki ikonik yanık izi kiminle yaptığı Agni Kai düellosunun sonucunda meydana gelmiştir?",
       "options": [
-        "Mera Mera no Mi",
-        "Gomu Gomu no Mi",
-        "Ope Ope no Mi",
-        "Hito Hito no Mi",
-        "Gura Gura no Mi"
+        "Amcası Iroh",
+        "Babası Ateş Lordu Ozai",
+        "Kız kardeşi Azula",
+        "Komutan Zhao",
+        "Avatar Roku"
       ],
       "correct": 1
     },
     {
-      "question": "Galatasaray futbol takımı, 17 Mayıs 2000 tarihinde Kopenhag'daki Parken Stadyumu'nda oynanan UEFA Kupası finalinde hangi İngiliz kulübünü penaltılarla mağlup ederek kupayı müzesine götürmüştür?",
+      "question": "James Cameron'ın yönettiği ve dünya genelinde tüm zamanların en yüksek gişe hasılatına sahip filmi unvanını koruyan 'Avatar'da, mavi tenli Na'vi ırkının yaşadığı egzotik uydunun adı nedir?",
       "options": [
-        "Chelsea",
-        "Liverpool",
-        "Leeds United",
-        "Manchester United",
-        "Arsenal"
+        "Arrakis",
+        "Naboo",
+        "Cybertron",
+        "Pandora",
+        "Krypton"
       ],
-      "correct": 4
+      "correct": 3
     },
     {
-      "question": "J.R.R. Tolkien'in 'Yüzüklerin Efendisi' üçlemesinde Tek Yüzük'ü yok etmek amacıyla yola çıkan Dokuzlar Heyeti'nde (Yüzük Kardeşliği) elfleri temsil eden karakter kimdir?",
+      "question": "Mart 2018'de ünlü rapçi Drake ile canlı yayında Fortnite oynayarak 600 binin üzerinde anlık izleyiciye ulaşan ve Twitch'in ana akım popüler kültüre taşınmasında dönüm noktası olan yayıncı kimdir?",
       "options": [
-        "Legolas",
-        "Elrond",
-        "Haldir",
-        "Glorfindel",
-        "Celeborn"
+        "Ninja (Tyler Blevins)",
+        "Shroud (Michael Grzesiek)",
+        "xQc (Félix Lengyel)",
+        "Dr Disrespect (Herschel Beahm)",
+        "Tfue (Turner Tenney)"
       ],
       "correct": 0
     },
     {
-      "question": "2015 yılındaki Met Gala kırmızı halısında Rihanna'nın giydiği, sosyal medyada omlet ve pizzaya benzetilerek sayısız mizahi paylaşıma konu olan devasa sarı pelerinli elbisenin Çinli tasarımcısı kimdir?",
+      "question": "Nintendo tarafından 1989 yılında piyasaya sürülen, özellikle 'Tetris' oyunuyla yakaladığı muazzam başarı sayesinde taşınabilir oyun konsolu pazarında devrim yaratan ikonik cihaz hangisidir?",
       "options": [
-        "Vera Wang",
-        "Guo Pei",
-        "Alexander McQueen",
-        "Iris van Herpen",
-        "Zac Posen"
+        "Sega Game Gear",
+        "Atari Lynx",
+        "Game Boy",
+        "PlayStation Portable (PSP)",
+        "Neo Geo Pocket"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
-      "question": "Twitter Türkiye'de kullanıcıların birbirlerinin profillerini inceleyip 'Buraya bir daha gelmem', 'Garsonlar çok ilgisizdi' gibi ifadelerle sanki bir restorana yorum yapıyormuş gibi tweet attığı popüler akım hangisidir?",
+      "question": "League of Legends Dünya Şampiyonası (Worlds) tarihinde T1 takımıyla kazandığı çok sayıda şampiyonlukla espor tarihinin en iyisi (GOAT) kabul edilen ve 'Büyük Şeytan Kral' lakabıyla tanınan efsanevi esporcu kimdir?",
       "options": [
-        "Tribün Tezahüratı Akımı",
-        "Google Maps / Mekan Puanlama Akımı",
-        "LinkedIn Ciddiyeti Akımı",
-        "Müfettiş Raporu Akımı",
-        "Vize Başvuru Formu Akımı"
+        "ShowMaker (Heo Su)",
+        "Deft (Kim Hyuk-kyu)",
+        "Rookie (Song Eui-jin)",
+        "Caps (Rasmus Winther)",
+        "Faker (Lee Sang-hyeok)"
       ],
-      "correct": 1
+      "correct": 4
     }
   ]
 }
