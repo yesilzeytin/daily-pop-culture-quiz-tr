@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Nickelodeon'un kült çizgi dizisi 'Avatar: Son Hava Bükücü'de (Avatar: The Last Airbender), Prens Zuko'nun yüzündeki ikonik yanık izi kiminle yaptığı Agni Kai düellosunun sonucunda meydana gelmiştir?",
+      "question": "2018 ve 2019 yıllarında YouTube'da en çok aboneye sahip kanal unvanını korumak adına Hint müzik şirketi T-Series ile aylarca süren ve platform tarihinin en büyük abone yarışına (subscriber race) sahne olan İsveçli ünlü içerik üreticisi kimdir?",
       "options": [
-        "Amcası Iroh",
-        "Babası Ateş Lordu Ozai",
-        "Kız kardeşi Azula",
-        "Komutan Zhao",
-        "Avatar Roku"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "James Cameron'ın yönettiği ve dünya genelinde tüm zamanların en yüksek gişe hasılatına sahip filmi unvanını koruyan 'Avatar'da, mavi tenli Na'vi ırkının yaşadığı egzotik uydunun adı nedir?",
-      "options": [
-        "Arrakis",
-        "Naboo",
-        "Cybertron",
-        "Pandora",
-        "Krypton"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Mart 2018'de ünlü rapçi Drake ile canlı yayında Fortnite oynayarak 600 binin üzerinde anlık izleyiciye ulaşan ve Twitch'in ana akım popüler kültüre taşınmasında dönüm noktası olan yayıncı kimdir?",
-      "options": [
-        "Ninja (Tyler Blevins)",
-        "Shroud (Michael Grzesiek)",
-        "xQc (Félix Lengyel)",
-        "Dr Disrespect (Herschel Beahm)",
-        "Tfue (Turner Tenney)"
+        "PewDiePie (Felix Kjellberg)",
+        "MrBeast (Jimmy Donaldson)",
+        "Markiplier (Mark Fischbach)",
+        "Jacksepticeye (Seán McLoughlin)",
+        "DanTDM (Daniel Middleton)"
       ],
       "correct": 0
     },
     {
-      "question": "Nintendo tarafından 1989 yılında piyasaya sürülen, özellikle 'Tetris' oyunuyla yakaladığı muazzam başarı sayesinde taşınabilir oyun konsolu pazarında devrim yaratan ikonik cihaz hangisidir?",
+      "question": "Harry Potter evreninde serinin ana düşmanı olan ve büyücülük dünyasında dehşet saçan 'Karanlık Lord' Voldemort'un Hogwarts öğrencisiyken kullandığı gerçek doğum adı nedir?",
       "options": [
-        "Sega Game Gear",
-        "Atari Lynx",
-        "Game Boy",
-        "PlayStation Portable (PSP)",
-        "Neo Geo Pocket"
+        "Gellert Grindelwald",
+        "Tom Marvolo Riddle",
+        "Regulus Arcturus Black",
+        "Severus Tobias Snape",
+        "Barty Crouch Jr."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "İkinci Dünya Savaşı sırasında ABD, Birleşik Krallık ve Kanada ortaklığıyla yürütülen ve tarihteki ilk nükleer silahların geliştirilmesiyle sonuçlanan çok gizli askeri ve bilimsel projenin kod adı nedir?",
+      "options": [
+        "Apollo Projesi",
+        "Paperclip Harekâtı",
+        "Manhattan Projesi",
+        "Enigma Girişimi",
+        "Overlord Operasyonu"
       ],
       "correct": 2
     },
     {
-      "question": "League of Legends Dünya Şampiyonası (Worlds) tarihinde T1 takımıyla kazandığı çok sayıda şampiyonlukla espor tarihinin en iyisi (GOAT) kabul edilen ve 'Büyük Şeytan Kral' lakabıyla tanınan efsanevi esporcu kimdir?",
+      "question": "FIFA Dünya Kupası finalleri tarihinde çıktığı 24 maçta attığı toplam 16 golle turnuva tarihinin gelmiş geçmiş en çok gol atan futbolcusu (tüm zamanların en golcüsü) unvanına sahip Alman forvet kimdir?",
       "options": [
-        "ShowMaker (Heo Su)",
-        "Deft (Kim Hyuk-kyu)",
-        "Rookie (Song Eui-jin)",
-        "Caps (Rasmus Winther)",
-        "Faker (Lee Sang-hyeok)"
+        "Gerd Müller",
+        "Thomas Müller",
+        "Jürgen Klinsmann",
+        "Miroslav Klose",
+        "Karl-Heinz Rummenigge"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "2004 yılında bir itfaiye tatbikatı sırasında çekilen; arka planda yanan bir ev varken kameraya dönüp muzip ve tekinsiz bir tebessümle bakan küçük kızın yer aldığı küresel internet meme'ine ne ad verilir?",
+      "options": [
+        "Overly Attached Girlfriend",
+        "Scumbag Stacy",
+        "Bad Luck Brian",
+        "Success Kid",
+        "Disaster Girl (Felaket Kızı)"
       ],
       "correct": 4
     }
