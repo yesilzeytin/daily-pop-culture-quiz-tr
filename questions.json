@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "2018 ve 2019 yıllarında YouTube'da en çok aboneye sahip kanal unvanını korumak adına Hint müzik şirketi T-Series ile aylarca süren ve platform tarihinin en büyük abone yarışına (subscriber race) sahne olan İsveçli ünlü içerik üreticisi kimdir?",
+      "question": "18 Mart 1915 Çanakkale Deniz Zaferi'nde, boğazın karanlık sularına döşediği mayınlarla İtilaf Devletleri donanmasına ağır kayıplar verdirerek savaşın seyrini değiştiren tarihi Osmanlı mayın gemisi hangisidir?",
       "options": [
-        "PewDiePie (Felix Kjellberg)",
-        "MrBeast (Jimmy Donaldson)",
-        "Markiplier (Mark Fischbach)",
-        "Jacksepticeye (Seán McLoughlin)",
-        "DanTDM (Daniel Middleton)"
+        "Nusret",
+        "Muavenet-i Milliye",
+        "Hamidiye",
+        "Sultanhisar",
+        "Alemdar"
       ],
       "correct": 0
     },
     {
-      "question": "Harry Potter evreninde serinin ana düşmanı olan ve büyücülük dünyasında dehşet saçan 'Karanlık Lord' Voldemort'un Hogwarts öğrencisiyken kullandığı gerçek doğum adı nedir?",
+      "question": "\"Küçük siyah elbise\" konseptini kadın modasının vazgeçilmezi haline getiren ve kendi adını taşıyan \"No. 5\" parfümüyle 20. yüzyıl moda dünyasında devrim yaratan ikonik Fransız tasarımcı kimdir?",
       "options": [
-        "Gellert Grindelwald",
-        "Tom Marvolo Riddle",
-        "Regulus Arcturus Black",
-        "Severus Tobias Snape",
-        "Barty Crouch Jr."
+        "Christian Dior",
+        "Coco Chanel",
+        "Elsa Schiaparelli",
+        "Yves Saint Laurent",
+        "Jeanne Lanvin"
       ],
       "correct": 1
     },
     {
-      "question": "İkinci Dünya Savaşı sırasında ABD, Birleşik Krallık ve Kanada ortaklığıyla yürütülen ve tarihteki ilk nükleer silahların geliştirilmesiyle sonuçlanan çok gizli askeri ve bilimsel projenin kod adı nedir?",
+      "question": "Cem Yılmaz'ın 2004 yapımı kült bilimkurgu-komedi filmi \"G.O.R.A.\"da, uzay üssünden kaçış planı yaparken Arif'e destek olan \"Bob Marley Faruk\" karakterini hangi usta oyuncu canlandırmıştır?",
       "options": [
-        "Apollo Projesi",
-        "Paperclip Harekâtı",
-        "Manhattan Projesi",
-        "Enigma Girişimi",
-        "Overlord Operasyonu"
+        "Özkan Uğur",
+        "Ozan Güven",
+        "Rasim Öztekin",
+        "Şafak Sezer",
+        "Erdal Tosun"
       ],
       "correct": 2
     },
     {
-      "question": "FIFA Dünya Kupası finalleri tarihinde çıktığı 24 maçta attığı toplam 16 golle turnuva tarihinin gelmiş geçmiş en çok gol atan futbolcusu (tüm zamanların en golcüsü) unvanına sahip Alman forvet kimdir?",
+      "question": "James Cameron'ın gişe rekorları kıran 1997 yapımı \"Titanik\" (Titanic) filminde, Rose karakterinin taktığı ve tüm hikâyenin etrafında döndüğü kurgusal mavi elmas kolyenin adı nedir?",
       "options": [
-        "Gerd Müller",
-        "Thomas Müller",
-        "Jürgen Klinsmann",
-        "Miroslav Klose",
-        "Karl-Heinz Rummenigge"
+        "Umut Elması",
+        "Afrika Yıldızı",
+        "Krallık Gözü",
+        "Okyanusun Kalbi",
+        "Mavi Safir"
       ],
       "correct": 3
     },
     {
-      "question": "2004 yılında bir itfaiye tatbikatı sırasında çekilen; arka planda yanan bir ev varken kameraya dönüp muzip ve tekinsiz bir tebessümle bakan küçük kızın yer aldığı küresel internet meme'ine ne ad verilir?",
+      "question": "Ekim 1962'de Sovyetler Birliği'nin Karayipler'deki bir ada ülkesine gizlice nükleer başlıklı füzeler yerleştirmesiyle patlak veren ve Soğuk Savaş döneminde dünyayı nükleer savaşın eşiğine getiren tarihi kriz hangisidir?",
       "options": [
-        "Overly Attached Girlfriend",
-        "Scumbag Stacy",
-        "Bad Luck Brian",
-        "Success Kid",
-        "Disaster Girl (Felaket Kızı)"
+        "Süveyş Krizi",
+        "Berlin Ablukası",
+        "Domuzlar Körfezi Çıkarması",
+        "U-2 Krizi",
+        "Küba Füze Krizi"
       ],
       "correct": 4
     }
