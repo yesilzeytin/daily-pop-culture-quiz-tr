@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Nickelodeon'un efsanevi çizgi dizisi \"SüngerBob KareŞort\"ta (SpongeBob SquarePants), Yengeç Restoran'ın gizli burger formülünü ele geçirmek için durmaksızın planlar kuran \"Çöp Kovası\" restoranının sahibi kimdir?",
+      "question": "2008 yapımı ilk 'Recep İvedik' filminde Recep İvedik, yolda bulduğu kabarık cüzdanı zengin sahibine teslim etmek amacıyla İstanbul'dan hangi tatil kentine doğru maceralı bir yolculuğa çıkar?",
       "options": [
-        "Sheldon J. Plankton",
-        "Larry the Lobster",
-        "Squilliam Fancyson",
-        "Uçan Hollandalı",
-        "Barnacle Boy"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Güney Koreli zengin bir mirasçının yamaç paraşütü yaparken fırtınaya yakalanıp kaza eseri Kuzey Kore topraklarına iniş yapmasını ve burada bir yüzbaşıya âşık olmasını konu alan dünyaca ünlü K-drama hangisidir?",
-      "options": [
-        "Descendants of the Sun",
-        "Crash Landing on You",
-        "Itaewon Class",
-        "Goblin (Guardian: The Lonely and Great God)",
-        "Extraordinary Attorney Woo"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Cartoon Network'ün kült animasyon dizisi \"The Powerpuff Girls\"de Profesör Utonium'un şeker, baharat ve güzel olan her şeyle mükemmel kız çocuklarını yaratırken karışıma kazara döktüğü gizemli madde hangisidir?",
-      "options": [
-        "Mutajen",
-        "Z Bileşeni",
-        "Kimyasal X",
-        "Plütonyum 239",
-        "Formül 9"
+        "İzmir",
+        "Muğla",
+        "Antalya",
+        "Aydın",
+        "Çanakkale"
       ],
       "correct": 2
     },
     {
-      "question": "\"Survivor Türkiye\" yarışması tarihinde 2014 ve 2015 All-Star sezonlarında üst üste iki kez şampiyonluğa ulaşarak yarışma tarihine geçen isim kimdir?",
+      "question": "Toprak korttaki olağanüstü hâkimiyeti nedeniyle 'Toprak Ağası' (King of Clay) olarak anılan ve Fransa Açık (Roland Garros) tek erkekler şampiyonluğunu rekor kırarak tam 14 kez kazanan efsanevi İspanyol tenisçi kimdir?",
       "options": [
-        "Hilmi Cem İntepe",
-        "Adem Kılıççı",
-        "Ogeday Girişken",
-        "Turabi Çamkıran",
-        "Nihat Altınkaya"
+        "Roger Federer",
+        "Novak Djokovic",
+        "Carlos Alcaraz",
+        "Rafael Nadal",
+        "Andy Murray"
       ],
       "correct": 3
     },
     {
-      "question": "Britanya Kraliyet Ailesi'nde 2020 yılında eşi Meghan Markle ile birlikte kıdemli kraliyet görevlerinden çekilerek ABD'ye taşınan ve 2023 yılında \"Spare\" (Yedek) adlı sansasyonel anı kitabını yayımlayan Sussex Dükü kimdir?",
+      "question": "2009 MTV Video Müzik Ödülleri'nde Taylor Swift ödül konuşması yaparken sahneye fırlayıp mikrofonu alarak 'Beyoncé tüm zamanların en iyi videolarından birine imza attı!' çıkışıyla pop kültür tarihine geçen skandala imza atan ünlü rapçi kimdir?",
       "options": [
-        "Prens William",
-        "Prens Andrew",
-        "Prens Edward",
-        "Kral III. Charles",
-        "Prens Harry"
+        "Kanye West",
+        "Jay-Z",
+        "Eminem",
+        "Snoop Dogg",
+        "50 Cent"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "İkinci Dünya Savaşı sırasında Nazi Almanyası'nın Haziran 1941'de Sovyetler Birliği'ni istila etmek amacıyla başlattığı ve tarihin en geniş çaplı askeri kara harekâtı olan işgal planının kod adı nedir?",
+      "options": [
+        "Overlord Harekâtı",
+        "Valkür Harekâtı",
+        "Market Garden Harekâtı",
+        "Husky Harekâtı",
+        "Barbarossa Harekâtı"
       ],
       "correct": 4
+    },
+    {
+      "question": "Pekin 2008, Londra 2012 ve Rio 2016 Olimpiyatları'nda hem 100 metre hem de 200 metre yarışlarında üst üste altın madalya kazanarak tarihe geçen ve 100 metre dünya rekorunu (9.58) elinde tutan Jamaikalı efsanevi atlet kimdir?",
+      "options": [
+        "Carl Lewis",
+        "Usain Bolt",
+        "Asafa Powell",
+        "Justin Gatlin",
+        "Tyson Gay"
+      ],
+      "correct": 1
     }
   ]
 }
