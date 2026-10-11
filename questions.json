@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "2008 yapımı ilk 'Recep İvedik' filminde Recep İvedik, yolda bulduğu kabarık cüzdanı zengin sahibine teslim etmek amacıyla İstanbul'dan hangi tatil kentine doğru maceralı bir yolculuğa çıkar?",
+      "question": "2023 CEV Kadınlar Avrupa Voleybol Şampiyonası finalinde Sırbistan'ı 3-2 yenerek Türkiye'ye tarihindeki ilk Avrupa şampiyonluğunu kazandıran 'Filenin Sultanları'nda turnuvanın En Değerli Oyuncusu (MVP) seçilen milli voleybolcu kimdir?",
       "options": [
-        "İzmir",
-        "Muğla",
-        "Antalya",
-        "Aydın",
-        "Çanakkale"
+        "Eda Erdem Dündar",
+        "Zehra Güneş",
+        "Melissa Vargas",
+        "Ebrar Karakurt",
+        "Hande Baladın"
       ],
       "correct": 2
     },
     {
-      "question": "Toprak korttaki olağanüstü hâkimiyeti nedeniyle 'Toprak Ağası' (King of Clay) olarak anılan ve Fransa Açık (Roland Garros) tek erkekler şampiyonluğunu rekor kırarak tam 14 kez kazanan efsanevi İspanyol tenisçi kimdir?",
+      "question": "Survivor Türkiye'nin unutulmaz isimlerinden biri olan ve 'Survivor 2011: Ünlüler - Gönüllüler' sezonunda Taner Tolga Tarlacı ile olan diyalogları ve ada konseyindeki gerginlikleriyle yarışmanın ilk şampiyonu olan kişi kimdir?",
       "options": [
-        "Roger Federer",
-        "Novak Djokovic",
-        "Carlos Alcaraz",
-        "Rafael Nadal",
-        "Andy Murray"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "2009 MTV Video Müzik Ödülleri'nde Taylor Swift ödül konuşması yaparken sahneye fırlayıp mikrofonu alarak 'Beyoncé tüm zamanların en iyi videolarından birine imza attı!' çıkışıyla pop kültür tarihine geçen skandala imza atan ünlü rapçi kimdir?",
-      "options": [
-        "Kanye West",
-        "Jay-Z",
-        "Eminem",
-        "Snoop Dogg",
-        "50 Cent"
+        "Derya Büyükuncu",
+        "Nihat Altınkaya",
+        "Hilmi Cem İntepe",
+        "Cemal Can Canseven",
+        "Ogeday Girişken"
       ],
       "correct": 0
     },
     {
-      "question": "İkinci Dünya Savaşı sırasında Nazi Almanyası'nın Haziran 1941'de Sovyetler Birliği'ni istila etmek amacıyla başlattığı ve tarihin en geniş çaplı askeri kara harekâtı olan işgal planının kod adı nedir?",
+      "question": "1925 yılında Fransız hükümetine ait belgeler hazırlayarak kendisini bir devlet yetkilisi gibi tanıtan ve Eyfel Kulesi'ni metal tüccarlarına hurda demir olarak iki kez satmayı başaran ünlü dolandırıcı kimdir?",
       "options": [
-        "Overlord Harekâtı",
-        "Valkür Harekâtı",
-        "Market Garden Harekâtı",
-        "Husky Harekâtı",
-        "Barbarossa Harekâtı"
-      ],
-      "correct": 4
-    },
-    {
-      "question": "Pekin 2008, Londra 2012 ve Rio 2016 Olimpiyatları'nda hem 100 metre hem de 200 metre yarışlarında üst üste altın madalya kazanarak tarihe geçen ve 100 metre dünya rekorunu (9.58) elinde tutan Jamaikalı efsanevi atlet kimdir?",
-      "options": [
-        "Carl Lewis",
-        "Usain Bolt",
-        "Asafa Powell",
-        "Justin Gatlin",
-        "Tyson Gay"
+        "Charles Ponzi",
+        "Victor Lustig",
+        "Frank Abagnale",
+        "Bernard Madoff",
+        "George C. Parker"
       ],
       "correct": 1
+    },
+    {
+      "question": "Türk internet mizahında ve caps kültüründe kırmızı şeridin üzerine yazılan ve genellikle bir şeyi abartılı şekilde överken kullanılan 'Yapmışlar ama...' ile devam eden meşhur caps kalıbının açılış cümlesi hangisidir?",
+      "options": [
+        "İşte aradığım hizmet",
+        "Adamlar yapıyor abi",
+        "Yok artık dedirtti",
+        "Mizah şov devam ediyor",
+        "Buralar eskiden dutluktu"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Cartoon Network'ün popüler çizgi dizisi 'Dexter'ın Laboratuvarı'nda (Dexter's Laboratory), dahi çocuk Dexter'ın gizli laboratuvarına sürekli gizlice girip deneylerini ve icatlarını bozan balerin ablasının adı nedir?",
+      "options": [
+        "Dee Dee",
+        "Mandi",
+        "Bubbles",
+        "Olga",
+        "Gwen"
+      ],
+      "correct": 0
     }
   ]
 }
