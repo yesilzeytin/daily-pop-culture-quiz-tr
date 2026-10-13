@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "2023 CEV Kadınlar Avrupa Voleybol Şampiyonası finalinde Sırbistan'ı 3-2 yenerek Türkiye'ye tarihindeki ilk Avrupa şampiyonluğunu kazandıran 'Filenin Sultanları'nda turnuvanın En Değerli Oyuncusu (MVP) seçilen milli voleybolcu kimdir?",
+      "question": "PlayStation'ın efsanevi serisi God of War'ın 2018 yılında çıkan oyununda Kratos, Yunan mitolojisinden İskandinav mitolojisine geçerken ona hangi isimdeki oğlu eşlik etmektedir?",
       "options": [
-        "Eda Erdem Dündar",
-        "Zehra Güneş",
-        "Melissa Vargas",
-        "Ebrar Karakurt",
-        "Hande Baladın"
+        "Baldur",
+        "Atreus",
+        "Mimir",
+        "Sindri",
+        "Deimos"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Arabesk müziğin efsane ismi Müslüm Gürses'in 2006 yılında Murathan Mungan ile birlikte hazırladığı ve Sezen Aksu, Teoman, Tarkan gibi sanatçıların şarkılarını yeniden yorumladığı ikonik albüm hangisidir?",
+      "options": [
+        "Aşk Tesadüfleri Sever",
+        "Küstüm Aşklara",
+        "Sandık",
+        "Yalan Dünya",
+        "Mahsun Kul"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "2021 Met Gala kırmızı halısında baştan aşağı siyah bir Balenciaga tasarımıyla yüzünü ve tüm vücudunu tamamen kapatarak internette sayısız meme'e konu olan ünlü isim kimdir?",
+      "options": [
+        "Kylie Jenner",
+        "Doja Cat",
+        "Kim Kardashian",
+        "Billie Eilish",
+        "Lady Gaga"
       ],
       "correct": 2
     },
     {
-      "question": "Survivor Türkiye'nin unutulmaz isimlerinden biri olan ve 'Survivor 2011: Ünlüler - Gönüllüler' sezonunda Taner Tolga Tarlacı ile olan diyalogları ve ada konseyindeki gerginlikleriyle yarışmanın ilk şampiyonu olan kişi kimdir?",
+      "question": "2002 yapımı yarı otobiyografik '8 Mile' filminin soundtrack'i olan ve En İyi Özgün Şarkı Akademi (Oscar) Ödülü'nü kazanarak bunu başaran ilk hip-hop parçası olan Eminem şarkısı hangisidir?",
       "options": [
-        "Derya Büyükuncu",
-        "Nihat Altınkaya",
-        "Hilmi Cem İntepe",
-        "Cemal Can Canseven",
-        "Ogeday Girişken"
+        "Lose Yourself",
+        "Without Me",
+        "The Real Slim Shady",
+        "Stan",
+        "Mockingbird"
       ],
       "correct": 0
     },
     {
-      "question": "1925 yılında Fransız hükümetine ait belgeler hazırlayarak kendisini bir devlet yetkilisi gibi tanıtan ve Eyfel Kulesi'ni metal tüccarlarına hurda demir olarak iki kez satmayı başaran ünlü dolandırıcı kimdir?",
+      "question": "Naughty Dog tarafından geliştirilen Uncharted serisinin ana karakteri Nathan Drake'e serinin tüm ana oyunlarında akıl hocalığı ve yoldaşlık yapan 'Sully' lakaplı karakterin tam adı nedir?",
       "options": [
-        "Charles Ponzi",
-        "Victor Lustig",
-        "Frank Abagnale",
-        "Bernard Madoff",
-        "George C. Parker"
+        "Samuel Drake",
+        "Victor Sullivan",
+        "Harry Flynn",
+        "Gabriel Roman",
+        "Charlie Cutter"
       ],
       "correct": 1
-    },
-    {
-      "question": "Türk internet mizahında ve caps kültüründe kırmızı şeridin üzerine yazılan ve genellikle bir şeyi abartılı şekilde överken kullanılan 'Yapmışlar ama...' ile devam eden meşhur caps kalıbının açılış cümlesi hangisidir?",
-      "options": [
-        "İşte aradığım hizmet",
-        "Adamlar yapıyor abi",
-        "Yok artık dedirtti",
-        "Mizah şov devam ediyor",
-        "Buralar eskiden dutluktu"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Cartoon Network'ün popüler çizgi dizisi 'Dexter'ın Laboratuvarı'nda (Dexter's Laboratory), dahi çocuk Dexter'ın gizli laboratuvarına sürekli gizlice girip deneylerini ve icatlarını bozan balerin ablasının adı nedir?",
-      "options": [
-        "Dee Dee",
-        "Mandi",
-        "Bubbles",
-        "Olga",
-        "Gwen"
-      ],
-      "correct": 0
     }
   ]
 }
