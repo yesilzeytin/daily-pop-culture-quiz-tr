@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "PlayStation'ın efsanevi serisi God of War'ın 2018 yılında çıkan oyununda Kratos, Yunan mitolojisinden İskandinav mitolojisine geçerken ona hangi isimdeki oğlu eşlik etmektedir?",
+      "question": "Fenerbahçe Erkek Basketbol Takımı, 2016-2017 sezonunda EuroLeague şampiyonluğuna ulaşarak Türkiye tarihinin ilk EuroLeague kupasını kazandığında takımın başantrenörü kimdi?",
       "options": [
-        "Baldur",
-        "Atreus",
-        "Mimir",
-        "Sindri",
-        "Deimos"
+        "Ergin Ataman",
+        "Željko Obradović",
+        "Sarunas Jasikevicius",
+        "Dimitris Itoudis",
+        "Neven Spahija"
       ],
       "correct": 1
     },
     {
-      "question": "Arabesk müziğin efsane ismi Müslüm Gürses'in 2006 yılında Murathan Mungan ile birlikte hazırladığı ve Sezen Aksu, Teoman, Tarkan gibi sanatçıların şarkılarını yeniden yorumladığı ikonik albüm hangisidir?",
+      "question": "2006 FIFA Dünya Kupası finalinde, İtalyan savunma oyuncusu Marco Materazzi'ye attığı meşhur kafa darbesiyle kırmızı kart görerek kariyerini noktalayan efsanevi Fransız futbolcu kimdir?",
       "options": [
-        "Aşk Tesadüfleri Sever",
-        "Küstüm Aşklara",
-        "Sandık",
-        "Yalan Dünya",
-        "Mahsun Kul"
+        "Thierry Henry",
+        "Zinedine Zidane",
+        "Patrick Vieira",
+        "Franck Ribéry",
+        "David Trezeguet"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
-      "question": "2021 Met Gala kırmızı halısında baştan aşağı siyah bir Balenciaga tasarımıyla yüzünü ve tüm vücudunu tamamen kapatarak internette sayısız meme'e konu olan ünlü isim kimdir?",
+      "question": "Formula 1 kariyerinde elde ettiği 7 dünya şampiyonluğuyla Michael Schumacher'in rekoruna ortak olan ve 100'ün üzerinde yarış galibiyeti bulunan Büyük Britanyalı pilot kimdir?",
       "options": [
-        "Kylie Jenner",
-        "Doja Cat",
-        "Kim Kardashian",
-        "Billie Eilish",
-        "Lady Gaga"
+        "Sebastian Vettel",
+        "Max Verstappen",
+        "Lewis Hamilton",
+        "Lando Norris",
+        "Fernando Alonso"
       ],
       "correct": 2
     },
     {
-      "question": "2002 yapımı yarı otobiyografik '8 Mile' filminin soundtrack'i olan ve En İyi Özgün Şarkı Akademi (Oscar) Ödülü'nü kazanarak bunu başaran ilk hip-hop parçası olan Eminem şarkısı hangisidir?",
+      "question": "Şahan Gökbakar'ın gişe rekorları kıran komedi filmi 'Recep İvedik 2'de Recep İvedik'e bir dizi zorlu görev veren ve ölüm döşeğindeki istekleriyle olayları başlatan aile büyüğü kimdir?",
       "options": [
-        "Lose Yourself",
-        "Without Me",
-        "The Real Slim Shady",
-        "Stan",
-        "Mockingbird"
+        "Recep'in Babaannesi",
+        "Recep'in Annesi",
+        "Recep'in Halası",
+        "Recep'in Dedesi",
+        "Recep'in Teyzesi"
       ],
       "correct": 0
     },
     {
-      "question": "Naughty Dog tarafından geliştirilen Uncharted serisinin ana karakteri Nathan Drake'e serinin tüm ana oyunlarında akıl hocalığı ve yoldaşlık yapan 'Sully' lakaplı karakterin tam adı nedir?",
+      "question": "Instagram'da kendine has tuz serpme (salt bae) hareketiyle küresel çapta viral olarak dünya çapında restoran zinciri açan ve bir internet fenomenine dönüşen Türk kasap ve işletmeci kimdir?",
       "options": [
-        "Samuel Drake",
-        "Victor Sullivan",
-        "Harry Flynn",
-        "Gabriel Roman",
-        "Charlie Cutter"
+        "CZN Burak (Burak Özdemir)",
+        "Nusret Gökçe",
+        "Danilo Zanna",
+        "Somer Sivrioğlu",
+        "Barut Barlas"
       ],
       "correct": 1
     }
