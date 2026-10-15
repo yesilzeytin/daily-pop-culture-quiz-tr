@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Fenerbahçe Erkek Basketbol Takımı, 2016-2017 sezonunda EuroLeague şampiyonluğuna ulaşarak Türkiye tarihinin ilk EuroLeague kupasını kazandığında takımın başantrenörü kimdi?",
+      "question": "Disney Channel'ın sevilen çizgi dizisi 'Fineas ve Förb'de (Phineas and Ferb), kardeşlerin evcil ornitorengi Perry'nin gizli ajan olarak sürekli planlarını bozduğu çılgın bilim insanı kimdir?",
       "options": [
-        "Ergin Ataman",
-        "Željko Obradović",
-        "Sarunas Jasikevicius",
-        "Dimitris Itoudis",
-        "Neven Spahija"
+        "Profesör Farnsworth",
+        "Doktor Heinz Doofenshmirtz",
+        "Bill Cipher",
+        "Doktor Drakken",
+        "Profesör Poopypants"
       ],
       "correct": 1
     },
     {
-      "question": "2006 FIFA Dünya Kupası finalinde, İtalyan savunma oyuncusu Marco Materazzi'ye attığı meşhur kafa darbesiyle kırmızı kart görerek kariyerini noktalayan efsanevi Fransız futbolcu kimdir?",
+      "question": "Türk rock grubu maNga, 'We Could Be the Same' adlı parçasıyla katıldığı 2010 Eurovision Şarkı Yarışması'nda Türkiye'ye hangi dereceyi kazandırmıştır?",
       "options": [
-        "Thierry Henry",
-        "Zinedine Zidane",
-        "Patrick Vieira",
-        "Franck Ribéry",
-        "David Trezeguet"
+        "Birincilik",
+        "Üçüncülük",
+        "Dördüncülük",
+        "İkincilik",
+        "Beşincilik"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
-      "question": "Formula 1 kariyerinde elde ettiği 7 dünya şampiyonluğuyla Michael Schumacher'in rekoruna ortak olan ve 100'ün üzerinde yarış galibiyeti bulunan Büyük Britanyalı pilot kimdir?",
+      "question": "CS:GO espor tarihinde bir Major turnuvası (Boston 2018) kazanan tek Türk asıllı oyuncu olan ve 'XANTARES' ile birlikte Eternal Fire'ın da temelini atan ünlü esporcu kimdir?",
       "options": [
-        "Sebastian Vettel",
-        "Max Verstappen",
-        "Lewis Hamilton",
-        "Lando Norris",
-        "Fernando Alonso"
+        "woxic (Özgür Eker)",
+        "pashaBiceps (Jarosław Jarząbkowski)",
+        "tarik (Tarık Çelik)",
+        "smooya (Owen Butterfield)",
+        "Calyx (Buğra Arkın)"
       ],
       "correct": 2
     },
     {
-      "question": "Şahan Gökbakar'ın gişe rekorları kıran komedi filmi 'Recep İvedik 2'de Recep İvedik'e bir dizi zorlu görev veren ve ölüm döşeğindeki istekleriyle olayları başlatan aile büyüğü kimdir?",
+      "question": "2020 Tokyo Olimpiyat Oyunları'nda klasik yay bireysel kategorisinde şampiyon olarak Türkiye'ye okçuluk tarihindeki ilk olimpiyat altın madalyasını kazandıran sporcu kimdir?",
       "options": [
-        "Recep'in Babaannesi",
-        "Recep'in Annesi",
-        "Recep'in Halası",
-        "Recep'in Dedesi",
-        "Recep'in Teyzesi"
+        "Mete Gazoz",
+        "Ulaş Berkim Tümer",
+        "Muhammed Abdullah Yıldırmış",
+        "Fatih Arda İpcioğlu",
+        "Eray Şamdan"
       ],
       "correct": 0
     },
     {
-      "question": "Instagram'da kendine has tuz serpme (salt bae) hareketiyle küresel çapta viral olarak dünya çapında restoran zinciri açan ve bir internet fenomenine dönüşen Türk kasap ve işletmeci kimdir?",
+      "question": "J.R.R. Tolkien'in 'Yüzüklerin Efendisi' evreninde, Aragorn'un krallık hakkını simgeleyen ve Elendil'in kırılan kılıcı Narsil'in parçalarından Rivendell'de yeniden dövülen efsanevi kılıcın adı nedir?",
       "options": [
-        "CZN Burak (Burak Özdemir)",
-        "Nusret Gökçe",
-        "Danilo Zanna",
-        "Somer Sivrioğlu",
-        "Barut Barlas"
+        "Glamdring",
+        "Sting (İğne)",
+        "Orcrist",
+        "Gurthang",
+        "Andúril"
       ],
-      "correct": 1
+      "correct": 4
     }
   ]
 }
