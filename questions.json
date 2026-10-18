@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Marvel Sinematik Evreni'nin gişe rekortmeni filmleri 'Avengers: Infinity War' ve 'Avengers: Endgame'de, Thanos'un elde etmek için Vormir gezegeninde en çok sevdiği varlığı feda etmek zorunda kaldığı Sonsuzluk Taşı hangisidir?",
+      "question": "NBA tarihinde 38.387 sayıyla efsanevi Kareem Abdul-Jabbar'a ait olan 'tüm zamanların en çok sayı atan oyuncusu' rekorunu Şubat 2023'te kırarak tarihe geçen basketbolcu kimdir?",
       "options": [
-        "Gerçeklik Taşı",
-        "Güç Taşı",
-        "Ruh Taşı",
-        "Uzay Taşı",
-        "Zaman Taşı"
+        "Stephen Curry",
+        "Kevin Durant",
+        "Kobe Bryant",
+        "LeBron James",
+        "Shaquille O'Neal"
       ],
-      "correct": 2
+      "correct": 3
     },
     {
-      "question": "2016 Avrupa Futbol Şampiyonası (EURO 2016) finalinde ev sahibi Fransa'yı uzatma dakikalarında attığı golle 1-0 mağlup ederek Portekiz'e tarihindeki ilk Avrupa şampiyonluğunu kazandıran futbolcu kimdir?",
+      "question": "Pixar ve Disney ortaklığıyla 1995 yılında vizyona giren, Şerif Woody ve Buzz Lightyear'ın maceralarını konu alarak sinema tarihinin tamamen bilgisayarla üretilen ilk uzun metrajlı animasyon filmi unvanını alan yapım hangisidir?",
       "options": [
-        "Ricardo Quaresma",
-        "Renato Sanches",
-        "Nani",
-        "Cristiano Ronaldo",
-        "Éder"
-      ],
-      "correct": 4
-    },
-    {
-      "question": "Mart 2023'te aralıksız 30 gün boyunca sürdürdüğü 'subathon' canlı yayınıyla 300 bini aşkın aboneye ulaşarak Twitch tarihinin en yüksek ücretli abone rekorunu kıran popüler yayıncı kimdir?",
-      "options": [
-        "Kai Cenat",
-        "xQc",
-        "Ludwig",
-        "HasanAbi",
-        "Mizkif"
+        "Oyuncak Hikâyesi (Toy Story)",
+        "Sevimli Canavarlar (Monsters, Inc.)",
+        "Bir Böceğin Yaşamı (A Bug's Life)",
+        "Kayıp Balık Nemo (Finding Nemo)",
+        "Arabalar (Cars)"
       ],
       "correct": 0
     },
     {
-      "question": "2020 Grammy Ödülleri'nde 'Yılın Albümü', 'Yılın Kaydı', 'Yılın Şarkısı' ve 'En İyi Yeni Sanatçı' olmak üzere dört büyük kategorinin tamamını birden kazanan Billie Eilish'in ilk stüdyo albümü hangisidir?",
+      "question": "23 Nisan 2005 tarihinde YouTube platformuna yüklenen ve sitenin kurucularından Jawed Karim'in fillerin önünde konuştuğu YouTube tarihinin ilk videosunun adı nedir?",
       "options": [
-        "Happier Than Ever",
-        "When We All Fall Asleep, Where Do We Go?",
-        "Don't Smile at Me",
-        "Hit Me Hard and Soft",
-        "Melodrama"
+        "Hello World",
+        "Welcome to YouTube",
+        "Me at the zoo",
+        "The First Video",
+        "Animals in San Diego"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türk Kadın Voleybol Milli Takımı'nın (Filenin Sultanları) 2023 yılında hem FIVB Milletler Ligi (VNL) hem de Avrupa Şampiyonası'nda altın madalya kazanarak dünya 1 numarasına yükseldiği tarihi sezonda takımın başında yer alan İtalyan başantrenör kimdir?",
+      "options": [
+        "Giovanni Guidetti",
+        "Daniele Santarelli",
+        "Massimo Barbolini",
+        "Stefano Lavarini",
+        "Marco Aurelio Motta"
       ],
       "correct": 1
     },
     {
-      "question": "Nickelodeon'un sevilen animasyon dizisi 'Ailem Bir Acayip'te (The Fairly OddParents), ana karakter Timmy Turner'ın dileklerini yerine getiren yeşil ve pembe saçlı peri ebeveynlerinin adları nedir?",
+      "question": "Modern Olimpiyat Oyunları tarihinde 23'ü altın olmak üzere kazandığı toplam 28 madalya ile tüm zamanların en çok olimpiyat madalyasına sahip sporcusu unvanını elinde bulunduran efsanevi yüzücü kimdir?",
       "options": [
-        "Mordecai ve Rigby",
-        "Billy ve Mandy",
-        "Finn ve Jake",
-        "Cosmo ve Wanda",
-        "Phineas ve Ferb"
+        "Mark Spitz",
+        "Ian Thorpe",
+        "Ryan Lochte",
+        "Caeleb Dressel",
+        "Michael Phelps"
       ],
-      "correct": 3
+      "correct": 4
     }
   ]
 }
