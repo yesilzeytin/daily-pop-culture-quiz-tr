@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "NBA tarihinde 38.387 sayıyla efsanevi Kareem Abdul-Jabbar'a ait olan 'tüm zamanların en çok sayı atan oyuncusu' rekorunu Şubat 2023'te kırarak tarihe geçen basketbolcu kimdir?",
+      "question": "2021 yılında dünya çapında bir fenomene dönüşen Güney Kore dizisi 'Squid Game'de, 456 yarışmacının borçlarından kurtulmak için hayatları pahasına mücadele ettiği büyük para ödülü toplam kaç Güney Kore wonudur?",
       "options": [
-        "Stephen Curry",
-        "Kevin Durant",
-        "Kobe Bryant",
-        "LeBron James",
-        "Shaquille O'Neal"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "Pixar ve Disney ortaklığıyla 1995 yılında vizyona giren, Şerif Woody ve Buzz Lightyear'ın maceralarını konu alarak sinema tarihinin tamamen bilgisayarla üretilen ilk uzun metrajlı animasyon filmi unvanını alan yapım hangisidir?",
-      "options": [
-        "Oyuncak Hikâyesi (Toy Story)",
-        "Sevimli Canavarlar (Monsters, Inc.)",
-        "Bir Böceğin Yaşamı (A Bug's Life)",
-        "Kayıp Balık Nemo (Finding Nemo)",
-        "Arabalar (Cars)"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "23 Nisan 2005 tarihinde YouTube platformuna yüklenen ve sitenin kurucularından Jawed Karim'in fillerin önünde konuştuğu YouTube tarihinin ilk videosunun adı nedir?",
-      "options": [
-        "Hello World",
-        "Welcome to YouTube",
-        "Me at the zoo",
-        "The First Video",
-        "Animals in San Diego"
+        "10 Milyar Won",
+        "25.5 Milyar Won",
+        "45.6 Milyar Won",
+        "100 Milyar Won",
+        "456 Milyar Won"
       ],
       "correct": 2
     },
     {
-      "question": "Türk Kadın Voleybol Milli Takımı'nın (Filenin Sultanları) 2023 yılında hem FIVB Milletler Ligi (VNL) hem de Avrupa Şampiyonası'nda altın madalya kazanarak dünya 1 numarasına yükseldiği tarihi sezonda takımın başında yer alan İtalyan başantrenör kimdir?",
+      "question": "Valve tarafından geliştirilen ve PC oyun tarihinin en etkili birinci şahıs nişancı (FPS) yapımlarından biri kabul edilen 'Half-Life' serisinin ikonik levyesiyle tanınan teorik fizikçi ana karakteri kimdir?",
       "options": [
-        "Giovanni Guidetti",
-        "Daniele Santarelli",
-        "Massimo Barbolini",
-        "Stefano Lavarini",
-        "Marco Aurelio Motta"
+        "Isaac Kleiner",
+        "Adrian Shephard",
+        "Barney Calhoun",
+        "Gordon Freeman",
+        "Eli Vance"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
-      "question": "Modern Olimpiyat Oyunları tarihinde 23'ü altın olmak üzere kazandığı toplam 28 madalya ile tüm zamanların en çok olimpiyat madalyasına sahip sporcusu unvanını elinde bulunduran efsanevi yüzücü kimdir?",
+      "question": "James Cameron'ın yönettiği ve sinema tarihinin en yüksek gişe hasılatı rekorunu elinde bulunduran 'Avatar' filminde, Na'vi halkının yaşadığı kurgusal ve egzotik uydunun adı nedir?",
       "options": [
-        "Mark Spitz",
-        "Ian Thorpe",
-        "Ryan Lochte",
-        "Caeleb Dressel",
-        "Michael Phelps"
+        "Pandora",
+        "Arrakis",
+        "Krypton",
+        "Naboo",
+        "Tatooine"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "2015 yılında hücrelerin hasar gören DNA'ları nasıl onardığını ve genetik bilgisini nasıl koruduğunu haritalandıran araştırmaları sayesinde Nobel Kimya Ödülü'ne layık görülen Türk bilim insanı kimdir?",
+      "options": [
+        "Cahit Arf",
+        "Oktay Sinanoğlu",
+        "Gazi Yaşargil",
+        "Hulusi Behçet",
+        "Aziz Sancar"
       ],
       "correct": 4
+    },
+    {
+      "question": "Netflix'in yayınladığı ilk orijinal Türk dizisi olan ve Çağatay Ulusoy'un İstanbul'u korumak için gizemli bir tılsımla mücadele eden bir kahramanı canlandırdığı fantastik yapım hangisidir?",
+      "options": [
+        "Atiye",
+        "Hakan: Muhafız",
+        "Kulüp",
+        "Bir Başkadır",
+        "Şahmaran"
+      ],
+      "correct": 1
     }
   ]
 }
