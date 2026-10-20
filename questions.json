@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "2021 yılında dünya çapında bir fenomene dönüşen Güney Kore dizisi 'Squid Game'de, 456 yarışmacının borçlarından kurtulmak için hayatları pahasına mücadele ettiği büyük para ödülü toplam kaç Güney Kore wonudur?",
+      "question": "Eski bir mahkûm olan Park Sae-ro-yi'nin, babasının ölümünün ardından Seul'ün popüler bir semtinde 'DanBam' adında bir bar-restoran açarak dev bir gıda şirketine karşı verdiği mücadeleyi anlatan ünlü K-drama hangisidir?",
       "options": [
-        "10 Milyar Won",
-        "25.5 Milyar Won",
-        "45.6 Milyar Won",
-        "100 Milyar Won",
-        "456 Milyar Won"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Valve tarafından geliştirilen ve PC oyun tarihinin en etkili birinci şahıs nişancı (FPS) yapımlarından biri kabul edilen 'Half-Life' serisinin ikonik levyesiyle tanınan teorik fizikçi ana karakteri kimdir?",
-      "options": [
-        "Isaac Kleiner",
-        "Adrian Shephard",
-        "Barney Calhoun",
-        "Gordon Freeman",
-        "Eli Vance"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "James Cameron'ın yönettiği ve sinema tarihinin en yüksek gişe hasılatı rekorunu elinde bulunduran 'Avatar' filminde, Na'vi halkının yaşadığı kurgusal ve egzotik uydunun adı nedir?",
-      "options": [
-        "Pandora",
-        "Arrakis",
-        "Krypton",
-        "Naboo",
-        "Tatooine"
+        "Itaewon Class",
+        "Vincenzo",
+        "The Glory",
+        "Guardian: The Lonely and Great God",
+        "Business Proposal"
       ],
       "correct": 0
     },
     {
-      "question": "2015 yılında hücrelerin hasar gören DNA'ları nasıl onardığını ve genetik bilgisini nasıl koruduğunu haritalandıran araştırmaları sayesinde Nobel Kimya Ödülü'ne layık görülen Türk bilim insanı kimdir?",
+      "question": "Sagopa Kajmer'in 2004 yılında yayımladığı; 'Maskeli Balo', 'Karikatür Komedya' ve Ceza ile düet yaptığı 'Neyim Var Ki' gibi Türk rap klasiği parçaları barındıran çift disklik albümü hangisidir?",
       "options": [
-        "Cahit Arf",
-        "Oktay Sinanoğlu",
-        "Gazi Yaşargil",
-        "Hulusi Behçet",
-        "Aziz Sancar"
-      ],
-      "correct": 4
-    },
-    {
-      "question": "Netflix'in yayınladığı ilk orijinal Türk dizisi olan ve Çağatay Ulusoy'un İstanbul'u korumak için gizemli bir tılsımla mücadele eden bir kahramanı canlandırdığı fantastik yapım hangisidir?",
-      "options": [
-        "Atiye",
-        "Hakan: Muhafız",
-        "Kulüp",
-        "Bir Başkadır",
-        "Şahmaran"
+        "Romantizma",
+        "Bir Pesimistin Gözyaşları",
+        "Şarkı Koleksiyoncusu",
+        "Kötü İnsanları Tanıma Senesi",
+        "Ahmak Islatan"
       ],
       "correct": 1
+    },
+    {
+      "question": "1976 Montreal Olimpiyat Oyunları'nda asimetrik paralel aletinde sergilediği kusursuz seriyle olimpiyat jimnastik tarihinde jüriden '10 tam puan' almayı başaran ilk sporcu kimdir?",
+      "options": [
+        "Larisa Latynina",
+        "Simone Biles",
+        "Nadia Comăneci",
+        "Svetlana Khorkina",
+        "Olga Korbut"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "28 Haziran 1914'te eşiyle birlikte Saraybosna'yı ziyareti sırasında Gavrilo Princip tarafından suikasta uğrayarak Birinci Dünya Savaşı'nın patlak vermesine yol açan Avusturya-Macaristan veliahdı kimdir?",
+      "options": [
+        "Prens Rudolf",
+        "İmparator I. Karl",
+        "Arşidük Joseph Ferdinand",
+        "Arşidük Franz Ferdinand",
+        "Prens Leopold"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Genç yaşta sahte çekler düzenleyerek milyonlarca dolar haksız kazanç elde eden; Pan Am pilotu, çocuk doktoru ve savcı kılıklarına bürünerek FBI'ı peşine takan ve hayatı 'Catch Me If You Can' (Sıkıysa Yakala) filmine konu olan dolandırıcı kimdir?",
+      "options": [
+        "Charles Ponzi",
+        "Bernard Madoff",
+        "Jordan Belfort",
+        "Cassie Chadwick",
+        "Frank Abagnale Jr."
+      ],
+      "correct": 4
     }
   ]
 }
