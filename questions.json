@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Eski bir mahkûm olan Park Sae-ro-yi'nin, babasının ölümünün ardından Seul'ün popüler bir semtinde 'DanBam' adında bir bar-restoran açarak dev bir gıda şirketine karşı verdiği mücadeleyi anlatan ünlü K-drama hangisidir?",
+      "question": "Mor ve Ötesi'nin 2004 yılında yayımlanan ve 'Cambaz', 'Bir Derdim Var', 'Araf' gibi unutulmaz hitleri barındıran efsanevi albümü hangisidir?",
       "options": [
-        "Itaewon Class",
-        "Vincenzo",
-        "The Glory",
-        "Guardian: The Lonely and Great God",
-        "Business Proposal"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "Sagopa Kajmer'in 2004 yılında yayımladığı; 'Maskeli Balo', 'Karikatür Komedya' ve Ceza ile düet yaptığı 'Neyim Var Ki' gibi Türk rap klasiği parçaları barındıran çift disklik albümü hangisidir?",
-      "options": [
-        "Romantizma",
-        "Bir Pesimistin Gözyaşları",
-        "Şarkı Koleksiyoncusu",
-        "Kötü İnsanları Tanıma Senesi",
-        "Ahmak Islatan"
+        "Gül Kendine",
+        "Dünya Yalan Söylüyor",
+        "Büyük Düşler",
+        "Şehir",
+        "Bırak Zaman Aksın"
       ],
       "correct": 1
     },
     {
-      "question": "1976 Montreal Olimpiyat Oyunları'nda asimetrik paralel aletinde sergilediği kusursuz seriyle olimpiyat jimnastik tarihinde jüriden '10 tam puan' almayı başaran ilk sporcu kimdir?",
+      "question": "Marvel Sinematik Evreni'nde Wakanda Kralı T'Challa (Kara Panter) karakterini canlandırarak hafızalara kazınan ve 2020 yılında hayatını kaybeden aktör kimdir?",
       "options": [
-        "Larisa Latynina",
-        "Simone Biles",
-        "Nadia Comăneci",
-        "Svetlana Khorkina",
-        "Olga Korbut"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "28 Haziran 1914'te eşiyle birlikte Saraybosna'yı ziyareti sırasında Gavrilo Princip tarafından suikasta uğrayarak Birinci Dünya Savaşı'nın patlak vermesine yol açan Avusturya-Macaristan veliahdı kimdir?",
-      "options": [
-        "Prens Rudolf",
-        "İmparator I. Karl",
-        "Arşidük Joseph Ferdinand",
-        "Arşidük Franz Ferdinand",
-        "Prens Leopold"
+        "Michael B. Jordan",
+        "Anthony Mackie",
+        "Daniel Kaluuya",
+        "Chadwick Boseman",
+        "Winston Duke"
       ],
       "correct": 3
     },
     {
-      "question": "Genç yaşta sahte çekler düzenleyerek milyonlarca dolar haksız kazanç elde eden; Pan Am pilotu, çocuk doktoru ve savcı kılıklarına bürünerek FBI'ı peşine takan ve hayatı 'Catch Me If You Can' (Sıkıysa Yakala) filmine konu olan dolandırıcı kimdir?",
+      "question": "İnternet mizahında yüzündeki acı çekerken gülümsemeye çalışan zoraki ifadeyle küresel bir meme'e dönüşen Macar model András Arató, internet kültüründe hangi isimle tanınmaktadır?",
       "options": [
-        "Charles Ponzi",
-        "Bernard Madoff",
-        "Jordan Belfort",
-        "Cassie Chadwick",
-        "Frank Abagnale Jr."
+        "Bad Luck Brian",
+        "Scumbag Steve",
+        "Good Guy Greg",
+        "Disaster Girl",
+        "Hide the Pain Harold"
       ],
       "correct": 4
+    },
+    {
+      "question": "HBO'nun aynı adlı video oyunundan uyarlanan popüler dizisi 'The Last of Us'ta insanları saldırgan canavarlara dönüştürerek küresel bir kıyamete yol açan parazitik mantar türü hangisidir?",
+      "options": [
+        "Cordyceps",
+        "Amanita",
+        "Penicillium",
+        "Aspergillus",
+        "Candida"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Michael Jackson'ın 1982 tarihli efsanevi 'Thriller' albümünde yer alan ve meşhur gitar solosunu rock gitaristi Eddie Van Halen'ın çaldığı hit parça hangisidir?",
+      "options": [
+        "Billie Jean",
+        "Smooth Criminal",
+        "Beat It",
+        "Bad",
+        "Dirty Diana"
+      ],
+      "correct": 2
     }
   ]
 }
