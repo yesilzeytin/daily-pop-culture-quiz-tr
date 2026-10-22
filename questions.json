@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "Mor ve Ötesi'nin 2004 yılında yayımlanan ve 'Cambaz', 'Bir Derdim Var', 'Araf' gibi unutulmaz hitleri barındıran efsanevi albümü hangisidir?",
+      "question": "Ezhel'in 2017 yılında yayımladığı ve 'Geceler', 'Şehrimin Tadı', 'İmkânsızım' gibi hit parçalarla Türk rap müziğinde yeni bir dönemi başlatan ilk stüdyo albümünün adı nedir?",
       "options": [
-        "Gül Kendine",
-        "Dünya Yalan Söylüyor",
-        "Büyük Düşler",
-        "Şehir",
-        "Bırak Zaman Aksın"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Marvel Sinematik Evreni'nde Wakanda Kralı T'Challa (Kara Panter) karakterini canlandırarak hafızalara kazınan ve 2020 yılında hayatını kaybeden aktör kimdir?",
-      "options": [
-        "Michael B. Jordan",
-        "Anthony Mackie",
-        "Daniel Kaluuya",
-        "Chadwick Boseman",
-        "Winston Duke"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "İnternet mizahında yüzündeki acı çekerken gülümsemeye çalışan zoraki ifadeyle küresel bir meme'e dönüşen Macar model András Arató, internet kültüründe hangi isimle tanınmaktadır?",
-      "options": [
-        "Bad Luck Brian",
-        "Scumbag Steve",
-        "Good Guy Greg",
-        "Disaster Girl",
-        "Hide the Pain Harold"
-      ],
-      "correct": 4
-    },
-    {
-      "question": "HBO'nun aynı adlı video oyunundan uyarlanan popüler dizisi 'The Last of Us'ta insanları saldırgan canavarlara dönüştürerek küresel bir kıyamete yol açan parazitik mantar türü hangisidir?",
-      "options": [
-        "Cordyceps",
-        "Amanita",
-        "Penicillium",
-        "Aspergillus",
-        "Candida"
+        "Müptezhel",
+        "Lights Out",
+        "Hayalet Islığı",
+        "Medcezir",
+        "Ateşten Gömlek"
       ],
       "correct": 0
     },
     {
-      "question": "Michael Jackson'ın 1982 tarihli efsanevi 'Thriller' albümünde yer alan ve meşhur gitar solosunu rock gitaristi Eddie Van Halen'ın çaldığı hit parça hangisidir?",
+      "question": "İkinci Dünya Savaşı'nın dönüm noktalarından biri kabul edilen ve Müttefik kuvvetlerin 6 Haziran 1944'te Nazi Almanyası işgali altındaki Fransa kıyılarına başlattığı tarihi amfibi harekât hangi adla anılır?",
       "options": [
-        "Billie Jean",
-        "Smooth Criminal",
-        "Beat It",
-        "Bad",
-        "Dirty Diana"
+        "Dunkerque Tahliyesi",
+        "Normandiya Çıkarması",
+        "Sicilya Harekâtı",
+        "Ardenler Taarruzu",
+        "Kırım Kuşatması"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Britanya Kraliyet Ailesi'nin unutulmaz figürlerinden Galler Prensesi Diana, 31 Ağustos 1997 tarihinde trajik bir trafik kazası sonucu hangi şehirde hayatını kaybetmiştir?",
+      "options": [
+        "Londra",
+        "Cenevre",
+        "Paris",
+        "Roma",
+        "Monako"
       ],
       "correct": 2
+    },
+    {
+      "question": "Dünya çapında büyük ilgi gören 'Game of Thrones' dizisinde Kışyarı Lordu Eddard (Ned) Stark karakterini hangi ünlü İngiliz aktör canlandırmıştır?",
+      "options": [
+        "Charles Dance",
+        "Mark Addy",
+        "Liam Cunningham",
+        "Sean Bean",
+        "Iain Glen"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "2022 yılında düzenlenen 48. Pantene Altın Kelebek Ödülleri'nde 'Yargı' dizisindeki performanslarıyla sırasıyla 'En İyi Kadın Oyuncu' ve 'En İyi Erkek Oyuncu' ödüllerini kazanan ikili hangisidir?",
+      "options": [
+        "Demet Özdemir - Can Yaman",
+        "Afra Saraçoğlu - Mert Ramazan Demir",
+        "Burcu Biricik - Feyyaz Şerifoğlu",
+        "Serenay Sarıkaya - Kıvanç Tatlıtuğ",
+        "Pınar Deniz - Kaan Urgancıoğlu"
+      ],
+      "correct": 4
     }
   ]
 }
