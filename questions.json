@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Ezhel'in 2017 yılında yayımladığı ve 'Geceler', 'Şehrimin Tadı', 'İmkânsızım' gibi hit parçalarla Türk rap müziğinde yeni bir dönemi başlatan ilk stüdyo albümünün adı nedir?",
+      "question": "J.R.R. Tolkien'in 'Yüzüklerin Efendisi' evreninde, Yüzük Kardeşliği'nin Moria Madenleri'ne girebilmek için Batı Kapısı'nda söylemesi gereken ve Elfçe 'dost' anlamına gelen parola nedir?",
       "options": [
-        "Müptezhel",
-        "Lights Out",
-        "Hayalet Islığı",
-        "Medcezir",
-        "Ateşten Gömlek"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "İkinci Dünya Savaşı'nın dönüm noktalarından biri kabul edilen ve Müttefik kuvvetlerin 6 Haziran 1944'te Nazi Almanyası işgali altındaki Fransa kıyılarına başlattığı tarihi amfibi harekât hangi adla anılır?",
-      "options": [
-        "Dunkerque Tahliyesi",
-        "Normandiya Çıkarması",
-        "Sicilya Harekâtı",
-        "Ardenler Taarruzu",
-        "Kırım Kuşatması"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Britanya Kraliyet Ailesi'nin unutulmaz figürlerinden Galler Prensesi Diana, 31 Ağustos 1997 tarihinde trajik bir trafik kazası sonucu hangi şehirde hayatını kaybetmiştir?",
-      "options": [
-        "Londra",
-        "Cenevre",
-        "Paris",
-        "Roma",
-        "Monako"
+        "Namárië",
+        "Elbereth",
+        "Mellon",
+        "Edro",
+        "Mae govannen"
       ],
       "correct": 2
     },
     {
-      "question": "Dünya çapında büyük ilgi gören 'Game of Thrones' dizisinde Kışyarı Lordu Eddard (Ned) Stark karakterini hangi ünlü İngiliz aktör canlandırmıştır?",
+      "question": "Disney Channel'ın sevilen animasyon dizisi 'Esrarengiz Kasaba'da (Gravity Falls), Dipper ve Mabel kardeşlerin yaz tatilini geçirdiği 'Gizemli Kulübe'nin sahibi olan büyük amcalarının adı nedir?",
       "options": [
-        "Charles Dance",
-        "Mark Addy",
-        "Liam Cunningham",
-        "Sean Bean",
-        "Iain Glen"
+        "Stanford Pines",
+        "Stan Pines",
+        "Soos Ramirez",
+        "Gideon Gleeful",
+        "Bud Gleeful"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Popüler anime serisi 'Naruto'da, ana karakter Naruto Uzumaki'nin içine mühürlenen Dokuz Kuyruklu Tilki'nin (Kyūbi) gerçek adı nedir?",
+      "options": [
+        "Kurama",
+        "Shukaku",
+        "Gyūki",
+        "Matatabi",
+        "Isobu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "1962 yılında Sovyetler Birliği'nin gizlice nükleer füzeler konuşlandırmasıyla başlayan ve Soğuk Savaş döneminde dünyayı doğrudan bir nükleer çatışmanın eşiğine getiren tarihi kriz hangisidir?",
+      "options": [
+        "Süveyş Krizi",
+        "Berlin Ablukası",
+        "U-2 Uçak Krizi",
+        "Küba Füze Krizi",
+        "Domuzlar Körfezi Çıkarması"
       ],
       "correct": 3
     },
     {
-      "question": "2022 yılında düzenlenen 48. Pantene Altın Kelebek Ödülleri'nde 'Yargı' dizisindeki performanslarıyla sırasıyla 'En İyi Kadın Oyuncu' ve 'En İyi Erkek Oyuncu' ödüllerini kazanan ikili hangisidir?",
+      "question": "Berkun Oya'nın yazıp yönettiği ve Öykü Karayel'in canlandırdığı 'Meryem' karakteri başta olmak üzere farklı sosyal kesimlerden insanların hayatlarını etkileyici bir dille aktaran 2020 yapımı Netflix Türkiye dizisi hangisidir?",
       "options": [
-        "Demet Özdemir - Can Yaman",
-        "Afra Saraçoğlu - Mert Ramazan Demir",
-        "Burcu Biricik - Feyyaz Şerifoğlu",
-        "Serenay Sarıkaya - Kıvanç Tatlıtuğ",
-        "Pınar Deniz - Kaan Urgancıoğlu"
+        "Kuş Uçuşu",
+        "Kulüp",
+        "Zeytin Ağacı",
+        "Sıcak Kafa",
+        "Bir Başkadır"
       ],
       "correct": 4
     }
