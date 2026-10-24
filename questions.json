@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "J.R.R. Tolkien'in 'Yüzüklerin Efendisi' evreninde, Yüzük Kardeşliği'nin Moria Madenleri'ne girebilmek için Batı Kapısı'nda söylemesi gereken ve Elfçe 'dost' anlamına gelen parola nedir?",
+      "question": "Duman grubunun 2002 yılında yayımlanan ve \"Her Şeyi Yak\", \"Oje\", \"Haberin Yok Ölüyorum\", \"Bu Akşam\" gibi unutulmaz şarkıların yer aldığı ikinci stüdyo albümü hangisidir?",
       "options": [
-        "Namárië",
-        "Elbereth",
-        "Mellon",
-        "Edro",
-        "Mae govannen"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "Disney Channel'ın sevilen animasyon dizisi 'Esrarengiz Kasaba'da (Gravity Falls), Dipper ve Mabel kardeşlerin yaz tatilini geçirdiği 'Gizemli Kulübe'nin sahibi olan büyük amcalarının adı nedir?",
-      "options": [
-        "Stanford Pines",
-        "Stan Pines",
-        "Soos Ramirez",
-        "Gideon Gleeful",
-        "Bud Gleeful"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Popüler anime serisi 'Naruto'da, ana karakter Naruto Uzumaki'nin içine mühürlenen Dokuz Kuyruklu Tilki'nin (Kyūbi) gerçek adı nedir?",
-      "options": [
-        "Kurama",
-        "Shukaku",
-        "Gyūki",
-        "Matatabi",
-        "Isobu"
+        "Belki Alışman Lazım",
+        "Eski Köprünün Altında",
+        "Seni Kendime Sakladım",
+        "Darmaduman",
+        "Duman I"
       ],
       "correct": 0
     },
     {
-      "question": "1962 yılında Sovyetler Birliği'nin gizlice nükleer füzeler konuşlandırmasıyla başlayan ve Soğuk Savaş döneminde dünyayı doğrudan bir nükleer çatışmanın eşiğine getiren tarihi kriz hangisidir?",
+      "question": "J.R.R. Tolkien'in \"Yüzüklerin Efendisi\" evreninde, Mearas soyundan gelen ve yalnızca büyücü Gandalf'ın eyersiz ve gemsiz binmesine izin veren atların efendisinin adı nedir?",
       "options": [
-        "Süveyş Krizi",
-        "Berlin Ablukası",
-        "U-2 Uçak Krizi",
-        "Küba Füze Krizi",
-        "Domuzlar Körfezi Çıkarması"
+        "Brego",
+        "Gölgeyele (Shadowfax)",
+        "Hasufel",
+        "Arod",
+        "Asfaloth"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "2010'lu yılların başında kendine has iç ses monoloğuyla küresel bir internet meme'ine dönüşen ve bir kripto paraya da ilham olan \"Doge\" adlı köpeğin ırkı nedir?",
+      "options": [
+        "Golden Retriever",
+        "Corgi",
+        "Shiba Inu",
+        "Sibirya Kurdu (Husky)",
+        "Fransız Bulldog"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Türk rap müziğinin öncülerinden Ceza'nın 2002 yılında yayımlanan ve prodüktörlüğünü o dönem DJ Mic Check mahlasını kullanan Sagopa Kajmer'in üstlendiği ilk solo stüdyo albümü hangisidir?",
+      "options": [
+        "Rapstar",
+        "Yerli Plaka",
+        "Onuncu Köy",
+        "Med Cezir",
+        "Suspus"
       ],
       "correct": 3
     },
     {
-      "question": "Berkun Oya'nın yazıp yönettiği ve Öykü Karayel'in canlandırdığı 'Meryem' karakteri başta olmak üzere farklı sosyal kesimlerden insanların hayatlarını etkileyici bir dille aktaran 2020 yapımı Netflix Türkiye dizisi hangisidir?",
+      "question": "2009 Dünya Atletizm Şampiyonası'nda erkekler 100 metreyi 9.58 saniyede koşarak günümüzde de kırılamayan dünya rekoruna imza atan Jamaikalı efsanevi sprinter kimdir?",
       "options": [
-        "Kuş Uçuşu",
-        "Kulüp",
-        "Zeytin Ağacı",
-        "Sıcak Kafa",
-        "Bir Başkadır"
+        "Tyson Gay",
+        "Justin Gatlin",
+        "Yohan Blake",
+        "Asafa Powell",
+        "Usain Bolt"
       ],
       "correct": 4
     }
