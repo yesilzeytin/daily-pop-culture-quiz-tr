@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "2024 Paris Olimpiyat Oyunları'nda 10 metre havalı tabanca karma takım kategorisinde gümüş madalya kazanan; özel ekipman kullanmadan, eli cebinde sergilediği rahat atış tarzıyla dünya çapında bir internet fenomenine dönüşen Türk sporcu kimdir?",
+      "question": "1985 yapımı 'Rocky IV' filminde Soğuk Savaş dönemi ABD ve Sovyetler Birliği rekabetini yansıtan ve Rocky Balboa'nın ringdeki en zorlu Sovyet rakibi Ivan Drago'yu canlandıran aktör kimdir?",
       "options": [
-        "Yusuf Dikeç",
-        "İsmail Keleş",
-        "Mete Gazoz",
-        "Taha Akgül",
-        "Ferhat Arıcan"
+        "Dolph Lundgren",
+        "Jean-Claude Van Damme",
+        "Mads Mikkelsen",
+        "Stellan Skarsgård",
+        "Rutger Hauer"
       ],
       "correct": 0
     },
     {
-      "question": "Şahan Gökbakar'ın canlandırdığı Recep İvedik karakterinin maceralarını anlatan 2008 yapımı ilk filmde, Recep'in yolda bulduğu cüzdanı teslim etmek için gittiği lüks otelde karşılaştığı çocukluk aşkının adı nedir?",
+      "question": "Marvel Sinematik Evreni'nde Tony Stark'ın yapay zekâ asistanı J.A.R.V.I.S.'i seslendiren ve daha sonra 'Avengers: Age of Ultron' filmiyle birlikte Vision (Vizyon) karakterine hayat veren İngiliz aktör kimdir?",
       "options": [
-        "Aslı",
-        "Sibel",
-        "Fazilet",
-        "Büşra",
-        "Zeynep"
+        "Tom Hiddleston",
+        "Paul Bettany",
+        "Benedict Cumberbatch",
+        "Martin Freeman",
+        "Jude Law"
       ],
       "correct": 1
     },
     {
-      "question": "2010'lu yıllarda Türkiye'deki caps ve internet mizahı kültüründe, özellikle 'kırmızı şerit' akımının doğduğu İnci Sözlük ve İnci Caps toplulukları tarafından popülerleştirilen ve kullanıcıların birbirine hitap etmek için kullandığı ikonik argo kelime hangisidir?",
+      "question": "'Toprak kortun kralı' lakaplı İspanyol efsane Rafael Nadal, kariyeri boyunca Fransa Açık (Roland Garros) tek erkeklerde toplam kaç şampiyonluk kazanarak kırılması güç bir rekora imza atmıştır?",
       "options": [
-        "Kirve",
-        "Reis",
-        "Panpa",
-        "Kardo",
-        "Tertip"
+        "11",
+        "12",
+        "14",
+        "15",
+        "17"
       ],
       "correct": 2
     },
     {
-      "question": "YouTube Türkiye'de bireysel içerik üreticileri arasında 10 milyon abone barajını aşarak platform tarafından verilen 'Elmas Oynatma Butonu'nu (Diamond Play Button) almaya hak kazanan ilk YouTuber kimdir?",
+      "question": "HBO'nun Emmy ödüllü popüler drama dizisi 'Succession'da, devasa medya imparatorluğu Waystar RoyCo'nun kurucusu ve Roy ailesinin otoriter reisi Logan Roy karakterini canlandıran usta aktör kimdir?",
       "options": [
-        "Orkun Işıtmak",
-        "Barış Özcan",
-        "Ruhi Çenet",
-        "Enes Batur",
-        "Berkcan Güven"
+        "Jeremy Strong",
+        "Anthony Hopkins",
+        "Alan Ruck",
+        "Brian Cox",
+        "Ian McKellen"
       ],
       "correct": 3
     },
     {
-      "question": "1990'lı yıllarda Michael Jordan ve Scottie Pippen önderliğinde 6 NBA şampiyonluğu kazanan efsanevi Chicago Bulls takımının ve uyguladığı 'üçgen hücum' (triangle offense) sisteminin ünlü başantrenörü kimdir?",
+      "question": "Birinci Dünya Savaşı sonrasında Birmingham'da faaliyet gösteren ünlü bir suç çetesini konu alan küresel fenomen dizi 'Peaky Blinders'da, çetenin karizmatik lideri Thomas Shelby karakterine hangi aktör hayat vermiştir?",
       "options": [
-        "Gregg Popovich",
-        "Pat Riley",
-        "Steve Kerr",
-        "Doc Rivers",
-        "Phil Jackson"
+        "Colin Farrell",
+        "Andrew Scott",
+        "Jamie Dornan",
+        "Pierce Brosnan",
+        "Cillian Murphy"
       ],
       "correct": 4
     }
