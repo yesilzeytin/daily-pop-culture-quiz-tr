@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "8 Eylül 2022 tarihinde 70 yıllık tarihi saltanatının ardından hayatını kaybeden Birleşik Krallık Kraliçesi II. Elizabeth'in ardından tahta geçen en büyük oğlu hangi unvanla kral ilan edilmiştir?",
+      "question": "Erkekler tenisinde kazandığı 24 Grand Slam tekler zaferiyle bu alandaki tüm zamanların şampiyonluk rekorunu elinde bulunduran Sırp tenis efsanesi kimdir?",
       "options": [
-        "Kral III. Charles",
-        "Kral V. William",
-        "Kral VI. Edward",
-        "Kral IV. George",
-        "Kral II. Philip"
+        "Novak Djokovic",
+        "Roger Federer",
+        "Daniil Medvedev",
+        "Andy Murray",
+        "Stan Wawrinka"
       ],
       "correct": 0
     },
     {
-      "question": "Tarkan'ın 1997 yılında müzikseverlerle buluşan ve 'Şımarık', 'Kır Zincirlerini', 'Salına Salına Sinsice' gibi Türk pop müziğine damga vuran hitleri barındıran üçüncü stüdyo albümü hangisidir?",
+      "question": "Pixar'ın 2007 yapımı sevilen animasyon filmi 'Ratatouille'da, Paris'in ünlü bir restoranında gizlice yemek pişirerek usta bir şefe dönüşen lezzet tutkunu farenin adı nedir?",
       "options": [
-        "A-Acayipsin",
-        "Ölürüm Sana",
-        "Karma",
-        "Dudu",
-        "Yine Sensiz"
+        "Emile",
+        "Remy",
+        "Linguini",
+        "Gusteau",
+        "Django"
       ],
       "correct": 1
     },
     {
-      "question": "Nintendo'nun 1986 yılından bu yana devam eden efsanevi 'The Legend of Zelda' serisinde, Hyrule Krallığı'nı korumak ve Prenses Zelda'yı kurtarmak için mücadele eden yeşil giyimli ana kahramanın adı nedir?",
+      "question": "Formula 1 tarihinde Michael Schumacher ile birlikte 7 dünya şampiyonluğu rekorunu elinde bulunduran ve 100'ün üzerinde yarış galibiyetine ulaşan ilk pilot olan Britanyalı efsane kimdir?",
       "options": [
-        "Ganon",
-        "Navi",
-        "Link",
-        "Tingle",
-        "Epona"
+        "Fernando Alonso",
+        "Sebastian Vettel",
+        "Lewis Hamilton",
+        "Max Verstappen",
+        "Jenson Button"
       ],
       "correct": 2
     },
     {
-      "question": "2012 yılında Kocaeli'de bir temizlik işçisi ile kendisini rahatsız eden bir çocuk arasında geçen ve Türkiye internet mizahında sayısız caps, montaj ve karikatüre ilham veren viral video hangi meşhur sözle hafızalara kazınmıştır?",
+      "question": "İkinci Dünya Savaşı'nın Pasifik cephesinde, 6 Ağustos 1945 tarihinde tarihteki ilk atom bombası olan 'Little Boy'u Japonya'nın Hiroşima kentine bırakan B-29 tipi bombardıman uçağının adı nedir?",
       "options": [
-        "Artiz ne arar la bazarda",
-        "Ben aslında yoğum",
-        "Adana merkez patlıyor herkes",
-        "Oğlum bak git",
-        "Gözlerim kanadı"
+        "Memphis Belle",
+        "Bockscar",
+        "Spirit of St. Louis",
+        "Enola Gay",
+        "Flying Fortress"
       ],
       "correct": 3
     },
     {
-      "question": "Marvel Sinematik Evreni'nin 22 filmlik 'Sonsuzluk Destanı'nı (Infinity Saga) noktalayan ve dünya çapında yaklaşık 2,8 milyar dolar gişe hasılatı elde ederek sinema tarihinin en çok kazanan ikinci filmi unvanını alan yapım hangisidir?",
+      "question": "2016 yılında 'Amerikan şarkı geleneğinde yeni şiirsel ifadeler yarattığı için' Nobel Edebiyat Ödülü'ne layık görülen ve bu ödülü kazanan ilk müzisyen/şarkı yazarı olarak tarihe geçen sanatçı kimdir?",
       "options": [
-        "Avengers: Infinity War",
-        "Spider-Man: No Way Home",
-        "The Avengers",
-        "Black Panther",
-        "Avengers: Endgame"
+        "Leonard Cohen",
+        "Neil Young",
+        "Bruce Springsteen",
+        "Paul Simon",
+        "Bob Dylan"
       ],
       "correct": 4
     }
