@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Erkekler tenisinde kazandığı 24 Grand Slam tekler zaferiyle bu alandaki tüm zamanların şampiyonluk rekorunu elinde bulunduran Sırp tenis efsanesi kimdir?",
+      "question": "1925 yılında kendisini bir devlet yetkilisi olarak tanıtıp hurdaya ayrılacağı bahanesiyle Paris'in simgesi Eyfel Kulesi'ni tüccarlara satarak tarihin en cüretkâr dolandırıcılıklarından birine imza atan isim kimdir?",
       "options": [
-        "Novak Djokovic",
-        "Roger Federer",
-        "Daniil Medvedev",
-        "Andy Murray",
-        "Stan Wawrinka"
+        "Victor Lustig",
+        "Charles Ponzi",
+        "George C. Parker",
+        "Ferdinand Waldo Demara",
+        "Bernie Madoff"
       ],
       "correct": 0
     },
     {
-      "question": "Pixar'ın 2007 yapımı sevilen animasyon filmi 'Ratatouille'da, Paris'in ünlü bir restoranında gizlice yemek pişirerek usta bir şefe dönüşen lezzet tutkunu farenin adı nedir?",
+      "question": "Cartoon Network'ün popüler animasyon dizisi 'Sürekli Dizi'de (Regular Show), bir parkta bekçi olarak çalışan ve başlarını sürekli absürt belalara sokan ana karakterler Mordecai ve Rigby hangi hayvanlardır?",
       "options": [
-        "Emile",
-        "Remy",
-        "Linguini",
-        "Gusteau",
-        "Django"
+        "Karga ve sincap",
+        "Mavi alakarga ve rakun",
+        "Ağaçkakan ve kunduz",
+        "Saksağan ve opossum",
+        "Martı ve porsuk"
       ],
       "correct": 1
     },
     {
-      "question": "Formula 1 tarihinde Michael Schumacher ile birlikte 7 dünya şampiyonluğu rekorunu elinde bulunduran ve 100'ün üzerinde yarış galibiyetine ulaşan ilk pilot olan Britanyalı efsane kimdir?",
+      "question": "Birinci Dünya Savaşı sırasında Alman ordusunda görev alan, düşürdüğü 80 uçakla hava muharebelerinde efsaneleşen ve kırmızı renkli uçağı nedeniyle 'Kızıl Baron' lakabıyla tanınan pilot kimdir?",
       "options": [
-        "Fernando Alonso",
-        "Sebastian Vettel",
-        "Lewis Hamilton",
-        "Max Verstappen",
-        "Jenson Button"
+        "Ernst Udet",
+        "Hermann Göring",
+        "Manfred von Richthofen",
+        "Oswald Boelcke",
+        "Werner Voss"
       ],
       "correct": 2
     },
     {
-      "question": "İkinci Dünya Savaşı'nın Pasifik cephesinde, 6 Ağustos 1945 tarihinde tarihteki ilk atom bombası olan 'Little Boy'u Japonya'nın Hiroşima kentine bırakan B-29 tipi bombardıman uçağının adı nedir?",
+      "question": "FIFA Dünya Kupası tarihinde futbolcu olarak üç kez (1958, 1962 ve 1970) şampiyonluk kupasını kaldırmayı başaran tek isim kimdir?",
       "options": [
-        "Memphis Belle",
-        "Bockscar",
-        "Spirit of St. Louis",
-        "Enola Gay",
-        "Flying Fortress"
+        "Diego Maradona",
+        "Garrincha",
+        "Cafu",
+        "Pelé",
+        "Ronaldo Nazário"
       ],
       "correct": 3
     },
     {
-      "question": "2016 yılında 'Amerikan şarkı geleneğinde yeni şiirsel ifadeler yarattığı için' Nobel Edebiyat Ödülü'ne layık görülen ve bu ödülü kazanan ilk müzisyen/şarkı yazarı olarak tarihe geçen sanatçı kimdir?",
+      "question": "Atakan Özyurt, Fatih Yasin ve Bilal Hancı üçlüsünden oluşan, özellikle 'Kışkırtma' konseptli videolarıyla YouTube Türkiye'de milyonlarca aboneye ulaşan ve sinema filmleri de çeken popüler içerik grubu hangisidir?",
       "options": [
-        "Leonard Cohen",
-        "Neil Young",
-        "Bruce Springsteen",
-        "Paul Simon",
-        "Bob Dylan"
+        "OHA Diyorum",
+        "Deep Turkish Web",
+        "Post42",
+        "Noluyo Ya ¿",
+        "Kafalar"
       ],
       "correct": 4
     }
