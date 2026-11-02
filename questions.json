@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "1925 yılında kendisini bir devlet yetkilisi olarak tanıtıp hurdaya ayrılacağı bahanesiyle Paris'in simgesi Eyfel Kulesi'ni tüccarlara satarak tarihin en cüretkâr dolandırıcılıklarından birine imza atan isim kimdir?",
+      "question": "90'lı ve 2000'li yıllarda bakkalların vazgeçilmezi olan; ambalajının içinden çıkan uzun burunlu, yuvarlak gözlüklü ve papyonlu karikatür karakterinin eğlenceli maceralarıyla hafızalara kazınan nostaljik sakız hangisidir?",
       "options": [
-        "Victor Lustig",
-        "Charles Ponzi",
-        "George C. Parker",
-        "Ferdinand Waldo Demara",
-        "Bernie Madoff"
+        "Tipitip",
+        "Turbo",
+        "Şıpsevdi",
+        "Big Babol",
+        "Sulugöz"
       ],
       "correct": 0
     },
     {
-      "question": "Cartoon Network'ün popüler animasyon dizisi 'Sürekli Dizi'de (Regular Show), bir parkta bekçi olarak çalışan ve başlarını sürekli absürt belalara sokan ana karakterler Mordecai ve Rigby hangi hayvanlardır?",
+      "question": "26 Nisan 1986 tarihinde insanlık tarihinin en büyük nükleer felaketlerinden birine sahne olan Çernobil Nükleer Santrali, günümüzde hangi ülkenin sınırları içerisinde yer almaktadır?",
       "options": [
-        "Karga ve sincap",
-        "Mavi alakarga ve rakun",
-        "Ağaçkakan ve kunduz",
-        "Saksağan ve opossum",
-        "Martı ve porsuk"
+        "Rusya",
+        "Ukrayna",
+        "Belarus",
+        "Polonya",
+        "Gürcistan"
       ],
       "correct": 1
     },
     {
-      "question": "Birinci Dünya Savaşı sırasında Alman ordusunda görev alan, düşürdüğü 80 uçakla hava muharebelerinde efsaneleşen ve kırmızı renkli uçağı nedeniyle 'Kızıl Baron' lakabıyla tanınan pilot kimdir?",
+      "question": "17 Mayıs 2000 tarihinde Kopenhag'da oynanan finalde Galatasaray, normal süresi ve uzatmaları 0-0 biten maçta penaltı atışları sonucunda hangi İngiliz takımını mağlup ederek UEFA Kupası'nı kazanmıştır?",
       "options": [
-        "Ernst Udet",
-        "Hermann Göring",
-        "Manfred von Richthofen",
-        "Oswald Boelcke",
-        "Werner Voss"
+        "Manchester United",
+        "Leeds United",
+        "Arsenal",
+        "Chelsea",
+        "Liverpool"
       ],
       "correct": 2
     },
     {
-      "question": "FIFA Dünya Kupası tarihinde futbolcu olarak üç kez (1958, 1962 ve 1970) şampiyonluk kupasını kaldırmayı başaran tek isim kimdir?",
+      "question": "Dünya çapında rekorlar kıran Güney Koreli ünlü K-Pop grubu BTS'in küresel çaptaki resmi hayran topluluğuna (fandom) verilen isim hangisidir?",
       "options": [
-        "Diego Maradona",
-        "Garrincha",
-        "Cafu",
-        "Pelé",
-        "Ronaldo Nazário"
+        "BLINK",
+        "ONCE",
+        "STAY",
+        "ARMY",
+        "EXO-L"
       ],
       "correct": 3
     },
     {
-      "question": "Atakan Özyurt, Fatih Yasin ve Bilal Hancı üçlüsünden oluşan, özellikle 'Kışkırtma' konseptli videolarıyla YouTube Türkiye'de milyonlarca aboneye ulaşan ve sinema filmleri de çeken popüler içerik grubu hangisidir?",
+      "question": "2017 yılında düzenlenen 44. Pantene Altın Kelebek Ödülleri'nde 'Cevapsız Çınlama' ve 'Sen Olsan Bari' gibi döneme damga vuran şarkılarıyla 'En İyi Çıkış Yapan Sanatçı' ödülünü kazanan isim kimdir?",
       "options": [
-        "OHA Diyorum",
-        "Deep Turkish Web",
-        "Post42",
-        "Noluyo Ya ¿",
-        "Kafalar"
+        "Ece Seçkin",
+        "Derya Uluğ",
+        "Zeynep Bastık",
+        "Simge Sağın",
+        "Aleyna Tilki"
       ],
       "correct": 4
     }
