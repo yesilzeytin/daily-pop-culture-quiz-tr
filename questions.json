@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Kurtlar Vadisi dizisinde Polat Alemdar'ı mafya dünyasına sokan, ona rehberlik eden ve devlet içindeki derin bağlantısı olan 'Aslan Akbey' (Aslan Amca) karakterini hangi usta oyuncu canlandırmıştır?",
+      "question": "1987 yılında Batı Berlin'deki Brandenburg Kapısı önünde yaptığı tarihi konuşmada Sovyet liderine hitaben \"Bay Gorbaçov, bu duvarı yıkın!\" (Mr. Gorbachev, tear down this wall!) çağrısında bulunan ABD Başkanı kimdir?",
       "options": [
-        "Selçuk Yöntem",
-        "Zafer Ergin",
-        "Tarık Ünlüoğlu",
-        "İstemi Betil",
-        "Baykal Saran"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "2019 yılında vizyona giren DC Comics uyarlaması 'Joker' filminde Arthur Fleck karakterini canlandırarak En İyi Erkek Oyuncu Akademi Ödülü'nü (Oscar) kazanan aktör kimdir?",
-      "options": [
-        "Jared Leto",
-        "Joaquin Phoenix",
-        "Heath Ledger",
-        "Willem Dafoe",
-        "Christian Bale"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "2010 yılında Norveç'in başkenti Oslo'da düzenlenen 55. Eurovision Şarkı Yarışması'nda Türkiye'ye ikincilik kazandıran maNga grubunun seslendirdiği şarkı hangisidir?",
-      "options": [
-        "For Real",
-        "Cevapsız Sorular",
-        "We Could Be the Same",
-        "Dursun Zaman",
-        "Shake It Up Şekerim"
+        "Richard Nixon",
+        "John F. Kennedy",
+        "Ronald Reagan",
+        "George H. W. Bush",
+        "Jimmy Carter"
       ],
       "correct": 2
     },
     {
-      "question": "Steven Spielberg imzalı 'Sıkıysa Yakala' (Catch Me If You Can) filmine de ilham veren; 1960'larda sahte çekler düzenleyip kendisini pilot, doktor ve savcı gibi göstererek milyonlarca dolar dolandıran ünlü isim kimdir?",
+      "question": "YouTube'da 300 milyondan fazla aboneye ulaşarak dünyanın en çok takip edilen bireysel içerik üreticisi olan ve dev bütçeli yardım/yarışma videolarıyla tanınan 'MrBeast' mahlaslı YouTuber'ın gerçek adı nedir?",
       "options": [
-        "Charles Ponzi",
-        "Jordan Belfort",
-        "Bernard Madoff",
-        "Frank Abagnale Jr.",
-        "Ferdinand Demara"
+        "Felix Kjellberg",
+        "Sean McLoughlin",
+        "Logan Paul",
+        "Jimmy Donaldson",
+        "Mark Fischbach"
       ],
       "correct": 3
     },
     {
-      "question": "Netflix'in dünya çapında fenomene dönüşen bilim kurgu dizisi 'Stranger Things'te doğaüstü olayların ve gizemli deneylerin gerçekleştiği kurgusal kasabanın adı nedir?",
+      "question": "James Cameron'ın yönettiği ve dünya çapında yaklaşık 2,9 milyar dolar hasılatla sinema tarihinin en çok gişe yapan filmi unvanını koruyan 'Avatar'da, mavi tenli Na'vi halkının yaşadığı kurgusal uydunun adı nedir?",
       "options": [
-        "Winden",
-        "Riverdale",
-        "Sunnydale",
-        "Wayward Pines",
-        "Hawkins"
+        "Pandora",
+        "Arrakis",
+        "Krypton",
+        "Naboo",
+        "Cybertron"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "1991 yılında yayımlanan, kapak görselindeki havuzda yüzen bebek fotoğrafıyla ikonikleşen ve 'Smells Like Teen Spirit' hitiyle grunge müzik akımını küresel bir fenomene dönüştüren efsanevi Nirvana albümü hangisidir?",
+      "options": [
+        "In Utero",
+        "Nevermind",
+        "Bleach",
+        "Ten",
+        "Superunknown"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "2010'lu yıllarda Türkiye'deki kırmızı şeritli caps akımında, paylaşılan bir mizahi içeriğin beğenildiğini belirtmek ve 'artı oy / beğeni vermek' amacıyla kullanılan meşhur argo terim hangisidir?",
+      "options": [
+        "Fav",
+        "Like",
+        "Çügü",
+        "Up",
+        "Şuku"
       ],
       "correct": 4
     }
