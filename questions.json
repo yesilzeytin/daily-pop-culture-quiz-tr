@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "1987 yılında Batı Berlin'deki Brandenburg Kapısı önünde yaptığı tarihi konuşmada Sovyet liderine hitaben \"Bay Gorbaçov, bu duvarı yıkın!\" (Mr. Gorbachev, tear down this wall!) çağrısında bulunan ABD Başkanı kimdir?",
+      "question": "MasterChef Türkiye'nin büyük ilgi gören 2020 sezonunda, finalde Barbaros Yoloğlu ile yarışarak şampiyonluk kupasını kaldıran yarışmacı kimdir?",
       "options": [
-        "Richard Nixon",
-        "John F. Kennedy",
-        "Ronald Reagan",
-        "George H. W. Bush",
-        "Jimmy Carter"
-      ],
-      "correct": 2
-    },
-    {
-      "question": "YouTube'da 300 milyondan fazla aboneye ulaşarak dünyanın en çok takip edilen bireysel içerik üreticisi olan ve dev bütçeli yardım/yarışma videolarıyla tanınan 'MrBeast' mahlaslı YouTuber'ın gerçek adı nedir?",
-      "options": [
-        "Felix Kjellberg",
-        "Sean McLoughlin",
-        "Logan Paul",
-        "Jimmy Donaldson",
-        "Mark Fischbach"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "James Cameron'ın yönettiği ve dünya çapında yaklaşık 2,9 milyar dolar hasılatla sinema tarihinin en çok gişe yapan filmi unvanını koruyan 'Avatar'da, mavi tenli Na'vi halkının yaşadığı kurgusal uydunun adı nedir?",
-      "options": [
-        "Pandora",
-        "Arrakis",
-        "Krypton",
-        "Naboo",
-        "Cybertron"
-      ],
-      "correct": 0
-    },
-    {
-      "question": "1991 yılında yayımlanan, kapak görselindeki havuzda yüzen bebek fotoğrafıyla ikonikleşen ve 'Smells Like Teen Spirit' hitiyle grunge müzik akımını küresel bir fenomene dönüştüren efsanevi Nirvana albümü hangisidir?",
-      "options": [
-        "In Utero",
-        "Nevermind",
-        "Bleach",
-        "Ten",
-        "Superunknown"
+        "Cemre Uyanık",
+        "Serhat Doğramacı",
+        "Emir Elidemir",
+        "Eren Kaşıkçı",
+        "Uğur Kardaş"
       ],
       "correct": 1
     },
     {
-      "question": "2010'lu yıllarda Türkiye'deki kırmızı şeritli caps akımında, paylaşılan bir mizahi içeriğin beğenildiğini belirtmek ve 'artı oy / beğeni vermek' amacıyla kullanılan meşhur argo terim hangisidir?",
+      "question": "Sezen Aksu'nun 1991 yılında yayımlanan; 'Hadi Bakalım', 'Güllerim Soldu', 'Belalım' ve 'Vazgeçtim' gibi unutulmaz hitleri içeren efsanevi pop albümü hangisidir?",
       "options": [
-        "Fav",
-        "Like",
-        "Çügü",
-        "Up",
-        "Şuku"
+        "Sen Ağlama",
+        "Git",
+        "Sezen Aksu Söylüyor",
+        "Gülümse",
+        "Düş Bahçeleri"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "20 Temmuz 1969'da Apollo 11 görevi kapsamında Ay Modülü'nden çıkarak Ay yüzeyine ayak basan ilk insan kimdir?",
+      "options": [
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "Yuri Gagarin",
+        "Michael Collins",
+        "John Glenn"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Şubat 2023'te efsanevi Kareem Abdul-Jabbar'ın 38.387 sayılık rekorunu geride bırakarak NBA tarihinin 'tüm zamanların en çok sayı atan oyuncusu' unvanını kazanan yıldız basketbolcu kimdir?",
+      "options": [
+        "Stephen Curry",
+        "Kevin Durant",
+        "Kobe Bryant",
+        "Shaquille O'Neal",
+        "LeBron James"
       ],
       "correct": 4
+    },
+    {
+      "question": "Star Wars evreninde Han Solo ve sadık Wookiee dostu Chewbacca'nın kullandığı, Kessel Koşusu'nu 12 parsekten kısa sürede tamamlamasıyla ünlü ikonik uzay gemisinin adı nedir?",
+      "options": [
+        "Star Destroyer",
+        "Razor Crest",
+        "Millennium Falcon (Milenyum Şahini)",
+        "X-Wing",
+        "Slave I"
+      ],
+      "correct": 2
     }
   ]
 }
