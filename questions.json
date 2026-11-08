@@ -1,59 +1,59 @@
 {
   "questions": [
     {
-      "question": "MasterChef Türkiye'nin büyük ilgi gören 2020 sezonunda, finalde Barbaros Yoloğlu ile yarışarak şampiyonluk kupasını kaldıran yarışmacı kimdir?",
+      "question": "Galata Köprüsü'nü, şehir hatları vapurlarını, Eminönü saat kulesini ve Taksim Meydanı'nı saf vatandaşlara satması veya kiralamasıyla Türk popüler kültürüne 'dolandırıcılığın simgesi' olarak geçen efsanevi isim kimdir?",
       "options": [
-        "Cemre Uyanık",
-        "Serhat Doğramacı",
-        "Emir Elidemir",
-        "Eren Kaşıkçı",
-        "Uğur Kardaş"
-      ],
-      "correct": 1
-    },
-    {
-      "question": "Sezen Aksu'nun 1991 yılında yayımlanan; 'Hadi Bakalım', 'Güllerim Soldu', 'Belalım' ve 'Vazgeçtim' gibi unutulmaz hitleri içeren efsanevi pop albümü hangisidir?",
-      "options": [
-        "Sen Ağlama",
-        "Git",
-        "Sezen Aksu Söylüyor",
-        "Gülümse",
-        "Düş Bahçeleri"
-      ],
-      "correct": 3
-    },
-    {
-      "question": "20 Temmuz 1969'da Apollo 11 görevi kapsamında Ay Modülü'nden çıkarak Ay yüzeyine ayak basan ilk insan kimdir?",
-      "options": [
-        "Neil Armstrong",
-        "Buzz Aldrin",
-        "Yuri Gagarin",
-        "Michael Collins",
-        "John Glenn"
+        "Sülün Osman",
+        "Eyüplü Halit",
+        "Selçuk Parsadan",
+        "Banker Bako",
+        "Güney Zobu (Raki)"
       ],
       "correct": 0
     },
     {
-      "question": "Şubat 2023'te efsanevi Kareem Abdul-Jabbar'ın 38.387 sayılık rekorunu geride bırakarak NBA tarihinin 'tüm zamanların en çok sayı atan oyuncusu' unvanını kazanan yıldız basketbolcu kimdir?",
+      "question": "Cem Yılmaz'ın senaryosunu yazdığı ve başrolünü üstlendiği 1998 yapımı kült sinema filmi 'Her Şey Çok Güzel Olacak'ta, Altan Çamlı'nın sorunlu ve temkinli ağabeyi Nuri Çamlı karakterini hangi sanatçı canlandırmıştır?",
       "options": [
-        "Stephen Curry",
-        "Kevin Durant",
-        "Kobe Bryant",
-        "Shaquille O'Neal",
-        "LeBron James"
+        "Şener Şen",
+        "Mazhar Alanson",
+        "Ozan Güven",
+        "Uğur Yücel",
+        "Zafer Algöz"
       ],
-      "correct": 4
+      "correct": 1
     },
     {
-      "question": "Star Wars evreninde Han Solo ve sadık Wookiee dostu Chewbacca'nın kullandığı, Kessel Koşusu'nu 12 parsekten kısa sürede tamamlamasıyla ünlü ikonik uzay gemisinin adı nedir?",
+      "question": "Fransız lüks moda evi Hermès'in en ünlü ve peşinde uzun bekleme listeleri olan ikonik el çantası modeline ilham veren ve çantaya adını veren İngiliz-Fransız şarkıcı ve moda ikonu kimdir?",
       "options": [
-        "Star Destroyer",
-        "Razor Crest",
-        "Millennium Falcon (Milenyum Şahini)",
-        "X-Wing",
-        "Slave I"
+        "Brigitte Bardot",
+        "Twiggy",
+        "Jane Birkin",
+        "Catherine Deneuve",
+        "Grace Kelly"
       ],
       "correct": 2
+    },
+    {
+      "question": "Ezhel'in 2017 yılında yayımlanan ve 'Geceler', 'Şehrimin Tadı' ile 'Alo' gibi hitlerle Türkiye'de trap/rap müziğin ana akıma taşınmasında dönüm noktası kabul edilen ilk stüdyo albümü hangisidir?",
+      "options": [
+        "Lights Out",
+        "Hayalet Islığı",
+        "Rapstar",
+        "Müptezhel",
+        "Karma"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Müslüm Gürses'in 2006 yılında yayımlanan; Murathan Mungan süpervizörlüğünde hazırlanan ve Bob Dylan'dan Teoman'a kadar pek çok sanatçının şarkılarını arabesk tarzda yeniden yorumladığı ünlü konsept albümü hangisidir?",
+      "options": [
+        "Sandık",
+        "Yalan Dünya",
+        "Mahsun Kul",
+        "Usta",
+        "Aşk Tesadüfleri Sever"
+      ],
+      "correct": 4
     }
   ]
 }
