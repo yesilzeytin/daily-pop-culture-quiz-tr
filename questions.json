@@ -1,57 +1,57 @@
 {
   "questions": [
     {
-      "question": "Galata Köprüsü'nü, şehir hatları vapurlarını, Eminönü saat kulesini ve Taksim Meydanı'nı saf vatandaşlara satması veya kiralamasıyla Türk popüler kültürüne 'dolandırıcılığın simgesi' olarak geçen efsanevi isim kimdir?",
+      "question": "Sosyal medyada gereksiz yere karmaşık hale getirilen pratik bilgi (life hack) videolarını tek bir kelime dahi etmeden, sade ve alaycı el hareketiyle tiye alarak TikTok'un en çok takip edilen fenomeni haline gelen içerik üreticisi kimdir?",
       "options": [
-        "Sülün Osman",
-        "Eyüplü Halit",
-        "Selçuk Parsadan",
-        "Banker Bako",
-        "Güney Zobu (Raki)"
+        "Khaby Lame",
+        "Zach King",
+        "Charli D'Amelio",
+        "Bella Poarch",
+        "Addison Rae"
       ],
       "correct": 0
     },
     {
-      "question": "Cem Yılmaz'ın senaryosunu yazdığı ve başrolünü üstlendiği 1998 yapımı kült sinema filmi 'Her Şey Çok Güzel Olacak'ta, Altan Çamlı'nın sorunlu ve temkinli ağabeyi Nuri Çamlı karakterini hangi sanatçı canlandırmıştır?",
+      "question": "1976 yapımı efsanevi Yeşilçam komedisi \"Tosun Paşa\"da, Tellioğulları ve Seferoğulları aileleri arasındaki kıyasıya çekişmenin ve kargaşanın odağında yer alan meşhur arazinin adı nedir?",
       "options": [
-        "Şener Şen",
-        "Mazhar Alanson",
-        "Ozan Güven",
-        "Uğur Yücel",
-        "Zafer Algöz"
+        "Çamlıca Tepesi",
+        "Yeşil Vadi",
+        "Göksu Deresi",
+        "Ihlamur Kasrı",
+        "Belgrad Ormanı"
       ],
       "correct": 1
     },
     {
-      "question": "Fransız lüks moda evi Hermès'in en ünlü ve peşinde uzun bekleme listeleri olan ikonik el çantası modeline ilham veren ve çantaya adını veren İngiliz-Fransız şarkıcı ve moda ikonu kimdir?",
+      "question": "MasterChef Türkiye'nin 2019 sezonu büyük finalinde Alican Sabunsoy ile mücadele ederek yarışma tarihinin ilk kadın şampiyonu unvanını kazanan yarışmacı kimdir?",
       "options": [
-        "Brigitte Bardot",
-        "Twiggy",
-        "Jane Birkin",
-        "Catherine Deneuve",
-        "Grace Kelly"
+        "Dilara Başaran",
+        "Esra Tokelli",
+        "Cemre Uyanık",
+        "Güzide Mertcan",
+        "Pelin Zaman"
       ],
       "correct": 2
     },
     {
-      "question": "Ezhel'in 2017 yılında yayımlanan ve 'Geceler', 'Şehrimin Tadı' ile 'Alo' gibi hitlerle Türkiye'de trap/rap müziğin ana akıma taşınmasında dönüm noktası kabul edilen ilk stüdyo albümü hangisidir?",
+      "question": "Disney Channel'ın uzun yıllar ilgiyle izlenen çizgi dizisi \"Fineas ve Förb\"de (Phineas and Ferb), Flynn-Fletcher ailesinin evcil hayvanı olan ve gizli bir ajan olarak Dr. Doofenshmirtz'e karşı mücadele eden sevimli ornitorenkin adı nedir?",
       "options": [
-        "Lights Out",
-        "Hayalet Islığı",
-        "Rapstar",
-        "Müptezhel",
-        "Karma"
+        "Gary",
+        "Ferb",
+        "Spot",
+        "Perry",
+        "Baljeet"
       ],
       "correct": 3
     },
     {
-      "question": "Müslüm Gürses'in 2006 yılında yayımlanan; Murathan Mungan süpervizörlüğünde hazırlanan ve Bob Dylan'dan Teoman'a kadar pek çok sanatçının şarkılarını arabesk tarzda yeniden yorumladığı ünlü konsept albümü hangisidir?",
+      "question": "Christopher Nolan yönetmenliğindeki 2008 yapımı DC Comics uyarlaması \"Kara Şövalye\" (The Dark Knight) filminde, Gotham Şehri Bölge Savcısı Harvey Dent'in yaşadığı trajedinin ardından dönüştüğü ikonik kötü karakter hangisidir?",
       "options": [
-        "Sandık",
-        "Yalan Dünya",
-        "Mahsun Kul",
-        "Usta",
-        "Aşk Tesadüfleri Sever"
+        "Korkuluk (Scarecrow)",
+        "Bilmececi (The Riddler)",
+        "Penguen (The Penguin)",
+        "Kara Maske (Black Mask)",
+        "İki Yüz (Two-Face)"
       ],
       "correct": 4
     }
